@@ -41,6 +41,7 @@ export const StickyTH = styled.th`
   color: white;
   position: sticky;
   border: 0;
+  z-index: 1;
 `;
 export const EvidenceTableWrapper = styled.div`
   margin-left: ${widths.filterbox + padding.sm}px;
