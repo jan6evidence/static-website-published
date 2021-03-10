@@ -23,6 +23,96 @@
     }
   },
   {
+    "_id": "2W2kp_IxwoRM",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Assumed this is early in the day, very light crowds on the Mall.",
+    "realTimeStart": "2021-01-06T14:00:00.000Z",
+    "summary": "0:00: Chat with #StephenIgnoramus",
+    "suspectTags": [
+      "StephenIgnoramus"
+    ],
+    "videoEndTimepoint": 74,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/8yOg-3mpiM4",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8yOg-3mpiM4",
+      "thumbnailUrl": "https://img.youtube.com/vi/8yOg-3mpiM4/default.jpg"
+    }
+  },
+  {
+    "_id": "dNClh3_VsiBQ",
+    "location": {
+      "lat": 38.89134,
+      "lng": -77.03322
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  National Museum of African American History and Culture",
+    "otherTags": [],
+    "rationale": "Estimated to be early in the day.",
+    "realTimeStart": "2021-01-06T14:00:00.000Z",
+    "summary": "Camera is walking down 15th toward the Washington Monument.",
+    "suspectTags": [],
+    "videoEndTimepoint": 202,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/MkTBvhSCJTw",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "MkTBvhSCJTw",
+      "thumbnailUrl": "https://img.youtube.com/vi/MkTBvhSCJTw/default.jpg"
+    }
+  },
+  {
+    "_id": "fE3CXg0NsvkQ",
+    "location": {
+      "lat": 38.893953962652,
+      "lng": -77.036636855875
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
+    "otherTags": [
+      "SonsOfLiberty"
+    ],
+    "rationale": "Estimated to be early in moring.",
+    "realTimeStart": "2021-01-06T14:00:00.000Z",
+    "summary": "1:11: Men in black hoodies, looks like they say \"Sons of Liberty,\" some carrying clear riot shields  \n1:27: Same group in left of frame  \n1:43: Group is larger than I thought--at least 15 people",
+    "suspectTags": [],
+    "videoEndTimepoint": 122,
+    "videoStartTimepoint": 71,
+    "videoUrl": "https://youtu.be/wI9D24BQ8eQ",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "wI9D24BQ8eQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/wI9D24BQ8eQ/default.jpg"
+    }
+  },
+  {
+    "_id": "14NWyZvmcn50",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Estimated to be early in the day.",
+    "realTimeStart": "2021-01-06T14:15:00.000Z",
+    "summary": "Made it to the Rally point in Washington DC, initial survey. Poeple lining up to get into the Ellipse area. \"Nessun Dorma\" from the opera Turandot is heard playing.  \n  \n5:11: #VIPUncleSam and his bullhorn",
+    "suspectTags": [
+      "VIPUncleSam"
+    ],
+    "videoEndTimepoint": 405,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/n0exbryIcBY",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "n0exbryIcBY",
+      "thumbnailUrl": "https://img.youtube.com/vi/n0exbryIcBY/default.jpg"
+    }
+  },
+  {
     "_id": "cOPaNFwN4rKk",
     "location": {
       "lat": 38.896473,
@@ -70,6 +160,29 @@
     }
   },
   {
+    "_id": "T4Ya70Bicthc",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Assumed this is early in the morning.",
+    "realTimeStart": "2021-01-06T14:30:00.000Z",
+    "summary": "0:00: GreenNewsboy chatting with a woman in red/black buffalo check.",
+    "suspectTags": [
+      "GreenNewsboy"
+    ],
+    "videoEndTimepoint": 16,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/S0oLqeG-SJw",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "S0oLqeG-SJw",
+      "thumbnailUrl": "https://img.youtube.com/vi/S0oLqeG-SJw/default.jpg"
+    }
+  },
+  {
     "_id": "se5NFo0TkhVc",
     "location": {
       "lat": 38.893953962652,
@@ -87,6 +200,28 @@
       "type": "youtube",
       "videoId": "S2B6aIKLzLs",
       "thumbnailUrl": "https://img.youtube.com/vi/S2B6aIKLzLs/default.jpg"
+    }
+  },
+  {
+    "_id": "C0apcsbB4iAk",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T14:30:00.000Z",
+    "summary": "Walking through the crowd. A woman blows a shofar and shouts \"Jesus rules!\"",
+    "suspectTags": [
+      "StephenIgnoramus"
+    ],
+    "videoEndTimepoint": 131,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/ud9Stvn_tAg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "ud9Stvn_tAg",
+      "thumbnailUrl": "https://img.youtube.com/vi/ud9Stvn_tAg/default.jpg"
     }
   },
   {
@@ -132,6 +267,34 @@
     }
   },
   {
+    "_id": "cntOdIxtkpPE",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [
+      "OathKeepers",
+      "ProudBoys",
+      "OrangeTapeGroup"
+    ],
+    "rationale": "Time is estimated. This has to be before the ProudBoys meetup, which is at approximately 11 am.",
+    "realTimeStart": "2021-01-06T15:30:00.000Z",
+    "summary": "1:20 Axehole walks by  \n1:35: Pile of backpacks with an Oathkeepers flag in the middle  \n1:54: Group with ProudBoys orange tape on helmets/vests on right",
+    "suspectTags": [
+      "StephenIgnoramus",
+      "Axehole"
+    ],
+    "videoEndTimepoint": 519,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/qNFpdexRR3E",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "qNFpdexRR3E",
+      "thumbnailUrl": "https://img.youtube.com/vi/qNFpdexRR3E/default.jpg"
+    }
+  },
+  {
     "_id": "egseX9Lm4l9s",
     "location": {
       "lat": 38.8894473623761,
@@ -173,6 +336,29 @@
       "type": "youtube",
       "videoId": "J_CUnnN0ZaU",
       "thumbnailUrl": "https://img.youtube.com/vi/J_CUnnN0ZaU/default.jpg"
+    }
+  },
+  {
+    "_id": "kKWekD5IwrQw",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Estimated time to be before Trump's speach.",
+    "realTimeStart": "2021-01-06T16:00:00.000Z",
+    "summary": "StephenIgnoramus walking through the crowd. Stops to take pics of a guy who sticks out because of all his gear.",
+    "suspectTags": [
+      "StephenIgnoramus"
+    ],
+    "videoEndTimepoint": 147,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/KjgCEa4GFdQ",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "KjgCEa4GFdQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/KjgCEa4GFdQ/default.jpg"
     }
   },
   {
@@ -264,7 +450,7 @@
   },
   {
     "_id": "0YhGKe5SIrGo",
-    "imageUrl": "https://www.facebook.com/HereAndThereMedia/?__tn__=-UC*F",
+    "imageUrl": "https://www.facebook.com/HereAndThereMedia/photos/246653036832818",
     "location": {
       "lat": 38.8894473623761,
       "lng": -77.0352722232227
@@ -323,25 +509,6 @@
     }
   },
   {
-    "_id": "aMvoNzuZgvOU",
-    "location": {
-      "lat": 38.8894473623761,
-      "lng": -77.0352722232227
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
-    "otherTags": [],
-    "rationale": "Parler ID RTIBsAQDRfem matches time of Ellipse Rally Hallelujah song being played",
-    "realTimeEnd": "2021-01-06T16:24:00.000Z",
-    "realTimeStart": "2021-01-06T16:24:00.000Z",
-    "summary": "#Individual4  walking North on path near Washington Monument",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 20,
-    "videoStartTimepoint": 18,
-    "videoUrl": "https://www.facebook.com/HereAndThereMedia/videos/158095159103900"
-  },
-  {
     "_id": "ou4g9Qv-goG4",
     "location": {
       "lat": 38.8894473623761,
@@ -359,6 +526,30 @@
     "videoEndTimepoint": 45,
     "videoStartTimepoint": 39,
     "videoUrl": "https://twitter.com/hashtag/RTIBsAQDRfem.mp4"
+  },
+  {
+    "_id": "aMvoNzuZgvOU",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Parler ID RTIBsAQDRfem matches time of Ellipse Rally Hallelujah song being played",
+    "realTimeEnd": "2021-01-06T16:24:00.000Z",
+    "realTimeStart": "2021-01-06T16:24:00.000Z",
+    "summary": "#Individual4  walking North on path near Washington Monument",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 20,
+    "videoStartTimepoint": 18,
+    "videoUrl": "https://www.facebook.com/HereAndThereMedia/videos/158095159103900",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "HereAndThereMedia",
+      "videoId": "158095159103900"
+    }
   },
   {
     "_id": "BkE5kJKTcqe0",
@@ -980,7 +1171,12 @@
     ],
     "videoEndTimepoint": 21,
     "videoStartTimepoint": 20,
-    "videoUrl": "https://www.facebook.com/100057907810657/videos/125660066040920"
+    "videoUrl": "https://www.facebook.com/100057907810657/videos/125660066040920",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "100057907810657",
+      "videoId": "125660066040920"
+    }
   },
   {
     "_id": "PV_aRWTR7sk7i90",
@@ -1221,6 +1417,37 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "lANDyCQD#VLySjLUkmFIlsTg2yLudrwI_9WRT652IoZu6y0oEThY"
+    }
+  },
+  {
+    "_id": "IFy8hsjeolf0",
+    "location": {
+      "lat": 38.8904474,
+      "lng": -77.0115483
+    },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 1st Police Barricade",
+    "otherTags": [
+      "BreachTeam6",
+      "FirstBarricadeBreach"
+    ],
+    "rationale": "Timestamp calculation: 1:24 shows the FirstBarricadeBreach which is known to occur at 12:53 pm",
+    "realTimeStart": "2021-01-06T17:52:00.000Z",
+    "summary": ":00: Group approaches bicycle fencing on the PA Walkway, #WhiteHoodie leading the way  \n:08: People on right raise their hands at the police  \n:28: #YoungSkullMan pushes on the fencing  \n:32: #MoreTreesGuy shoves on fencing  \n:39: #WhiteHoodie rips off his jacket and flips his hat, clearly wants to fight  \n:45: #BigMagaCamo intervenes with #WhiteHoodie  \n:49: #OldHelmetTexasFlag appears from left, #BigMagaCamo says something into #WhiteHoodie's ear  \n:54: #GreenGramps shoves the fence  \n:57: Fence is shoved violently by the front line  \n1:05: Female officer is thrown into the steps, #WhiteHoodie pulls her back upright  \n1:17: Young officer fights rioters back from fence  \n1:20: #YoungSkullMan tries to scale fence and falls, #MAGAretWhiteCoat joins  \n1:24: Crowd has broken the line  \n1:34: Police retreat",
+    "suspectTags": [
+      "WhiteHoodie",
+      "YoungSkullMan",
+      "MoreTreesGuy",
+      "BigMagaCamo",
+      "OldHelmetTexasFlag",
+      "GreenGramps",
+      "MAGAretWhiteCoat"
+    ],
+    "videoEndTimepoint": 102,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/i/status/1346966514990149639",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346966514990149639"
     }
   },
   {
@@ -1501,6 +1728,35 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+    }
+  },
+  {
+    "_id": "_o2IqzQpkq7s",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp calculation: Clip of second police barrier being removed on the PA Walkway. Known time of 12:54 pm.",
+    "realTimeStart": "2021-01-06T17:54:00.000Z",
+    "summary": ":07: Coming up the walkway are #FacepaintBlowhard, #FashyFreddyMercury, #BeenieGiant  \n:15: #MAGAretWhiteCoat  \n:21: #FashyFreddyMercury drags fencing blocking West Plaza, #Individual4 appears from left of frame  \n:24: #Individual4 drags fencing down Plaza stairs, #MAGAretWhiteCoat joins in  \n:28: Man in black coat, khaki pants, thin blue line gaiter carrying a baseball bat at left  \n:33: #Individual4 carrying a flag, #WhiteHoodie walks up  \n:35: #Spazzo",
+    "suspectTags": [
+      "FacePaintBlowHard",
+      "FashyFreddyMercury",
+      "BeenieGiant",
+      "MAGAretWhiteCoat",
+      "Individual4",
+      "WhiteHodie",
+      "Spazzo"
+    ],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/7k-eRh5i9W4",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "7k-eRh5i9W4",
+      "thumbnailUrl": "https://img.youtube.com/vi/7k-eRh5i9W4/default.jpg"
     }
   },
   {
@@ -2065,21 +2321,6 @@
     }
   },
   {
-    "_id": "paDBaHeeEjpQ",
-    "location": {
-      "lat": 38.8918004,
-      "lng": -77.0164897
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T18:00:00.000Z",
-    "summary": "Instagram Story archive for wheres.finn. Crowd moving down Pennsylvania Avenue",
-    "suspectTags": [],
-    "videoEndTimepoint": 135,
-    "videoStartTimepoint": 78,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
     "_id": "ELbX8HfH8ljU",
     "location": {
       "lat": 38.8898098,
@@ -2102,6 +2343,21 @@
       "type": "tweet",
       "tweetId": "1346967592871874562"
     }
+  },
+  {
+    "_id": "paDBaHeeEjpQ",
+    "location": {
+      "lat": 38.8918004,
+      "lng": -77.0164897
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T18:00:00.000Z",
+    "summary": "Instagram Story archive for wheres.finn. Crowd moving down Pennsylvania Avenue",
+    "suspectTags": [],
+    "videoEndTimepoint": 135,
+    "videoStartTimepoint": 78,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
   },
   {
     "_id": "jO7HWmRqQvKc",
@@ -2487,6 +2743,29 @@
       "type": "youtube",
       "videoId": "n2aVNHwv46Y",
       "thumbnailUrl": "https://img.youtube.com/vi/n2aVNHwv46Y/default.jpg"
+    }
+  },
+  {
+    "_id": "xJGAnnM6wiRk",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Estimated to be after Trump's speech has finished.",
+    "realTimeStart": "2021-01-06T18:15:00.000Z",
+    "summary": ":36: Guy with very long hair and a biker-looking vest holding a tea-stained flag at the lobby door, #AllGreenGuy to the left  \n:46: #AllGreenGuy seems to be filming, very young-looking kid in a black plastic skull mask at right  \n1:16: Person in black jacket stomps on a Thin Blue Line flag",
+    "suspectTags": [
+      "AllGreenGuy"
+    ],
+    "videoEndTimepoint": 153,
+    "videoStartTimepoint": 36,
+    "videoUrl": "https://youtu.be/oAjHUcLMIs4",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "oAjHUcLMIs4",
+      "thumbnailUrl": "https://img.youtube.com/vi/oAjHUcLMIs4/default.jpg"
     }
   },
   {
@@ -3918,21 +4197,6 @@
     "videoUrl": "https://drive.google.com/file/d/1bSLnjosPQlHN3bLSn1ZU7N18indkHako/view?usp=sharing"
   },
   {
-    "_id": "5MxjpexvEknc",
-    "location": {
-      "lat": 38.8900716,
-      "lng": -77.010055
-    },
-    "locationName": "Capitol Exterior West:\n  NW Steps",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T19:00:00.000Z",
-    "summary": "Video from Facebook posts. Witkus2. Climbing through scaffolding to upper left front of the Capitol.",
-    "suspectTags": [],
-    "videoEndTimepoint": 378,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1ktTZcP6mLl0YVQMKNL2xJ-04CbgWS8cM/view?usp=sharing"
-  },
-  {
     "_id": "ay2wG8U08j0M",
     "location": {
       "lat": 38.8900716,
@@ -3954,6 +4218,21 @@
       "type": "tweet",
       "tweetId": "1346952339886923786"
     }
+  },
+  {
+    "_id": "5MxjpexvEknc",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T19:00:00.000Z",
+    "summary": "Video from Facebook posts. Witkus2. Climbing through scaffolding to upper left front of the Capitol.",
+    "suspectTags": [],
+    "videoEndTimepoint": 378,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1ktTZcP6mLl0YVQMKNL2xJ-04CbgWS8cM/view?usp=sharing"
   },
   {
     "_id": "tBrTg8CI4vng",
@@ -4875,6 +5154,27 @@
     }
   },
   {
+    "_id": "ql3YvfrWEqVM",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Estimated about 10-15 minutes before police lines collapse on West Plaza.",
+    "realTimeStart": "2021-01-06T19:15:00.000Z",
+    "summary": ":00: #BigBlueDude lower right  \n:02: #GreenPufferUndercover from left  \n:34: #AllGreenGuy from left  \n:44: #AllGreenGuy drags fencing away from police  \n:48: #Sean59AFO visible at left",
+    "suspectTags": [
+      "AllGreenGuy",
+      "GreenPufferUndercover",
+      "BigBlueDude",
+      "Sean59AFO"
+    ],
+    "videoEndTimepoint": 50,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1IVBEG_5XB3_aKI8sO6HRdb8XYkT7ZqEj/view"
+  },
+  {
     "_id": "cb3tpJRwIkJs",
     "location": {
       "lat": 38.8906349,
@@ -4895,6 +5195,26 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "lANDyCQD#VLySjLUkmFIlsTg2yLudrwI_9WRT652IoZu6y0oEThY"
+    }
+  },
+  {
+    "_id": "IXOFch4gEpYU",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Estimated. Video is news style and cuts are not in order.",
+    "realTimeStart": "2021-01-06T19:15:00.000Z",
+    "summary": "ITV News report by @robertmooreitv. TV news style report in multiple locations and not always in chronological order.",
+    "suspectTags": [],
+    "videoEndTimepoint": 97,
+    "videoStartTimepoint": 68,
+    "videoUrl": "https://twitter.com/itvnews/status/1346952339886923786?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952339886923786"
     }
   },
   {
@@ -5177,24 +5497,6 @@
     }
   },
   {
-    "_id": "_mF_kYEfIsng",
-    "location": {
-      "lat": 38.8898126,
-      "lng": -77.0103012
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
-    "otherTags": [],
-    "rationale": "Time estimated based on known time of the West Plaza Police Line Breach (2:28 pm)",
-    "realTimeStart": "2021-01-06T19:20:00.000Z",
-    "summary": "Video selfie of Proud Boys follower G.NotesJustice on the West Plaza, before the police lines are breached.",
-    "suspectTags": [
-      "HatHag"
-    ],
-    "videoEndTimepoint": 21,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1uhiUm1yNsqDw_1zYj4BKJlKd6o5nOv6K/view?usp=sharing"
-  },
-  {
     "_id": "5cZR-A0BgtVA",
     "location": {
       "lat": 38.8901475,
@@ -5216,6 +5518,24 @@
       "type": "megavideo",
       "videoId": "lANDyCQD#VLySjLUkmFIlsTg2yLudrwI_9WRT652IoZu6y0oEThY"
     }
+  },
+  {
+    "_id": "_mF_kYEfIsng",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [],
+    "rationale": "Time estimated based on known time of the West Plaza Police Line Breach (2:28 pm)",
+    "realTimeStart": "2021-01-06T19:20:00.000Z",
+    "summary": "Video selfie of Proud Boys follower G.NotesJustice on the West Plaza, before the police lines are breached.",
+    "suspectTags": [
+      "HatHag"
+    ],
+    "videoEndTimepoint": 21,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1uhiUm1yNsqDw_1zYj4BKJlKd6o5nOv6K/view?usp=sharing"
   },
   {
     "_id": "LJGuDND84gA0",
@@ -5890,19 +6210,50 @@
     "videoUrl": "https://drive.google.com/file/d/1fPRuFGlcbwfsnxoPH0djQz3qhvc0ba3V/view?usp=sharing"
   },
   {
-    "_id": "YMr13ayzsjMI",
+    "_id": "KW5ZTK27An6E",
     "location": {
-      "lat": 38.8895719,
-      "lng": -77.0100158
+      "lat": 38.8898126,
+      "lng": -77.0090725
     },
-    "locationName": "Capitol Exterior West:\n  SW Steps",
+    "locationName": "Capitol Interior Central:\n  Crypt",
     "otherTags": [],
+    "rationale": "Estimated. Video is news style and cuts are not in order.",
     "realTimeStart": "2021-01-06T19:30:00.000Z",
-    "summary": "Video by justus_eapen. Moving through the crowd under the South Scaffold and up SW Stairs",
-    "suspectTags": [],
-    "videoEndTimepoint": 108,
-    "videoStartTimepoint": 31,
-    "videoUrl": "https://streamable.com/7czx5u"
+    "summary": "ITV News report by @robertmooreitv. TV news style report in multiple locations and not always in chronological order.",
+    "suspectTags": [
+      "BlueLivesWolfman",
+      "GasMaskTwins"
+    ],
+    "videoEndTimepoint": 155,
+    "videoStartTimepoint": 97,
+    "videoUrl": "https://twitter.com/itvnews/status/1346952339886923786?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952339886923786"
+    }
+  },
+  {
+    "_id": "o6_2ayvnwpy4",
+    "location": {
+      "lat": 38.8891045,
+      "lng": -77.0090404
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Corridor",
+    "otherTags": [],
+    "rationale": "Estimated. Video is news style and cuts are not in order.",
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "ITV News report by @robertmooreitv. TV news style report in multiple locations and not always in chronological order.",
+    "suspectTags": [
+      "EmilyHernandez",
+      "WilliamMerry"
+    ],
+    "videoEndTimepoint": 204,
+    "videoStartTimepoint": 155,
+    "videoUrl": "https://twitter.com/itvnews/status/1346952339886923786?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952339886923786"
+    }
   },
   {
     "_id": "67gn0KA44s4o",
@@ -5917,6 +6268,21 @@
     "suspectTags": [],
     "videoEndTimepoint": 263,
     "videoStartTimepoint": 108,
+    "videoUrl": "https://streamable.com/7czx5u"
+  },
+  {
+    "_id": "YMr13ayzsjMI",
+    "location": {
+      "lat": 38.8895719,
+      "lng": -77.0100158
+    },
+    "locationName": "Capitol Exterior West:\n  SW Steps",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "Video by justus_eapen. Moving through the crowd under the South Scaffold and up SW Stairs",
+    "suspectTags": [],
+    "videoEndTimepoint": 108,
+    "videoStartTimepoint": 31,
     "videoUrl": "https://streamable.com/7czx5u"
   },
   {
@@ -6270,22 +6636,6 @@
     "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
   },
   {
-    "_id": "880cO8cxUpvI",
-    "location": {
-      "lat": 38.8898127,
-      "lng": -77.0095301
-    },
-    "locationName": "Capitol Exterior West:\n  West Door",
-    "otherTags": [],
-    "rationale": "Timing based on this video, which is a different view of the same location: <https://d2hxwnssq7ss7g.cloudfront.net/Fw8gshXuwqLs_cvt.mp4>",
-    "realTimeStart": "2021-01-06T19:35:00.000Z",
-    "summary": "Video showing people breaking into the Capitol through the SW doors on the Upper West Terrace. CPD officers can be seen lining the hallway and they allow the crowd into the building.",
-    "suspectTags": [],
-    "videoEndTimepoint": 56,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1UBQ_lzrovV02iMDsoeWDLtq6TH9E69eH/view?usp=sharing"
-  },
-  {
     "_id": "rqEA-v_bEsa4",
     "location": {
       "lat": 38.8889179620057,
@@ -6327,6 +6677,22 @@
       "type": "megavideo",
       "videoId": "lANDyCQD#VLySjLUkmFIlsTg2yLudrwI_9WRT652IoZu6y0oEThY"
     }
+  },
+  {
+    "_id": "880cO8cxUpvI",
+    "location": {
+      "lat": 38.8898127,
+      "lng": -77.0095301
+    },
+    "locationName": "Capitol Exterior West:\n  West Door",
+    "otherTags": [],
+    "rationale": "Timing based on this video, which is a different view of the same location: <https://d2hxwnssq7ss7g.cloudfront.net/Fw8gshXuwqLs_cvt.mp4>",
+    "realTimeStart": "2021-01-06T19:35:00.000Z",
+    "summary": "Video showing people breaking into the Capitol through the SW doors on the Upper West Terrace. CPD officers can be seen lining the hallway and they allow the crowd into the building.",
+    "suspectTags": [],
+    "videoEndTimepoint": 56,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1UBQ_lzrovV02iMDsoeWDLtq6TH9E69eH/view?usp=sharing"
   },
   {
     "_id": "s-FhfdGzEuV8",
@@ -6741,21 +7107,6 @@
     }
   },
   {
-    "_id": "ogBCZCWlkr-w",
-    "location": {
-      "lat": 38.8900716,
-      "lng": -77.010055
-    },
-    "locationName": "Capitol Exterior West:\n  NW Steps",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T19:40:00.000Z",
-    "summary": "Video by redpillfairy. Video shows the view from the NW steps underneath the scaffolding.",
-    "suspectTags": [],
-    "videoEndTimepoint": 39,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1vTG_dgjCPcjVV6jbEeaC7DussPhm3P4n/view?usp=sharing"
-  },
-  {
     "_id": "bNeDPF6EIm2g",
     "location": {
       "lat": 38.8901475,
@@ -6796,21 +7147,19 @@
     }
   },
   {
-    "_id": "w7YXj-ZbkrxY",
+    "_id": "ogBCZCWlkr-w",
     "location": {
-      "lat": 38.8901475,
-      "lng": -77.0088292
+      "lat": 38.8900716,
+      "lng": -77.010055
     },
-    "locationName": "Capitol Interior Senate Wing:\n  Small Senate Rotunda",
+    "locationName": "Capitol Exterior West:\n  NW Steps",
     "otherTags": [],
     "realTimeStart": "2021-01-06T19:40:00.000Z",
-    "summary": "Individual4 confronting police officer in senate wing, gets teargassed and lowers balaclava.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 203,
-    "videoStartTimepoint": 1,
-    "videoUrl": "https://www.newsflare.com/video/402634/police-officer-dies-from-injuries-suffered-in-clashes-with-pro-trump-mob-during-capitol-breach"
+    "summary": "Video by redpillfairy. Video shows the view from the NW steps underneath the scaffolding.",
+    "suspectTags": [],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1vTG_dgjCPcjVV6jbEeaC7DussPhm3P4n/view?usp=sharing"
   },
   {
     "_id": "AzoR2Vzmct6Y",
@@ -6889,6 +7238,23 @@
       "videoId": "qhIN5E35dZc",
       "thumbnailUrl": "https://img.youtube.com/vi/qhIN5E35dZc/default.jpg"
     }
+  },
+  {
+    "_id": "w7YXj-ZbkrxY",
+    "location": {
+      "lat": 38.8901475,
+      "lng": -77.0088292
+    },
+    "locationName": "Capitol Interior Senate Wing:\n  Small Senate Rotunda",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T19:40:00.000Z",
+    "summary": "Individual4 confronting police officer in senate wing, gets teargassed and lowers balaclava.",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 203,
+    "videoStartTimepoint": 1,
+    "videoUrl": "https://www.newsflare.com/video/402634/police-officer-dies-from-injuries-suffered-in-clashes-with-pro-trump-mob-during-capitol-breach"
   },
   {
     "_id": "PV_qGwtu6qUHfjy",
@@ -7135,6 +7501,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/JmnaAbNVz3nl_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "Avf-m57sQhbw",
+    "location": {
+      "lat": 38.8889179620057,
+      "lng": -77.0085989114369
+    },
+    "locationName": "Capitol Interior House Wing:\n  Speaker's Lobby",
+    "otherTags": [
+      "GraphicViolence"
+    ],
+    "rationale": "Estimated. Video is news style and cuts are not in order.",
+    "realTimeStart": "2021-01-06T19:44:00.000Z",
+    "summary": "ITV News report by @robertmooreitv. TV news style report in multiple locations and not always in chronological order. AshliBabbit's shooting.",
+    "suspectTags": [],
+    "videoEndTimepoint": 359,
+    "videoStartTimepoint": 341,
+    "videoUrl": "https://twitter.com/itvnews/status/1346952339886923786?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952339886923786"
     }
   },
   {
@@ -8051,21 +8439,6 @@
     "videoUrl": "https://drive.google.com/file/d/1EjJY_VgPvYsHmsW5xxIzXnaVeg2jXb8p/view?usp=sharing"
   },
   {
-    "_id": "rPowgcL1kvvg",
-    "location": {
-      "lat": 38.8898126,
-      "lng": -77.0103012
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T20:00:00.000Z",
-    "summary": "Video by redpillfairy. Near the media tower in the center of the West Plaza. Includes brief video shot from the top of the media tower.",
-    "suspectTags": [],
-    "videoEndTimepoint": 705,
-    "videoStartTimepoint": 655,
-    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
-  },
-  {
     "_id": "sLSs3CXnckxA",
     "location": {
       "lat": 38.8898168,
@@ -8079,6 +8452,21 @@
     "videoEndTimepoint": 33,
     "videoStartTimepoint": 0,
     "videoUrl": "https://drive.google.com/file/d/1GH0quYBWk8hxtoYiQeE4C8P-oSTXic1Q/view?usp=sharing"
+  },
+  {
+    "_id": "rPowgcL1kvvg",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "Video by redpillfairy. Near the media tower in the center of the West Plaza. Includes brief video shot from the top of the media tower.",
+    "suspectTags": [],
+    "videoEndTimepoint": 705,
+    "videoStartTimepoint": 655,
+    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
   },
   {
     "_id": "DNssqGZ8cifA",
@@ -8814,6 +9202,20 @@
     "videoUrl": "https://drive.google.com/file/d/1f84tfSSAI79eCbw2mmcsCI0vUWIhJBXt/view?usp=sharing"
   },
   {
+    "_id": "njxn9__wUj5U",
+    "imageUrl": "https://pbs.twimg.com/media/ErEzLQGXYAMPkj-?format=jpg&name=large",
+    "location": {
+      "lat": 38.8887677,
+      "lng": -77.0082404
+    },
+    "locationName": "Capitol Exterior East:\n  SE Plaza",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T20:18:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Image of the SE Portico and steps from the SE Plaza.",
+    "suspectTags": []
+  },
+  {
     "_id": "mwhtCcwzwqDw",
     "location": {
       "lat": 38.8899627,
@@ -9087,6 +9489,26 @@
     }
   },
   {
+    "_id": "PbQQpnZs8oM0",
+    "location": {
+      "lat": 38.8877832,
+      "lng": -77.0082496
+    },
+    "locationName": "Capitol Grounds South:\n  New Jersey Ave",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T20:24:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Crowd chanting USA.",
+    "suspectTags": [],
+    "videoEndTimepoint": 5,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346915500790603776?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346915500790603776"
+    }
+  },
+  {
     "_id": "PV_BvNA5CiE47yt",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/BvNA5CiE47yt_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -9229,6 +9651,22 @@
       "videoId": "kppGiBhKTio",
       "thumbnailUrl": "https://img.youtube.com/vi/kppGiBhKTio/default.jpg"
     }
+  },
+  {
+    "_id": "Kp6sL4hucqVo",
+    "imageUrl": "https://pbs.twimg.com/media/ErE1rTiXMAQHYFN?format=jpg&name=large",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [
+      "CapitolFlagCalledFreedom"
+    ],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T20:29:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of the crowd seen from the West Lawn. #CapitolFlagCalledFreedom is in place on the NW Scaffold. Trump flag is hanging from the Lower Terrace.",
+    "suspectTags": []
   },
   {
     "_id": "PV_ntz8J5eFBH6g",
@@ -9741,6 +10179,36 @@
       "videoId": "3NYWfpTXh4E",
       "thumbnailUrl": "https://img.youtube.com/vi/3NYWfpTXh4E/default.jpg"
     }
+  },
+  {
+    "_id": "5SZHYhy64uh0",
+    "imageUrl": "https://pbs.twimg.com/media/ErE6t2HXEA4D6Eh?format=jpg&name=large",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T20:51:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of the crowd seen from the West Lawn. #CapitolFlagCalledFreedom is in place on the NW Scaffold. Man in a cowboy hat is hanging from the media tower.",
+    "suspectTags": []
+  },
+  {
+    "_id": "TL-rr33J0pFU",
+    "imageUrl": "https://pbs.twimg.com/media/ErE7GCeUYAIP5R1?format=jpg&name=large",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [
+      "CapitolFlagCalledFreedom"
+    ],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T20:51:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of the crowd seen from the West Lawn. #CapitolFlagCalledFreedom is in place on the NW Scaffold. Image of three flags on a pole, including one for Notre Dame.",
+    "suspectTags": []
   },
   {
     "_id": "upTcZjQWIr0s",
@@ -10494,6 +10962,20 @@
     }
   },
   {
+    "_id": "0DHTxQY5MusU",
+    "imageUrl": "https://pbs.twimg.com/media/ErFAkYjXUAMItd4?format=jpg&name=large",
+    "location": {
+      "lat": 38.8897953,
+      "lng": -77.0129255
+    },
+    "locationName": "Capitol Grounds West:\n  Ulysses S Grant Memorial",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T21:16:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of the crowd seen from the Ulysses S. Grant Memorial.",
+    "suspectTags": []
+  },
+  {
     "_id": "PV_LD5GrQx0MtsI",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/LD5GrQx0MtsI_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -10689,88 +11171,6 @@
     }
   },
   {
-    "_id": "PcY3Mp_g8krs",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "LittleBrownBeard pulls #WhiteDeathHoodie to the ground; attacks policeman",
-    "suspectTags": [
-      "LittleBrownBeard"
-    ],
-    "videoEndTimepoint": 32,
-    "videoStartTimepoint": 9,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "OM9niQWHcqhc",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "During extraction of three men from tunnel",
-    "suspectTags": [
-      "PufferJacketCurlyHair",
-      "WindowCheerleader",
-      "OrangeHoodieRedHat"
-    ],
-    "videoStartTimepoint": 9,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "q439qX03ckDk",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "BigBadSamaritan, BadSamaritanGrey walking away after assaulting police and falling on Rosanne Boyland",
-    "suspectTags": [
-      "BadSamaritanGrey",
-      "BigBadSamaritan"
-    ],
-    "videoEndTimepoint": 169,
-    "videoStartTimepoint": 124,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "QnwbmzlM0s3s",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "BigBadSamaritan, BadSamaritanGrey heading down the steps after assaulting police and landing on Rosanne Boyland",
-    "suspectTags": [
-      "BigBadSamaritan",
-      "BadSamaritanGrey"
-    ],
-    "videoEndTimepoint": 150,
-    "videoStartTimepoint": 124,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "3rzAurwskt8E",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "suspectTags": [
-      "BrimmedHelmet"
-    ],
-    "videoStartTimepoint": 540,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "li0ZnANuYlMk",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "suspectTags": [
-      "BigBadSamaritan"
-    ],
-    "videoEndTimepoint": 792,
-    "videoStartTimepoint": 782,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "sNXM5Kdaou8w",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "suspectTags": [
-      "BrimmedHelmet"
-    ],
-    "videoStartTimepoint": 540,
-    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
-  },
-  {
     "_id": "jL30aBTN0vyg",
     "location": {
       "lat": 38.8898151,
@@ -10894,6 +11294,88 @@
       "BigBadSamaritan",
       "BadSamaritanGrey"
     ]
+  },
+  {
+    "_id": "PcY3Mp_g8krs",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "LittleBrownBeard pulls #WhiteDeathHoodie to the ground; attacks policeman",
+    "suspectTags": [
+      "LittleBrownBeard"
+    ],
+    "videoEndTimepoint": 32,
+    "videoStartTimepoint": 9,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "q439qX03ckDk",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "BigBadSamaritan, BadSamaritanGrey walking away after assaulting police and falling on Rosanne Boyland",
+    "suspectTags": [
+      "BadSamaritanGrey",
+      "BigBadSamaritan"
+    ],
+    "videoEndTimepoint": 169,
+    "videoStartTimepoint": 124,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "li0ZnANuYlMk",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "suspectTags": [
+      "BigBadSamaritan"
+    ],
+    "videoEndTimepoint": 792,
+    "videoStartTimepoint": 782,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "QnwbmzlM0s3s",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "BigBadSamaritan, BadSamaritanGrey heading down the steps after assaulting police and landing on Rosanne Boyland",
+    "suspectTags": [
+      "BigBadSamaritan",
+      "BadSamaritanGrey"
+    ],
+    "videoEndTimepoint": 150,
+    "videoStartTimepoint": 124,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "OM9niQWHcqhc",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "During extraction of three men from tunnel",
+    "suspectTags": [
+      "PufferJacketCurlyHair",
+      "WindowCheerleader",
+      "OrangeHoodieRedHat"
+    ],
+    "videoStartTimepoint": 9,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "3rzAurwskt8E",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "suspectTags": [
+      "BrimmedHelmet"
+    ],
+    "videoStartTimepoint": 540,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "sNXM5Kdaou8w",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "suspectTags": [
+      "BrimmedHelmet"
+    ],
+    "videoStartTimepoint": 540,
+    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
   },
   {
     "_id": "PV_HSEUpO8N6K1f",
@@ -11199,7 +11681,12 @@
     ],
     "videoEndTimepoint": 481,
     "videoStartTimepoint": 262,
-    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3674552152632176/?story_fbid=3674552152632176&id=100002322825042"
+    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3674552152632176/?story_fbid=3674552152632176&id=100002322825042",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "anson.merriman",
+      "videoId": "3674552152632176"
+    }
   },
   {
     "_id": "oeNwkeaxYl68",
@@ -11460,7 +11947,12 @@
     ],
     "videoEndTimepoint": 111,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458/"
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458/",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158540386049458"
+    }
   },
   {
     "_id": "PV_cH0PB1OhfbT8",
@@ -11705,6 +12197,26 @@
     }
   },
   {
+    "_id": "svUbydcGsuRw",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [],
+    "rationale": "Estimated. Video is news style and cuts are not in order.",
+    "realTimeStart": "2021-01-06T22:00:00.000Z",
+    "summary": "ITV News report by @robertmooreitv. TV news style report in multiple locations and not always in chronological order. Officers clearing the rotunda.",
+    "suspectTags": [],
+    "videoEndTimepoint": 415,
+    "videoStartTimepoint": 391,
+    "videoUrl": "https://twitter.com/itvnews/status/1346952339886923786?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952339886923786"
+    }
+  },
+  {
     "_id": "tHSPyJ4bcu7g",
     "otherTags": [],
     "realTimeStart": "2021-01-06T22:01:00.000Z",
@@ -11757,6 +12269,24 @@
       "videoId": "tYETNvwG2D0",
       "thumbnailUrl": "https://img.youtube.com/vi/tYETNvwG2D0/default.jpg"
     }
+  },
+  {
+    "_id": "NxCoXWLOEs1s",
+    "imageUrl": "https://pbs.twimg.com/media/ErFLQmkWMAMTWFu?format=jpg&name=large",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash"
+    ],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T22:03:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of a pile of media equipment as the crowd looks on.",
+    "suspectTags": [
+      "PinkBeret"
+    ]
   },
   {
     "_id": "XG-oXfJCAo50",
@@ -12121,6 +12651,30 @@
     }
   },
   {
+    "_id": "9QMjfpXaUlxw",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash"
+    ],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T22:17:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. A crowd around a pile of media equpment. A man says “We are at war. We’re coming for bodies.”",
+    "suspectTags": [
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 33,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346944103074979843?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346944103074979843"
+    }
+  },
+  {
     "_id": "PV_GsVZm7o33oLw",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/GsVZm7o33oLw_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -12263,6 +12817,20 @@
     }
   },
   {
+    "_id": "JETnEHMr0nmE",
+    "imageUrl": "https://pbs.twimg.com/media/ErFTNcRW8AAFG7R?format=jpg&name=large",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T22:38:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of people on the Lower West Plaza.   \nCaption: Police moving in across the Hill. A few Trump supporters have started picking up parts of the barricades and throwing them at the cops.",
+    "suspectTags": []
+  },
+  {
     "_id": "PV_8vAuY7nxkr6M",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/8vAuY7nxkr6M_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -12278,6 +12846,26 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/8vAuY7nxkr6M_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "NCxJRXmssmwc",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T22:52:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"Police in riot gear just pushed Trump supporters off the Capitol lawn. There was a brief altercation between a man and law enforcement.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 8,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346952727532855299?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346952727532855299"
     }
   },
   {
@@ -12344,6 +12932,26 @@
     }
   },
   {
+    "_id": "GTySDqSu0kaI",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T23:09:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"And now there’s some sort of love-themed police serenade sing-a-long outside the Capitol\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 15,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346957141010247684?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346957141010247684"
+    }
+  },
+  {
     "_id": "GVYgI7s10rrw",
     "location": {
       "lat": 38.8903503,
@@ -12362,6 +12970,26 @@
       "type": "youtube",
       "videoId": "U3gVJ9TeBV4",
       "thumbnailUrl": "https://img.youtube.com/vi/U3gVJ9TeBV4/default.jpg"
+    }
+  },
+  {
+    "_id": "bwaf_mXrYjf4",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T23:12:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"Police pushing Trump supporters further away from the Capitol now. An announcement about curfew was just played on speakers.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 20,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346957966679953409?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346957966679953409"
     }
   },
   {
@@ -12420,6 +13048,26 @@
     "videoUrl": "https://drive.google.com/file/d/1-zRXIUa0wvKATpSAvOGZ8O82aRTVe2zP/view?usp=sharing"
   },
   {
+    "_id": "iL8uYsgd0jpU",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T23:25:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"Police continuing to push Trump supporters back from the Capitol, towards the Mall.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 13,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346961072453005312?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346961072453005312"
+    }
+  },
+  {
     "_id": "FfAexuI9oj4U",
     "location": {
       "lat": 38.8898098,
@@ -12453,18 +13101,52 @@
     "videoUrl": "https://drive.google.com/file/d/19KGEVzjFAdI5jIFiqA6A5aZabFn1vRlU/view?usp=sharing"
   },
   {
-    "_id": "yDTnku0aYqh0",
+    "_id": "0A2N4qKEEvmc",
+    "imageUrl": "https://pbs.twimg.com/media/ErFfKpsW8AEITsU?format=jpg&name=large",
     "location": {
-      "lat": 38.8898127,
-      "lng": -77.0095301
+      "lat": 38.8914859,
+      "lng": -77.0121812
     },
-    "locationName": "Capitol Exterior West:\n  West Door",
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
     "otherTags": [],
-    "summary": "Video of people being let in and walking past a line of Capitol police to get inside the building.",
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-06T23:30:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"There are children here.\"",
+    "suspectTags": []
+  },
+  {
+    "_id": "2wsPwlBk8sZk",
+    "imageUrl": "https://pbs.twimg.com/media/ErFnglGW8AA304U?format=jpg&name=large",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-07T00:07:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"Things are pretty much at a standstill on the Hill right now. It’s crazy cold.\"",
+    "suspectTags": []
+  },
+  {
+    "_id": "BBKbzAnCstIU",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Timestamp from Twitter post.",
+    "realTimeStart": "2021-01-07T00:41:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. As police push Trump supporters back, one man yells, “Wait ‘til we come back with rifles.”",
     "suspectTags": [],
-    "videoEndTimepoint": 61,
+    "videoEndTimepoint": 15,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://amp-includes.tmz.com/videos/2021-01-08-010821-walk-in-capitol-4908962/"
+    "videoUrl": "https://twitter.com/ellievhall/status/1346980175200866306?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346980175200866306"
+    }
   },
   {
     "_id": "XcHWJgQZQrgo",
@@ -12856,26 +13538,18 @@
     }
   },
   {
-    "_id": "bs3Db3YSIm2Q",
+    "_id": "yDTnku0aYqh0",
     "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
+      "lat": 38.8898127,
+      "lng": -77.0095301
     },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "locationName": "Capitol Exterior West:\n  West Door",
     "otherTags": [],
-    "suspectTags": [
-      "CommanderBlueHoodie",
-      "BuffLightyear",
-      "SeattleUWGuy"
-    ],
-    "videoEndTimepoint": 20,
+    "summary": "Video of people being let in and walking past a line of Capitol police to get inside the building.",
+    "suspectTags": [],
+    "videoEndTimepoint": 61,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/MwV2lwWVgAF3_cvt.mp4",
-    "videoDetails": {
-      "type": "directLink",
-      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/MwV2lwWVgAF3_cvt.mp4",
-      "contentType": "video/mp4"
-    }
+    "videoUrl": "https://amp-includes.tmz.com/videos/2021-01-08-010821-walk-in-capitol-4908962/"
   },
   {
     "_id": "IGOR88Kb0pnc",
@@ -12895,6 +13569,28 @@
     "videoDetails": {
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/onVXm7gZrnOG_cvt.mp4",
+      "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "bs3Db3YSIm2Q",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "suspectTags": [
+      "CommanderBlueHoodie",
+      "BuffLightyear",
+      "SeattleUWGuy"
+    ],
+    "videoEndTimepoint": 20,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/MwV2lwWVgAF3_cvt.mp4",
+    "videoDetails": {
+      "type": "directLink",
+      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/MwV2lwWVgAF3_cvt.mp4",
       "contentType": "video/mp4"
     }
   },
@@ -12977,62 +13673,6 @@
     "videoUrl": "https://drive.google.com/file/d/1-qq1jSPuZqjimO_meKWIUAL7n--vMyXm/view?usp=sharing"
   },
   {
-    "_id": "Oep6p4X6Agdk",
-    "location": {
-      "lat": 38.8958392378086,
-      "lng": -77.0307040969342
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Freedom Plaza",
-    "otherTags": [],
-    "summary": "[RESTRICTED ACCESS] Villain Report. Tayler Hansen, Owen Shroyer etal burn BLM flag,",
-    "suspectTags": [
-      "BlackHatStripedBuff"
-    ],
-    "videoEndTimepoint": 1170,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/15UEe6ggzrqAOYXKJy4jOsWc5WcMhDPC8/view?usp=sharing"
-  },
-  {
-    "_id": "hYjs7XL9QkbQ",
-    "locationName": "Various (Divided)",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "[ARCHIVED COPY] Various Instagram stories in which protesters throw batons and yellow spray to police (also general recap of the day). Washington Monument; West Entrance",
-    "suspectTags": [],
-    "videoEndTimepoint": 299,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
-    "_id": "11iBc65XQr7I",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
-    "suspectTags": [],
-    "videoEndTimepoint": 154,
-    "videoStartTimepoint": 135,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
-    "_id": "nXx2SctfktIk",
-    "location": {
-      "lat": 38.889811,
-      "lng": -77.0096544
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
-    "otherTags": [],
-    "summary": "Instagram Story archive for wheres.finn. Top of the NW stairs on the Upper Western Terrace.",
-    "suspectTags": [],
-    "videoEndTimepoint": 170,
-    "videoStartTimepoint": 155,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
     "_id": "t0ewGvjrgiv0",
     "locationName": "Various (Divided)",
     "otherTags": [],
@@ -13056,68 +13696,6 @@
     "videoEndTimepoint": 1132,
     "videoStartTimepoint": 300,
     "videoUrl": "https://drive.google.com/file/d/1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn/view?usp=sharing"
-  },
-  {
-    "_id": "Cy-k6B6uAph4",
-    "locationName": "West Plaza",
-    "otherTags": [],
-    "suspectTags": [
-      "HarvardSweat",
-      "HarleyHatFilmer",
-      "IronworkerGuy"
-    ],
-    "videoEndTimepoint": 8,
-    "videoStartTimepoint": 6,
-    "videoUrl": "https://drive.google.com/file/d/1Bl2GNjEr7HHmcrNuya1PZWEfG-p3ozth/view?usp=sharing"
-  },
-  {
-    "_id": "f2uRIm0dImAc",
-    "locationName": "Various (Divided)",
-    "otherTags": [],
-    "summary": "Video by redpillfairy.",
-    "suspectTags": [],
-    "videoEndTimepoint": 1719,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
-  },
-  {
-    "_id": "GEJMZT9KItAM",
-    "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
-    },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
-    "otherTags": [
-      "Vandalism"
-    ],
-    "summary": "Tight shot video shows dozens crowded around window on West side of capitol building.Two people at the top of the entryway are using an implement to try to break the glass doorway and crowd cheers when they breakthrough.",
-    "suspectTags": [
-      "LouisVuitton",
-      "FleeceNazi"
-    ],
-    "videoEndTimepoint": 23,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1HIU3ZZDVw0w6nm6A2Oty6weKgCfBRbzO/view?usp=sharing"
-  },
-  {
-    "_id": "JogBy2Vski88",
-    "otherTags": [],
-    "summary": "(status coup) Breaking... Trump supporters breach barriers and storm the Capitol.",
-    "suspectTags": [],
-    "videoEndTimepoint": 5130,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1QpWmBRq2kAZvERiFaahjaSRhvCT3dYkt/view"
-  },
-  {
-    "_id": "fHtYwnHHIl9U",
-    "otherTags": [],
-    "summary": "HarleyJacketBatonMan climbs into the fight about 2:30 and exits screen left, hatless, around 3:00",
-    "suspectTags": [
-      "HarleyJacketBatonMan"
-    ],
-    "videoEndTimepoint": 180,
-    "videoStartTimepoint": 150,
-    "videoUrl": "https://drive.google.com/file/d/1yyiZMRDJp-0DQb0y8lkyro4e3ll3qzP0/view"
   },
   {
     "_id": "gO4QcCHr8lu8",
@@ -13187,6 +13765,318 @@
     }
   },
   {
+    "_id": "lvZY_3bUAiGk",
+    "otherTags": [],
+    "summary": "DC Police idk what's going on",
+    "suspectTags": [],
+    "videoEndTimepoint": 2580,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/70cmmJjL",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "70cmmJjL"
+    }
+  },
+  {
+    "_id": "MbfBIkk1gmGg",
+    "otherTags": [],
+    "summary": "Watch LIVE - RSBN's Brian Glenn is LIVE from Washington,",
+    "suspectTags": [],
+    "videoEndTimepoint": 5687,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/74FCRDyR",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "74FCRDyR"
+    }
+  },
+  {
+    "_id": "sXAabpNoMsGw",
+    "otherTags": [],
+    "summary": "MORNING UPDATE - A beautiful and powerful March For A",
+    "suspectTags": [],
+    "videoEndTimepoint": 1856,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/aoViRB4R",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "aoViRB4R"
+    }
+  },
+  {
+    "_id": "HAVTT7ljAu1k",
+    "otherTags": [],
+    "summary": "Only a Mr. Bill was live.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1551,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/b1cQiDbB",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "b1cQiDbB"
+    }
+  },
+  {
+    "_id": "YMDXhDgm0q3g",
+    "otherTags": [],
+    "summary": "The Black Conservative Preacher was live5",
+    "suspectTags": [],
+    "videoEndTimepoint": 116,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/b5UiRLSA",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "b5UiRLSA"
+    }
+  },
+  {
+    "_id": "149jqzejEo-k",
+    "otherTags": [],
+    "summary": "We in DC taking our Country Back with Millions of Patriots!!",
+    "suspectTags": [],
+    "videoEndTimepoint": 735,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/ChF2kBjI",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "ChF2kBjI"
+    }
+  },
+  {
+    "_id": "wjbWvnOEMlOA",
+    "otherTags": [],
+    "summary": "DC protest",
+    "suspectTags": [],
+    "videoEndTimepoint": 7605,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/ClcSXbhQ",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "ClcSXbhQ"
+    }
+  },
+  {
+    "_id": "0hwkObwLwg8w",
+    "otherTags": [],
+    "summary": "We are ‘Boots on the Ground’ in Washington, DC!.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1980,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/CocG3ZxK",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "CocG3ZxK"
+    }
+  },
+  {
+    "_id": "eta8HBjmEpfM",
+    "otherTags": [],
+    "summary": "Live from DC",
+    "suspectTags": [],
+    "videoEndTimepoint": 935,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/GhM0VRJD",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "GhM0VRJD"
+    }
+  },
+  {
+    "_id": "L6kIG1iEkpCw",
+    "otherTags": [],
+    "summary": "LIVE - Crowds gathering for Save America Rally in Washington DC",
+    "suspectTags": [],
+    "videoEndTimepoint": 8203,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/GtUgTLgZ",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "GtUgTLgZ"
+    }
+  },
+  {
+    "_id": "dQ9JKrg2okBo",
+    "otherTags": [],
+    "summary": "The Black Conservative Preacher was live4",
+    "suspectTags": [],
+    "videoEndTimepoint": 397,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/i0M2HZYT",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "i0M2HZYT"
+    }
+  },
+  {
+    "_id": "Ht5wNZd-khuQ",
+    "otherTags": [],
+    "summary": "UPDATE - An historic day in DC",
+    "suspectTags": [],
+    "videoEndTimepoint": 1455,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/KwdE1bTA",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "KwdE1bTA"
+    }
+  },
+  {
+    "_id": "WNo2USuDIhmI",
+    "otherTags": [],
+    "summary": "Live - Patriots continue to stand their ground in DC.",
+    "suspectTags": [],
+    "videoEndTimepoint": 4307,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/Locm3ZyR",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "Locm3ZyR"
+    }
+  },
+  {
+    "_id": "hdU5vLfFctIw",
+    "otherTags": [],
+    "summary": "Only a Mr. Bill was live2.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2497,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/nockyBTL",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "nockyBTL"
+    }
+  },
+  {
+    "_id": "JeXWYK_4UgQI",
+    "otherTags": [],
+    "summary": "Salty Cactus - #DC after curfew #blm #maga",
+    "suspectTags": [],
+    "videoEndTimepoint": 7139,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/PoEE1R6I",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "PoEE1R6I"
+    }
+  },
+  {
+    "_id": "CTx0o5aLMqdY",
+    "otherTags": [],
+    "summary": "The Black Conservative Preacher was live",
+    "suspectTags": [],
+    "videoEndTimepoint": 5849,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/q4UkjBgD",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "q4UkjBgD"
+    }
+  },
+  {
+    "_id": "Vcx0JpBRIjnI",
+    "otherTags": [],
+    "summary": "The Black Conservative Preacher was live2",
+    "suspectTags": [],
+    "videoEndTimepoint": 3622,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/T9cCHbrK",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "T9cCHbrK"
+    }
+  },
+  {
+    "_id": "Uav4dLAHwj-c",
+    "otherTags": [],
+    "summary": "Supporters of outgoing US President Donald Trump are gathering for another ro",
+    "suspectTags": [],
+    "videoEndTimepoint": 6271,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/u0MkEJZa",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "u0MkEJZa"
+    }
+  },
+  {
+    "_id": "7Fzgq8y_Er2w",
+    "otherTags": [],
+    "summary": "Police Encircle Trump Supporters at Their Hotels",
+    "suspectTags": [],
+    "videoEndTimepoint": 6728,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/voVGWTRY",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "voVGWTRY"
+    }
+  },
+  {
+    "_id": "UN05h-8QgjJM",
+    "otherTags": [],
+    "summary": "LIZREP STREAM IRL - PROTESTING TRAITORS IN DC",
+    "suspectTags": [],
+    "videoEndTimepoint": 5846,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/WoFSlD7a",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "WoFSlD7a"
+    }
+  },
+  {
+    "_id": "_cKs2TB2go-A",
+    "otherTags": [],
+    "summary": "DC After Curfew Live",
+    "suspectTags": [],
+    "videoEndTimepoint": 10817,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/X0E0EJJY",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "X0E0EJJY"
+    }
+  },
+  {
+    "_id": "fvsBmY_iQibY",
+    "otherTags": [],
+    "summary": "The Black Conservative Preacher was live6",
+    "suspectTags": [],
+    "videoEndTimepoint": 381,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/X1FixRhA",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "X1FixRhA"
+    }
+  },
+  {
+    "_id": "9lR1KX2_IlE4",
+    "otherTags": [],
+    "summary": "Washington DC LIVE RALLY STREAM",
+    "suspectTags": [],
+    "videoEndTimepoint": 2654,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/X5EwmD7S",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "X5EwmD7S"
+    }
+  },
+  {
+    "_id": "TeGkYHsLcv0U",
+    "otherTags": [],
+    "summary": "Live DC stop the steal",
+    "suspectTags": [],
+    "videoEndTimepoint": 2682,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA/file/y5VmXZyJ",
+    "videoDetails": {
+      "type": "megavideo",
+      "videoId": "y5VmXZyJ"
+    }
+  },
+  {
     "_id": "cSQPag0v8oVw",
     "otherTags": [],
     "summary": "HarvardSweat, BlondehornLady, WindowBreaker, FleeceNazi encouraging and clapping at #windowBreaker",
@@ -13222,39 +14112,23 @@
     }
   },
   {
-    "_id": "Hh44Jmaogh8g",
-    "locationName": "Various (Divided)",
-    "otherTags": [],
-    "summary": "Locations include: Mall, West Plaza, SW Scaffolding, SW Steps under scaffolding, Stairway to south side of Lower West Terrace, Arch Entrance. Justus Eapen walking from the rally to the Capitol where he scales the scaffolding and makes his way to the Arch entrance. Just after 4:33 #FleeceNazi, #TunnelCommander can be seen. Video cuts in and out. Riot shields being passed overhead. At 5:57 a caption appears on the video\"\"They just dragged a cop out of the Capitol ... For a minute I thought they were gonna throw him over the side. \"  In foreground, a blond man in tan jacket waves at people to cut it out. Caption continues:  \"He was crying. Definitely thought he was going to die.\" 6:36 - Video moves closer. we see officer's helmet is MPDC. At 6:40 profile of officer's face - it is Michael Fanone. Someone grabs his hand, as if to pull him up the steps, but the mob is difficult to move. He eventually is maneuvered back up. Meanwhile, other officers on the right of the arch are being punched with fists and struck with riot shields. At 8:12 #BlackGlove805 yells into megaphone that \"We are not moving until we get our way!\" Yup. That's how democracy works.",
-    "suspectTags": [
-      "FleeceNazi",
-      "TunnelCommander",
-      "BlueStunGun"
+    "_id": "GEJMZT9KItAM",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Vandalism"
     ],
-    "videoEndTimepoint": 541,
+    "summary": "Tight shot video shows dozens crowded around window on West side of capitol building.Two people at the top of the entryway are using an implement to try to break the glass doorway and crowd cheers when they breakthrough.",
+    "suspectTags": [
+      "LouisVuitton",
+      "FleeceNazi"
+    ],
+    "videoEndTimepoint": 23,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://streamable.com/7czx5u"
-  },
-  {
-    "_id": "cJPHneXqglGc",
-    "otherTags": [],
-    "summary": "PinstripeBoilerSuit attacking police at tunnel mouth with spiked table leg",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 1890,
-    "videoStartTimepoint": 1680,
-    "videoUrl": "https://t.co/VpzSbeBXTp?amp=1"
-  },
-  {
-    "_id": "WYvlL1CC0hEU",
-    "otherTags": [],
-    "summary": "RedHairLookerLady on ledge inside tunnel filming (live streaming?)",
-    "suspectTags": [
-      "RedHairLookerLady"
-    ],
-    "videoStartTimepoint": 329,
-    "videoUrl": "https://tommycarstensen.com/terrorism/youtube/L4AADYTHDTE.mp4"
+    "videoUrl": "https://drive.google.com/file/d/1HIU3ZZDVw0w6nm6A2Oty6weKgCfBRbzO/view?usp=sharing"
   },
   {
     "_id": "dtSdWCSGUqfs",
@@ -13498,39 +14372,137 @@
     }
   },
   {
-    "_id": "2wQ4cG1bEsj8",
+    "_id": "f2uRIm0dImAc",
+    "locationName": "Various (Divided)",
     "otherTags": [],
-    "suspectTags": [
-      "LittleBlondeGreyHood"
-    ],
+    "summary": "Video by redpillfairy.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1719,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://video.storyful.com/record/19699"
+    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
   },
   {
-    "_id": "eumWBou2EtA8",
-    "otherTags": [],
-    "summary": "BadSamaritanGrey, BigBadSamaritan landing on Rosanne Boyland",
-    "suspectTags": [
-      "BadSamaritanGrey",
-      "BigBadSamaritan"
+    "_id": "hYjs7XL9QkbQ",
+    "locationName": "Various (Divided)",
+    "otherTags": [
+      "Violence"
     ],
-    "videoEndTimepoint": 38,
-    "videoStartTimepoint": 15,
-    "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
-    "videoDetails": {
-      "type": "directLink",
-      "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
-      "contentType": "video/mp4"
-    }
+    "summary": "[ARCHIVED COPY] Various Instagram stories in which protesters throw batons and yellow spray to police (also general recap of the day). Washington Monument; West Entrance",
+    "suspectTags": [],
+    "videoEndTimepoint": 299,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
   },
   {
-    "_id": "Abczx86v0s94",
+    "_id": "11iBc65XQr7I",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [],
-    "summary": "BlueJacketTunnelRescue tries to escape, cop pulls him back by the backpack strap",
+    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
+    "suspectTags": [],
+    "videoEndTimepoint": 154,
+    "videoStartTimepoint": 135,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
+    "_id": "nXx2SctfktIk",
+    "location": {
+      "lat": 38.889811,
+      "lng": -77.0096544
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "Instagram Story archive for wheres.finn. Top of the NW stairs on the Upper Western Terrace.",
+    "suspectTags": [],
+    "videoEndTimepoint": 170,
+    "videoStartTimepoint": 155,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
+    "_id": "Cy-k6B6uAph4",
+    "locationName": "West Plaza",
+    "otherTags": [],
     "suspectTags": [
-      "BlueJacketTunnelRescue"
+      "HarvardSweat",
+      "HarleyHatFilmer",
+      "IronworkerGuy"
     ],
-    "videoStartTimepoint": 25,
+    "videoEndTimepoint": 8,
+    "videoStartTimepoint": 6,
+    "videoUrl": "https://drive.google.com/file/d/1Bl2GNjEr7HHmcrNuya1PZWEfG-p3ozth/view?usp=sharing"
+  },
+  {
+    "_id": "JogBy2Vski88",
+    "otherTags": [],
+    "summary": "(status coup) Breaking... Trump supporters breach barriers and storm the Capitol.",
+    "suspectTags": [],
+    "videoEndTimepoint": 5130,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1QpWmBRq2kAZvERiFaahjaSRhvCT3dYkt/view"
+  },
+  {
+    "_id": "fHtYwnHHIl9U",
+    "otherTags": [],
+    "summary": "HarleyJacketBatonMan climbs into the fight about 2:30 and exits screen left, hatless, around 3:00",
+    "suspectTags": [
+      "HarleyJacketBatonMan"
+    ],
+    "videoEndTimepoint": 180,
+    "videoStartTimepoint": 150,
+    "videoUrl": "https://drive.google.com/file/d/1yyiZMRDJp-0DQb0y8lkyro4e3ll3qzP0/view"
+  },
+  {
+    "_id": "Hh44Jmaogh8g",
+    "locationName": "Various (Divided)",
+    "otherTags": [],
+    "summary": "Locations include: Mall, West Plaza, SW Scaffolding, SW Steps under scaffolding, Stairway to south side of Lower West Terrace, Arch Entrance. Justus Eapen walking from the rally to the Capitol where he scales the scaffolding and makes his way to the Arch entrance. Just after 4:33 #FleeceNazi, #TunnelCommander can be seen. Video cuts in and out. Riot shields being passed overhead. At 5:57 a caption appears on the video\"\"They just dragged a cop out of the Capitol ... For a minute I thought they were gonna throw him over the side. \"  In foreground, a blond man in tan jacket waves at people to cut it out. Caption continues:  \"He was crying. Definitely thought he was going to die.\" 6:36 - Video moves closer. we see officer's helmet is MPDC. At 6:40 profile of officer's face - it is Michael Fanone. Someone grabs his hand, as if to pull him up the steps, but the mob is difficult to move. He eventually is maneuvered back up. Meanwhile, other officers on the right of the arch are being punched with fists and struck with riot shields. At 8:12 #BlackGlove805 yells into megaphone that \"We are not moving until we get our way!\" Yup. That's how democracy works.",
+    "suspectTags": [
+      "FleeceNazi",
+      "TunnelCommander",
+      "BlueStunGun"
+    ],
+    "videoEndTimepoint": 541,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://streamable.com/7czx5u"
+  },
+  {
+    "_id": "Oep6p4X6Agdk",
+    "location": {
+      "lat": 38.8958392378086,
+      "lng": -77.0307040969342
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Freedom Plaza",
+    "otherTags": [],
+    "summary": "[RESTRICTED ACCESS] Villain Report. Tayler Hansen, Owen Shroyer etal burn BLM flag,",
+    "suspectTags": [
+      "BlackHatStripedBuff"
+    ],
+    "videoEndTimepoint": 1170,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/15UEe6ggzrqAOYXKJy4jOsWc5WcMhDPC8/view?usp=sharing"
+  },
+  {
+    "_id": "WYvlL1CC0hEU",
+    "otherTags": [],
+    "summary": "RedHairLookerLady on ledge inside tunnel filming (live streaming?)",
+    "suspectTags": [
+      "RedHairLookerLady"
+    ],
+    "videoStartTimepoint": 329,
+    "videoUrl": "https://tommycarstensen.com/terrorism/youtube/L4AADYTHDTE.mp4"
+  },
+  {
+    "_id": "JDIkelnOwoSU",
+    "otherTags": [],
+    "summary": "HarleyJacketBatonMan fighting w/ baton from left door frame, loses hat",
+    "suspectTags": [
+      "HarleyJacketBatonMan"
+    ],
+    "videoEndTimepoint": 84,
+    "videoStartTimepoint": 80,
     "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
     "videoDetails": {
       "type": "directLink",
@@ -13555,14 +14527,13 @@
     }
   },
   {
-    "_id": "JDIkelnOwoSU",
+    "_id": "Abczx86v0s94",
     "otherTags": [],
-    "summary": "HarleyJacketBatonMan fighting w/ baton from left door frame, loses hat",
+    "summary": "BlueJacketTunnelRescue tries to escape, cop pulls him back by the backpack strap",
     "suspectTags": [
-      "HarleyJacketBatonMan"
+      "BlueJacketTunnelRescue"
     ],
-    "videoEndTimepoint": 84,
-    "videoStartTimepoint": 80,
+    "videoStartTimepoint": 25,
     "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
     "videoDetails": {
       "type": "directLink",
@@ -13571,62 +14542,39 @@
     }
   },
   {
-    "_id": "qwXfxa4tYpBA",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "Collection of clips from other sources of #Caveman interview,  #Caveman attacking an officer with an American flag,  Aerial of #ChairGuy shoving officer over ledge, #Extinguisherman throwing a fire extinguisher at Capitol Police.",
+    "_id": "eumWBou2EtA8",
+    "otherTags": [],
+    "summary": "BadSamaritanGrey, BigBadSamaritan landing on Rosanne Boyland",
     "suspectTags": [
-      "Caveman",
-      "ChairGuy",
-      "Extinguisherman"
+      "BadSamaritanGrey",
+      "BigBadSamaritan"
     ],
-    "videoEndTimepoint": 43,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://worldstar.com/video.php?v=wshh7iyUZb8qatR05rJv"
+    "videoEndTimepoint": 38,
+    "videoStartTimepoint": 15,
+    "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
+    "videoDetails": {
+      "type": "directLink",
+      "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
+      "contentType": "video/mp4"
+    }
   },
   {
-    "_id": "jHBb88WFskis",
+    "_id": "eszCnu7msmn0",
+    "locationName": "Various",
     "otherTags": [
-      "Vandalism"
+      "ProudBoys",
+      "LongVideo"
     ],
-    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #LouisVuitton is on the megaphone.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton"
-    ],
-    "videoEndTimepoint": 75,
+    "summary": "WYSIWIG TV livestream.",
+    "suspectTags": [],
+    "videoEndTimepoint": 22740,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158529276050569"
-  },
-  {
-    "_id": "Z1rbZOMBAomw",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #LouisVuitton on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton",
-      "Scallops"
-    ],
-    "videoEndTimepoint": 193,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158531576050339"
-  },
-  {
-    "_id": "2y6ch5ajEoeM",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #LouisVuitton still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "PinStripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 256,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158535809383249"
+    "videoUrl": "https://www.facebook.com/wysiwygtvDOTcom/videos/vb.102094108325169/107344184544746",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "wysiwygtvDOTcom",
+      "videoId": "vb.102094108325169"
+    }
   },
   {
     "_id": "uyr4ufTYYrNs",
@@ -13640,7 +14588,12 @@
     ],
     "videoEndTimepoint": 116,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458"
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158540386049458"
+    }
   },
   {
     "_id": "U1K3H2tQso9Q",
@@ -13658,7 +14611,23 @@
     ],
     "videoEndTimepoint": 663,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158542326049264"
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158542326049264",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158542326049264"
+    }
+  },
+  {
+    "_id": "cJPHneXqglGc",
+    "otherTags": [],
+    "summary": "PinstripeBoilerSuit attacking police at tunnel mouth with spiked table leg",
+    "suspectTags": [
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 1890,
+    "videoStartTimepoint": 1680,
+    "videoUrl": "https://t.co/VpzSbeBXTp?amp=1"
   },
   {
     "_id": "FAACtxK5ou0M",
@@ -13670,7 +14639,70 @@
     ],
     "videoEndTimepoint": 206,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158546989382131"
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158546989382131",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158546989382131"
+    }
+  },
+  {
+    "_id": "Z1rbZOMBAomw",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #LouisVuitton on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "LouisVuitton",
+      "Scallops"
+    ],
+    "videoEndTimepoint": 193,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158531576050339",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158531576050339"
+    }
+  },
+  {
+    "_id": "jHBb88WFskis",
+    "otherTags": [
+      "Vandalism"
+    ],
+    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #LouisVuitton is on the megaphone.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "LouisVuitton"
+    ],
+    "videoEndTimepoint": 75,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158529276050569",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158529276050569"
+    }
+  },
+  {
+    "_id": "2y6ch5ajEoeM",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #LouisVuitton still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "PinStripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 256,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158535809383249",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158535809383249"
+    }
   },
   {
     "_id": "ykBKuEBN4jwc",
@@ -13681,161 +14713,21 @@
     ],
     "videoEndTimepoint": 79,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/max.garcia.522/videos/4951936014848259/?fallback=1"
+    "videoUrl": "https://www.facebook.com/max.garcia.522/videos/4951936014848259/?fallback=1",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "max.garcia.522",
+      "videoId": "4951936014848259"
+    }
   },
   {
-    "_id": "eszCnu7msmn0",
-    "locationName": "Various",
-    "otherTags": [
-      "ProudBoys",
-      "LongVideo"
+    "_id": "2wQ4cG1bEsj8",
+    "otherTags": [],
+    "suspectTags": [
+      "LittleBlondeGreyHood"
     ],
-    "summary": "WYSIWIG TV livestream.",
-    "suspectTags": [],
-    "videoEndTimepoint": 22740,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/wysiwygtvDOTcom/videos/vb.102094108325169/107344184544746"
-  },
-  {
-    "_id": "sO81A9hAQp6o",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "Non-chronological collection of clips. At about the 30 second mark, you can see the distant mob wrench Officer Michael Fanone (#3603) from the top of the steps and pull him roughly into the crowd and down the steps (look for him where the riot shield is traveling, and coincidentally, beneath the thin blue line flag). #OrangeNTeal can be spotted at about the 50 second mark, next to the BluePufferJacket man in the foreground.",
-    "suspectTags": [
-      "Caveman",
-      "Hockeystickman",
-      "OrangeNTeal",
-      "Slickback",
-      "PlaidLad",
-      "BaldEagle",
-      "BullhornLady",
-      "TunnelCommander",
-      "Fingerman",
-      "CatSweat"
-    ],
-    "videoEndTimepoint": 923,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/p/CJ_PdBxgQig/"
-  },
-  {
-    "_id": "DEUi16y6Am3A",
-    "otherTags": [],
-    "summary": "3rd Tunnel battle, at 1:35 WindowCheerleader climbs in window",
-    "suspectTags": [
-      "WindowCheerleader"
-    ],
-    "videoEndTimepoint": 103,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "OnW5xeuQwvTw",
-    "otherTags": [],
-    "summary": "3rd tunnel attack, PinstripeBoilerSuit attacking police at tunnel from straight on with chair leg",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 76,
-    "videoStartTimepoint": 17,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "zLPbBtjXgmDM",
-    "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
-    },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
-    "otherTags": [],
-    "summary": "0:17: #Pridehorn shows up behind #PinstripeBoilersuit",
-    "suspectTags": [
-      "Pridehorn",
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 113,
-    "videoStartTimepoint": 17,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "o91glUQbMh5E",
-    "otherTags": [],
-    "suspectTags": [
-      "OrangeHoodieRedHat",
-      "CryBeardBrawler",
-      "WindowCheerleader",
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 103,
-    "videoStartTimepoint": 18,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "t4Ca1sCOEi0c",
-    "otherTags": [],
-    "summary": "0:18 PinstripeBoilerSuit throws pylon at officers",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 75,
-    "videoStartTimepoint": 18,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "d_3e2dVQkkvw",
-    "otherTags": [],
-    "summary": "PinstripeBoilerSuit strikes officers with club multiple times",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 75,
-    "videoStartTimepoint": 60,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "f9QsuYbyAoqQ",
-    "otherTags": [],
-    "summary": "Assault on Capitol Entrance. Rioters attack police in Arch Entrance on Lower West Terrace. At 1:46 clip of footage of people who have fallen in a heap.",
-    "suspectTags": [
-      "WhitePowerPuff",
-      "CATSweat",
-      "PlaidLad",
-      "PippiLongScarf",
-      "Zionor",
-      "Slickback",
-      "Scallops",
-      "Fingerman",
-      "OrangeNTeal",
-      "SleevelessRedTattoos",
-      "Caveman",
-      "TheCopKicker"
-    ],
-    "videoEndTimepoint": 148,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/p/CJvys23AmLv/"
-  },
-  {
-    "_id": "UJyV9n-Dwq2w",
-    "otherTags": [],
-    "suspectTags": [
-      "TunnelCommander"
-    ],
-    "videoEndTimepoint": 898,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
-  },
-  {
-    "_id": "S5QYEJhQssm4",
-    "otherTags": [],
-    "summary": "Aerial view of mob attacking police officers. #TheChairGuy knocks an officer off the ledge. #FireExtinguisherMan hurls a extinguisher at the cluster of officers, striking at least one officer in neon yellow (presumably Capitol bike police), knocking off his helmet. This was likely the injury that contributed to the later stroke and death of Officer Brian D. Sicknick.",
-    "suspectTags": [
-      "ChairGuy",
-      "FireExtinguisherMan",
-      "BaldEagle"
-    ],
-    "videoEndTimepoint": 59,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.reddit.com/r/PublicFreakout/comments/kuok9f/crazy_video_shows_fire_extinguisher_thrown_at/"
+    "videoUrl": "https://video.storyful.com/record/19699"
   },
   {
     "_id": "zegaNqvvEpYk",
@@ -14307,6 +15199,21 @@
     }
   },
   {
+    "_id": "XSJLDd_9spA8",
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
+    "otherTags": [],
+    "summary": "Walk towards Elipse Park, Washington DC  \n  \nCamera comes up from Navy Yard, walks through a couple small groups. Don't recognize anyone.",
+    "suspectTags": [],
+    "videoEndTimepoint": 5460,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/3JW_zGQ-j_Y",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "3JW_zGQ-j_Y",
+      "thumbnailUrl": "https://img.youtube.com/vi/3JW_zGQ-j_Y/default.jpg"
+    }
+  },
+  {
     "_id": "Iyh0IW7YktD4",
     "otherTags": [],
     "summary": "People push against the police line and barricades, breaking through at the base of the Western Steps leading up to the entrance arch to the Capitol. #TunnelCommander was spotted in this video by someone 7:44-10:06",
@@ -14320,6 +15227,21 @@
       "type": "youtube",
       "videoId": "3n2I6QEHN20",
       "thumbnailUrl": "https://img.youtube.com/vi/3n2I6QEHN20/default.jpg"
+    }
+  },
+  {
+    "_id": "i987vg-PkgRc",
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
+    "otherTags": [],
+    "summary": "Trump Trailer in Washington DC  \n  \nDon't recognize anyone, not many people in the video",
+    "suspectTags": [],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/5U4B96qdy10",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "5U4B96qdy10",
+      "thumbnailUrl": "https://img.youtube.com/vi/5U4B96qdy10/default.jpg"
     }
   },
   {
@@ -15733,6 +16655,25 @@
     }
   },
   {
+    "_id": "NOIMQJHzMi-Y",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "summary": "2:48: Group of America First folks to the left  \n8:13: Person in a red jacket in a tree along 15th St  \n8:33: Man in Rev War uniform with a sign asking for volunteers for a Recall Event at Gratiot Pub  \n11:03: Cross, possibly the Jericho cross?  \n11:45: Cut  \n14:18: Biker that looks familiar, but not a super clear shot",
+    "suspectTags": [],
+    "videoEndTimepoint": 862,
+    "videoStartTimepoint": 168,
+    "videoUrl": "https://youtu.be/ULVDWix6XdM",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "ULVDWix6XdM",
+      "thumbnailUrl": "https://img.youtube.com/vi/ULVDWix6XdM/default.jpg"
+    }
+  },
+  {
     "_id": "kkUOPynNspUg",
     "otherTags": [
       "Vandalism",
@@ -16945,6 +17886,19 @@
     "suspectTags": []
   },
   {
+    "_id": "S5QYEJhQssm4",
+    "otherTags": [],
+    "summary": "Aerial view of mob attacking police officers. #TheChairGuy knocks an officer off the ledge. #FireExtinguisherMan hurls a extinguisher at the cluster of officers, striking at least one officer in neon yellow (presumably Capitol bike police), knocking off his helmet. This was likely the injury that contributed to the later stroke and death of Officer Brian D. Sicknick.",
+    "suspectTags": [
+      "ChairGuy",
+      "FireExtinguisherMan",
+      "BaldEagle"
+    ],
+    "videoEndTimepoint": 59,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.reddit.com/r/PublicFreakout/comments/kuok9f/crazy_video_shows_fire_extinguisher_thrown_at/"
+  },
+  {
     "_id": "9Zak4Fv7wgJY",
     "imageUrl": "https://www.gettyimages.de/detail/video/donald-trump-supporters-storm-the-united-nachrichtenfilmmaterial/1295316639",
     "otherTags": [],
@@ -17024,6 +17978,187 @@
     ]
   },
   {
+    "_id": "Z4BvDF5FouaU",
+    "location": {
+      "lat": 38.89083136400276,
+      "lng": -77.00924499624746
+    },
+    "locationName": "Capitol Exterior North:\n  North Portico",
+    "otherTags": [],
+    "summary": "Individual4 standing on a pillar/fence to avoid teargas.",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 937,
+    "videoStartTimepoint": 523,
+    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3674552152632176/?story_fbid=3674552152632176&id=100002322825042",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "anson.merriman",
+      "videoId": "3674552152632176"
+    }
+  },
+  {
+    "_id": "zLPbBtjXgmDM",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "summary": "0:17: #Pridehorn shows up behind #PinstripeBoilersuit",
+    "suspectTags": [
+      "Pridehorn",
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 113,
+    "videoStartTimepoint": 17,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "DEUi16y6Am3A",
+    "otherTags": [],
+    "summary": "3rd Tunnel battle, at 1:35 WindowCheerleader climbs in window",
+    "suspectTags": [
+      "WindowCheerleader"
+    ],
+    "videoEndTimepoint": 103,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "o91glUQbMh5E",
+    "otherTags": [],
+    "suspectTags": [
+      "OrangeHoodieRedHat",
+      "CryBeardBrawler",
+      "WindowCheerleader",
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 103,
+    "videoStartTimepoint": 18,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "t4Ca1sCOEi0c",
+    "otherTags": [],
+    "summary": "0:18 PinstripeBoilerSuit throws pylon at officers",
+    "suspectTags": [
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 75,
+    "videoStartTimepoint": 18,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "sO81A9hAQp6o",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "Non-chronological collection of clips. At about the 30 second mark, you can see the distant mob wrench Officer Michael Fanone (#3603) from the top of the steps and pull him roughly into the crowd and down the steps (look for him where the riot shield is traveling, and coincidentally, beneath the thin blue line flag). #OrangeNTeal can be spotted at about the 50 second mark, next to the BluePufferJacket man in the foreground.",
+    "suspectTags": [
+      "Caveman",
+      "Hockeystickman",
+      "OrangeNTeal",
+      "Slickback",
+      "PlaidLad",
+      "BaldEagle",
+      "BullhornLady",
+      "TunnelCommander",
+      "Fingerman",
+      "CatSweat"
+    ],
+    "videoEndTimepoint": 923,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/p/CJ_PdBxgQig/"
+  },
+  {
+    "_id": "OnW5xeuQwvTw",
+    "otherTags": [],
+    "summary": "3rd tunnel attack, PinstripeBoilerSuit attacking police at tunnel from straight on with chair leg",
+    "suspectTags": [
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 76,
+    "videoStartTimepoint": 17,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "f9QsuYbyAoqQ",
+    "otherTags": [],
+    "summary": "Assault on Capitol Entrance. Rioters attack police in Arch Entrance on Lower West Terrace. At 1:46 clip of footage of people who have fallen in a heap.",
+    "suspectTags": [
+      "WhitePowerPuff",
+      "CATSweat",
+      "PlaidLad",
+      "PippiLongScarf",
+      "Zionor",
+      "Slickback",
+      "Scallops",
+      "Fingerman",
+      "OrangeNTeal",
+      "SleevelessRedTattoos",
+      "Caveman",
+      "TheCopKicker"
+    ],
+    "videoEndTimepoint": 148,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/p/CJvys23AmLv/"
+  },
+  {
+    "_id": "d_3e2dVQkkvw",
+    "otherTags": [],
+    "summary": "PinstripeBoilerSuit strikes officers with club multiple times",
+    "suspectTags": [
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 75,
+    "videoStartTimepoint": 60,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "YcmHo0ry4j_Y",
+    "location": {
+      "lat": 38.890827,
+      "lng": -77.0087771
+    },
+    "locationName": "Capitol Exterior North:\n  North Portico",
+    "otherTags": [],
+    "summary": "Individual4 standing close to the fence. After running away from riot police, stops and takes a video before he runs towards the NE Corner.",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 382,
+    "videoStartTimepoint": 295,
+    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3672830249471033/",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "anson.merriman",
+      "videoId": "3672830249471033"
+    }
+  },
+  {
+    "_id": "hM2Vi-DDctao",
+    "location": {
+      "lat": 38.8908626,
+      "lng": -77.0086165
+    },
+    "locationName": "Capitol Grounds East:\n  NE Security Hut",
+    "otherTags": [],
+    "summary": "Individual4 running away from riot police, turns around to take video. Seen again standing and looking at his phone.",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 490,
+    "videoStartTimepoint": 398,
+    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3672830249471033//",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "anson.merriman",
+      "videoId": "3672830249471033"
+    }
+  },
+  {
     "_id": "KsezViQV4pGs",
     "location": {
       "lat": 38.89004744022798,
@@ -17040,52 +18175,14 @@
     "videoUrl": "https://www.gettyimages.com/detail/video/donald-trump-supporters-storm-the-united-states-capitol-news-footage/1295318610"
   },
   {
-    "_id": "Z4BvDF5FouaU",
-    "location": {
-      "lat": 38.89083136400276,
-      "lng": -77.00924499624746
-    },
-    "locationName": "Capitol Exterior North:\n  North Portico",
+    "_id": "UJyV9n-Dwq2w",
     "otherTags": [],
-    "summary": "Individual4 standing on a pillar/fence to avoid teargas.",
     "suspectTags": [
-      "Individual4"
+      "TunnelCommander"
     ],
-    "videoEndTimepoint": 937,
-    "videoStartTimepoint": 523,
-    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3674552152632176/?story_fbid=3674552152632176&id=100002322825042"
-  },
-  {
-    "_id": "YcmHo0ry4j_Y",
-    "location": {
-      "lat": 38.890827,
-      "lng": -77.0087771
-    },
-    "locationName": "Capitol Exterior North:\n  North Portico",
-    "otherTags": [],
-    "summary": "Individual4 standing close to the fence. After running away from riot police, stops and takes a video before he runs towards the NE Corner.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 382,
-    "videoStartTimepoint": 295,
-    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3672830249471033/"
-  },
-  {
-    "_id": "hM2Vi-DDctao",
-    "location": {
-      "lat": 38.8908626,
-      "lng": -77.0086165
-    },
-    "locationName": "Capitol Grounds East:\n  NE Security Hut",
-    "otherTags": [],
-    "summary": "Individual4 running away from riot police, turns around to take video. Seen again standing and looking at his phone.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 490,
-    "videoStartTimepoint": 398,
-    "videoUrl": "https://www.facebook.com/anson.merriman/videos/3672830249471033//"
+    "videoEndTimepoint": 898,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
   },
   {
     "_id": "PV_tAc2BMgZlMhL",
@@ -17102,5 +18199,20 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tAc2BMgZlMhL_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "qwXfxa4tYpBA",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "Collection of clips from other sources of #Caveman interview,  #Caveman attacking an officer with an American flag,  Aerial of #ChairGuy shoving officer over ledge, #Extinguisherman throwing a fire extinguisher at Capitol Police.",
+    "suspectTags": [
+      "Caveman",
+      "ChairGuy",
+      "Extinguisherman"
+    ],
+    "videoEndTimepoint": 43,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://worldstar.com/video.php?v=wshh7iyUZb8qatR05rJv"
   }
 ]
