@@ -498,11 +498,11 @@
     "rationale": "Tweeted at 11:23 assumes 14s to film and time to tweet",
     "realTimeEnd": "2021-01-06T16:23:00.000Z",
     "realTimeStart": "2021-01-06T16:22:00.000Z",
-    "summary": "Crowd peacefully occupying lawn on North side of the monument",
+    "summary": "Twitter thread by Julio_Rosas11. Crowd peacefully occupying lawn on North side of the monument",
     "suspectTags": [],
     "videoEndTimepoint": 14,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/julio_rosas11/status/1346855006876688386?s=21",
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346855006876688386?s=20",
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346855006876688386"
@@ -947,6 +947,26 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/1PkvSH3DHPQm_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "RKrBZBYeMt8I",
+    "location": {
+      "lat": 38.893953962652,
+      "lng": -77.036636855875
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
+    "otherTags": [],
+    "rationale": "Trump heard saying \"That’s what they do.\" which is in the 27 minute marker of his speech.",
+    "realTimeStart": "2021-01-06T17:27:00.000Z",
+    "summary": "TikTok archive from petekrilldontgiveafuck. Pans through the crowd at the Washington Monument.",
+    "suspectTags": [],
+    "videoEndTimepoint": 28,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/petekrilldontgiveafuck-video-of-the-siege-of-the-capitol/Dr+president+elect+pete+krill-6914774271000726789.mp4#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "petekrilldontgiveafuck-video-of-the-siege-of-the-capitol/Dr+president+elect+pete+krill-6914774271000726789.mp4"
     }
   },
   {
@@ -2277,6 +2297,26 @@
     }
   },
   {
+    "_id": "RIVeXjAdwuxc",
+    "location": {
+      "lat": 38.889444,
+      "lng": -77.010556
+    },
+    "locationName": "Capitol Grounds West:\n  Maryland Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp calculation: <https://projects.propublica.org/parler-capitol-videos/?id=bHrrdOH7wawk> shows first climber of the Media Tower timestamped at 12:59:27. Tweet sent at 1:03 pm",
+    "realTimeStart": "2021-01-06T17:59:00.000Z",
+    "summary": "Twitter thread by Julio_Rosas11. Lower plaza is filling up. Crowd entered from northwest lawn now opening up for center and south entry to lower west plaza. Not quite full, 1st tower person climbing, gates being pulled. There is a white flag with a black cannon and a Rambo Trump flag in the southern side of the lower west plaza. Two different people carrying white flag with green tree on it. South Carolina for Trump flag with SC and US flags printed side by side. Sound inaudible. Lower plaza is filling up- crowd entered from northwest lawn now opening up for center and south entry to lower west plaza. Not quite full, 1st tower person climbing, gates being pulled. There is a white flag with a black cannon and a Rambo Trump flag in the southern side of the lower west plaza. Two different people carrying white flag with green tree on it. South Carolina for Trump flag with SC and US flags printed side by side. Sound inaudible.",
+    "suspectTags": [],
+    "videoEndTimepoint": 24,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346879996502155265?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346879996502155265"
+    }
+  },
+  {
     "_id": "qKfNHSsSEpsk",
     "location": {
       "lat": 38.8898098,
@@ -2321,6 +2361,21 @@
     }
   },
   {
+    "_id": "paDBaHeeEjpQ",
+    "location": {
+      "lat": 38.8918004,
+      "lng": -77.0164897
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T18:00:00.000Z",
+    "summary": "Instagram Story archive for wheres.finn. Crowd moving down Pennsylvania Avenue",
+    "suspectTags": [],
+    "videoEndTimepoint": 135,
+    "videoStartTimepoint": 78,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
     "_id": "ELbX8HfH8ljU",
     "location": {
       "lat": 38.8898098,
@@ -2343,21 +2398,6 @@
       "type": "tweet",
       "tweetId": "1346967592871874562"
     }
-  },
-  {
-    "_id": "paDBaHeeEjpQ",
-    "location": {
-      "lat": 38.8918004,
-      "lng": -77.0164897
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T18:00:00.000Z",
-    "summary": "Instagram Story archive for wheres.finn. Crowd moving down Pennsylvania Avenue",
-    "suspectTags": [],
-    "videoEndTimepoint": 135,
-    "videoStartTimepoint": 78,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
   },
   {
     "_id": "jO7HWmRqQvKc",
@@ -2460,27 +2500,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/sT75WFu2QPLW_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "RIVeXjAdwuxc",
-    "location": {
-      "lat": 38.889444,
-      "lng": -77.010556
-    },
-    "locationName": "Capitol Grounds West:\n  Maryland Walkway",
-    "otherTags": [],
-    "rationale": "Tweeted at 1:03 assume 24s to film and post is about a minute",
-    "realTimeEnd": "2021-01-06T18:03:00.000Z",
-    "realTimeStart": "2021-01-06T18:02:00.000Z",
-    "summary": "Lower plaza is filling up- crowd entered from northwest lawn now opening up for center and south entry to lower west plaza.  Not quite full, 1st tower person climbing, gates being pulled.  There is a white flag with a black cannon and a Rambo Trump flag in the southern side of the lower west plaza.  Two different people carrying white flag with green tree on it.  South Carolina for Trump flag with SC and US flags printed side by side. Sound inaudible. Lower plaza is filling up- crowd entered from northwest lawn now opening up for center and south entry to lower west plaza.  Not quite full, 1st tower person climbing, gates being pulled.  There is a white flag with a black cannon and a Rambo Trump flag in the southern side of the lower west plaza.  Two different people carrying white flag with green tree on it.  South Carolina for Trump flag with SC and US flags printed side by side. Sound inaudible.",
-    "suspectTags": [],
-    "videoEndTimepoint": 24,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/julio_rosas11/status/1346879996502155265?s=21",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346879996502155265"
     }
   },
   {
@@ -2587,6 +2606,30 @@
     }
   },
   {
+    "_id": "8UjUe5kHUlPI",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Same moment appears at roughly 23 minutes in this video: <https://mega.nz/file/oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8,> which is continuous. Timestamp calculation of source based on FirstBarricadeBreach which is known to be at 12:53 pm.",
+    "realTimeStart": "2021-01-06T18:08:00.000Z",
+    "summary": "Crowd and police fight in the West Plaza after the barricade breach. Caption: \"Proud Boys and Trump supporters are trying to storm the Capitol and are getting pushed back by Capitol Police wearing riot gear. So far it’s only pepper spray and billy clubs, have not seen a strong response yet. #FashVsFash #WashingtonDC <https://twitch.tv/statuscoup\">",
+    "suspectTags": [
+      "WhiteHoodie"
+    ],
+    "videoEndTimepoint": 120,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/chadloder/status/1346885613035737088?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346885613035737088"
+    }
+  },
+  {
     "_id": "PV_5QCkdwJRD0a3",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/5QCkdwJRD0a3_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -2605,20 +2648,77 @@
     }
   },
   {
-    "_id": "HI1hkiRd8lTY",
+    "_id": "7TRoJ0KdAtGU",
     "location": {
-      "lat": 38.8905596,
-      "lng": -77.009988
+      "lat": 38.8898098,
+      "lng": -77.0105472
     },
-    "locationName": "Capitol Grounds West:\n  NW Lawn",
-    "otherTags": [],
-    "rationale": "Time estimated based on known timestamp of people climbing the NW wall in this video: <https://youtu.be/PfiS8MsfSF4>",
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Same moment begins at roughly 25 minutes in this video: <https://mega.nz/file/oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8,> which is continuous. Timestamp calculation of source based on FirstBarricadeBreach which is known to be at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T18:11:00.000Z",
     "realTimeStart": "2021-01-06T18:10:00.000Z",
-    "summary": "People climb the NW wall to the Upper Terrace and tear the white cover off the NW Scaffold.",
-    "suspectTags": [],
-    "videoEndTimepoint": 39,
+    "summary": "Twitter thread by Julio_Rosas11. Police line battle at top of lower west plaza from crowd perspective. Observed tear gas deployed in crowd from police. Observed what looked like white foam separated from crowd towards police.   \n:02 object tossed from behind the police line into crowd, someone says \"they're shooting pepper balls.\"   \n:15s-44s black hooded person crosses police line turns around with hood on and skull face buff, black gloves and what looks like black shoes with white logo and blue undershirt. Man with bright blue long sleeved t shirt, yellow block with white writing Carmel, man in blue sweatshirt with wrigley field written on it. #Sean59AFO has bullhorn at police line yelling at officers, also man in helmet with Go Pro and American flag jacket (#MAGFlagShirt) yelling \"we got you all on camera!\".   \n:44-50s #redpolorising pulls and officer into the scuffle, officer loses helmet when their head comes up someone from crowd sprays powder and white foam into the face of the officer.   \n1:00 Someone says \"there is blood he got shot in the fucking face.\" Someone with plaid sleeve (#Sean59AFO) sprays bear spray towards the officers. #Batonthief picks up Gadsden flag",
+    "suspectTags": [
+      "BatonThief",
+      "Turbo57",
+      "MAGAFlagShirt",
+      "RedPoloRising",
+      "Sean59AFO",
+      "WhiteHoodie",
+      "AxeHandleBaseballNat",
+      "RaincoatTurncoat",
+      "YoungSkullMan"
+    ],
+    "videoEndTimepoint": 72,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://rumble.com/vci44r-at-the-capitol-today.html"
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346891824603033602?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346891824603033602"
+    }
+  },
+  {
+    "_id": "zegaNqvvEpYk",
+    "location": {
+      "lat": 38.8896947,
+      "lng": -77.0104709
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Barricade",
+    "otherTags": [
+      "CapitolJerichoCross",
+      "Violence"
+    ],
+    "rationale": "Time estimated to be about 10 minutes after rioters begin to climb the Medial Tower, which begins at about 1pm. Cuts throughout and video is not contiuous.",
+    "realTimeStart": "2021-01-06T18:10:00.000Z",
+    "summary": "Extended Footage Charts Rioters Breaking Into Capitol And Battling Police  \nStoryful Rights Management  \n  \n:40: Police spray the crowd; some of the black plaza fencing is still in place  \n:43: #MAGAretWhiteCoat just below the police line, falls back with guy in black Liberty hoodie  \n:45: #GeorgesCross and bunch of guys in helmets that I don't recognize, but are probably tagged  \n1:10: Guy in black caged baseball helmet at police line  \n1:26: #Pridehorn and his Liberty flag  \n1:35: #Turbo57 on police line  \n1:38: #BlueBeretPie, left of frame  \n1:51: Woman in bright pink backpack  \n2:22: Guy in red sweatshirt and hat, reddish beard, carrying out a section of black plaza fence, camera pans the crowd on lower plaza  \n2:50: same guy is trying to break off another section of black fence  \n2:54: Cody Allen Whittington of Overton Report (there with #Pridehorn) enters from from left with camera  \n3:09: #NWScaffoldCommander visible on Media Tower  \n3:23: Cut; Kid in forest camo and black/yellow scarf holding a wooden shield up at police line  \n3:32: #MAGAretWhiteCoat back at the line  \n3:55: At right, two men wearing black hoodies and black skull plastic masks  \n4:26 Cut, #Pridehorn at left  \n4:34: #Turbo57 rubbing his eyes  \n4:41: Think that's #DreadedProudBoy at right, in black baseball helmet and respirator  \n6:06: #BigBlueDude at police line  \n7:07 #BlackBonoHelmet in crowd  \n7:28: Cut  \n7:40: Cross visible  \n7:41: Jake Angeli on Plaza about to climb Media Tower  \n8:11: Cut, #WhiteHoodie at the police line  \n8:42: #BullhornLady  \n9:16: #WhiteHoodie threatens police line with his flagpole, they spray crowd  \n9:23: #SwedishScarf enters from right  \n9:44: Guy in chrome goggles  \n9:54: #AngryRedDevil at right  \n10:00: Cut  \n10:10: #TealFace  \n10:39: Guy with \"Infidel\" patch on camo hat, says Martin on the back  \n10:50: #AngryRedDevil on the line  \n11:06: Guy in tan coat holds a rosary towards the police line  \n11:29: Rioter arrested behind police line  \n12:21: Chrome goggles in crowd  \n13:21: Cut to NW scaffold/steps",
+    "suspectTags": [
+      "MAGAretWhiteCoat",
+      "Pridehorn",
+      "BlueBeretPie",
+      "GeorgesCross",
+      "Turbo57",
+      "NWScaffoldCommander",
+      "DreadedProudBoy",
+      "BigBlueDude",
+      "BlackBonoHelmet",
+      "WhiteHoodie",
+      "BullhornLady",
+      "SwedishScarf",
+      "AngryRedDevil",
+      "TealFace",
+      "JacobChansley"
+    ],
+    "videoEndTimepoint": 801,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
   },
   {
     "_id": "c_JmuboTEvP8",
@@ -2805,37 +2905,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/AZwl3eKYgzMD_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "7TRoJ0KdAtGU",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "rationale": "Tweeted at 13:50 however same footage was being fed to Infowars video which @min 15:28 a tweet posted with time stamp of 1:11 occurred- then 6:29s later this footage was streamed on infowars broadcast",
-    "realTimeEnd": "2021-01-06T18:19:00.000Z",
-    "realTimeStart": "2021-01-06T18:18:00.000Z",
-    "summary": "Observed police line  battle at  top of lower west plaza from crowd perspective. Observed tear gas deployed in crowd from police. Observed what looked like white foam separated from crowd towards police.    \n:02 object tossed from behind the police line into crowd, someone says \"they're shooting pepper balls.\"    \n:15s-44s black hooded person crosses police line turns around with hood on and skull face buff, black gloves and what looks like black shoes with white logo and blue undershirt. Man with bright blue long sleeved t shirt, yellow block with white writing Carmel, man in blue sweatshirt with wrigley field written on it.  #sean59AFO has bullhorn at police line yelling at officers, also man in helmet with Go Pro and American flag jacket (#magaflagshirt) yelling \"we got you all on camera!\".    \n:44-50s #redpolorising pulls and officer into the scuffle, officer loses helmet when their head comes up someone from crowd sprays powder and white foam into the face of the officer.   \n1:00 Someone says \"there is blood he got shot in the fucking face.\" Someone with plaid sleeve (#sean59afo?) sprays bear spray towards the officers. #Batonthief picks up Gadsden flag  \n  \n  \nEquipment observed: White can with black top bear spray, axe handle with flag attached, bullhorn, black backpack held in hand, white foam spray could be insecticide, police spray and one projectile deploying gas",
-    "suspectTags": [
-      "batonthief",
-      "turbo57",
-      "magaflagshirt",
-      "redpolorising",
-      "sean59AFO",
-      "whitehoodie",
-      "Axehandlebaseballbat",
-      "Raincoatturncoat",
-      "youngskullman"
-    ],
-    "videoEndTimepoint": 72,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/julio_rosas11/status/1346891824603033602?s=21",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346891824603033602"
     }
   },
   {
@@ -3231,6 +3300,34 @@
     }
   },
   {
+    "_id": "v-7NTVXF0otY",
+    "location": {
+      "lat": 38.889722,
+      "lng": -77.01
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Tweeted 1:57pm. Timestamp calculation: Shows approximate time that police establish perimiter on the West Plaza. Per Parler Fa5akrU6JgKT and UC7nTJ2ha9WM",
+    "realTimeEnd": "2021-01-06T18:29:00.000Z",
+    "realTimeStart": "2021-01-06T18:28:00.000Z",
+    "summary": "Twitter thread by Julio_Rosas11.   \n:00 young white man reddish hair and black hoodie,   \n:05 man is 20s Asian descent MAGA red ball cap and American flag buff and white man with red beanie, red plaid shirt with blue hoodie are talking to person filming about treating someone with water. The crowd is a a police line some in riot gear and others in bike helmets and yellow coats trying to keep metal barriers in place to keep the crowd out.   \n:44 #HatHag is screaming \"fucking traitors\" and \"you should be mad too, you should be mad too!\"   \n:45 man in all black (looks like photographer taking stills)and a white man with short buzz cut all black clothing and a black gas mask with pink filter circles   \n:52 Large build white man with black hat, faux fur lined and ear flaps, goggles with green/tan frame, red and white bullhorn with intercom, navy blue sweatshirt with a hood, blackish pants, black leather gloves, mostly blue with red and white flag being worn as scarf, black backpack and bright blue camelbak straw on right shoulder inciting and get sprayed, removes goggles and hat, reveals dark brown short but not buzzed hair :53 white man with green jacket and black pants with green beanie yelling at officers, #Sean59AFO also on right side of green beanie guy with his bullhorn,   \n:56 young white or Asian woman with straight black hair in ponytail filming with iPhone,   \n1:12 #MissingToothMarine kicks and punches officer in police line   \n1:15 officer sprays the crowd and some one from crowd sprays back with yellowish spray,   \n1:18 black and pink gas mask guy jumps into brawl in gas spray,   \n1:20 in background #GaldafCopBaiter and another man in all green with tan helmet is holding a 3ft sharp object like spear   \n1:37 bigger guy black fur hat blue coat and bullhorn removes goggles and hat exposes face",
+    "suspectTags": [
+      "HatHag",
+      "MissingToothMarine",
+      "Sean59AFO",
+      "GaldalfCopBaiter"
+    ],
+    "videoEndTimepoint": 98,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346893610512510976?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346893610512510976"
+    }
+  },
+  {
     "_id": "PV_tfjhpJnZ8uOu",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tfjhpJnZ8uOu_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -3249,31 +3346,27 @@
     }
   },
   {
-    "_id": "v-7NTVXF0otY",
+    "_id": "K4cHrESrMig4",
     "location": {
       "lat": 38.889722,
-      "lng": -77.01
+      "lng": -77.010278
     },
     "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "rationale": "Tweeted 1:57pm",
-    "realTimeEnd": "2021-01-06T06:31:00.000Z",
-    "realTimeStart": "2021-01-06T18:30:00.000Z",
-    "summary": ":00 young white man reddish hair and black hoodie,   \n:05 man is 20s Asian descent MAGA red ball cap and American flag buff and white man with red beanie, red plaid shirt with blue hoodie are talking to person filming about treating someone with water. The crowd is a a police line some in riot gear and others in bike helmets and yellow coats trying to keep metal barriers in place to keep the crowd out.   \n:44 #Hathag is screaming \"fucking traitors\" and \"you should be mad too, you should be mad too!\"   \n:45 man in all black (looks like photographer taking stills)and a white man with short buzz cut all black clothing and a black gas mask with pink filter circles   \n:52 Large build white man with black hat, faux fur lined and ear flaps, goggles with green/tan frame, red and white bullhorn with intercom, navy blue sweatshirt with a hood, blackish pants, black leather gloves, mostly blue with red and white flag being worn as scarf, black backpack and bright blue camelbak straw on right shoulder inciting and get sprayed, removes goggles and hat, reveals dark brown short but not buzzed hair :53 white man with green jacket and black pants with green beanie yelling at officers, #sean59AFO also on right side of green beanie guy with his bullhorn,   \n:56 young white or Asian woman with straight black hair in ponytail filming with iPhone,   \n1:12 #missingtoothmArine #fbi55afo kicks and punches officer in police line   \n1:15 officer sprays the crowd and some one from crowd sprays back with yellowish spray,   \n1:18 black and pink gas mask guy jumps into brawl in gas spray,   \n1:20 in background #gandalfcopbaiter and another man in all green with tan helmet is holding a 3ft sharp object like spear   \n1:37 bigger guy black fur hat blue coat and bullhorn removes goggles and hat exposes face  \n  \nEquipment observed: Bullhorns x2, one crowd sprayer, 3 ft piece of  metal",
-    "suspectTags": [
-      "hathag",
-      "60AFO",
-      "missingtoothmarine",
-      "fbi55afo",
-      "sean59afo",
-      "gandalfcopbaiter"
+    "otherTags": [
+      "Violence"
     ],
-    "videoEndTimepoint": 98,
+    "rationale": "Estimated. Tweeted 1:59pm.",
+    "realTimeStart": "2021-01-06T18:30:00.000Z",
+    "summary": "Twitter thread by Julio_Rosas11.   \nCrowd of people lower west plaza looking toward center of Capitol building. Person is hanging from light pole wearing camel colored jacket and blue and white striped backpack, see #colsanderpb in frame, older white man with black leather coat with red and white stripes on sleeves and USA on the chest, also see a man with black jacket and red and black gloves, holding an American flag with a white hard hat (normally safety observers), blue with white stars face covering, black backpack. :22 police fire a flash bang visible explosion upper left of screen",
+    "suspectTags": [
+      "ColSandersPB"
+    ],
+    "videoEndTimepoint": 36,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/julio_rosas11/status/1346893610512510976?s=21",
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346894172574404613?s=20",
     "videoDetails": {
       "type": "tweet",
-      "tweetId": "1346893610512510976"
+      "tweetId": "1346894172574404613"
     }
   },
   {
@@ -3913,6 +4006,34 @@
     }
   },
   {
+    "_id": "zdQ_AvlrIjiY",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Fabric on the front of the NW Scaffold is already cut at 13:23. The cut in this fabric occurs at about 1:48-1:50pm. This segment is continuous.",
+    "realTimeEnd": "2021-01-06T18:58:00.000Z",
+    "realTimeStart": "2021-01-06T18:52:00.000Z",
+    "summary": "13:23: #MasterSarge in the scaffolding  \n13:34: Jake Angeli at the base of the scaffolding, then camera pans back to police line on Plaza. Good view of officers arriving and assembling.  \n15:29: Camera back on scaffolding  \n15:35: #ProudboyCowboy  \n15:42: Cut back to Plaza  \n16:22: #MasterSarge in the same place on scaffolding, rinsing the face of a man in a white jacket. The kid from earlier video by Ellipse with #Spazzo, red shirt with yellow lettering, joins.  \n16:25: People have broken past the temporary door in the NW Steps and gained access above.  \n16:44: Man in black suit/grey shirt waves for crowd to go up steps  \n17:16: Flashbang on Plaza, on right is person in III% patch helmet  \n17:38: #MasterSarge is helping clear an older man back onto the Plaza  \n17:51: Possible #GasMaskTwins on NW Steps  \n17:57: #AllBlackBabyThor yelling for more people to flood the NW Steps  \n19:15: Flashbang at base of NW Steps  \n19:32: Metro Police file onto the Plaza from NW",
+    "suspectTags": [
+      "MasterSarge",
+      "ProudboyCowboy",
+      "GasMaskTwins",
+      "AllBlackBabyThor",
+      "JacobChansley"
+    ],
+    "videoEndTimepoint": 1172,
+    "videoStartTimepoint": 801,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
     "_id": "PV_4AquVMy2oe6C",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/4AquVMy2oe6C_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -4054,6 +4175,35 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/ayocSVsXW3h3_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "p5vQQJDVwp28",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "This clip starts immediately after the previous segment of this video. Fabric on the front of the NW Scaffold is already cut at 13:23. The cut in this fabric occurs at about 1:48-1:50pm.",
+    "realTimeEnd": "2021-01-06T19:01:00.000Z",
+    "realTimeStart": "2021-01-06T18:58:00.000Z",
+    "summary": "19:33: Rioters shove the Metro Police reinforcements, starting a fight on the Plaza  \n19:53: #BluePlaidSprayer comes in from left, sprays police  \n20:21: Fence line is reinforced  \n20:24: Pans the crowd on Plaza, #ProudboyCowboy  \n20:34: #BlackEyeMerlin in the middle of the frame, wearing a red hat  \n21:00: #BlackEyeMerlin at the police line  \n21:06: #TealFace  \n21:08: #MasterSarge now on the NW edge of the West Plaza, approaching police line  \n21:12 Cut",
+    "suspectTags": [
+      "BluePlaidSprayer",
+      "ProudboyCowboy",
+      "BlackEyeMerlin",
+      "TealFace"
+    ],
+    "videoEndTimepoint": 1272,
+    "videoStartTimepoint": 1173,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
     }
   },
   {
@@ -4217,6 +4367,28 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346952339886923786"
+    }
+  },
+  {
+    "_id": "Z7jSGtG44tNY",
+    "location": {
+      "lat": 38.890278,
+      "lng": -77.009722
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Time estimated based on known timestamp of people climbing the NW wall in this video: <https://youtu.be/PfiS8MsfSF4>",
+    "realTimeStart": "2021-01-06T19:00:00.000Z",
+    "summary": "Twitter thread by Julio_Rosas11.   \nOfficers in riot gear are surrounded by the crowd. A group of men are throwing smoke bombs and chairs at the officers, 6 or 7 men surround the officers to protect them from the crowd. It appears an officer off camera to the right gets tackled or could have tripped on a raised pipe around a tree.  NW wall is visible, people are climbing.  One guy with a star spangled cowboy hat is protecting the officers with a raised chair. A heavy set white man with white hair  with Michigan Tech on his sleeve also is protecting the police, a man in some kind of uniform and helmet joins the group from behind to get the cops towards the north lawn",
+    "suspectTags": [],
+    "videoEndTimepoint": 91,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346904508039892998?s=20",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346904508039892998"
     }
   },
   {
@@ -4933,6 +5105,22 @@
     }
   },
   {
+    "_id": "HI1hkiRd8lTY",
+    "location": {
+      "lat": 38.8905596,
+      "lng": -77.009988
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [],
+    "rationale": "Time estimated based on known timestamp of people climbing the NW wall in this video: <https://youtu.be/PfiS8MsfSF4>",
+    "realTimeStart": "2021-01-06T19:10:00.000Z",
+    "summary": "People climb the NW wall to the Upper Terrace and tear the white cover off the NW Scaffold.",
+    "suspectTags": [],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://rumble.com/vci44r-at-the-capitol-today.html"
+  },
+  {
     "_id": "FD-OHiIv4nM0",
     "location": {
       "lat": 38.890626,
@@ -5154,27 +5342,6 @@
     }
   },
   {
-    "_id": "ql3YvfrWEqVM",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "rationale": "Estimated about 10-15 minutes before police lines collapse on West Plaza.",
-    "realTimeStart": "2021-01-06T19:15:00.000Z",
-    "summary": ":00: #BigBlueDude lower right  \n:02: #GreenPufferUndercover from left  \n:34: #AllGreenGuy from left  \n:44: #AllGreenGuy drags fencing away from police  \n:48: #Sean59AFO visible at left",
-    "suspectTags": [
-      "AllGreenGuy",
-      "GreenPufferUndercover",
-      "BigBlueDude",
-      "Sean59AFO"
-    ],
-    "videoEndTimepoint": 50,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1IVBEG_5XB3_aKI8sO6HRdb8XYkT7ZqEj/view"
-  },
-  {
     "_id": "cb3tpJRwIkJs",
     "location": {
       "lat": 38.8906349,
@@ -5216,6 +5383,27 @@
       "type": "tweet",
       "tweetId": "1346952339886923786"
     }
+  },
+  {
+    "_id": "ql3YvfrWEqVM",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Estimated about 10-15 minutes before police lines collapse on West Plaza.",
+    "realTimeStart": "2021-01-06T19:15:00.000Z",
+    "summary": ":00: #BigBlueDude lower right  \n:02: #GreenPufferUndercover from left  \n:34: #AllGreenGuy from left  \n:44: #AllGreenGuy drags fencing away from police  \n:48: #Sean59AFO visible at left",
+    "suspectTags": [
+      "AllGreenGuy",
+      "GreenPufferUndercover",
+      "BigBlueDude",
+      "Sean59AFO"
+    ],
+    "videoEndTimepoint": 50,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1IVBEG_5XB3_aKI8sO6HRdb8XYkT7ZqEj/view"
   },
   {
     "_id": "1QGYL7Umklj8",
@@ -5666,6 +5854,28 @@
     }
   },
   {
+    "_id": "QLDpFROJsvMo",
+    "location": {
+      "lat": 38.889811,
+      "lng": -77.0096544
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "rationale": "Time estimated. Per Parler video c5OGpk9fnFPA rioters first entered the crypt at 2:21 pm. This footage shows a full crowd in the Crypt at about 25 minutes.",
+    "realTimeEnd": "2021-01-06T19:23:00.000Z",
+    "realTimeStart": "2021-01-06T19:22:00.000Z",
+    "summary": "21:38: Police are behind the grandstands, no rioters visible there yet. They are on the upper terraces.  \n21:29: Really clear shot from the NW Terrace overlooking the crowd. People seen amassing down Pennsylvania Avenue  \n22:01: Camera moves into NW Courtyard",
+    "suspectTags": [],
+    "videoEndTimepoint": 1321,
+    "videoStartTimepoint": 1272,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
     "_id": "awY1EOsJEgcY",
     "location": {
       "lat": 38.8906349,
@@ -5768,6 +5978,30 @@
     }
   },
   {
+    "_id": "5gKMGbDGAo_E",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [
+      "OrangeTapeGroup"
+    ],
+    "rationale": "Time estimated. Per Parler video c5OGpk9fnFPA rioters first entered the crypt at 2:21 pm. This footage shows a full crowd in the Crypt at about 25 minutes.",
+    "realTimeEnd": "2021-01-06T19:24:00.000Z",
+    "realTimeStart": "2021-01-06T19:23:00.000Z",
+    "summary": "22:28: Crowd is moving up the ramp to the NW door  \n22:55: Rioters, including group of three in suits, are filing into the building  \n23:15: Someone in fatigues, black backpack with \"Galloway\" and \"US Army\" patches, carrying an America First flag, about to enter the NW door  \n23:35: We're in",
+    "suspectTags": [],
+    "videoEndTimepoint": 1415,
+    "videoStartTimepoint": 1321,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
     "_id": "7lxYWFf-spDY",
     "location": {
       "lat": 38.890524,
@@ -5814,6 +6048,28 @@
     }
   },
   {
+    "_id": "q1wmKU4scqr8",
+    "location": {
+      "lat": 38.8903595,
+      "lng": -77.0089714
+    },
+    "locationName": "Capitol Interior Senate Wing:\n  NW Entry Corridor",
+    "otherTags": [],
+    "rationale": "Time estimated. Per Parler video c5OGpk9fnFPA rioters first entered the crypt at 2:21 pm. This footage shows a full crowd in the Crypt at about 25 minutes.",
+    "realTimeEnd": "2021-01-06T19:25:00.000Z",
+    "realTimeStart": "2021-01-06T19:24:00.000Z",
+    "summary": "24:02: Crowd following the hallway toward the Small Senate Rotunda  \n24:22: Group is in what appears to be a small conference room",
+    "suspectTags": [],
+    "videoEndTimepoint": 1487,
+    "videoStartTimepoint": 1415,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
     "_id": "wXOjF1zeQvTY",
     "location": {
       "lat": 38.8898088,
@@ -5835,6 +6091,30 @@
       "type": "youtube",
       "videoId": "PfiS8MsfSF4",
       "thumbnailUrl": "https://img.youtube.com/vi/PfiS8MsfSF4/default.jpg"
+    }
+  },
+  {
+    "_id": "OHQW6wmwQu5c",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0090725
+    },
+    "locationName": "Capitol Interior Central:\n  Crypt",
+    "otherTags": [],
+    "rationale": "Time estimated. Per Parler video c5OGpk9fnFPA rioters first entered the crypt at 2:21 pm. This footage shows a full crowd in the Crypt at about 25 minutes. Assume this segment is a few minutes later.",
+    "realTimeEnd": "2021-01-06T19:28:00.000Z",
+    "realTimeStart": "2021-01-06T19:25:00.000Z",
+    "summary": "25:16: Crowd is packed too tightly to move much  \n26:17: Crowd continues to move very little, but many document the crime  \n26:41: Group of men in fatigues, scarves, one in a helmet, left of frame  \n26:43: Cut  \n26:57: Crowd appears to be trying to force their way back down the NW corridor  \n27:12: Good face shots  \n27:20: #JorgeRiley in left of frame  \n28:00: Cut to Rotunda",
+    "suspectTags": [
+      "JorgeRiley"
+    ],
+    "videoEndTimepoint": 1680,
+    "videoStartTimepoint": 1487,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
     }
   },
   {
@@ -6123,6 +6403,33 @@
     }
   },
   {
+    "_id": "Ogko6TDM4qGE",
+    "location": {
+      "lat": 38.8895665,
+      "lng": -77.0101708
+    },
+    "locationName": "Capitol Exterior West:\n  SW Scaffold",
+    "otherTags": [
+      "CapitolFireExtinguishers",
+      "Violence"
+    ],
+    "rationale": "Shows the approximate time that the crowd begins to push back police off of the West Terrace.",
+    "realTimeStart": "2021-01-06T19:29:00.000Z",
+    "summary": "Rioting crowd at base of the Capitol steps, #extinguisherman cameo at 0:26 and his crime may be captured at 1 second in. Caption reads: \"As the crowd overpowers police, a man in an eagle costume walks through the riot like nothing is happening. The \"it was antifa\" story has spread like wildfire on the ground here. And our police union president just minimized the damage done because, of course he would.\"",
+    "suspectTags": [
+      "BaldEagle",
+      "EmoNazi",
+      "ExtinguisherMan"
+    ],
+    "videoEndTimepoint": 92,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/dudgedudy/status/1347192303878885378",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1347192303878885378"
+    }
+  },
+  {
     "_id": "w2DPVJYPckAk",
     "location": {
       "lat": 38.8898126,
@@ -6195,21 +6502,6 @@
     "videoUrl": "https://drive.google.com/file/d/15peFBgpkV4LH4qeNEe4td4ILJzmTQwsC/view?usp=sharing"
   },
   {
-    "_id": "eVoqyJlEog2c",
-    "location": {
-      "lat": 38.8898088,
-      "lng": -77.0088777
-    },
-    "locationName": "Capitol Interior Central:\n  Rotunda",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T19:30:00.000Z",
-    "summary": "Short, blurry video of crowd inside Capitol Rotunda.",
-    "suspectTags": [],
-    "videoEndTimepoint": 8,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1fPRuFGlcbwfsnxoPH0djQz3qhvc0ba3V/view?usp=sharing"
-  },
-  {
     "_id": "KW5ZTK27An6E",
     "location": {
       "lat": 38.8898126,
@@ -6256,19 +6548,19 @@
     }
   },
   {
-    "_id": "67gn0KA44s4o",
+    "_id": "eVoqyJlEog2c",
     "location": {
-      "lat": 38.8896989,
-      "lng": -77.0099675
+      "lat": 38.8898088,
+      "lng": -77.0088777
     },
-    "locationName": "Capitol Exterior West:\n  SW Riser",
+    "locationName": "Capitol Interior Central:\n  Rotunda",
     "otherTags": [],
     "realTimeStart": "2021-01-06T19:30:00.000Z",
-    "summary": "Video by justus_eapen. Goes up temporary steps to the South Risers on the Lower Western Terrace",
+    "summary": "Short, blurry video of crowd inside Capitol Rotunda.",
     "suspectTags": [],
-    "videoEndTimepoint": 263,
-    "videoStartTimepoint": 108,
-    "videoUrl": "https://streamable.com/7czx5u"
+    "videoEndTimepoint": 8,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1fPRuFGlcbwfsnxoPH0djQz3qhvc0ba3V/view?usp=sharing"
   },
   {
     "_id": "YMr13ayzsjMI",
@@ -6284,6 +6576,43 @@
     "videoEndTimepoint": 108,
     "videoStartTimepoint": 31,
     "videoUrl": "https://streamable.com/7czx5u"
+  },
+  {
+    "_id": "67gn0KA44s4o",
+    "location": {
+      "lat": 38.8896989,
+      "lng": -77.0099675
+    },
+    "locationName": "Capitol Exterior West:\n  SW Riser",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "Video by justus_eapen. Goes up temporary steps to the South Risers on the Lower Western Terrace",
+    "suspectTags": [],
+    "videoEndTimepoint": 263,
+    "videoStartTimepoint": 108,
+    "videoUrl": "https://streamable.com/7czx5u"
+  },
+  {
+    "_id": "h4RBxgjWYg2A",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [],
+    "rationale": "Time estimated, assumed segment is just before later clip.",
+    "realTimeEnd": "2021-01-06T19:30:00.000Z",
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "Rotunda is lightly populated with rioters during this timeframe.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1738,
+    "videoStartTimepoint": 1680,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
   },
   {
     "_id": "grLBgpFw0jkU",
@@ -6542,6 +6871,31 @@
     }
   },
   {
+    "_id": "GV5zcgeIQhHY",
+    "location": {
+      "lat": 38.8889305,
+      "lng": -77.0090795
+    },
+    "locationName": "Unknown:\n  Unknown House Wing",
+    "otherTags": [],
+    "rationale": "Timestamp calcuation: end of this video correlates roughly with the point that rioters arrive at the House Chamber doors. Known real-time of 2:36 pm.",
+    "realTimeEnd": "2021-01-06T19:35:00.000Z",
+    "realTimeStart": "2021-01-06T19:34:00.000Z",
+    "summary": "29:08: Looks into a ransacked office  \n29:19: #CampAushwitzShirt behind #GasMaskTwins  \n29:32: Guy in a black knit cap and blue puffer jacket over an orange tee seems to be breaking furniture  \n29:54: Defaced sign pointing to Speaker Pelosi's office",
+    "suspectTags": [
+      "CampAushwitzShirt",
+      "GasMaskTwins"
+    ],
+    "videoEndTimepoint": 1804,
+    "videoStartTimepoint": 1738,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
     "_id": "PV_TFY9jqrTi1fT",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/TFY9jqrTi1fT_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -6619,23 +6973,6 @@
     }
   },
   {
-    "_id": "9dt0-9VAsn0Y",
-    "location": {
-      "lat": 38.8921023,
-      "lng": -77.0281362
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
-    "otherTags": [],
-    "rationale": "Time estimated based on reference to curfew announcement and Interviews mentioning rioters entering Nancy Pelosi's office",
-    "realTimeEnd": "2021-01-06T19:37:00.000Z",
-    "realTimeStart": "2021-01-06T19:35:00.000Z",
-    "summary": "Video by redpillfairy. Narrating as she walks from her hotel to the Capitol. Says that Trump supporters are storming the Capitol because Pence has said he cannot overturn the electoral college. She complains about the curfew that the DC Mayor has put into place.",
-    "suspectTags": [],
-    "videoEndTimepoint": 95,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
-  },
-  {
     "_id": "rqEA-v_bEsa4",
     "location": {
       "lat": 38.8889179620057,
@@ -6679,6 +7016,23 @@
     }
   },
   {
+    "_id": "9dt0-9VAsn0Y",
+    "location": {
+      "lat": 38.8921023,
+      "lng": -77.0281362
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [],
+    "rationale": "Time estimated based on reference to curfew announcement and Interviews mentioning rioters entering Nancy Pelosi's office",
+    "realTimeEnd": "2021-01-06T19:37:00.000Z",
+    "realTimeStart": "2021-01-06T19:35:00.000Z",
+    "summary": "Video by redpillfairy. Narrating as she walks from her hotel to the Capitol. Says that Trump supporters are storming the Capitol because Pence has said he cannot overturn the electoral college. She complains about the curfew that the DC Mayor has put into place.",
+    "suspectTags": [],
+    "videoEndTimepoint": 95,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
+  },
+  {
     "_id": "880cO8cxUpvI",
     "location": {
       "lat": 38.8898127,
@@ -6693,6 +7047,28 @@
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
     "videoUrl": "https://drive.google.com/file/d/1UBQ_lzrovV02iMDsoeWDLtq6TH9E69eH/view?usp=sharing"
+  },
+  {
+    "_id": "MlaNh8rn0kIY",
+    "location": {
+      "lat": 38.8894404,
+      "lng": -77.0088463
+    },
+    "locationName": "Capitol Interior House Wing:\n  Statuary Hall",
+    "otherTags": [],
+    "rationale": "Timestamp calcuation: end of this video correlates roughly with the point that rioters arrive at the House Chamber doors. Known real-time of 2:36 pm.",
+    "realTimeEnd": "2021-01-06T19:36:00.000Z",
+    "realTimeStart": "2021-01-06T19:35:00.000Z",
+    "summary": "30:05: Statuary Hall  \n31:09: Ends in hallway outside Statuary Hall",
+    "suspectTags": [],
+    "videoEndTimepoint": 1869,
+    "videoStartTimepoint": 1805,
+    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_E-6bRNfx2c",
+      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
   },
   {
     "_id": "s-FhfdGzEuV8",
@@ -6938,7 +7314,7 @@
       "lat": 38.890352,
       "lng": -77.010322
     },
-    "locationName": "NW Lawn Circuit",
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
     "otherTags": [
       "OathKeepers",
       "SCWalkie"
@@ -7129,8 +7505,8 @@
   {
     "_id": "rlMYqdiYsv_U",
     "location": {
-      "lat": 38.8889997,
-      "lng": -77.0088538
+      "lat": 38.8891,
+      "lng": -77.00886
     },
     "locationName": "Capitol Interior House Wing:\n  House Chamber",
     "otherTags": [],
@@ -8121,6 +8497,26 @@
     }
   },
   {
+    "_id": "Z-ohXgPToh8I",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Big flag is seen on the NW Scaffolding.",
+    "realTimeStart": "2021-01-06T19:53:00.000Z",
+    "summary": "TikTok videos from a floridalover_andre. People gathering at the end of the Pennsylvania Walkway.",
+    "suspectTags": [],
+    "videoEndTimepoint": 20,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(20.0s)+%5B576x1024%5D+%5B6914821430899133702%5D.mp4#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(20.0s)+%5B576x1024%5D+%5B6914821430899133702%5D.mp4"
+    }
+  },
+  {
     "_id": "PV_tk5IR0D4aQuw",
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tk5IR0D4aQuw_cvt.mp4",
     "videoStartTimepoint": 0,
@@ -8404,6 +8800,26 @@
     }
   },
   {
+    "_id": "l6lXvVN0Amik",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "In the background the Upper West Plaza looks full of people.",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "TikTok videos from a floridalover_andre. People on the Peace Monument.",
+    "suspectTags": [],
+    "videoEndTimepoint": 16,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(16.0s)+%5B576x1024%5D+%5B6914821113805655301%5D.mp4#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(16.0s)+%5B576x1024%5D+%5B6914821113805655301%5D.mp4"
+    }
+  },
+  {
     "_id": "KLuBGdH24rWg",
     "location": {
       "lat": 38.8898126,
@@ -8439,21 +8855,6 @@
     "videoUrl": "https://drive.google.com/file/d/1EjJY_VgPvYsHmsW5xxIzXnaVeg2jXb8p/view?usp=sharing"
   },
   {
-    "_id": "sLSs3CXnckxA",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T20:00:00.000Z",
-    "summary": "Video by redpillfairy. View from the top of the media tower",
-    "suspectTags": [],
-    "videoEndTimepoint": 33,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1GH0quYBWk8hxtoYiQeE4C8P-oSTXic1Q/view?usp=sharing"
-  },
-  {
     "_id": "rPowgcL1kvvg",
     "location": {
       "lat": 38.8898126,
@@ -8467,6 +8868,21 @@
     "videoEndTimepoint": 705,
     "videoStartTimepoint": 655,
     "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
+  },
+  {
+    "_id": "sLSs3CXnckxA",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "Video by redpillfairy. View from the top of the media tower",
+    "suspectTags": [],
+    "videoEndTimepoint": 33,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1GH0quYBWk8hxtoYiQeE4C8P-oSTXic1Q/view?usp=sharing"
   },
   {
     "_id": "DNssqGZ8cifA",
@@ -10846,6 +11262,28 @@
     "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
   },
   {
+    "_id": "lPlv7qzoIruI",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0100205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
+    "otherTags": [],
+    "rationale": "Known time of breach of lower section of the Left of Tunnel window is 4:11 pm",
+    "realTimeStart": "2021-01-06T21:11:00.000Z",
+    "summary": "Twitter archive of MissN0body1. In the crowd in the center of the Lower West Terrace. Crowd chanting \"USA\". People going in and out of Left of Tunnel Window.",
+    "suspectTags": [
+      "PippiLongScarf"
+    ],
+    "videoEndTimepoint": 31,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+little+bit+earlier+in+%23dc+at+the+%23capitolbreach+as+people+climbed+thru+the+smashed+window-1346949774717689863.mp4#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+little+bit+earlier+in+%23dc+at+the+%23capitolbreach+as+people+climbed+thru+the+smashed+window-1346949774717689863.mp4"
+    }
+  },
+  {
     "_id": "sLzgICGLAv6A",
     "location": {
       "lat": 38.8898151,
@@ -10938,6 +11376,31 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/WOR0K16Wbi2I_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "ej8dNyePwsIY",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0100205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
+    "otherTags": [],
+    "rationale": "Estimated.",
+    "realTimeStart": "2021-01-06T21:15:00.000Z",
+    "summary": "Twitter archive of MissN0body1. In the crowd in the center of the Lower West Terrace. Police are at the edge of the arched tunnel entrance. Crowd seen with riot shields. Pepper spray is shot at the police. A man in an orange coat gives the middle finger to the cops. ScrawnyTunnel76 strikes at officers with a baton.",
+    "suspectTags": [
+      "PlaidLad",
+      "PippiLongScarf",
+      "ScrawnyTunnel76",
+      "CatSweat"
+    ],
+    "videoEndTimepoint": 22,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+man+is+repeatedly+pepper+sprayed+in+the+front+line+of+the+%23capitolbreach+in+%23dc+today+%23CapitolHill+%23CapitolBuilding+%23capitolbuildingprotest-1346978695710470144.mp4#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+man+is+repeatedly+pepper+sprayed+in+the+front+line+of+the+%23capitolbreach+in+%23dc+today+%23CapitolHill+%23CapitolBuilding+%23capitolbuildingprotest-1346978695710470144.mp4"
     }
   },
   {
@@ -11171,6 +11634,52 @@
     }
   },
   {
+    "_id": "PcY3Mp_g8krs",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "LittleBrownBeard pulls #WhiteDeathHoodie to the ground; attacks policeman",
+    "suspectTags": [
+      "LittleBrownBeard"
+    ],
+    "videoEndTimepoint": 32,
+    "videoStartTimepoint": 9,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "OM9niQWHcqhc",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "During extraction of three men from tunnel",
+    "suspectTags": [
+      "PufferJacketCurlyHair",
+      "WindowCheerleader",
+      "OrangeHoodieRedHat"
+    ],
+    "videoStartTimepoint": 9,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "3rzAurwskt8E",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "suspectTags": [
+      "BrimmedHelmet"
+    ],
+    "videoStartTimepoint": 540,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
+    "_id": "li0ZnANuYlMk",
+    "otherTags": [],
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "suspectTags": [
+      "BigBadSamaritan"
+    ],
+    "videoEndTimepoint": 792,
+    "videoStartTimepoint": 782,
+    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
+  },
+  {
     "_id": "jL30aBTN0vyg",
     "location": {
       "lat": 38.8898151,
@@ -11296,42 +11805,6 @@
     ]
   },
   {
-    "_id": "PcY3Mp_g8krs",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "LittleBrownBeard pulls #WhiteDeathHoodie to the ground; attacks policeman",
-    "suspectTags": [
-      "LittleBrownBeard"
-    ],
-    "videoEndTimepoint": 32,
-    "videoStartTimepoint": 9,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "q439qX03ckDk",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "BigBadSamaritan, BadSamaritanGrey walking away after assaulting police and falling on Rosanne Boyland",
-    "suspectTags": [
-      "BadSamaritanGrey",
-      "BigBadSamaritan"
-    ],
-    "videoEndTimepoint": 169,
-    "videoStartTimepoint": 124,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "li0ZnANuYlMk",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "suspectTags": [
-      "BigBadSamaritan"
-    ],
-    "videoEndTimepoint": 792,
-    "videoStartTimepoint": 782,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
     "_id": "QnwbmzlM0s3s",
     "otherTags": [],
     "realTimeStart": "2021-01-06T21:26:00.000Z",
@@ -11345,26 +11818,16 @@
     "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
   },
   {
-    "_id": "OM9niQWHcqhc",
+    "_id": "q439qX03ckDk",
     "otherTags": [],
     "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "During extraction of three men from tunnel",
+    "summary": "BigBadSamaritan, BadSamaritanGrey walking away after assaulting police and falling on Rosanne Boyland",
     "suspectTags": [
-      "PufferJacketCurlyHair",
-      "WindowCheerleader",
-      "OrangeHoodieRedHat"
+      "BadSamaritanGrey",
+      "BigBadSamaritan"
     ],
-    "videoStartTimepoint": 9,
-    "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
-  },
-  {
-    "_id": "3rzAurwskt8E",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "suspectTags": [
-      "BrimmedHelmet"
-    ],
-    "videoStartTimepoint": 540,
+    "videoEndTimepoint": 169,
+    "videoStartTimepoint": 124,
     "videoUrl": "https://www.instagram.com/p/CJxPQcXgq6H/"
   },
   {
@@ -11480,7 +11943,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Lower West Terrace",
     "otherTags": [],
-    "rationale": "Time estimated based n the timing of officers beginning to clear the Upper West Terrace.",
+    "rationale": "Time estimated based on the timing of officers beginning to clear the Upper West Terrace.",
     "realTimeStart": "2021-01-06T21:30:00.000Z",
     "summary": "Video compilation by ABQ Raw. Shot from the Lower Western Terrace, pans up to the mezzanine. The police are beginning to clear the Upper Western Terrace. Pushing them toward the stairs.",
     "suspectTags": [
@@ -12287,6 +12750,29 @@
     "suspectTags": [
       "PinkBeret"
     ]
+  },
+  {
+    "_id": "zLPbBtjXgmDM",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T22:04:00.000Z",
+    "realTimeStart": "2021-01-06T22:03:00.000Z",
+    "summary": "Brief video showing what appears to to be the last moments of the tunnel fight. People throwing objects at the police. At 1:03 yellow smoke emerges from the tunnel. Flash bangs and tear gas are shot from the tunnel. Video ends with people fleeing down the SW Temp Stair.",
+    "suspectTags": [
+      "Pridehorn",
+      "PinstripeBoilerSuit",
+      "OrangeHoodieRedHat",
+      "PipiLongScarf"
+    ],
+    "videoEndTimepoint": 113,
+    "videoStartTimepoint": 17,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
   },
   {
     "_id": "XG-oXfJCAo50",
@@ -13229,43 +13715,6 @@
     }
   },
   {
-    "_id": "l6lXvVN0Amik",
-    "location": {
-      "lat": 38.8906428,
-      "lng": -77.0123117
-    },
-    "locationName": "Capitol Grounds West:\n  Peace Monument",
-    "otherTags": [],
-    "summary": "TikTok videos from a floridalover_andre. People on the Peace Monument.",
-    "suspectTags": [],
-    "videoEndTimepoint": 16,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(16.0s)+%5B576x1024%5D+%5B6914821113805655301%5D.mp4#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(16.0s)+%5B576x1024%5D+%5B6914821113805655301%5D.mp4"
-    }
-  },
-  {
-    "_id": "Z-ohXgPToh8I",
-    "location": {
-      "lat": 38.8903503,
-      "lng": -77.011189
-    },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
-    "otherTags": [],
-    "rationale": "Big flag is seen on the NW Scaffolding.",
-    "summary": "TikTok videos from a floridalover_andre. People gathering at the end of the Pennsylvania Walkway.",
-    "suspectTags": [],
-    "videoEndTimepoint": 20,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(20.0s)+%5B576x1024%5D+%5B6914821430899133702%5D.mp4#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210107+-+Information+Civil+War+-+(20.0s)+%5B576x1024%5D+%5B6914821430899133702%5D.mp4"
-    }
-  },
-  {
     "_id": "FbDxV2D9Im4o",
     "location": {
       "lat": 38.8926666,
@@ -13286,9 +13735,13 @@
   },
   {
     "_id": "_PIK6sx3guGI",
-    "locationName": "Ellipse",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [],
-    "summary": "Crowd members discuss the bible, maybe on the ellipse?",
+    "summary": "Crowd members discuss the bible.",
     "suspectTags": [],
     "videoEndTimepoint": 195,
     "videoStartTimepoint": 0,
@@ -13423,49 +13876,6 @@
     }
   },
   {
-    "_id": "lPlv7qzoIruI",
-    "location": {
-      "lat": 38.8898088,
-      "lng": -77.0100205
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
-    "otherTags": [],
-    "summary": "Twitter archive of MissN0body1. In the crowd in the center of the Lower West Terrace. Crowd chanting \"USA\"",
-    "suspectTags": [
-      "PippiLongScarf"
-    ],
-    "videoEndTimepoint": 31,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+little+bit+earlier+in+%23dc+at+the+%23capitolbreach+as+people+climbed+thru+the+smashed+window-1346949774717689863.mp4#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+little+bit+earlier+in+%23dc+at+the+%23capitolbreach+as+people+climbed+thru+the+smashed+window-1346949774717689863.mp4"
-    }
-  },
-  {
-    "_id": "ej8dNyePwsIY",
-    "location": {
-      "lat": 38.8898088,
-      "lng": -77.0100205
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
-    "otherTags": [],
-    "summary": "Twitter archive of MissN0body1. In the crowd in the center of the Lower West Terrace. Police are at the edge of the arched tunnel entrance. Crowd seen with riot shields. Pepper spray is shot at the police. A man in an orange coat gives the middle finger to the cops. ScrawnyTunnel76 strikes at officers with a baton.",
-    "suspectTags": [
-      "PlaidLad",
-      "PippiLongScarf",
-      "ScrawnyTunnel76",
-      "CatSweat"
-    ],
-    "videoEndTimepoint": 22,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+man+is+repeatedly+pepper+sprayed+in+the+front+line+of+the+%23capitolbreach+in+%23dc+today+%23CapitolHill+%23CapitolBuilding+%23capitolbuildingprotest-1346978695710470144.mp4#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+A+man+is+repeatedly+pepper+sprayed+in+the+front+line+of+the+%23capitolbreach+in+%23dc+today+%23CapitolHill+%23CapitolBuilding+%23capitolbuildingprotest-1346978695710470144.mp4"
-    }
-  },
-  {
     "_id": "BmwscRwtYkJw",
     "location": {
       "lat": 38.8958392378086,
@@ -13520,55 +13930,24 @@
     }
   },
   {
-    "_id": "RKrBZBYeMt8I",
+    "_id": "bBZp3KDN4h0o",
     "location": {
-      "lat": 38.8894473623761,
-      "lng": -77.0352722232227
+      "lat": 38.8898151,
+      "lng": -77.0098825
     },
-    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "summary": "TikTok archive from petekrilldontgiveafuck. Pans through the crowd at the Washington Monument.",
-    "suspectTags": [],
-    "videoEndTimepoint": 28,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/petekrilldontgiveafuck-video-of-the-siege-of-the-capitol/Dr+president+elect+pete+krill-6914774271000726789.mp4#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "petekrilldontgiveafuck-video-of-the-siege-of-the-capitol/Dr+president+elect+pete+krill-6914774271000726789.mp4"
-    }
-  },
-  {
-    "_id": "yDTnku0aYqh0",
-    "location": {
-      "lat": 38.8898127,
-      "lng": -77.0095301
-    },
-    "locationName": "Capitol Exterior West:\n  West Door",
-    "otherTags": [],
-    "summary": "Video of people being let in and walking past a line of Capitol police to get inside the building.",
-    "suspectTags": [],
-    "videoEndTimepoint": 61,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://amp-includes.tmz.com/videos/2021-01-08-010821-walk-in-capitol-4908962/"
-  },
-  {
-    "_id": "IGOR88Kb0pnc",
-    "location": {
-      "lat": 38.8926654,
-      "lng": -77.0079887
-    },
-    "locationName": "Unknown:\n  Unknown Capitol Interior",
-    "otherTags": [],
-    "summary": "FlagFaceMarine filming in the hallway, seems to be right after insurrectionists broke into building",
     "suspectTags": [
-      "FlagFaceMarine"
+      "HarleyJacketBatonMan",
+      "HockeyStickMan",
+      "HighFiveCowboy"
     ],
-    "videoEndTimepoint": 59,
-    "videoStartTimepoint": 51,
-    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/onVXm7gZrnOG_cvt.mp4",
+    "videoEndTimepoint": 37,
+    "videoStartTimepoint": 23,
+    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/v7NTo8ADJ2au_cvt.mp4",
     "videoDetails": {
       "type": "directLink",
-      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/onVXm7gZrnOG_cvt.mp4",
+      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/v7NTo8ADJ2au_cvt.mp4",
       "contentType": "video/mp4"
     }
   },
@@ -13615,28 +13994,6 @@
     }
   },
   {
-    "_id": "bBZp3KDN4h0o",
-    "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
-    },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
-    "otherTags": [],
-    "suspectTags": [
-      "HarleyJacketBatonMan",
-      "HockeyStickMan",
-      "HighFiveCowboy"
-    ],
-    "videoEndTimepoint": 37,
-    "videoStartTimepoint": 23,
-    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/v7NTo8ADJ2au_cvt.mp4",
-    "videoDetails": {
-      "type": "directLink",
-      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/v7NTo8ADJ2au_cvt.mp4",
-      "contentType": "video/mp4"
-    }
-  },
-  {
     "_id": "ffxD5jvRQhJI",
     "location": {
       "lat": 38.8898151,
@@ -13659,6 +14016,81 @@
     }
   },
   {
+    "_id": "IGOR88Kb0pnc",
+    "location": {
+      "lat": 38.8926654,
+      "lng": -77.0079887
+    },
+    "locationName": "Unknown:\n  Unknown Capitol Interior",
+    "otherTags": [],
+    "summary": "FlagFaceMarine filming in the hallway, seems to be right after insurrectionists broke into building",
+    "suspectTags": [
+      "FlagFaceMarine"
+    ],
+    "videoEndTimepoint": 59,
+    "videoStartTimepoint": 51,
+    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/onVXm7gZrnOG_cvt.mp4",
+    "videoDetails": {
+      "type": "directLink",
+      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/onVXm7gZrnOG_cvt.mp4",
+      "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "yDTnku0aYqh0",
+    "location": {
+      "lat": 38.8898127,
+      "lng": -77.0095301
+    },
+    "locationName": "Capitol Exterior West:\n  West Door",
+    "otherTags": [],
+    "summary": "Video of people being let in and walking past a line of Capitol police to get inside the building.",
+    "suspectTags": [],
+    "videoEndTimepoint": 61,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://amp-includes.tmz.com/videos/2021-01-08-010821-walk-in-capitol-4908962/"
+  },
+  {
+    "_id": "11iBc65XQr7I",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
+    "suspectTags": [],
+    "videoEndTimepoint": 154,
+    "videoStartTimepoint": 135,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
+    "_id": "nXx2SctfktIk",
+    "location": {
+      "lat": 38.889811,
+      "lng": -77.0096544
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "Instagram Story archive for wheres.finn. Top of the NW stairs on the Upper Western Terrace.",
+    "suspectTags": [],
+    "videoEndTimepoint": 170,
+    "videoStartTimepoint": 155,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
+    "_id": "hYjs7XL9QkbQ",
+    "locationName": "Various (Divided)",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "[ARCHIVED COPY] Various Instagram stories in which protesters throw batons and yellow spray to police (also general recap of the day). Washington Monument; West Entrance",
+    "suspectTags": [],
+    "videoEndTimepoint": 299,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
+  },
+  {
     "_id": "grtxe-h68gtM",
     "location": {
       "lat": 38.8901475,
@@ -13673,29 +14105,17 @@
     "videoUrl": "https://drive.google.com/file/d/1-qq1jSPuZqjimO_meKWIUAL7n--vMyXm/view?usp=sharing"
   },
   {
-    "_id": "t0ewGvjrgiv0",
-    "locationName": "Various (Divided)",
+    "_id": "Cy-k6B6uAph4",
+    "locationName": "West Plaza",
     "otherTags": [],
-    "summary": "[ARCHIVED COPY] Video report by Peter Scattini and Walter Masterson who were at the Capitol and Trump's speech. They interviewed Trump supporters while disguised as OAN reporters. Original video: <https://youtu.be/v6uCSMnHO7w>. Locations include Washington Monument; streets in DC, some of West Plaza",
-    "suspectTags": [],
-    "videoEndTimepoint": 2396,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn/view?usp=sharing"
-  },
-  {
-    "_id": "jqVGw0bYsgpo",
-    "location": {
-      "lat": 38.8894473623761,
-      "lng": -77.0352722232227
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T18:20:00.000Z",
-    "summary": "Scattini & Masterson posing as OAN journalists. Interviewing various attendees at the rally.",
-    "suspectTags": [],
-    "videoEndTimepoint": 1132,
-    "videoStartTimepoint": 300,
-    "videoUrl": "https://drive.google.com/file/d/1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn/view?usp=sharing"
+    "suspectTags": [
+      "HarvardSweat",
+      "HarleyHatFilmer",
+      "IronworkerGuy"
+    ],
+    "videoEndTimepoint": 8,
+    "videoStartTimepoint": 6,
+    "videoUrl": "https://drive.google.com/file/d/1Bl2GNjEr7HHmcrNuya1PZWEfG-p3ozth/view?usp=sharing"
   },
   {
     "_id": "gO4QcCHr8lu8",
@@ -14112,23 +14532,29 @@
     }
   },
   {
-    "_id": "GEJMZT9KItAM",
+    "_id": "jqVGw0bYsgpo",
     "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
     },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
-    "otherTags": [
-      "Vandalism"
-    ],
-    "summary": "Tight shot video shows dozens crowded around window on West side of capitol building.Two people at the top of the entryway are using an implement to try to break the glass doorway and crowd cheers when they breakthrough.",
-    "suspectTags": [
-      "LouisVuitton",
-      "FleeceNazi"
-    ],
-    "videoEndTimepoint": 23,
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T18:20:00.000Z",
+    "summary": "Scattini & Masterson posing as OAN journalists. Interviewing various attendees at the rally.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1132,
+    "videoStartTimepoint": 300,
+    "videoUrl": "https://drive.google.com/file/d/1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn/view?usp=sharing"
+  },
+  {
+    "_id": "t0ewGvjrgiv0",
+    "locationName": "Various (Divided)",
+    "otherTags": [],
+    "summary": "[ARCHIVED COPY] Video report by Peter Scattini and Walter Masterson who were at the Capitol and Trump's speech. They interviewed Trump supporters while disguised as OAN reporters. Original video: <https://youtu.be/v6uCSMnHO7w>. Locations include Washington Monument; streets in DC, some of West Plaza",
+    "suspectTags": [],
+    "videoEndTimepoint": 2396,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1HIU3ZZDVw0w6nm6A2Oty6weKgCfBRbzO/view?usp=sharing"
+    "videoUrl": "https://drive.google.com/file/d/1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn/view?usp=sharing"
   },
   {
     "_id": "dtSdWCSGUqfs",
@@ -14182,28 +14608,6 @@
     }
   },
   {
-    "_id": "8UjUe5kHUlPI",
-    "location": {
-      "lat": 38.8895665,
-      "lng": -77.0101708
-    },
-    "locationName": "Capitol Exterior West:\n  SW Scaffold",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "Crowd and police fight in the West Plaza after the barricade breach. Caption: \"Proud Boys and Trump supporters are trying to storm the Capitol and are getting pushed back by Capitol Police wearing riot gear. So far it’s only pepper spray and billy clubs, have not seen a strong response yet. #FashVsFash #WashingtonDC <https://twitch.tv/statuscoup\">",
-    "suspectTags": [
-      "WhiteHoodie"
-    ],
-    "videoEndTimepoint": 120,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/chadloder/status/1346885613035737088?s=20",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346885613035737088"
-    }
-  },
-  {
     "_id": "sXR8an7UUgFE",
     "otherTags": [],
     "summary": "Clip showing #StripesGuy pushing an officer's face",
@@ -14236,27 +14640,6 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1348764155092746241"
-    }
-  },
-  {
-    "_id": "Ogko6TDM4qGE",
-    "location": {
-      "lat": 38.8895665,
-      "lng": -77.0101708
-    },
-    "locationName": "Capitol Exterior West:\n  SW Scaffold",
-    "otherTags": [],
-    "summary": "Rioting crowd at base of the Capitol steps, #extinguisherman cameo at 0:26 and his crime may be captured at 1 second in. Caption reads: \"As the crowd overpowers police, a man in an eagle costume walks through the riot like nothing is happening. The \"it was antifa\" story has spread like wildfire on the ground here. And our police union president just minimized the damage done because, of course he would.\"",
-    "suspectTags": [
-      "BaldEagle",
-      "EmoNazi"
-    ],
-    "videoEndTimepoint": 92,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/dudgedudy/status/1347192303878885378",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1347192303878885378"
     }
   },
   {
@@ -14303,25 +14686,6 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1352981601718837253"
-    }
-  },
-  {
-    "_id": "Z7jSGtG44tNY",
-    "location": {
-      "lat": 38.890278,
-      "lng": -77.009722
-    },
-    "locationName": "Capitol Grounds West:\n  NW Lawn",
-    "otherTags": [],
-    "rationale": "Tweeted 2:40pm",
-    "summary": "Officers in riot gear are surrounded by the crowd. A group of men are throwing smoke bombs and chairs at the officers, 6 or 7 men surround the officers to protect them from the crowd. It appears an officer off camera to the right gets tackled or could have tripped on a raised pipe around a tree.  NW wall is visible, people are climbing.  One guy with a star spangled cowboy hat is protecting the officers with a raised chair. A heavy set white man with white hair  with Michigan Tech on his sleeve also is protecting the police, a man in some kind of uniform and helmet joins the group from behind to get the cops towards the north lawn",
-    "suspectTags": [],
-    "videoEndTimepoint": 91,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/julio_rosas11/status/1346904508039892998?s=21",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346904508039892998"
     }
   },
   {
@@ -14382,57 +14746,39 @@
     "videoUrl": "https://drive.google.com/file/d/1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx/view?usp=sharing"
   },
   {
-    "_id": "hYjs7XL9QkbQ",
-    "locationName": "Various (Divided)",
+    "_id": "GEJMZT9KItAM",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
-      "Violence"
+      "Vandalism"
     ],
-    "summary": "[ARCHIVED COPY] Various Instagram stories in which protesters throw batons and yellow spray to police (also general recap of the day). Washington Monument; West Entrance",
-    "suspectTags": [],
-    "videoEndTimepoint": 299,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
-    "_id": "11iBc65XQr7I",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
-    "suspectTags": [],
-    "videoEndTimepoint": 154,
-    "videoStartTimepoint": 135,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
-    "_id": "nXx2SctfktIk",
-    "location": {
-      "lat": 38.889811,
-      "lng": -77.0096544
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
-    "otherTags": [],
-    "summary": "Instagram Story archive for wheres.finn. Top of the NW stairs on the Upper Western Terrace.",
-    "suspectTags": [],
-    "videoEndTimepoint": 170,
-    "videoStartTimepoint": 155,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W/view?usp=sharing"
-  },
-  {
-    "_id": "Cy-k6B6uAph4",
-    "locationName": "West Plaza",
-    "otherTags": [],
+    "summary": "Tight shot video shows dozens crowded around window on West side of capitol building.Two people at the top of the entryway are using an implement to try to break the glass doorway and crowd cheers when they breakthrough.",
     "suspectTags": [
-      "HarvardSweat",
-      "HarleyHatFilmer",
-      "IronworkerGuy"
+      "LouisVuitton",
+      "FleeceNazi"
     ],
-    "videoEndTimepoint": 8,
-    "videoStartTimepoint": 6,
-    "videoUrl": "https://drive.google.com/file/d/1Bl2GNjEr7HHmcrNuya1PZWEfG-p3ozth/view?usp=sharing"
+    "videoEndTimepoint": 23,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1HIU3ZZDVw0w6nm6A2Oty6weKgCfBRbzO/view?usp=sharing"
+  },
+  {
+    "_id": "Oep6p4X6Agdk",
+    "location": {
+      "lat": 38.8958392378086,
+      "lng": -77.0307040969342
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Freedom Plaza",
+    "otherTags": [],
+    "summary": "[RESTRICTED ACCESS] Villain Report. Tayler Hansen, Owen Shroyer etal burn BLM flag,",
+    "suspectTags": [
+      "BlackHatStripedBuff"
+    ],
+    "videoEndTimepoint": 1170,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/15UEe6ggzrqAOYXKJy4jOsWc5WcMhDPC8/view?usp=sharing"
   },
   {
     "_id": "JogBy2Vski88",
@@ -14469,22 +14815,6 @@
     "videoUrl": "https://streamable.com/7czx5u"
   },
   {
-    "_id": "Oep6p4X6Agdk",
-    "location": {
-      "lat": 38.8958392378086,
-      "lng": -77.0307040969342
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Freedom Plaza",
-    "otherTags": [],
-    "summary": "[RESTRICTED ACCESS] Villain Report. Tayler Hansen, Owen Shroyer etal burn BLM flag,",
-    "suspectTags": [
-      "BlackHatStripedBuff"
-    ],
-    "videoEndTimepoint": 1170,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/15UEe6ggzrqAOYXKJy4jOsWc5WcMhDPC8/view?usp=sharing"
-  },
-  {
     "_id": "WYvlL1CC0hEU",
     "otherTags": [],
     "summary": "RedHairLookerLady on ledge inside tunnel filming (live streaming?)",
@@ -14495,14 +14825,15 @@
     "videoUrl": "https://tommycarstensen.com/terrorism/youtube/L4AADYTHDTE.mp4"
   },
   {
-    "_id": "JDIkelnOwoSU",
+    "_id": "eumWBou2EtA8",
     "otherTags": [],
-    "summary": "HarleyJacketBatonMan fighting w/ baton from left door frame, loses hat",
+    "summary": "BadSamaritanGrey, BigBadSamaritan landing on Rosanne Boyland",
     "suspectTags": [
-      "HarleyJacketBatonMan"
+      "BadSamaritanGrey",
+      "BigBadSamaritan"
     ],
-    "videoEndTimepoint": 84,
-    "videoStartTimepoint": 80,
+    "videoEndTimepoint": 38,
+    "videoStartTimepoint": 15,
     "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
     "videoDetails": {
       "type": "directLink",
@@ -14542,21 +14873,31 @@
     }
   },
   {
-    "_id": "eumWBou2EtA8",
+    "_id": "JDIkelnOwoSU",
     "otherTags": [],
-    "summary": "BadSamaritanGrey, BigBadSamaritan landing on Rosanne Boyland",
+    "summary": "HarleyJacketBatonMan fighting w/ baton from left door frame, loses hat",
     "suspectTags": [
-      "BadSamaritanGrey",
-      "BigBadSamaritan"
+      "HarleyJacketBatonMan"
     ],
-    "videoEndTimepoint": 38,
-    "videoStartTimepoint": 15,
+    "videoEndTimepoint": 84,
+    "videoStartTimepoint": 80,
     "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
     "videoDetails": {
       "type": "directLink",
       "videoUrl": "https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "cJPHneXqglGc",
+    "otherTags": [],
+    "summary": "PinstripeBoilerSuit attacking police at tunnel mouth with spiked table leg",
+    "suspectTags": [
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 1890,
+    "videoStartTimepoint": 1680,
+    "videoUrl": "https://t.co/VpzSbeBXTp?amp=1"
   },
   {
     "_id": "eszCnu7msmn0",
@@ -14577,379 +14918,83 @@
     }
   },
   {
-    "_id": "uyr4ufTYYrNs",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "Darker. People continue to attack the officer line with bats, pieces of furniture, and other objects. #PippiLongScarf stands watch. Police use strobe light again. #LouisVuitton on megaphone. At 1:20 someone celebrates having stolen a riot shield and helmet of an MPDC officer's helmet. Slams riot shield onto the ground repeatedly. Going for officers'  feet? At 1:42 someone tries to use a large rolled up tarp? banner? to ram police, but quickly gives up.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton"
-    ],
-    "videoEndTimepoint": 116,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158540386049458"
-    }
-  },
-  {
-    "_id": "U1K3H2tQso9Q",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "This video may be out of order chronologically. Appears to be after the attack on the officers as left window has been broken. But nearer in time to video 3 in this series. On West Plaza Level, rioters appear to be suffering from the effects of tear gas as they discuss their experiences. At 3:00 videographer walks up the narrow central stairwell to the Lower West Terrace. Footage shaky. Alternates panning crowd and focus on West Arch Entrance, where people attack police.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "BaldEagle",
-      "PlaidLad",
-      "Slickback",
-      "WhitePowerPuff",
-      "Zionor"
-    ],
-    "videoEndTimepoint": 663,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158542326049264",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158542326049264"
-    }
-  },
-  {
-    "_id": "cJPHneXqglGc",
+    "_id": "f9QsuYbyAoqQ",
     "otherTags": [],
-    "summary": "PinstripeBoilerSuit attacking police at tunnel mouth with spiked table leg",
+    "summary": "Assault on Capitol Entrance. Rioters attack police in Arch Entrance on Lower West Terrace. At 1:46 clip of footage of people who have fallen in a heap.",
+    "suspectTags": [
+      "WhitePowerPuff",
+      "CATSweat",
+      "PlaidLad",
+      "PippiLongScarf",
+      "Zionor",
+      "Slickback",
+      "Scallops",
+      "Fingerman",
+      "OrangeNTeal",
+      "SleevelessRedTattoos",
+      "Caveman",
+      "TheCopKicker"
+    ],
+    "videoEndTimepoint": 148,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/p/CJvys23AmLv/"
+  },
+  {
+    "_id": "o91glUQbMh5E",
+    "otherTags": [],
+    "suspectTags": [
+      "OrangeHoodieRedHat",
+      "CryBeardBrawler",
+      "WindowCheerleader",
+      "PinstripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 103,
+    "videoStartTimepoint": 18,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "DEUi16y6Am3A",
+    "otherTags": [],
+    "summary": "3rd Tunnel battle, at 1:35 WindowCheerleader climbs in window",
+    "suspectTags": [
+      "WindowCheerleader"
+    ],
+    "videoEndTimepoint": 103,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+  },
+  {
+    "_id": "t4Ca1sCOEi0c",
+    "otherTags": [],
+    "summary": "0:18 PinstripeBoilerSuit throws pylon at officers",
     "suspectTags": [
       "PinstripeBoilerSuit"
     ],
-    "videoEndTimepoint": 1890,
-    "videoStartTimepoint": 1680,
-    "videoUrl": "https://t.co/VpzSbeBXTp?amp=1"
+    "videoEndTimepoint": 75,
+    "videoStartTimepoint": 18,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
   },
   {
-    "_id": "FAACtxK5ou0M",
+    "_id": "d_3e2dVQkkvw",
     "otherTags": [],
-    "summary": "Darker. Rioters are angry. Video caption notes that flashbangs were used repeatedly against the protestors. Rioters throw metal furniture and large red object at police and shine bright lights in their eyes. #PippiLongScarf looks on. #PinStripeBoilerSuit is there. #LouisVuitton still in window to left of arch. At 1:08 rioters are really going at it with their sticks, and large objects are thrown. Tear gas or pepper spray is deployed. At 2:21 the police line begins to move out into the front of the archway. They shine bright lights into the eyes of the crowd. Someone sprays pepper spray at police. 3:00 tear gas canisters erupt in multiple locations, followed by flashbangs. Steps are clearing.",
+    "summary": "PinstripeBoilerSuit strikes officers with club multiple times",
     "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton"
-    ],
-    "videoEndTimepoint": 206,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158546989382131",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158546989382131"
-    }
-  },
-  {
-    "_id": "Z1rbZOMBAomw",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #LouisVuitton on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton",
-      "Scallops"
-    ],
-    "videoEndTimepoint": 193,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158531576050339",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158531576050339"
-    }
-  },
-  {
-    "_id": "jHBb88WFskis",
-    "otherTags": [
-      "Vandalism"
-    ],
-    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #LouisVuitton is on the megaphone.",
-    "suspectTags": [
-      "PippiLongScarf",
-      "LouisVuitton"
+      "PinstripeBoilerSuit"
     ],
     "videoEndTimepoint": 75,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158529276050569",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158529276050569"
-    }
+    "videoStartTimepoint": 60,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
   },
   {
-    "_id": "2y6ch5ajEoeM",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #LouisVuitton still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
+    "_id": "OnW5xeuQwvTw",
+    "otherTags": [],
+    "summary": "3rd tunnel attack, PinstripeBoilerSuit attacking police at tunnel from straight on with chair leg",
     "suspectTags": [
-      "PippiLongScarf",
-      "PinStripeBoilerSuit"
+      "PinstripeBoilerSuit"
     ],
-    "videoEndTimepoint": 256,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158535809383249",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "calvin.johnson.5264",
-      "videoId": "158535809383249"
-    }
-  },
-  {
-    "_id": "ykBKuEBN4jwc",
-    "otherTags": [],
-    "summary": "Claims from one Trump supporter in a red flannel shirt that \"Antifa\" is inside the capitol. Camp Auschwitz sweater guy is visible speaking as well.",
-    "suspectTags": [
-      "CampAuschwitz"
-    ],
-    "videoEndTimepoint": 79,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.facebook.com/max.garcia.522/videos/4951936014848259/?fallback=1",
-    "videoDetails": {
-      "type": "facebook",
-      "profileId": "max.garcia.522",
-      "videoId": "4951936014848259"
-    }
-  },
-  {
-    "_id": "2wQ4cG1bEsj8",
-    "otherTags": [],
-    "suspectTags": [
-      "LittleBlondeGreyHood"
-    ],
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://video.storyful.com/record/19699"
-  },
-  {
-    "_id": "zegaNqvvEpYk",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [
-      "CapitolJerichoCross"
-    ],
-    "summary": "Extended Footage Charts Rioters Breaking Into Capitol And Battling Police  \nStoryful Rights Management  \n  \n:40: Police spray the crowd; some of the black plaza fencing is still in place  \n:43: #MAGAretWhiteCoat just below the police line, falls back with guy in black Liberty hoodie  \n:45: #GeorgesCross and bunch of guys in helmets that I don't recognize, but are probably tagged  \n1:10: Guy in black caged baseball helmet at police line  \n1:26: #Pridehorn and his Liberty flag  \n1:35: #Turbo57 on police line  \n1:38: #BlueBeretPie, left of frame  \n1:51: Woman in bright pink backpack  \n2:22: Guy in red sweatshirt and hat, reddish beard, carrying out a section of black plaza fence, camera pans the crowd on lower plaza  \n2:50: same guy is trying to break off another section of black fence  \n2:54: Cody Allen Whittington of Overton Report (there with #Pridehorn) enters from from left with camera  \n3:09: #NWScaffoldCommander visible on Media Tower  \n3:23: Cut; Kid in forest camo and black/yellow scarf holding a wooden shield up at police line  \n3:32: Think that's #MAGAretWhiteCoat back at the line  \n3:55: At right, two men wearing black hoodies and black skull plastic masks  \n4:26 Cut, #Pridehorn at left  \n4:34: #Turbo57 rubbing his eyes  \n4:41: Think that's #DreadedProudBoy at right, in black baseball helmet and respirator  \n6:06: #BigBlueDude at police line  \n7:07 #BlackBonoHelmet in crowd  \n7:28: Cut  \n7:40: Cross visible  \n7:41: Jake Angeli on Plaza about to climb Media Tower  \n8:11: Cut, #WhiteHoodie at the police line  \n8:42: #BullhornLady  \n9:16: #WhiteHoodie threatens police line with his flagpole, they spray crowd  \n9:23: #SwedishScarf enters from right  \n9:44: Guy in chrome goggles  \n9:54: #AngryRedDevil at right  \n10:00: Cut  \n10:10: #TealFace  \n10:39: Guy with \"Infidel\" patch on camo hat, says Martin on the back  \n10:50: #AngryRedDevil on the line  \n11:06: Guy in tan coat holds a rosary towards the police line  \n11:29: Rioter arrested behind police line  \n12:21: Chrome goggles in crowd  \n13:21: Cut to NW scaffold/steps",
-    "suspectTags": [
-      "MAGAretWhiteCoat",
-      "Pridehorn",
-      "BlueBeretPie",
-      "GeorgesCross",
-      "Turbo57",
-      "NWScaffoldCommander",
-      "DreadedProudBoy",
-      "BigBlueDude",
-      "BlackBonoHelmet",
-      "WhiteHoodie",
-      "BullhornLady",
-      "SwedishScarf",
-      "AngryRedDevil",
-      "TealFace"
-    ],
-    "videoEndTimepoint": 801,
-    "videoStartTimepoint": 40,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "zdQ_AvlrIjiY",
-    "location": {
-      "lat": 38.8900686,
-      "lng": -77.0101871
-    },
-    "locationName": "Capitol Exterior West:\n  NW Scaffold",
-    "otherTags": [],
-    "summary": "13:23: #MasterSarge in the scaffolding  \n13:34: Jake Angeli at the base of the scaffolding, then camera pans back to police line on Plaza  \n15:29: Camera back on scaffolding  \n15:35: #ProudboyCowboy  \n15:42: Cut back to Plaza  \n16:22: #MasterSarge in the same place on scaffolding, rinsing the face of a man in a white jacket. The kid from earlier video by Ellipse with #Spazzo, red shirt with yellow lettering, joins.  \n16:44: Man in black suit/grey shirt waves for crowd to go up steps  \n17:16: Flashbang on Plaza, on right is person in III% patch helmet  \n17:38: #MasterSarge is helping clear an older man back onto the Plaza  \n17:51: Possible #GasMaskTwins on NW Steps  \n17:57: #AllBlackBabyThor yelling for more people to flood the NW Steps  \n19:15: Flashbang at base of NW Steps  \n19:32: Metro Police file onto the Plaza from NW",
-    "suspectTags": [
-      "MasterSarge",
-      "ProudboyCowboy",
-      "GasMaskTwins",
-      "AllBlackBabyThor"
-    ],
-    "videoEndTimepoint": 1172,
-    "videoStartTimepoint": 801,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "p5vQQJDVwp28",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "summary": "19:33: Rioters shove the Metro Police reinforcements, starting a fight on the Plaza  \n19:53: #BluePlaidSprayer comes in from left, sprays police  \n20:21: Fence line is reinforced  \n20:24: Pans the crowd on Plaza, #ProudboyCowboy  \n20:34: #BlackEyeMerlin in the middle of the frame, wearing a red hat  \n21:00: #BlackEyeMerlin at the police line  \n21:06: #TealFace  \n21:08: #MasterSarge now on the NW edge of the West Plaza, approaching police line  \n21:12 Cut",
-    "suspectTags": [
-      "BluePlaidSprayer",
-      "ProudboyCowboy",
-      "BlackEyeMerlin",
-      "TealFace"
-    ],
-    "videoEndTimepoint": 1272,
-    "videoStartTimepoint": 1173,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "QLDpFROJsvMo",
-    "location": {
-      "lat": 38.889811,
-      "lng": -77.0096544
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
-    "otherTags": [],
-    "summary": "21:38: Police are behind the grandstands, no rioters visible there yet. They are on the upper terraces.  \n22:01: Camera moves into NW Courtyard",
-    "suspectTags": [],
-    "videoEndTimepoint": 1321,
-    "videoStartTimepoint": 1272,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "5gKMGbDGAo_E",
-    "location": {
-      "lat": 38.8902337,
-      "lng": -77.009364
-    },
-    "locationName": "Capitol Exterior West:\n  NW Courtyard",
-    "otherTags": [],
-    "summary": "22:28: Crowd is moving up the ramp to the NW door  \n22:55: Rioters, including group of three in suits, are filing into the building  \n23:15: Someone in fatigues, black backpack with \"Galloway\" and \"US Army\" patches, carrying an America First flag, about to enter the NW door  \n23:35: We're in",
-    "suspectTags": [],
-    "videoEndTimepoint": 1415,
-    "videoStartTimepoint": 1321,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "q1wmKU4scqr8",
-    "location": {
-      "lat": 38.8903595,
-      "lng": -77.0089714
-    },
-    "locationName": "Capitol Interior Senate Wing:\n  NW Entry Corridor",
-    "otherTags": [],
-    "summary": "24:02: Crowd following the hallway toward the Small Senate Rotunda  \n24:22: Group is in what appears to be a small conference room",
-    "suspectTags": [],
-    "videoEndTimepoint": 1487,
-    "videoStartTimepoint": 1415,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "OHQW6wmwQu5c",
-    "location": {
-      "lat": 38.8901475,
-      "lng": -77.0088292
-    },
-    "locationName": "Capitol Interior Senate Wing:\n  Small Senate Rotunda",
-    "otherTags": [],
-    "summary": "25:16: Crowd is packed too tightly to move much  \n26:17: Crowd continues to move very little, but many document the crime  \n26:41: Group of men in fatigues, scarves, one in a helmet, left of frame  \n26:43: Cut  \n26:57: Crowd appears to be trying to force their way back down the NW corridor  \n27:12: Good face shots  \n27:20: #JorgeRiley in left of frame  \n28:00: Cut to Rotunda",
-    "suspectTags": [
-      "JorgeRiley"
-    ],
-    "videoEndTimepoint": 1680,
-    "videoStartTimepoint": 1487,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "h4RBxgjWYg2A",
-    "location": {
-      "lat": 38.8898088,
-      "lng": -77.0088777
-    },
-    "locationName": "Capitol Interior Central:\n  Rotunda",
-    "otherTags": [],
-    "summary": "28:58: Cut to a hallway",
-    "suspectTags": [],
-    "videoEndTimepoint": 1738,
-    "videoStartTimepoint": 1680,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "GV5zcgeIQhHY",
-    "location": {
-      "lat": 38.8889305,
-      "lng": -77.0090795
-    },
-    "locationName": "Unknown:\n  Unknown House Wing",
-    "otherTags": [],
-    "summary": "29:08: Looks into a ransacked office  \n29:19: #CampAushwitzShirt behind #GasMaskTwins  \n29:32: Guy in a black knit cap and blue puffer jacket over an orange tee seems to be breaking furniture  \n29:54: Defaced sign pointing to Speaker Pelosi's office",
-    "suspectTags": [
-      "CampAushwitzShirt",
-      "GasMaskTwins"
-    ],
-    "videoEndTimepoint": 1794,
-    "videoStartTimepoint": 1748,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
-  },
-  {
-    "_id": "MlaNh8rn0kIY",
-    "location": {
-      "lat": 38.8894404,
-      "lng": -77.0088463
-    },
-    "locationName": "Capitol Interior House Wing:\n  Statuary Hall",
-    "otherTags": [],
-    "summary": "30:05: Statuary Hall  \n31:09: Ends in hallway outside Statuary Hall",
-    "suspectTags": [],
-    "videoEndTimepoint": 1869,
-    "videoStartTimepoint": 1805,
-    "videoUrl": "https://youtu.be/_E-6bRNfx2c",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_E-6bRNfx2c",
-      "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
-    }
+    "videoEndTimepoint": 76,
+    "videoStartTimepoint": 17,
+    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
   },
   {
     "_id": "wwntC_t8wtpE",
@@ -17886,19 +17931,6 @@
     "suspectTags": []
   },
   {
-    "_id": "S5QYEJhQssm4",
-    "otherTags": [],
-    "summary": "Aerial view of mob attacking police officers. #TheChairGuy knocks an officer off the ledge. #FireExtinguisherMan hurls a extinguisher at the cluster of officers, striking at least one officer in neon yellow (presumably Capitol bike police), knocking off his helmet. This was likely the injury that contributed to the later stroke and death of Officer Brian D. Sicknick.",
-    "suspectTags": [
-      "ChairGuy",
-      "FireExtinguisherMan",
-      "BaldEagle"
-    ],
-    "videoEndTimepoint": 59,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.reddit.com/r/PublicFreakout/comments/kuok9f/crazy_video_shows_fire_extinguisher_thrown_at/"
-  },
-  {
     "_id": "9Zak4Fv7wgJY",
     "imageUrl": "https://www.gettyimages.de/detail/video/donald-trump-supporters-storm-the-united-nachrichtenfilmmaterial/1295316639",
     "otherTags": [],
@@ -17999,58 +18031,6 @@
     }
   },
   {
-    "_id": "zLPbBtjXgmDM",
-    "location": {
-      "lat": 38.8898151,
-      "lng": -77.0098825
-    },
-    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
-    "otherTags": [],
-    "summary": "0:17: #Pridehorn shows up behind #PinstripeBoilersuit",
-    "suspectTags": [
-      "Pridehorn",
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 113,
-    "videoStartTimepoint": 17,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "DEUi16y6Am3A",
-    "otherTags": [],
-    "summary": "3rd Tunnel battle, at 1:35 WindowCheerleader climbs in window",
-    "suspectTags": [
-      "WindowCheerleader"
-    ],
-    "videoEndTimepoint": 103,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "o91glUQbMh5E",
-    "otherTags": [],
-    "suspectTags": [
-      "OrangeHoodieRedHat",
-      "CryBeardBrawler",
-      "WindowCheerleader",
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 103,
-    "videoStartTimepoint": 18,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "t4Ca1sCOEi0c",
-    "otherTags": [],
-    "summary": "0:18 PinstripeBoilerSuit throws pylon at officers",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
-    ],
-    "videoEndTimepoint": 75,
-    "videoStartTimepoint": 18,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
     "_id": "sO81A9hAQp6o",
     "otherTags": [
       "Violence"
@@ -18073,48 +18053,185 @@
     "videoUrl": "https://www.instagram.com/p/CJ_PdBxgQig/"
   },
   {
-    "_id": "OnW5xeuQwvTw",
-    "otherTags": [],
-    "summary": "3rd tunnel attack, PinstripeBoilerSuit attacking police at tunnel from straight on with chair leg",
-    "suspectTags": [
-      "PinstripeBoilerSuit"
+    "_id": "Z1rbZOMBAomw",
+    "otherTags": [
+      "Violence"
     ],
-    "videoEndTimepoint": 76,
-    "videoStartTimepoint": 17,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
-  },
-  {
-    "_id": "f9QsuYbyAoqQ",
-    "otherTags": [],
-    "summary": "Assault on Capitol Entrance. Rioters attack police in Arch Entrance on Lower West Terrace. At 1:46 clip of footage of people who have fallen in a heap.",
+    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #LouisVuitton on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
     "suspectTags": [
-      "WhitePowerPuff",
-      "CATSweat",
-      "PlaidLad",
       "PippiLongScarf",
-      "Zionor",
-      "Slickback",
-      "Scallops",
-      "Fingerman",
-      "OrangeNTeal",
-      "SleevelessRedTattoos",
-      "Caveman",
-      "TheCopKicker"
+      "LouisVuitton",
+      "Scallops"
     ],
-    "videoEndTimepoint": 148,
+    "videoEndTimepoint": 193,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/p/CJvys23AmLv/"
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158531576050339",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158531576050339"
+    }
   },
   {
-    "_id": "d_3e2dVQkkvw",
+    "_id": "2wQ4cG1bEsj8",
     "otherTags": [],
-    "summary": "PinstripeBoilerSuit strikes officers with club multiple times",
     "suspectTags": [
-      "PinstripeBoilerSuit"
+      "LittleBlondeGreyHood"
+    ],
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://video.storyful.com/record/19699"
+  },
+  {
+    "_id": "U1K3H2tQso9Q",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "This video may be out of order chronologically. Appears to be after the attack on the officers as left window has been broken. But nearer in time to video 3 in this series. On West Plaza Level, rioters appear to be suffering from the effects of tear gas as they discuss their experiences. At 3:00 videographer walks up the narrow central stairwell to the Lower West Terrace. Footage shaky. Alternates panning crowd and focus on West Arch Entrance, where people attack police.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "BaldEagle",
+      "PlaidLad",
+      "Slickback",
+      "WhitePowerPuff",
+      "Zionor"
+    ],
+    "videoEndTimepoint": 663,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158542326049264",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158542326049264"
+    }
+  },
+  {
+    "_id": "jHBb88WFskis",
+    "otherTags": [
+      "Vandalism"
+    ],
+    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #LouisVuitton is on the megaphone.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "LouisVuitton"
     ],
     "videoEndTimepoint": 75,
-    "videoStartTimepoint": 60,
-    "videoUrl": "https://www.instagram.com/p/CJuUAK-BGxT/?hl=en"
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158529276050569",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158529276050569"
+    }
+  },
+  {
+    "_id": "FAACtxK5ou0M",
+    "otherTags": [],
+    "summary": "Darker. Rioters are angry. Video caption notes that flashbangs were used repeatedly against the protestors. Rioters throw metal furniture and large red object at police and shine bright lights in their eyes. #PippiLongScarf looks on. #PinStripeBoilerSuit is there. #LouisVuitton still in window to left of arch. At 1:08 rioters are really going at it with their sticks, and large objects are thrown. Tear gas or pepper spray is deployed. At 2:21 the police line begins to move out into the front of the archway. They shine bright lights into the eyes of the crowd. Someone sprays pepper spray at police. 3:00 tear gas canisters erupt in multiple locations, followed by flashbangs. Steps are clearing.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "LouisVuitton"
+    ],
+    "videoEndTimepoint": 206,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158546989382131",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158546989382131"
+    }
+  },
+  {
+    "_id": "uyr4ufTYYrNs",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "Darker. People continue to attack the officer line with bats, pieces of furniture, and other objects. #PippiLongScarf stands watch. Police use strobe light again. #LouisVuitton on megaphone. At 1:20 someone celebrates having stolen a riot shield and helmet of an MPDC officer's helmet. Slams riot shield onto the ground repeatedly. Going for officers'  feet? At 1:42 someone tries to use a large rolled up tarp? banner? to ram police, but quickly gives up.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "LouisVuitton"
+    ],
+    "videoEndTimepoint": 116,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158540386049458",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158540386049458"
+    }
+  },
+  {
+    "_id": "2y6ch5ajEoeM",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #LouisVuitton still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "PinStripeBoilerSuit"
+    ],
+    "videoEndTimepoint": 256,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/calvin.johnson.5264/videos/158535809383249",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "calvin.johnson.5264",
+      "videoId": "158535809383249"
+    }
+  },
+  {
+    "_id": "ykBKuEBN4jwc",
+    "otherTags": [],
+    "summary": "Claims from one Trump supporter in a red flannel shirt that \"Antifa\" is inside the capitol. Camp Auschwitz sweater guy is visible speaking as well.",
+    "suspectTags": [
+      "CampAuschwitz"
+    ],
+    "videoEndTimepoint": 79,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.facebook.com/max.garcia.522/videos/4951936014848259/?fallback=1",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "max.garcia.522",
+      "videoId": "4951936014848259"
+    }
+  },
+  {
+    "_id": "S5QYEJhQssm4",
+    "otherTags": [],
+    "summary": "Aerial view of mob attacking police officers. #TheChairGuy knocks an officer off the ledge. #FireExtinguisherMan hurls a extinguisher at the cluster of officers, striking at least one officer in neon yellow (presumably Capitol bike police), knocking off his helmet. This was likely the injury that contributed to the later stroke and death of Officer Brian D. Sicknick.",
+    "suspectTags": [
+      "ChairGuy",
+      "FireExtinguisherMan",
+      "BaldEagle"
+    ],
+    "videoEndTimepoint": 59,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.reddit.com/r/PublicFreakout/comments/kuok9f/crazy_video_shows_fire_extinguisher_thrown_at/"
+  },
+  {
+    "_id": "UJyV9n-Dwq2w",
+    "otherTags": [],
+    "suspectTags": [
+      "TunnelCommander"
+    ],
+    "videoEndTimepoint": 898,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
+  },
+  {
+    "_id": "KsezViQV4pGs",
+    "location": {
+      "lat": 38.89004744022798,
+      "lng": -77.0098263310312
+    },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
+    "otherTags": [],
+    "summary": "Individual4 seen next to JaydenX.",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 276,
+    "videoStartTimepoint": 265,
+    "videoUrl": "https://www.gettyimages.com/detail/video/donald-trump-supporters-storm-the-united-states-capitol-news-footage/1295318610"
   },
   {
     "_id": "YcmHo0ry4j_Y",
@@ -18157,32 +18274,6 @@
       "profileId": "anson.merriman",
       "videoId": "3672830249471033"
     }
-  },
-  {
-    "_id": "KsezViQV4pGs",
-    "location": {
-      "lat": 38.89004744022798,
-      "lng": -77.0098263310312
-    },
-    "locationName": "Capitol Exterior West:\n  NW Scaffold",
-    "otherTags": [],
-    "summary": "Individual4 seen next to JaydenX.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 276,
-    "videoStartTimepoint": 265,
-    "videoUrl": "https://www.gettyimages.com/detail/video/donald-trump-supporters-storm-the-united-states-capitol-news-footage/1295318610"
-  },
-  {
-    "_id": "UJyV9n-Dwq2w",
-    "otherTags": [],
-    "suspectTags": [
-      "TunnelCommander"
-    ],
-    "videoEndTimepoint": 898,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/tv/CJwU_qAH4ic/?utm_source=ig_web_copy_link"
   },
   {
     "_id": "PV_tAc2BMgZlMhL",
