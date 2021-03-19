@@ -277,7 +277,7 @@
     }
   },
   {
-    "_id": "RwtdqRdycm-g",
+    "_id": "Conservative activist Scott Presler cheered by fans. See also [Presler's instagram](https://www.instagram.com/p/CJuTN8bgjhg/)\n\nParler video 1BDzt8hvBi1t",
     "location": {
       "lat": 38.8922,
       "lng": -77.0371
@@ -16016,7 +16016,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
-    "rationale": "time sync notes: 1:34 parler video laH0QyPQm6CF shows same flash bang go off",
+    "rationale": "Timestamp notes: 1:34 parler video laH0QyPQm6CF shows same flash bang go off",
     "realTimeEnd": "2021-01-06T18:34:00.000Z",
     "realTimeStart": "2021-01-06T18:34:00.000Z",
     "summary": "Waving flag standing next Gieswein overhead shot \"fight for Trump\" chanted at 3:04, flash bang at 3:29",
@@ -24159,6 +24159,36 @@
     }
   },
   {
+    "_id": "O3T13QApkhvg",
+    "location": {
+      "lat": 38.8900686,
+      "lng": -77.0101871
+    },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "At 0:39 the crowd overcomes the police on the NW end of the Terrace. It has been estiamted that this occurs at 2:28 pm",
+    "realTimeEnd": "2021-01-06T19:32:00.000Z",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "Aerial view of the Plaza from the NW Scaffold. Video of rioters overrunning Capitol Police, including an officer getting hit in the head by a fire extinguisher and an officer being pushed over a barrier at the 1:38 minute mark. Much fighting.",
+    "suspectTags": [
+      "EmoNazi",
+      "WhiteHoodie",
+      "ChairGuy",
+      "ExtinguisherMan",
+      "BaldEagle"
+    ],
+    "videoEndTimepoint": 221,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/esvuSWXncc8",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "esvuSWXncc8",
+      "thumbnailUrl": "https://img.youtube.com/vi/esvuSWXncc8/default.jpg"
+    }
+  },
+  {
     "_id": "QjP1KfpcEiB4",
     "location": {
       "lat": 38.8902,
@@ -24632,22 +24662,6 @@
       "type": "youtube",
       "videoId": "qhIN5E35dZc",
       "thumbnailUrl": "https://img.youtube.com/vi/qhIN5E35dZc/default.jpg"
-    }
-  },
-  {
-    "_id": "0tLEga7Z4uTE",
-    "otherTags": [],
-    "realTimeStart": "2021-01-06T19:30:00.000Z",
-    "summary": "Past the police line",
-    "suspectTags": [
-      "BaldEagle"
-    ],
-    "videoStartTimepoint": 855,
-    "videoUrl": "https://youtu.be/esvuSWXncc8",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "esvuSWXncc8",
-      "thumbnailUrl": "https://img.youtube.com/vi/esvuSWXncc8/default.jpg"
     }
   },
   {
@@ -25378,6 +25392,30 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/TXMlp22HyR7c_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "1ptPkV1bYi0E",
+    "location": {
+      "lat": 38.889448,
+      "lng": -77.01026
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Estimated. SW Steps breached at about 2:35, based on footage by HarleyHatFilmer here: <https://youtu.be/qhIN5E35dZc>",
+    "realTimeEnd": "2021-01-06T19:36:00.000Z",
+    "realTimeStart": "2021-01-06T19:34:00.000Z",
+    "summary": "Lower West Plaza, just beyond the SW Scaffold.  \n0:30 OrangeHoodieRedHat removing police barricade  \n1:13 Officers seen moving up the SW Steps. OrangeHoodieRedHat looking on just behind police line  \n2:20 people starting to climb SW Scaffold, up onto pedestal next to steps. By 3:00 people are easily climbing up the steps.",
+    "suspectTags": [
+      "OrangeHoodieRedHat"
+    ],
+    "videoEndTimepoint": 261,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/GlO1hXHN3bM",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "GlO1hXHN3bM",
+      "thumbnailUrl": "https://img.youtube.com/vi/GlO1hXHN3bM/default.jpg"
     }
   },
   {
@@ -27779,9 +27817,11 @@
       "GadsdenFlagBib",
       "ChadBarrettJones",
       "DavidMish",
+      "ThomasBaranyi",
       "JohnEarlSullivan",
       "HelmetBoy",
-      "SeriousForehead"
+      "SeriousForehead",
+      "CampAushwitzShirt"
     ],
     "videoEndTimepoint": 140,
     "videoStartTimepoint": 0,
@@ -39168,6 +39208,33 @@
     ]
   },
   {
+    "_id": "SYdmsRmzYo3E",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T21:27:00.000Z",
+    "realTimeStart": "2021-01-06T21:27:00.000Z",
+    "summary": "Aerial view of TunnelEntrance (probably filmed from Upper West Terrace).   \n0:30 BullhornLady trying to break a window with a pole",
+    "suspectTags": [
+      "BullhornLady",
+      "OrangeHoodieRedHat",
+      "GreenNewsboy",
+      "BuffLightYear"
+    ],
+    "videoEndTimepoint": 42,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/IFwzWKSUkmk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "IFwzWKSUkmk",
+      "thumbnailUrl": "https://img.youtube.com/vi/IFwzWKSUkmk/default.jpg"
+    }
+  },
+  {
     "_id": "a8Opi8CKgqOs",
     "location": {
       "lat": 38.8896989,
@@ -39193,10 +39260,12 @@
       "Slickback",
       "CommanderCamo",
       "OrangeNTeal",
+      "PippiLongScarf",
       "GreenNewsboy",
       "Caveman",
       "Fingerman",
       "CatSweat",
+      "Scallops",
       "Fingerman",
       "CommanderBlueHoodie",
       "BuffLightYear",
@@ -40563,7 +40632,7 @@
     "otherTags": [],
     "realTimeEnd": "2021-01-06T21:43:00.000Z",
     "realTimeStart": "2021-01-06T21:41:00.000Z",
-    "summary": "Using Cell Phone | time sync notes: Time synch 03:08:08 = 21:32 GMT",
+    "summary": "Using Cell Phone | time sync notes: Time sync 03:08:08 = 21:32 GMT",
     "suspectTags": [
       "Individual4"
     ],
@@ -41389,6 +41458,7 @@
       "Individual4",
       "PinkBeret",
       "MrMunsterAOM",
+      "HarleySmashAOM",
       "ImGabeBrownPB",
       "MaroonBinocularBoy",
       "StringyPlaid",
@@ -41777,6 +41847,29 @@
     }
   },
   {
+    "_id": "Z0nmuPi88tA0",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "NeedsSummaryandTags",
+      "MediaSmash"
+    ],
+    "realTimeStart": "2021-01-06T22:00:00.000Z",
+    "summary": "Individuals outside the Capitol harassing reporters and destroying their equipment (duplicate of Julio Rosas video)",
+    "suspectTags": [],
+    "videoEndTimepoint": 74,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/o9h9O3SqW8g",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "o9h9O3SqW8g",
+      "thumbnailUrl": "https://img.youtube.com/vi/o9h9O3SqW8g/default.jpg"
+    }
+  },
+  {
     "_id": "hY5nl6510uik",
     "location": {
       "lat": 38.8909252,
@@ -42048,7 +42141,8 @@
       "HarleySmashAOM",
       "StringyPlaid",
       "PeterHarding",
-      "PinkBeret"
+      "PinkBeret",
+      "ImGabeBrownPB"
     ],
     "videoEndTimepoint": 746,
     "videoStartTimepoint": 664,
@@ -44900,22 +44994,6 @@
     "suspectTags": []
   },
   {
-    "_id": "1ptPkV1bYi0E",
-    "otherTags": [],
-    "summary": "removing police barricade",
-    "suspectTags": [
-      "OrangeHoodieRedHat"
-    ],
-    "videoEndTimepoint": 6060,
-    "videoStartTimepoint": 1800,
-    "videoUrl": "https://youtu.be/GlO1hXHN3bM",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "GlO1hXHN3bM",
-      "thumbnailUrl": "https://img.youtube.com/vi/GlO1hXHN3bM/default.jpg"
-    }
-  },
-  {
     "_id": "2A4rpl93MmeI",
     "location": {
       "lat": 38.890626,
@@ -45456,10 +45534,15 @@
   },
   {
     "_id": "9RxAOVGxQhUk",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
       "Violence"
     ],
-    "summary": "Part 6. Chants of \"KNOW PEACE, KNOW TRUMP\"; policemen in doorway; rioter with bullhorn, tactical vest, and gloves announces that they are \"holding the line\". #BullhornLady and #TunnelCommander are out of the tunnel",
+    "summary": "Chants of \"KNOW PEACE, KNOW TRUMP\"; policemen in doorway; rioter with bullhorn, tactical vest, and gloves announces that they are \"holding the line\". #BullhornLady and #TunnelCommander are out of the tunnel",
     "suspectTags": [
       "TunnelCommander",
       "BullhornLady"
@@ -45638,8 +45721,15 @@
   },
   {
     "_id": "BiKrcgW1cqdc",
-    "otherTags": [],
-    "summary": "Part 4. Arch Entrance -- Rioters are past lower barricades, have obtained at least 3 police shields, are climbing on arches. Note: his videos do not appear to be in chronological order.",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence"
+    ],
+    "summary": "Arch Entrance -- Rioters are past lower barricades, have obtained at least 3 police shields, are climbing on arches.",
     "suspectTags": [
       "TunnelCommander",
       "GreenNewsboy",
@@ -46419,13 +46509,18 @@
   },
   {
     "_id": "L9K4ALUewhKU",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [],
     "summary": "Jenna Ryan Facebook Live Stream Archive 1. At 9:26 she is told by #GreenShirtStairmaster \"If you push hard enough, they'll budge.\"",
     "suspectTags": [
       "GreenShirtStairmaster"
     ],
     "videoEndTimepoint": 648,
-    "videoStartTimepoint": 588,
+    "videoStartTimepoint": 0,
     "videoUrl": "https://youtu.be/fenp13aqU44",
     "videoDetails": {
       "type": "youtube",
@@ -46672,26 +46767,6 @@
       "BuffLightYear",
       "CommanderBlueHoodie"
     ]
-  },
-  {
-    "_id": "O3T13QApkhvg",
-    "otherTags": [],
-    "summary": "Video of rioters overrunning Capitol Police, including an officer getting hit in the head by a fire extinguisher. Much fighting. May be some excessive use of force on the part of some officers here as well.",
-    "suspectTags": [
-      "EmoNazi",
-      "WhiteHoodie",
-      "ChairGuy",
-      "ExtinguisherMan",
-      "BaldEagle"
-    ],
-    "videoEndTimepoint": 221,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/esvuSWXncc8",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "esvuSWXncc8",
-      "thumbnailUrl": "https://img.youtube.com/vi/esvuSWXncc8/default.jpg"
-    }
   },
   {
     "_id": "O9lQe6i9soOk",
@@ -46983,6 +47058,28 @@
     }
   },
   {
+    "_id": "QUVydl_Vks-I",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence",
+      "NeedsSummaryAndTags"
+    ],
+    "summary": "Tunnel Attack",
+    "suspectTags": [],
+    "videoEndTimepoint": 130,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/fR3kdmirdj0",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "fR3kdmirdj0",
+      "thumbnailUrl": "https://img.youtube.com/vi/fR3kdmirdj0/default.jpg"
+    }
+  },
+  {
     "_id": "QgmPa5ZUAsPY",
     "location": {
       "lat": 38.8898151,
@@ -47000,6 +47097,25 @@
     "videoDetails": {
       "type": "rumble",
       "embedId": "v9wzsl"
+    }
+  },
+  {
+    "_id": "Qt5aJl8ZMtmg",
+    "location": {
+      "lat": 38.890355493126236,
+      "lng": -77.00915471958334
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "Footage shows groups of people pressed up against police line near west entrance breach. Cameraperson meanders toward the main breach at the door and window in the Capitol wing connecting the northern Senate offices to the main building. Can see Baked Alaska streaming ~4 minute mark.",
+    "suspectTags": [],
+    "videoEndTimepoint": 383,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/gj4XCdM9xKM",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "gj4XCdM9xKM",
+      "thumbnailUrl": "https://img.youtube.com/vi/gj4XCdM9xKM/default.jpg"
     }
   },
   {
@@ -47162,21 +47278,6 @@
     "suspectTags": [
       "WindowCheerleader"
     ]
-  },
-  {
-    "_id": "SYdmsRmzYo3E",
-    "otherTags": [],
-    "summary": "BullhornLady trying to break a window with a pole",
-    "suspectTags": [
-      "BullhornLady"
-    ],
-    "videoStartTimepoint": 1920,
-    "videoUrl": "https://youtu.be/IFwzWKSUkmk",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "IFwzWKSUkmk",
-      "thumbnailUrl": "https://img.youtube.com/vi/IFwzWKSUkmk/default.jpg"
-    }
   },
   {
     "_id": "SYs2umProux8",
@@ -48954,12 +49055,21 @@
   },
   {
     "_id": "pPgv2wILEkN0",
-    "otherTags": [],
-    "summary": "3rd tunnel attack",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence",
+      "NeedsSummaryAndTags"
+    ],
+    "summary": "End of tunnel attack. Police seen clearing the Upper West Terrace.",
     "suspectTags": [
       "PinStripeBoilerSuit"
     ],
-    "videoStartTimepoint": 261,
+    "videoEndTimepoint": 340,
+    "videoStartTimepoint": 0,
     "videoUrl": "https://youtu.be/FRZehHb4Mj0",
     "videoDetails": {
       "type": "youtube",
@@ -49166,13 +49276,15 @@
   },
   {
     "_id": "sUgO7o5QkkGI",
+    "locationName": "Various",
     "otherTags": [],
-    "summary": "BullhornLady walking to Capitol followed by #MasterSarge",
+    "summary": "US Capitol Riot and Civil Unrest by Al The Great.  \nBullhornLady walking to Capitol followed by #MasterSarge",
     "suspectTags": [
       "BullhornLady",
       "MasterSarge"
     ],
-    "videoStartTimepoint": 2640,
+    "videoEndTimepoint": 835,
+    "videoStartTimepoint": 0,
     "videoUrl": "https://youtu.be/IBUOVQmE5GQ",
     "videoDetails": {
       "type": "youtube",
@@ -49468,6 +49580,7 @@
   },
   {
     "_id": "wzwCQY-UIjK4",
+    "locationName": "Various",
     "otherTags": [
       "Violence"
     ],
