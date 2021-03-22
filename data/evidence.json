@@ -11,7 +11,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T05:11:00.000Z",
     "realTimeStart": "2021-01-06T05:11:00.000Z",
-    "summary": "Parler video MDqAZroDeMBT",
+    "summary": "Parler video MDqAZroDeMBT  \nContent creator visible, little other value",
     "suspectTags": [],
     "videoEndTimepoint": 39,
     "videoStartTimepoint": 0,
@@ -29,12 +29,13 @@
       "lng": -77.0355
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "AmericaFirst"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T05:13:00.000Z",
     "realTimeStart": "2021-01-06T05:12:00.000Z",
-    "summary": "Parler video Kn0P4d8EaOdj",
+    "summary": "Parler video Kn0P4d8EaOdj  \n  \nGood-sized nighttime crowd at 16th and I, America First flags visible",
     "suspectTags": [],
     "videoEndTimepoint": 41,
     "videoStartTimepoint": 0,
@@ -235,13 +236,15 @@
       "lat": 38.8919,
       "lng": -77.0366
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "OathKeepers"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:22:00.000Z",
     "realTimeStart": "2021-01-06T12:21:00.000Z",
-    "summary": "Parler video S0RLaNltewMK",
+    "summary": "Parler video S0RLaNltewMK  \n  \nEarly rally footage, a group of camo guys possibly Oath Keepers visible at 0:12",
     "suspectTags": [],
     "videoEndTimepoint": 37,
     "videoStartTimepoint": 0,
@@ -328,13 +331,14 @@
       "lat": 38.8918,
       "lng": -77.0365
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:52:00.000Z",
     "realTimeStart": "2021-01-06T12:51:00.000Z",
-    "summary": "Parler video O4ELcBjZ9qx0",
+    "summary": "Parler video O4ELcBjZ9qx0  \n  \nEarly rally crowd, good quality, good face visibility, (Tagging as Wa Mon since vantage is south side of the street, but event blends with Ellipse crowd)",
     "suspectTags": [],
     "videoEndTimepoint": 52,
     "videoStartTimepoint": 0,
@@ -351,13 +355,14 @@
       "lat": 38.8966,
       "lng": -77.0335
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:55:00.000Z",
     "realTimeStart": "2021-01-06T12:54:00.000Z",
-    "summary": "Parler video 3cAKUWJfxeJH",
+    "summary": "Parler video 3cAKUWJfxeJH  \n  \nAn unusual high view of crowds along 15th and the Ellipse, good quality, no face visiblity",
     "suspectTags": [],
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
@@ -380,7 +385,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:55:00.000Z",
     "realTimeStart": "2021-01-06T12:54:00.000Z",
-    "summary": "Parler video 2PNO2eGV8Hwp",
+    "summary": "Parler video 2PNO2eGV8Hwp  \n  \nDuplicate of, nJma0698gEW6 2PNO2eGV8Hwp, 3cAKUWJfxeJH",
     "suspectTags": [],
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
@@ -403,7 +408,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:55:00.000Z",
     "realTimeStart": "2021-01-06T12:54:00.000Z",
-    "summary": "Parler video nJma0698gEW6",
+    "summary": "Parler video nJma0698gEW6  \n  \nDuplicate of nJma0698gEW6, 2PNO2eGV8Hwp, 3cAKUWJfxeJH",
     "suspectTags": [],
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
@@ -420,13 +425,14 @@
       "lat": 38.8917,
       "lng": -77.0364
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:56:00.000Z",
     "realTimeStart": "2021-01-06T12:55:00.000Z",
-    "summary": "Parler video Kef0T1bzWcyp",
+    "summary": "Parler video Kef0T1bzWcyp  \n  \nRally crowd, good quality, good face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 24,
     "videoStartTimepoint": 0,
@@ -472,7 +478,7 @@
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 07:57:17",
     "realTimeEnd": "2021-01-06T12:56:00.000Z",
     "realTimeStart": "2021-01-06T12:56:00.000Z",
-    "summary": "Parler video diIeD4Ne7Ear",
+    "summary": "Parler video diIeD4Ne7Ear  \n  \nRally crowd at Wa Mon, poor quality, poor face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 17,
     "videoStartTimepoint": 0,
@@ -495,7 +501,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T12:57:00.000Z",
     "realTimeStart": "2021-01-06T12:57:00.000Z",
-    "summary": "Parler video F76ZQOzftgqo",
+    "summary": "Parler video F76ZQOzftgqo  \n  \nRally attendees at 15th and G, good quality",
     "suspectTags": [],
     "videoEndTimepoint": 39,
     "videoStartTimepoint": 0,
@@ -554,7 +560,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:02:00.000Z",
     "realTimeStart": "2021-01-06T13:02:00.000Z",
-    "summary": "Parler video cSKhlKa6cTDy",
+    "summary": "Parler video cSKhlKa6cTDy  \n  \nContent creator attendee along 15th, good quality",
     "suspectTags": [],
     "videoEndTimepoint": 21,
     "videoStartTimepoint": 0,
@@ -577,7 +583,7 @@
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 16:59:55",
     "realTimeEnd": "2021-01-06T13:03:00.000Z",
     "realTimeStart": "2021-01-06T13:03:00.000Z",
-    "summary": "Parler video p09L86B0PrMu",
+    "summary": "Parler video p09L86B0PrMu  \n  \nRally attendees group selfie, good quality, good face visibility, near Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 18,
     "videoStartTimepoint": 0,
@@ -600,7 +606,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:03:00.000Z",
     "realTimeStart": "2021-01-06T13:03:00.000Z",
-    "summary": "Parler video 91Vga2rHrrID",
+    "summary": "Parler video 91Vga2rHrrID  \n  \nRally attendees, Colorfully dressed red white blue ladies group selfie at Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 12,
     "videoStartTimepoint": 0,
@@ -623,7 +629,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:06:00.000Z",
     "realTimeStart": "2021-01-06T13:05:00.000Z",
-    "summary": "Parler video x893devoztem",
+    "summary": "Parler video x893devoztem  \n  \nRally attendees milling around seen from behind, good quality, poor face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 15,
     "videoStartTimepoint": 0,
@@ -646,7 +652,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:08:00.000Z",
     "realTimeStart": "2021-01-06T13:08:00.000Z",
-    "summary": "Parler video n8OCCns442q4",
+    "summary": "Parler video n8OCCns442q4  \n  \nRally attendees, okay face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -663,13 +669,14 @@
       "lat": 38.8919,
       "lng": -77.0363
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:16:00.000Z",
     "realTimeStart": "2021-01-06T13:16:00.000Z",
-    "summary": "Parler video NfQdczPVYzb8",
+    "summary": "Parler video NfQdczPVYzb8  \n  \nRally attendees, good quality, good faces",
     "suspectTags": [],
     "videoEndTimepoint": 26,
     "videoStartTimepoint": 0,
@@ -686,13 +693,14 @@
       "lat": 38.8991,
       "lng": -77.0336
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:17:00.000Z",
     "realTimeStart": "2021-01-06T13:17:00.000Z",
-    "summary": "Parler video nalKGvVZU5eC",
+    "summary": "Parler video nalKGvVZU5eC  \n  \nAlong 15th at G, good quality, poor faces",
     "suspectTags": [],
     "videoEndTimepoint": 18,
     "videoStartTimepoint": 0,
@@ -709,13 +717,14 @@
       "lat": 38.8891,
       "lng": -77.0368
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:19:00.000Z",
     "realTimeStart": "2021-01-06T13:18:00.000Z",
-    "summary": "Parler video 7lZbNvTpYzCg",
+    "summary": "Parler video 7lZbNvTpYzCg  \n  \nPeaceful bunch close to Washington Monument",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -732,13 +741,14 @@
       "lat": 38.892,
       "lng": -77.0367
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:30:00.000Z",
     "realTimeStart": "2021-01-06T13:27:00.000Z",
-    "summary": "Parler video oT2kNRSAKiYf",
+    "summary": "Parler video oT2kNRSAKiYf  \n  \nRally at Ellipse near a big screen TV, OK quality, lots of faces",
     "suspectTags": [],
     "videoEndTimepoint": 204,
     "videoStartTimepoint": 0,
@@ -755,13 +765,14 @@
       "lat": 38.8934,
       "lng": -77.0335
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:29:00.000Z",
     "realTimeStart": "2021-01-06T13:28:00.000Z",
-    "summary": "Parler video ZHPkLzKWK2Bs",
+    "summary": "Parler video ZHPkLzKWK2Bs  \n  \nAttendees eastbound on Madison drive (along Mall), OK quality, good faces, (Tagging as Washington Monument as \"Mall\" isn't an option)",
     "suspectTags": [],
     "videoEndTimepoint": 21,
     "videoStartTimepoint": 0,
@@ -822,13 +833,14 @@
       "lat": 38.8911,
       "lng": -77.0362
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:33:00.000Z",
     "realTimeStart": "2021-01-06T13:33:00.000Z",
-    "summary": "Parler video a7DW37R386K3",
+    "summary": "Parler video a7DW37R386K3  \n  \nAt rally, poor quality, poor face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 5,
     "videoStartTimepoint": 0,
@@ -845,13 +857,14 @@
       "lat": 38.8915,
       "lng": -77.0364
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:39:00.000Z",
     "realTimeStart": "2021-01-06T13:36:00.000Z",
-    "summary": "Parler video Z6sv09jLUGZP",
+    "summary": "Parler video Z6sv09jLUGZP  \n  \nRally, good quality, mostly fixed POV with backs of heads, a couple pans with face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 163,
     "videoStartTimepoint": 0,
@@ -874,7 +887,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:39:00.000Z",
     "realTimeStart": "2021-01-06T13:36:00.000Z",
-    "summary": "Parler video QrSz0Vfcz3kt",
+    "summary": "Parler video QrSz0Vfcz3kt  \n  \nduplicates Z6sv09jLUGZP, QrSz0Vfcz3kt",
     "suspectTags": [],
     "videoEndTimepoint": 163,
     "videoStartTimepoint": 0,
@@ -891,13 +904,14 @@
       "lat": 38.8956,
       "lng": -77.0394
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:37:00.000Z",
     "realTimeStart": "2021-01-06T13:37:00.000Z",
-    "summary": "Parler video hi0orAgffuhA",
+    "summary": "Parler video hi0orAgffuhA  \n  \nPossibly a rally VIP in a golf cart along 17th at E",
     "suspectTags": [],
     "videoEndTimepoint": 9,
     "videoStartTimepoint": 0,
@@ -914,13 +928,14 @@
       "lat": 38.892,
       "lng": -77.024
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:38:00.000Z",
     "realTimeStart": "2021-01-06T13:37:00.000Z",
-    "summary": "Parler video qVsqMakVxGNP",
+    "summary": "Parler video qVsqMakVxGNP  \n  \nMarcher eastbound on Constitution group selfie vid, ok quality, good faces",
     "suspectTags": [],
     "videoEndTimepoint": 32,
     "videoStartTimepoint": 0,
@@ -937,13 +952,14 @@
       "lat": 38.8914,
       "lng": -77.0364
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:39:00.000Z",
     "realTimeStart": "2021-01-06T13:38:00.000Z",
-    "summary": "Parler video VgsmTnVJYxrE",
+    "summary": "Parler video VgsmTnVJYxrE  \n  \nRally at Ellipse, fixed POV, ok quality, a couple pans with faces",
     "suspectTags": [],
     "videoEndTimepoint": 94,
     "videoStartTimepoint": 0,
@@ -960,13 +976,14 @@
       "lat": 38.8902,
       "lng": -77.035
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:39:00.000Z",
     "realTimeStart": "2021-01-06T13:38:00.000Z",
-    "summary": "Parler video emAlhzlkYNvv",
+    "summary": "Parler video emAlhzlkYNvv  \n  \nPoor Quality",
     "suspectTags": [],
     "videoEndTimepoint": 7,
     "videoStartTimepoint": 0,
@@ -1006,13 +1023,14 @@
       "lat": 38.8922,
       "lng": -77.037
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:40:00.000Z",
     "realTimeStart": "2021-01-06T13:39:00.000Z",
-    "summary": "Parler video SFwPJvrCV0FP",
+    "summary": "Parler video SFwPJvrCV0FP  \n  \nRally at Ellipse, fixed POV, good quality, good faces",
     "suspectTags": [],
     "videoEndTimepoint": 50,
     "videoStartTimepoint": 0,
@@ -1052,13 +1070,14 @@
       "lat": 38.892,
       "lng": -77.036
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:40:00.000Z",
     "realTimeStart": "2021-01-06T13:39:00.000Z",
-    "summary": "Parler video ftbEXsKvOCYn",
+    "summary": "Parler video ftbEXsKvOCYn  \n  \nRally, Alex Jones and entourage moving through crowd",
     "suspectTags": [],
     "videoEndTimepoint": 47,
     "videoStartTimepoint": 0,
@@ -1328,13 +1347,14 @@
       "lat": 38.8907,
       "lng": -77.0357
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:44:00.000Z",
     "realTimeStart": "2021-01-06T13:44:00.000Z",
-    "summary": "Parler video O0hhrxFbpIfo",
+    "summary": "Parler video O0hhrxFbpIfo  \n  \nOK quality, pans too fast, a few faces at 0:24",
     "suspectTags": [],
     "videoEndTimepoint": 30,
     "videoStartTimepoint": 0,
@@ -1373,13 +1393,15 @@
       "lat": 38.8906,
       "lng": -77.0342
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "ThreePercenters"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:50:00.000Z",
     "realTimeStart": "2021-01-06T13:50:00.000Z",
-    "summary": "Parler video GH8KUbewL0sH",
+    "summary": "Parler video GH8KUbewL0sH  \n  \n:05: Near Ellipse, possible three percenters",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -1396,13 +1418,14 @@
       "lat": 38.8919,
       "lng": -77.0363
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T13:53:00.000Z",
     "realTimeStart": "2021-01-06T13:52:00.000Z",
-    "summary": "Parler video hRwQ0gGDfUJ5",
+    "summary": "Parler video hRwQ0gGDfUJ5  \n  \nRally, high wide vantage from tree, some faces of attendees",
     "suspectTags": [],
     "videoEndTimepoint": 40,
     "videoStartTimepoint": 0,
@@ -1442,13 +1465,14 @@
       "lat": 38.892,
       "lng": -77.0355
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 09:05:02",
     "realTimeEnd": "2021-01-06T13:53:00.000Z",
     "realTimeStart": "2021-01-06T13:53:00.000Z",
-    "summary": "Parler video d1zM5ane4tm1",
+    "summary": "Parler video d1zM5ane4tm1  \n  \nRally attendees milling around near Washington Monument",
     "suspectTags": [],
     "videoEndTimepoint": 6,
     "videoStartTimepoint": 0,
@@ -1857,13 +1881,14 @@
       "lat": 38.8919,
       "lng": -77.0364
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T14:28:00.000Z",
     "realTimeStart": "2021-01-06T14:27:00.000Z",
-    "summary": "Parler video kzfRu8mp8CNm",
+    "summary": "Parler video kzfRu8mp8CNm  \n  \nRally, near big-screen mounted on flatbed truck, good high camera on stick vantage with faces of attendees",
     "suspectTags": [],
     "videoEndTimepoint": 29,
     "videoStartTimepoint": 0,
@@ -2095,7 +2120,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T14:32:00.000Z",
     "realTimeStart": "2021-01-06T14:32:00.000Z",
-    "summary": "Parler video hL60MjItBhOW",
+    "summary": "Parler video hL60MjItBhOW  \n  \nAlong street, face view of Asian male Trump supporter",
     "suspectTags": [],
     "videoEndTimepoint": 17,
     "videoStartTimepoint": 0,
@@ -2179,13 +2204,14 @@
       "lat": 38.8916,
       "lng": -77.0369
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T14:37:00.000Z",
     "realTimeStart": "2021-01-06T14:36:00.000Z",
-    "summary": "Parler video T6k2pSMlFMDH",
+    "summary": "Parler video T6k2pSMlFMDH  \n  \nRally, good quality footage shot from tree, steady high view with faces",
     "suspectTags": [],
     "videoEndTimepoint": 46,
     "videoStartTimepoint": 0,
@@ -2317,13 +2343,14 @@
       "lat": 38.891,
       "lng": -77.0361
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T14:44:00.000Z",
     "realTimeStart": "2021-01-06T14:44:00.000Z",
-    "summary": "Parler video idyvEAtqETgY",
+    "summary": "Parler video idyvEAtqETgY  \n  \nNear Wa Wo, ok quality footage, pans too fast to be good for faces",
     "suspectTags": [],
     "videoEndTimepoint": 10,
     "videoStartTimepoint": 0,
@@ -2409,13 +2436,14 @@
       "lat": 38.8923,
       "lng": -77.0337
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T14:47:00.000Z",
     "realTimeStart": "2021-01-06T14:47:00.000Z",
-    "summary": "Parler video 0RXNjbNjJq1A",
+    "summary": "Parler video 0RXNjbNjJq1A  \n  \nRally at 15th and Const, mostly backs of heads",
     "suspectTags": [],
     "videoEndTimepoint": 6,
     "videoStartTimepoint": 0,
@@ -2501,13 +2529,14 @@
       "lat": 38.8961,
       "lng": -77.0334
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 09:50:48",
     "realTimeEnd": "2021-01-06T14:49:00.000Z",
     "realTimeStart": "2021-01-06T14:49:00.000Z",
-    "summary": "Parler video Y21LK8COvXFO",
+    "summary": "Parler video Y21LK8COvXFO  \n  \nHigh view of marchers along 15th and Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 22,
     "videoStartTimepoint": 0,
@@ -3268,13 +3297,14 @@
       "lat": 38.8911,
       "lng": -77.035
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:13:00.000Z",
     "realTimeStart": "2021-01-06T15:12:00.000Z",
-    "summary": "Parler video sDdHO1VB49Pa",
+    "summary": "Parler video sDdHO1VB49Pa  \n  \nSlow pan of rally goers at Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 19,
     "videoStartTimepoint": 0,
@@ -3337,13 +3367,14 @@
       "lat": 38.8908,
       "lng": -77.0369
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:18:00.000Z",
     "realTimeStart": "2021-01-06T15:18:00.000Z",
-    "summary": "Parler video PhBg4kuTHVLi",
+    "summary": "Parler video PhBg4kuTHVLi  \n  \nRally, mostly poor face visibility, guys in tactical vests at 0:30",
     "suspectTags": [],
     "videoEndTimepoint": 35,
     "videoStartTimepoint": 0,
@@ -3360,13 +3391,14 @@
       "lat": 38.8913,
       "lng": -77.0374
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:20:00.000Z",
     "realTimeStart": "2021-01-06T15:19:00.000Z",
-    "summary": "Parler video 2U6tbzcZD7NQ",
+    "summary": "Parler video 2U6tbzcZD7NQ  \n  \nhigh wide vantage from tree at Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 23,
     "videoStartTimepoint": 0,
@@ -3406,13 +3438,14 @@
       "lat": 38.8922,
       "lng": -77.0362
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:19:00.000Z",
     "realTimeStart": "2021-01-06T15:19:00.000Z",
-    "summary": "Parler video 401g3sjvH1UI",
+    "summary": "Parler video 401g3sjvH1UI  \n  \nRally, lots of faces, close to fence on S side of Ellipse",
     "suspectTags": [],
     "videoEndTimepoint": 19,
     "videoStartTimepoint": 0,
@@ -3498,13 +3531,14 @@
       "lat": 38.8916,
       "lng": -77.0334
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 17:43:12",
     "realTimeEnd": "2021-01-06T15:23:00.000Z",
     "realTimeStart": "2021-01-06T15:22:00.000Z",
-    "summary": "Parler video 2Yk3nUusMZ5M",
+    "summary": "Parler video 2Yk3nUusMZ5M  \n  \nView of rally goers milling around 15th in front of AAHM near WaMo, poor face visibility",
     "suspectTags": [],
     "videoEndTimepoint": 23,
     "videoStartTimepoint": 0,
@@ -3544,14 +3578,17 @@
       "lat": 38.8925,
       "lng": -77.0336
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:24:00.000Z",
     "realTimeStart": "2021-01-06T15:23:00.000Z",
-    "summary": "Parler video wynEdR3TziJm",
-    "suspectTags": [],
+    "summary": "Parler video wynEdR3TziJm  \n  \n#bigmagacamo at 15th and Constitution urging people to go to Capitol",
+    "suspectTags": [
+      "BigMagaCamo"
+    ],
     "videoEndTimepoint": 35,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/wynEdR3TziJm_cvt.mp4",
@@ -3728,13 +3765,14 @@
       "lat": 38.8912,
       "lng": -77.0373
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:29:00.000Z",
     "realTimeStart": "2021-01-06T15:29:00.000Z",
-    "summary": "Parler video skJlzyllttT3",
+    "summary": "Parler video skJlzyllttT3  \n  \nBacks of heads, not many faces, one large dog at 0:14",
     "suspectTags": [],
     "videoEndTimepoint": 17,
     "videoStartTimepoint": 0,
@@ -3916,13 +3954,14 @@
       "lat": 38.8942,
       "lng": -77.0334
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:36:00.000Z",
     "realTimeStart": "2021-01-06T15:36:00.000Z",
-    "summary": "Parler video bCkOoiJFTH0C",
+    "summary": "Parler video bCkOoiJFTH0C  \n  \nContent creator in mask and unmasked female companion walking along street, little other value",
     "suspectTags": [],
     "videoEndTimepoint": 26,
     "videoStartTimepoint": 0,
@@ -4908,13 +4947,14 @@
       "lat": 38.892,
       "lng": -77.0349
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T16:04:00.000Z",
     "realTimeStart": "2021-01-06T16:03:00.000Z",
-    "summary": "Parler video 4bspUiCwULxC",
+    "summary": "Parler video 4bspUiCwULxC  \n  \nSlow pan of rally attendees at Ellipse, good faces",
     "suspectTags": [],
     "videoEndTimepoint": 45,
     "videoStartTimepoint": 0,
@@ -5094,13 +5134,14 @@
       "lat": 38.8916,
       "lng": -77.0332
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T16:07:00.000Z",
     "realTimeStart": "2021-01-06T16:07:00.000Z",
-    "summary": "Parler video bpO11ESzb4Jt",
+    "summary": "Parler video bpO11ESzb4Jt  \n  \nRally goers milling around, posing for selfies in front of AAHM",
     "suspectTags": [],
     "videoEndTimepoint": 21,
     "videoStartTimepoint": 0,
@@ -5220,33 +5261,6 @@
     }
   },
   {
-    "_id": "r6pNHinVwguk",
-    "location": {
-      "lat": 38.8926714,
-      "lng": -77.0110929
-    },
-    "locationName": "Unknown:\n  Unknown Street",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T16:32:00.000Z",
-    "realTimeStart": "2021-01-06T16:11:00.000Z",
-    "summary": "Eddie Block begins livestream. Proud Boys gather, kneel in prayer, and begin march to the Capitol building.",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio"
-    ],
-    "videoEndTimepoint": 1260,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
-    }
-  },
-  {
     "_id": "uSOGzGTJ8oD0",
     "location": {
       "lat": 38.893953962652,
@@ -5335,6 +5349,31 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/wItTIbLfoXBY_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "r6pNHinVwguk",
+    "location": {
+      "lat": 38.889171,
+      "lng": -77.014342
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Union Square",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:14:00.000Z",
+    "realTimeStart": "2021-01-06T16:13:00.000Z",
+    "summary": "Eddie Block begins livestream. March begins near Union Square, by the Capitol Reflecting Pool",
+    "suspectTags": [
+      "EddieBlock"
+    ],
+    "videoEndTimepoint": 47,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -5458,13 +5497,14 @@
       "lat": 38.8922,
       "lng": -77.0383
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-08 04:10:26",
     "realTimeEnd": "2021-01-06T16:19:00.000Z",
     "realTimeStart": "2021-01-06T16:16:00.000Z",
-    "summary": "Parler video jI7hII4LXKlR",
+    "summary": "Parler video jI7hII4LXKlR  \n  \nFootage of Chinese-Americans for Trump, content creator is narrating in another language.",
     "suspectTags": [],
     "videoEndTimepoint": 133,
     "videoStartTimepoint": 0,
@@ -5711,13 +5751,14 @@
       "lat": 38.8918,
       "lng": -77.0368
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T16:18:00.000Z",
     "realTimeStart": "2021-01-06T16:18:00.000Z",
-    "summary": "Parler video OAm3Z4LornPq",
+    "summary": "Parler video OAm3Z4LornPq  \n  \nSlow pan of rally at Ellipse, good faces",
     "suspectTags": [],
     "videoEndTimepoint": 27,
     "videoStartTimepoint": 0,
@@ -6228,34 +6269,6 @@
     }
   },
   {
-    "_id": "i8Mrg9k6cuYU",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T16:38:00.000Z",
-    "realTimeStart": "2021-01-06T16:32:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys arrive at the Capitol building.",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio",
-      "ZachRehlPB"
-    ],
-    "videoEndTimepoint": 1620,
-    "videoStartTimepoint": 1260,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
-    }
-  },
-  {
     "_id": "pOHtrJE08sRE",
     "location": {
       "lat": 38.8921,
@@ -6486,34 +6499,6 @@
     }
   },
   {
-    "_id": "04tjoTDAgqlk",
-    "location": {
-      "lat": 38.8901108,
-      "lng": -77.0073827
-    },
-    "locationName": "Capitol Exterior East:\n  Visitor Staircase NE",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T16:42:00.000Z",
-    "realTimeStart": "2021-01-06T16:38:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys march to east side of Capitol from north grounds",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio",
-      "MilkShakePB"
-    ],
-    "videoEndTimepoint": 1860,
-    "videoStartTimepoint": 1620,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
-    }
-  },
-  {
     "_id": "ejw89PgpIrMY",
     "location": {
       "lat": 38.8913,
@@ -6534,6 +6519,37 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/DcZD1fcn6YU7_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "i8Mrg9k6cuYU",
+    "location": {
+      "lat": 38.8901108,
+      "lng": -77.0073827
+    },
+    "locationName": "Capitol Exterior East:\n  Visitor Staircase NE",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:41:00.000Z",
+    "realTimeStart": "2021-01-06T16:38:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys travel down the NE Visitor Staircase.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "TheSuitPB",
+      "KidRedPB",
+      "ButterfingerPB",
+      "WildDog"
+    ],
+    "videoEndTimepoint": 1665,
+    "videoStartTimepoint": 1481,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -6583,25 +6599,27 @@
     }
   },
   {
-    "_id": "J_UT4wXVcvqs",
+    "_id": "04tjoTDAgqlk",
     "location": {
-      "lat": 38.889818,
-      "lng": -77.006589
+      "lat": 38.8899562,
+      "lng": -77.0072177
     },
-    "locationName": "Capitol Grounds East:\n  East Walkway",
+    "locationName": "Capitol Exterior East:\n  Visitor Center Entry NE",
     "otherTags": [
       "ProudBoys"
     ],
-    "rationale": "This is a smaller clip from 04tjoTDAgqlk, which has its own time-alignment rationale",
-    "realTimeEnd": "2021-01-06T16:40:00.000Z",
-    "realTimeStart": "2021-01-06T16:40:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys march to east side of Capitol from north grounds.  Smaller clip from evidence item 04tjoTDAgqlk",
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:43:00.000Z",
+    "realTimeStart": "2021-01-06T16:41:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys travel from the Visitor Center Entry NE toward 1st St NE. (Eddie Block takes the long path around due to the stairs).",
     "suspectTags": [
-      "WildDog",
-      "EddieBlock"
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "YutYutPB"
     ],
-    "videoEndTimepoint": 1801,
-    "videoStartTimepoint": 1791,
+    "videoEndTimepoint": 1754,
+    "videoStartTimepoint": 1665,
     "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
     "videoDetails": {
       "type": "archiveOrg",
@@ -6688,17 +6706,24 @@
       "ProudBoys"
     ],
     "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T16:50:00.000Z",
-    "realTimeStart": "2021-01-06T16:42:00.000Z",
+    "realTimeEnd": "2021-01-06T16:52:00.000Z",
+    "realTimeStart": "2021-01-06T16:43:00.000Z",
     "summary": "Eddie Block livestream. Proud Boys arrival at the East side of Capitol. They take a group picture on the East Capitol Walkway.",
     "suspectTags": [
       "EddieBlock",
       "JoeBiggs",
       "Rufio",
-      "RevPB"
+      "RevPB",
+      "WildDog",
+      "MilkShakePB",
+      "RemyPB",
+      "TheSuitPB",
+      "KidRedPB",
+      "MohawkPB",
+      "YutYutPB"
     ],
     "videoEndTimepoint": 2340,
-    "videoStartTimepoint": 1860,
+    "videoStartTimepoint": 1754,
     "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
     "videoDetails": {
       "type": "archiveOrg",
@@ -6843,33 +6868,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/IGhJlpaMZ7QE_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "4iJyoaWGctA8",
-    "location": {
-      "lat": 38.89083470240559,
-      "lng": -77.00595486441689
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  1st St NE",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T16:54:00.000Z",
-    "realTimeStart": "2021-01-06T16:50:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys leave East Capitol. Parade down First Street NE to Constitution Ave",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio"
-    ],
-    "videoEndTimepoint": 2610,
-    "videoStartTimepoint": 2340,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -7103,6 +7101,34 @@
     }
   },
   {
+    "_id": "4iJyoaWGctA8",
+    "location": {
+      "lat": 38.88997037473645,
+      "lng": -77.00593344453269
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NE",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:57:00.000Z",
+    "realTimeStart": "2021-01-06T16:52:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys leave East Capitol. Parade down First Street NE to Constitution Ave",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "SouthwestPB"
+    ],
+    "videoEndTimepoint": 2610,
+    "videoStartTimepoint": 2340,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "HoiLkKCvgrMg",
     "location": {
       "lat": 38.892,
@@ -7169,35 +7195,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/FkvvrM19RjN7_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "jZMN7l2FghPo",
-    "location": {
-      "lat": 38.89208,
-      "lng": -77.00687
-    },
-    "locationName": "Unknown:\n  Unknown Street",
-    "otherTags": [
-      "ProudBoys",
-      "OrangeTapeGroup"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T17:10:00.000Z",
-    "realTimeStart": "2021-01-06T16:54:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys parade turns down Constitution Ave",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio",
-      "RevPB"
-    ],
-    "videoEndTimepoint": 3600,
-    "videoStartTimepoint": 2610,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -7887,6 +7884,35 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tO04kKgjW1q4_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "jZMN7l2FghPo",
+    "location": {
+      "lat": 38.8920246472995,
+      "lng": -77.00596563103934
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [
+      "ProudBoys",
+      "OrangeTapeGroup"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T17:06:00.000Z",
+    "realTimeStart": "2021-01-06T16:57:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys parade turns down Constitution Ave",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "RevPB"
+    ],
+    "videoEndTimepoint": 3150,
+    "videoStartTimepoint": 2610,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -8993,6 +9019,37 @@
     }
   },
   {
+    "_id": "fk59B4q-gpik",
+    "location": {
+      "lat": 38.89212485419353,
+      "lng": -77.01440922494527
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. It is estimated that this caused a 3 minute drop in his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:45:00.000Z",
+    "realTimeStart": "2021-01-06T17:06:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys halt for lunch at some food trucks. They linger about. A motorcade drives by and jams Eddie's signal at about 1:20.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "RevPB",
+      "YutYutPB",
+      "SouthwestPB",
+      "USAPB"
+    ],
+    "videoEndTimepoint": 5340,
+    "videoStartTimepoint": 3150,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "pvhrXKE0Uphg",
     "location": {
       "lat": 38.892,
@@ -9289,34 +9346,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/DLrp7deeIqht_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "fk59B4q-gpik",
-    "location": {
-      "lat": 38.892091,
-      "lng": -77.013962
-    },
-    "locationName": "Unknown:\n  Unknown Street",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T17:39:00.000Z",
-    "realTimeStart": "2021-01-06T17:10:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys halt for lunch at some food trucks. They linger about. A motorcade drives by and jams Eddie's signal at about 1:20.",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio",
-      "RevPB"
-    ],
-    "videoEndTimepoint": 5340,
-    "videoStartTimepoint": 3600,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -9900,35 +9929,6 @@
     }
   },
   {
-    "_id": "2YORrQRkQoNU",
-    "location": {
-      "lat": 38.890362,
-      "lng": -77.011655
-    },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
-    "otherTags": [
-      "ProudBoys"
-    ],
-    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
-    "realTimeEnd": "2021-01-06T17:50:00.000Z",
-    "realTimeStart": "2021-01-06T17:39:00.000Z",
-    "summary": "Eddie Block livestream. Proud Boys march continues past Peace Monument and up Pennsylvania Avenue towards the Capitol. Ends with the Proud Boys mingling with the crowd as they approach the Capitol from the West Lawn.",
-    "suspectTags": [
-      "EddieBlock",
-      "JoeBiggs",
-      "Rufio",
-      "RevPB",
-      "Axehole"
-    ],
-    "videoEndTimepoint": 6000,
-    "videoStartTimepoint": 5340,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
-    }
-  },
-  {
     "_id": "6G6R4yAoQg7Y",
     "location": {
       "lat": 38.8918004,
@@ -10049,6 +10049,37 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+    }
+  },
+  {
+    "_id": "2YORrQRkQoNU",
+    "location": {
+      "lat": 38.89212485419353,
+      "lng": -77.01440922494527
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:48:00.000Z",
+    "realTimeStart": "2021-01-06T17:45:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys march continues back down Constitution Ave toward the Capitol. Eddie travels ahead and gets a good shot of the Proud Boys approaching, all of the leadership at teh front.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "RevPB",
+      "Axehole",
+      "YutYutPB",
+      "IdahoPB"
+    ],
+    "videoEndTimepoint": 5497,
+    "videoStartTimepoint": 5340,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -16424,13 +16455,12 @@
       "lat": 38.88998,
       "lng": -77.01247
     },
-    "locationName": "Capitol Grounds West:\n  West Drinking Fountain",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
     "rationale": "Approximate time:  the west plaza seems full but no one is in the Lower West Terrace. Therefore after 1:00pm, prior to 2:38.",
     "realTimeEnd": "2021-01-06T18:52:00.000Z",
     "realTimeStart": "2021-01-06T18:36:00.000Z",
+    "summary": "This crowd watches from afar without trespassing (at least in this video). This section begins at the roundabout at 1st St. NW and moves Southward toward crosswalk and stairs. The Ulysses S. Grant Memorial can be seen on the footage. Nothing of incidence. No one I recognized. Videographer says something about thinking she needs a ticket to get in.",
     "suspectTags": [],
     "videoEndTimepoint": 674,
     "videoStartTimepoint": 361,
@@ -16790,6 +16820,28 @@
     }
   },
   {
+    "_id": "qUCt40STAitU",
+    "location": {
+      "lat": 38.8896947,
+      "lng": -77.0104709
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Barricade",
+    "otherTags": [],
+    "rationale": "The Star Spangled Banner is being sung but the terraces have not yet been breached. The star-spangled banner was sung at 1:39 per his parler: <https://projects.propublica.org/parler-capitol-videos/?id=gj867lWsCvHv>",
+    "realTimeEnd": "2021-01-06T18:39:00.000Z",
+    "realTimeStart": "2021-01-06T18:39:00.000Z",
+    "summary": "Crowd in West Plaza near Media Tower. Tear gas around 1:00 -- looks yellowish. General shots of crowd from lower area below central west entrance. What could be tear gas in the back of the crowd at 4:00. More tear gas around 5:08.  Some are breaching the north scaffolds.",
+    "suspectTags": [],
+    "videoEndTimepoint": 440,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/KZyyCd7Vbyo",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "KZyyCd7Vbyo",
+      "thumbnailUrl": "https://img.youtube.com/vi/KZyyCd7Vbyo/default.jpg"
+    }
+  },
+  {
     "_id": "rWqTfoLNonCw",
     "location": {
       "lat": 38.8899,
@@ -16838,6 +16890,24 @@
       "videoId": "5i6ra90rQDs",
       "thumbnailUrl": "https://img.youtube.com/vi/5i6ra90rQDs/default.jpg"
     }
+  },
+  {
+    "_id": "wK5gEgBCorCI",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [
+      "NeedsSummaryAndTags"
+    ],
+    "rationale": "The #SeditionBillboard is being pushed over the police line as photographed by Lev Radin : <https://www.pacificpressagency.com/preview/1300716>  and noted in the Visual guide to Timing Capitol Siege Footage <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
+    "realTimeEnd": "2021-01-06T18:40:00.000Z",
+    "realTimeStart": "2021-01-06T18:39:00.000Z",
+    "suspectTags": [],
+    "videoEndTimepoint": 49,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://spectee.com/detail/61038"
   },
   {
     "_id": "Yfm48xrmksIc",
@@ -17360,17 +17430,20 @@
   {
     "_id": "NJWMdCSE8vjk",
     "location": {
-      "lat": 38.8898205,
-      "lng": -77.0080791
+      "lat": 38.8908875,
+      "lng": -77.0082352
     },
-    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "locationName": "Capitol Grounds East:\n  NE Plaza",
     "otherTags": [
-      "NeedsSummaryAndTags"
+      "NEBarricadeBreach"
     ],
     "rationale": "Approximate. The mob swarmed the East Plaza and arrived at the base of the Central East steps at approximately 1:59-2:00pm. - this occurs at the 13:50ish mark of this video. source: <https://projects.propublica.org/parler-capitol-videos/?id=Vb5HCAXswehl>",
     "realTimeEnd": "2021-01-06T18:59:00.000Z",
     "realTimeStart": "2021-01-06T18:45:00.000Z",
-    "suspectTags": [],
+    "summary": "Crowd lines the barricades along the Northeast Plaza. Police are holding the line slightly south. No rioters have breached the barricades, and the plaza remains empty apart from a few LEOs until 11:45 (video stamp) when the northernmost crowd breaches the metal barriers.   \n13:45, the crowd slightly south of them follows suit, knocking over the metal barriers and walking across the plaza.   \n12:26 #VIPCamel is seen in the crowd   \nAt 13:12 is seen walking across the plaza toward the steps with the crowd.   \nBy 13:45 the crowd is challenging the LEOs that line stairs.",
+    "suspectTags": [
+      "VipCamel"
+    ],
     "videoEndTimepoint": 830,
     "videoStartTimepoint": 0,
     "videoUrl": "https://youtu.be/ZjLvYqJ2-EM",
@@ -19798,6 +19871,11 @@
   },
   {
     "_id": "tBrTg8CI4vng",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
     "realTimeEnd": "2021-01-06T19:03:00.000Z",
     "realTimeStart": "2021-01-06T19:00:00.000Z",
@@ -24178,6 +24256,23 @@
     }
   },
   {
+    "_id": "PrPI6rXloqwE",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809227896/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:28:00.000Z",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "#NWScaffoldCommander",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
+  },
+  {
     "_id": "QjP1KfpcEiB4",
     "location": {
       "lat": 38.8902,
@@ -24224,6 +24319,23 @@
     }
   },
   {
+    "_id": "Y9wZEvpkQnSU",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486003/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:28:00.000Z",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "#NWScaffoldCommander, face photo",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
+  },
+  {
     "_id": "_O_bFKJpItnk",
     "location": {
       "lat": 38.8898168,
@@ -24245,6 +24357,23 @@
       "type": "tweet",
       "tweetId": "1346948950385958917"
     }
+  },
+  {
+    "_id": "jaDrIUjPMtw8",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486003/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:28:00.000Z",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "#NWScaffoldCommander, clearer face photo",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
   },
   {
     "_id": "lIlXUuy24nOs",
@@ -24651,6 +24780,27 @@
       "type": "youtube",
       "videoId": "qhIN5E35dZc",
       "thumbnailUrl": "https://img.youtube.com/vi/qhIN5E35dZc/default.jpg"
+    }
+  },
+  {
+    "_id": "11iBc65XQr7I",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "West Plaza appears to be breached but no one has made it up to the Lower West Terrace as of yet.  Per: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
+    "realTimeEnd": "2021-01-06T19:30:00.000Z",
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
+    "suspectTags": [],
+    "videoEndTimepoint": 154,
+    "videoStartTimepoint": 135,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
     }
   },
   {
@@ -27594,6 +27744,23 @@
     }
   },
   {
+    "_id": "lEOSV48k0gXU",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50832492696/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:42:00.000Z",
+    "realTimeStart": "2021-01-06T19:42:00.000Z",
+    "summary": "#NWScaffoldCommander",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
+  },
+  {
     "_id": "nG34tJVsUhXY",
     "location": {
       "lat": 38.8905,
@@ -28843,6 +29010,23 @@
     }
   },
   {
+    "_id": "99hy0gcyYuaQ",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344492/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:48:00.000Z",
+    "realTimeStart": "2021-01-06T19:48:00.000Z",
+    "summary": "#NWScaffoldCommander",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
+  },
+  {
     "_id": "JHjqPBfmMqXk",
     "location": {
       "lat": 38.8911,
@@ -28887,6 +29071,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/kneFRcEfGSQC_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "fhjjLRMIAjMI",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344492/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8898168,
+      "lng": -77.0104186
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T19:48:00.000Z",
+    "realTimeStart": "2021-01-06T19:48:00.000Z",
+    "summary": "#NWScaffoldCommander",
+    "suspectTags": [
+      "NWScaffoldCommander"
+    ]
   },
   {
     "_id": "jgFEYmRE4tG0",
@@ -38653,6 +38854,23 @@
     }
   },
   {
+    "_id": "m8ZrQc1B4umI",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344682/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T21:15:00.000Z",
+    "realTimeStart": "2021-01-06T21:15:00.000Z",
+    "summary": "#PinStripeBoilerSuit, lower right",
+    "suspectTags": [
+      "PinStripeBoilerSuit"
+    ]
+  },
+  {
     "_id": "xTl0EjnJUjSk",
     "location": {
       "lat": 38.89090480610395,
@@ -38712,6 +38930,21 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/0261f0TEn46K_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "LdSSWXeqQsJc",
+    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486113/in/album-72157717762393361/",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [],
+    "rationale": "EXIF, but subtract one hour for the autumn time change",
+    "realTimeEnd": "2021-01-06T21:16:00.000Z",
+    "realTimeStart": "2021-01-06T21:16:00.000Z",
+    "summary": "group attacking police officer on East side",
+    "suspectTags": []
   },
   {
     "_id": "lUrUnga4wthU",
@@ -39045,6 +39278,11 @@
   {
     "_id": "FWAiAydHclPs",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230465071?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "realTimeStart": "2021-01-06T21:26:00.000Z",
     "summary": "being extracted from tunnel after being trapped",
@@ -42216,6 +42454,11 @@
   {
     "_id": "37q308yfQq78",
     "imageUrl": "https://media.gettyimages.com/photos/flashbang-grenade-explodes-as-law-enforcement-push-back-demonstrators-picture-id1230459273?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "realTimeStart": "2021-01-06T22:04:00.000Z",
     "summary": "leaving at the end of Phase III",
@@ -42275,6 +42518,11 @@
   {
     "_id": "WMeYXLARkpSI",
     "imageUrl": "https://media.gettyimages.com/photos/flashbang-grenade-explodes-as-law-enforcement-push-back-demonstrators-picture-id1230459453?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "realTimeStart": "2021-01-06T22:04:00.000Z",
     "summary": "leaving at the end of Phase III",
@@ -42982,28 +43230,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/DJzdPcAuKKwU_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "qphO4FinMioE",
-    "location": {
-      "lat": 38.8898126,
-      "lng": -77.0103012
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T22:10:00.000Z",
-    "realTimeStart": "2021-01-06T22:10:00.000Z",
-    "summary": "Eddie Block livestream. It is dark, Eddie remains on the largely empty West Plaza facing the media tower. Video follows Eddie's trek through DC Streets.",
-    "suspectTags": [
-      "EddieBlock"
-    ],
-    "videoEndTimepoint": 2478,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Cops+r+here+-+(2478s)+%5B1280x720%5D+%5BaCOH1ZLucOM%5D.mkv#",
-    "videoDetails": {
-      "type": "archiveOrg",
-      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Cops+r+here+-+(2478s)+%5B1280x720%5D+%5BaCOH1ZLucOM%5D.mkv"
     }
   },
   {
@@ -44883,6 +45109,11 @@
   {
     "_id": "-LbZgjR0shFw",
     "imageUrl": "https://image.shutterstock.com/shutterstock/photos/1889190715/display_1500/stock-photo-washington-dc-january-pro-trump-protesters-seen-inside-capitol-building-as-they-enter-1889190715.jpg",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "summary": "consulting with #CommanderBlueHoodie",
     "suspectTags": [
@@ -44984,6 +45215,11 @@
   {
     "_id": "0EIs64MigrKk",
     "imageUrl": "https://media.gettyimages.com/photos/law-enforcement-use-a-smoke-grenade-in-attempt-to-push-back-at-the-picture-id1230459389?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "OrangeHoodieRedHat"
@@ -45019,24 +45255,6 @@
     "suspectTags": [
       "SleevelessRedTattoos"
     ]
-  },
-  {
-    "_id": "11iBc65XQr7I",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "summary": "Instagram Story archive for wheres.finn. Crowd in the West Plaza after police lines have been breached.",
-    "suspectTags": [],
-    "videoEndTimepoint": 154,
-    "videoStartTimepoint": 135,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
-    }
   },
   {
     "_id": "149jqzejEo-k",
@@ -45136,6 +45354,11 @@
   {
     "_id": "2AYmLjS_Aoqc",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230465318?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "PinStripeBoilerSuit"
@@ -45144,6 +45367,11 @@
   {
     "_id": "2J9BVY3Tck1c",
     "imageUrl": "https://media.gettyimages.com/photos/trump-supporters-clash-with-police-and-security-forces-as-people-try-picture-id1230734366?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "shows Louisiana flag patch on front of armor",
     "suspectTags": [
@@ -45172,6 +45400,11 @@
   },
   {
     "_id": "2wQ4cG1bEsj8",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "LittleBlondeGreyHood",
@@ -45303,6 +45536,11 @@
   {
     "_id": "4hlP5NYqwjno",
     "imageUrl": "https://media.gettyimages.com/photos/trump-supporters-clash-with-police-and-security-forces-as-people-try-picture-id1230733999?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "striking police with baton",
     "suspectTags": [
@@ -45312,6 +45550,11 @@
   {
     "_id": "53kwxIv1It3w",
     "imageUrl": "https://beverlypress.com/wp-content/uploads/2021/01/CapitolRioting.GinaBisignano2.png",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "suspectTags": [
       "CommanderCamo"
@@ -45475,6 +45718,11 @@
   {
     "_id": "6g9cn790Io_E",
     "imageUrl": "https://media.gettyimages.com/photos/protesters-seen-all-over-capitol-building-where-protrump-supporters-picture-id1230465344?s=2048x2048",
+    "location": {
+      "lat": 38.8899627,
+      "lng": -77.0099712
+    },
+    "locationName": "Capitol Exterior West:\n  NW Riser",
     "otherTags": [],
     "suspectTags": [
       "BlueHoodieGreyHat",
@@ -45542,6 +45790,11 @@
   {
     "_id": "74RDeTxGQkjs",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230465064?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "crouched in tunnel opening during rescue",
     "suspectTags": [
@@ -45620,20 +45873,6 @@
       "type": "tweet",
       "tweetId": "1352770576885182467"
     }
-  },
-  {
-    "_id": "99hy0gcyYuaQ",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344492/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
   },
   {
     "_id": "9Bv24pChQkFs",
@@ -45756,8 +45995,8 @@
   {
     "_id": "B2tM6fRqUpoA",
     "location": {
-      "lat": 38.8926714,
-      "lng": -77.0110929
+      "lat": 38.8923571,
+      "lng": -77.0400281
     },
     "locationName": "Unknown:\n  Unknown Street",
     "otherTags": [
@@ -45955,6 +46194,11 @@
   {
     "_id": "CcP92oC5Mj64",
     "imageUrl": "https://media.gettyimages.com/photos/supporter-of-us-president-donald-trump-wears-a-gas-mask-as-he-after-picture-id1230455721?s=2048x2048",
+    "location": {
+      "lat": 38.890827,
+      "lng": -77.0087771
+    },
+    "locationName": "Capitol Exterior North:\n  North Portico",
     "otherTags": [],
     "suspectTags": [
       "FlagFaceMarine"
@@ -45963,6 +46207,11 @@
   {
     "_id": "CjIAQ1xd8tIs",
     "imageUrl": "https://media.gettyimages.com/photos/police-use-tear-gas-around-capitol-building-where-protrump-supporters-picture-id1230464979?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "to right of tunnel entrance",
     "suspectTags": [
@@ -46096,6 +46345,11 @@
   {
     "_id": "EzXhKlgt4sMA",
     "imageUrl": "https://www.flickr.com/photos/37527185@N05/50820536338/",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
     "summary": "Press pass and a MAGA hat, looks like the name may be Paul Floyd",
     "suspectTags": []
@@ -46232,6 +46486,11 @@
   {
     "_id": "Ga8mBJY_otAI",
     "imageUrl": "https://news.wttw.com/sites/default/files/styles/full/public/field/image/CNN_DC_Charges_010721.jpg?itok=tOaiBSna",
+    "location": {
+      "lat": 38.8908019,
+      "lng": -77.0088724
+    },
+    "locationName": "Capitol Exterior North:\n  North Doors",
     "otherTags": [],
     "suspectTags": [
       "FlagFaceMarine"
@@ -46411,6 +46670,11 @@
   },
   {
     "_id": "IwVSfcjoYgCc",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "Series of videos of #LouisVuitton on megaphone calling for weapons and angry patriots to step up. She was at the Lower Terrace West Arch Entrance to tunnel and then stood by the window to the left of the steps. She also says her name and business through the megaphone.",
     "suspectTags": [
@@ -46518,6 +46782,11 @@
   {
     "_id": "JVaPhDcTQrH4",
     "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Demonstrators_clash_with_police_at_US_Capitol-1.jpg?quality=90&strip=all&w=1236&h=820&crop=1",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "3rd tunnel attack, throwing pylon at police",
     "suspectTags": [
@@ -46662,13 +46931,6 @@
       "videoId": "6TWSf73fWr0",
       "thumbnailUrl": "https://img.youtube.com/vi/6TWSf73fWr0/default.jpg"
     }
-  },
-  {
-    "_id": "LdSSWXeqQsJc",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486113/in/album-72157717762393361/",
-    "otherTags": [],
-    "summary": "group attacking police officer on East side",
-    "suspectTags": []
   },
   {
     "_id": "LeYNZqrBMnRw",
@@ -47125,20 +47387,6 @@
     }
   },
   {
-    "_id": "PrPI6rXloqwE",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809227896/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
-  },
-  {
     "_id": "Q-jcjYpkYjfM",
     "imageUrl": "https://www.flickr.com/photos/randallartphotos/50836747266/in/album-72157717895372853/",
     "otherTags": [],
@@ -47249,6 +47497,11 @@
   {
     "_id": "R0il12beQklQ",
     "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2021/01/capitol-riot-20.jpg?quality=90&strip=all&w=1236&h=820&crop=1",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "3rd tunnel attack, throwing pylon at police",
     "suspectTags": [
@@ -47318,6 +47571,11 @@
   {
     "_id": "RY6kyYdGwm5w",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrator-wears-an-american-flag-mask-during-a-protest-at-the-us-picture-id1230457707?s=2048x2048",
+    "location": {
+      "lat": 38.890827,
+      "lng": -77.0087771
+    },
+    "locationName": "Capitol Exterior North:\n  North Portico",
     "otherTags": [],
     "suspectTags": [
       "FlagFaceMarine"
@@ -47392,6 +47650,11 @@
   {
     "_id": "SU_kfxIQMqQE",
     "imageUrl": "https://media.gettyimages.com/videos/trump-supporters-outside-the-us-capitol-hill-building-for-the-million-video-id1295316459",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "summary": "gesturing people to go in the window",
     "suspectTags": [
@@ -47401,6 +47664,11 @@
   {
     "_id": "SYs2umProux8",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230465266?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "just to left of tunnel entrance",
     "suspectTags": [
@@ -47473,6 +47741,11 @@
   {
     "_id": "UBz-Kyx44vmk",
     "imageUrl": "https://media.gettyimages.com/videos/donald-trump-supporters-storm-the-united-states-capitol-building-usa-video-id1295317197",
+    "location": {
+      "lat": 38.8898193,
+      "lng": -77.0086116
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
     "otherTags": [],
     "summary": "Leaving Capitol East front doors",
     "suspectTags": [
@@ -47528,6 +47801,11 @@
   {
     "_id": "UyS7a3cVwsPA",
     "imageUrl": "https://image.shutterstock.com/z/stock-photo-washington-dc-january-rioters-clash-with-police-trying-to-enter-capitol-building-1889190796.jpg",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "BlackHandedRedHood",
@@ -47719,8 +47997,8 @@
   {
     "_id": "XcHWJgQZQrgo",
     "location": {
-      "lat": 38.8926714,
-      "lng": -77.0110929
+      "lat": 38.8942675,
+      "lng": -77.0462675
     },
     "locationName": "Unknown:\n  Unknown Street",
     "otherTags": [],
@@ -47740,6 +48018,11 @@
   {
     "_id": "XfpTim_LgkIY",
     "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Protest9.jpg?quality=90&strip=all&w=1286",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "pushing match with #Slickback while trying to reach police",
     "suspectTags": [
@@ -47782,20 +48065,6 @@
       "type": "tweet",
       "tweetId": "1346945637812559872"
     }
-  },
-  {
-    "_id": "Y9wZEvpkQnSU",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486003/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander, face photo",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
   },
   {
     "_id": "YAsloaBzQjMk",
@@ -47920,6 +48189,11 @@
   {
     "_id": "Z41DKoTaUtmE",
     "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2021/01/capitol-riot-22.jpg?quality=90&strip=all&w=1286",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "assault on police officer",
     "suspectTags": [
@@ -48036,26 +48310,6 @@
     }
   },
   {
-    "_id": "am4P1JIP4g-I",
-    "locationName": "Various",
-    "otherTags": [],
-    "summary": "Rally, march down Pennsylvania Avenue, West Plaza, West Steps, Arch Entrance on Lower West Terrace. After the attack on officer B.A. Miller. Relevant begins at about 20 min mark. #Scallops seen at the 39:09 mark at right of screen. Around 20 minutes in shows the entrance where the police officer was grabbed and dragged to the floor",
-    "suspectTags": [
-      "BullhornLady",
-      "Scallops",
-      "LittleBrownBeard",
-      "BuffLightYear"
-    ],
-    "videoEndTimepoint": 5955,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "vTXOkcwYxvE",
-      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
-    }
-  },
-  {
     "_id": "amGasyAKAhHo",
     "location": {
       "lat": 38.89214,
@@ -48078,6 +48332,11 @@
   {
     "_id": "bNxaa7fX8tPY",
     "imageUrl": "https://media.gettyimages.com/photos/trump-supporters-clash-with-police-and-security-forces-as-people-try-picture-id1230734062?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "BuffLightYear"
@@ -48086,6 +48345,11 @@
   {
     "_id": "bXPIdHmR8r0M",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrators-attack-law-enforcement-with-furniture-in-an-attempt-to-picture-id1230459643?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "OrangeHoodieRedHat"
@@ -48191,6 +48455,11 @@
   {
     "_id": "c8D4JjFYQuiU",
     "imageUrl": "https://media.gettyimages.com/videos/trump-supporters-outside-the-us-capitol-hill-building-for-the-million-video-id1295311711",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "Tomas Abad for Getty Images",
     "suspectTags": [
@@ -48295,6 +48564,11 @@
   {
     "_id": "dj2KtmvY4gVY",
     "imageUrl": "https://media.gettyimages.com/photos/protesters-seen-all-over-capitol-building-where-protrump-supporters-picture-id1230465281?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
       "BlackHandedRedHood"
@@ -48478,20 +48752,6 @@
     ]
   },
   {
-    "_id": "fhjjLRMIAjMI",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344492/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
-  },
-  {
     "_id": "fvsBmY_iQibY",
     "otherTags": [],
     "summary": "The Black Conservative Preacher was live6",
@@ -48507,6 +48767,11 @@
   {
     "_id": "g8EKX5QbIps4",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrators-clash-with-law-enforcement-as-they-attempt-to-enter-the-picture-id1230459601?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "#GreenNewsboy #PinstripeBoilersuit",
     "suspectTags": [
@@ -48559,6 +48824,11 @@
   {
     "_id": "h7tziJ67ArQI",
     "imageUrl": "https://media.gettyimages.com/photos/trump-supporters-clash-with-police-and-security-forces-as-they-storm-picture-id1230455280?s=2048x2048",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
     "suspectTags": [
       "BullhornLady"
@@ -48721,20 +48991,6 @@
     }
   },
   {
-    "_id": "jaDrIUjPMtw8",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50808486003/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander, clearer face photo",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
-  },
-  {
     "_id": "jh_mjKKtgg_8",
     "location": {
       "lat": 38.89356,
@@ -48756,6 +49012,11 @@
   {
     "_id": "jmMQqC1Ucnj8",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230464942?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "just to left of tunnel entrance",
     "suspectTags": [
@@ -48798,6 +49059,11 @@
   {
     "_id": "kfrrLSYDEvvY",
     "imageUrl": "https://media.gettyimages.com/photos/police-use-tear-gas-around-capitol-building-where-protrump-supporters-picture-id1230465086?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "climbing in window - syncs with 1:38 in Instagram video",
     "suspectTags": [
@@ -48847,20 +49113,6 @@
     }
   },
   {
-    "_id": "lEOSV48k0gXU",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50832492696/in/album-72157717762393361/",
-    "location": {
-      "lat": 38.8898168,
-      "lng": -77.0104186
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
-    "otherTags": [],
-    "summary": "#NWScaffoldCommander",
-    "suspectTags": [
-      "NWScaffoldCommander"
-    ]
-  },
-  {
     "_id": "lKw1zCzfYvAQ",
     "imageUrl": "https://www.flickr.com/photos/blinkofanaye/50809391447/in/album-72157717767349052/",
     "location": {
@@ -48877,6 +49129,11 @@
   {
     "_id": "lSRcd8shwuY0",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrator-shoots-a-chemical-irritant-at-law-enforcement-in-an-to-picture-id1230459251?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "with #OrangeHoodieRedHat next to #LittleBrownBeard",
     "suspectTags": [
@@ -49001,17 +49258,13 @@
     }
   },
   {
-    "_id": "m8ZrQc1B4umI",
-    "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344682/in/album-72157717762393361/",
-    "otherTags": [],
-    "summary": "#PinStripeBoilerSuit, lower right",
-    "suspectTags": [
-      "PinStripeBoilerSuit"
-    ]
-  },
-  {
     "_id": "mf9rGZqwkng8",
     "imageUrl": "https://media.gettyimages.com/photos/supporters-of-us-president-donald-trump-protest-inside-the-us-capitol-picture-id1230734223?s=2048x2048",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0090725
+    },
+    "locationName": "Capitol Interior Central:\n  Crypt",
     "otherTags": [],
     "suspectTags": [
       "FlagFaceMarine"
@@ -49184,26 +49437,12 @@
     }
   },
   {
-    "_id": "qUCt40STAitU",
-    "location": {
-      "lat": 38.8896947,
-      "lng": -77.0104709
-    },
-    "locationName": "Capitol Exterior West:\n  West Plaza Barricade",
-    "otherTags": [],
-    "summary": "Crowd in West Plaza near Media Tower. Tear gas around 1:00 -- looks yellowish. General shots of crowd from lower area below central west entrance. What could be tear gas in the back of the crowd at 4:00. More tear gas around 5:08.  Some are breaching the north scaffolds.",
-    "suspectTags": [],
-    "videoEndTimepoint": 440,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/KZyyCd7Vbyo",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "KZyyCd7Vbyo",
-      "thumbnailUrl": "https://img.youtube.com/vi/KZyyCd7Vbyo/default.jpg"
-    }
-  },
-  {
     "_id": "qwXfxa4tYpBA",
+    "location": {
+      "lat": 38.8898084,
+      "lng": -77.0101891
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Stage",
     "otherTags": [
       "Violence"
     ],
@@ -49241,6 +49480,11 @@
   {
     "_id": "rI9ijPq3grqc",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230464990?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "waiting to pull someone out of the tunnel",
     "suspectTags": [
@@ -49250,6 +49494,11 @@
   {
     "_id": "rKptLS05konU",
     "imageUrl": "https://image.shutterstock.com/z/stock-photo-washington-dc-january-rioters-clash-with-police-trying-to-enter-capitol-building-1889190778.jpg",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "assault on police officer",
     "suspectTags": [
@@ -49402,6 +49651,11 @@
   {
     "_id": "s_Xvfps_0rys",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230464880?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "waiting to pull someone out of the tunnel",
     "suspectTags": [
@@ -49512,6 +49766,11 @@
   {
     "_id": "vcBTQrgAwo0E",
     "imageUrl": "https://media.gettyimages.com/photos/rioters-clash-with-police-trying-to-enter-capitol-building-through-picture-id1230465307?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "waiting to pull someone (#BlackHatStripedBuff?) out of the tunnel",
     "suspectTags": [
@@ -49527,21 +49786,6 @@
     "suspectTags": [
       "FlagFaceMarine"
     ]
-  },
-  {
-    "_id": "wK5gEgBCorCI",
-    "location": {
-      "lat": 38.8898126,
-      "lng": -77.0103012
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 49,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://spectee.com/detail/61038"
   },
   {
     "_id": "wWR3pQ1bcopk",
@@ -49565,6 +49809,11 @@
   {
     "_id": "waujFb_J0qCc",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrators-attempt-to-enter-the-us-capitol-building-during-a-in-picture-id1230459654?s=2048x2048",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "in crowd below tunnel entrance",
     "suspectTags": [
@@ -49823,6 +50072,11 @@
   {
     "_id": "zJ-jaenoEmnM",
     "imageUrl": "https://i.dailymail.co.uk/1s/2021/01/07/06/37709056-9120657-image-m-53_1610000285098.jpg",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "summary": "during tunnel assault",
     "suspectTags": [
