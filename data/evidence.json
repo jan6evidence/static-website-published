@@ -806,6 +806,28 @@
     }
   },
   {
+    "_id": "qUrVwigsMqo4",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Gives date/time in video",
+    "realTimeEnd": "2021-01-06T13:36:00.000Z",
+    "realTimeStart": "2021-01-06T13:30:00.000Z",
+    "summary": "No Antifa/No Violence...White House Rally Pt. 1.. Washington DC  \nPeanut 411  \n  \nA lot of walking around, didn't recognize anyone",
+    "suspectTags": [],
+    "videoEndTimepoint": 385,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/GL8DER3DoYE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "GL8DER3DoYE",
+      "thumbnailUrl": "https://img.youtube.com/vi/GL8DER3DoYE/default.jpg"
+    }
+  },
+  {
     "_id": "UCSwXYeg8oAE",
     "location": {
       "lat": 38.893953962652,
@@ -1827,6 +1849,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/uKgvM1r7XCW8_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "oq-l8optciws",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Timestamp on screen in video. Note that footage is sped up throughout. End times are estimated.",
+    "realTimeEnd": "2021-01-06T14:45:00.000Z",
+    "realTimeStart": "2021-01-06T14:20:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher. Arriving at the Washington Monument.  \n1:36 A group seen with a lot of camo clothing.",
+    "suspectTags": [],
+    "videoEndTimepoint": 184,
+    "videoStartTimepoint": 10,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -5377,6 +5421,31 @@
     }
   },
   {
+    "_id": "FiSMgRdSgtAc",
+    "location": {
+      "lat": 38.88851089438252,
+      "lng": -77.0140957351115
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Maryland Avenue SW",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:15:00.000Z",
+    "realTimeStart": "2021-01-06T16:14:00.000Z",
+    "summary": "Eddie Block livestream. March turns down Maryland Avenue SW toward the Capitol.",
+    "suspectTags": [
+      "EddieBlock"
+    ],
+    "videoEndTimepoint": 97,
+    "videoStartTimepoint": 47,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "Xx1fg4te4tAo",
     "location": {
       "lat": 38.8917,
@@ -5420,6 +5489,35 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/V0DgB2ob5jKb_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "n-b0GzQuwgms",
+    "location": {
+      "lat": 38.8889859,
+      "lng": -77.0123266
+    },
+    "locationName": "Capitol Grounds West:\n  Garfield Monument",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:19:00.000Z",
+    "realTimeStart": "2021-01-06T16:15:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys arrive at the Garfield Monument and pause. Rufio seen with a megaphone leading the march with JoeBiggs. They gather around, kneel and say a prayer.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "IdahoPB"
+    ],
+    "videoEndTimepoint": 320,
+    "videoStartTimepoint": 97,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -5793,6 +5891,35 @@
     }
   },
   {
+    "_id": "HYOQNp7DAtEI",
+    "location": {
+      "lat": 38.889337637958604,
+      "lng": -77.01254005395674
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St SW",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:21:00.000Z",
+    "realTimeStart": "2021-01-06T16:19:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys continue march from Garfield Monument along 1st St from SW to NW.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "IdahoPB"
+    ],
+    "videoEndTimepoint": 441,
+    "videoStartTimepoint": 320,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "ciWjFo6DskWQ",
     "location": {
       "lat": 38.8915,
@@ -5813,6 +5940,36 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/423yzZ0D9J0P_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "qwCWWtG-Unuw",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:24:00.000Z",
+    "realTimeStart": "2021-01-06T16:21:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys circle the East side of the Peace Monument.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "WildDog",
+      "SkinheadMikePB"
+    ],
+    "videoEndTimepoint": 616,
+    "videoStartTimepoint": 441,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -5972,6 +6129,37 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/RTIBsAQDRfem_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "3jmHWAfogr1w",
+    "location": {
+      "lat": 38.892201937780975,
+      "lng": -77.0120894428555
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:30:00.000Z",
+    "realTimeStart": "2021-01-06T16:24:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys cross turn down Constitution Ave heading toward Upper Senate Park. They pause briefly at the 11 minute mark for a picture. Lots of white power signs flashed.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "SkinheadMikePB",
+      "IdahoPB",
+      "YutYutPB"
+    ],
+    "videoEndTimepoint": 984,
+    "videoStartTimepoint": 616,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -6223,6 +6411,38 @@
     }
   },
   {
+    "_id": "Ew8VoXnPAo00",
+    "location": {
+      "lat": 38.892110081560716,
+      "lng": -77.00818414644829
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:32:00.000Z",
+    "realTimeStart": "2021-01-06T16:30:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys pause at the intersection of Delaware Ave and Constitution Ave NW. They turn down Delaware Ave toward the Capitol.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "YutYutPB",
+      "USAPB",
+      "TheBabysitter",
+      "SkinheadMikePB"
+    ],
+    "videoEndTimepoint": 1108,
+    "videoStartTimepoint": 984,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "G8Zb5GfYguJs",
     "location": {
       "lat": 38.8921,
@@ -6243,6 +6463,38 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/UrD1KUHibZKT_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "QnUfGnnIQpUg",
+    "location": {
+      "lat": 38.891467084708246,
+      "lng": -77.00831289247488
+    },
+    "locationName": "Capitol Grounds North:\n  Delaware Ave",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:33:00.000Z",
+    "realTimeStart": "2021-01-06T16:32:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys at the intersection of Delaware Ave and Northeast Dr. They turn down Northeast Dr, walking away from the Capitol building. They pass IAmBlakeMarnell (Brick Suit) at 18:52. At 19:10 they turn off of Delaware Ave and travel toward the NE Lawn Media Pen.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "YutYutPB",
+      "SkinheadMikePB",
+      "IAmBlakeMarnell",
+      "StarsGaiterPB"
+    ],
+    "videoEndTimepoint": 1178,
+    "videoStartTimepoint": 1108,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -6335,6 +6587,41 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/CC0iavGPRx9W_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "endhhCX98l9c",
+    "location": {
+      "lat": 38.8908125,
+      "lng": -77.0071278
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.",
+    "realTimeEnd": "2021-01-06T16:38:00.000Z",
+    "realTimeStart": "2021-01-06T16:33:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys cross the NE Lawn, the Capitol is to their right. At 20:43 they pass the NE Lawn Media Pen. They pause at 21:14 for another photo.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "ZachRehlPB",
+      "YutYutPB",
+      "SkinheadMikePB",
+      "WildDog",
+      "Axehole",
+      "TheBrat",
+      "TheBabysitter",
+      "MrMustardPB"
+    ],
+    "videoEndTimepoint": 1481,
+    "videoStartTimepoint": 1178,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -6868,6 +7155,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/IGhJlpaMZ7QE_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "Ay5OM-0-sjzg",
+    "location": {
+      "lat": 38.8918004,
+      "lng": -77.0164897
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:49:00.000Z",
+    "realTimeStart": "2021-01-06T16:48:00.000Z",
+    "summary": "Facebook live stream by hyperbole.  \nFilmer walking toward west side of Capitol",
+    "suspectTags": [],
+    "videoEndTimepoint": 86,
+    "videoStartTimepoint": 1,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
     }
   },
   {
@@ -9867,7 +10176,11 @@
   },
   {
     "_id": "IS29td7CQt-E",
-    "locationName": "Ellipse",
+    "location": {
+      "lat": 38.893953962652,
+      "lng": -77.036636855875
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [],
     "rationale": "Timing is approximate, could be lined up with transcript of Trump speech",
     "realTimeEnd": "2021-01-06T17:54:00.000Z",
@@ -10175,6 +10488,35 @@
     }
   },
   {
+    "_id": "DZ1HM_u44m0Q",
+    "location": {
+      "lat": 38.892024647290754,
+      "lng": -77.01217762707955
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:51:00.000Z",
+    "realTimeStart": "2021-01-06T17:48:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys march down 1st St toward the Peace Monument.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "YutYutPB",
+      "Axehole"
+    ],
+    "videoEndTimepoint": 5650,
+    "videoStartTimepoint": 5497,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "dy1paSBQkhXM",
     "location": {
       "lat": 38.8921,
@@ -10216,6 +10558,28 @@
     "videoDetails": {
       "type": "archiveOrg",
       "videoPath": "20210106-information-civil-war-36.0s-576x-1024-6914751838180871429/20210106+-+Information+Civil+War+-+(59.0s)+%5B576x1024%5D+%5B6914758898444422405%5D.mp4"
+    }
+  },
+  {
+    "_id": "Au-5pRotUnKU",
+    "location": {
+      "lat": 38.8897733,
+      "lng": -77.0136254
+    },
+    "locationName": "Capitol Grounds West:\n  Capitol Reflecting Pool",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:51:00.000Z",
+    "realTimeStart": "2021-01-06T17:49:00.000Z",
+    "summary": "Facebook live stream by hyperbole.   \nSome people notice a news crew & surround them, chanting USA",
+    "suspectTags": [],
+    "videoEndTimepoint": 210,
+    "videoStartTimepoint": 86,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
     }
   },
   {
@@ -10331,6 +10695,28 @@
     }
   },
   {
+    "_id": "KQ1_kxL3Qruk",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:52:00.000Z",
+    "realTimeStart": "2021-01-06T17:51:00.000Z",
+    "summary": "Facebook live stream by hyperbole.",
+    "suspectTags": [],
+    "videoEndTimepoint": 297,
+    "videoStartTimepoint": 210,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
+    }
+  },
+  {
     "_id": "N5wJSUXCgjAw",
     "location": {
       "lat": 38.8900814954,
@@ -10354,6 +10740,36 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/7h0ZDlfUOgbQ_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "P_xPBhRYAhgM",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:53:00.000Z",
+    "realTimeStart": "2021-01-06T17:51:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys arrive at the Peace Monument.",
+    "suspectTags": [
+      "EddieBlock",
+      "JoeBiggs",
+      "Rufio",
+      "YutYutPB",
+      "Axehole",
+      "SouthwestPB"
+    ],
+    "videoEndTimepoint": 5770,
+    "videoStartTimepoint": 5650,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -10473,6 +10889,52 @@
       "type": "youtube",
       "videoId": "DHessyWYXqM",
       "thumbnailUrl": "https://img.youtube.com/vi/DHessyWYXqM/default.jpg"
+    }
+  },
+  {
+    "_id": "uoBDc3zSgjVo",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:53:00.000Z",
+    "realTimeStart": "2021-01-06T17:52:00.000Z",
+    "summary": "Facebook live stream by hyperbole.  \nBullhornLady walking with her purple coated friend",
+    "suspectTags": [
+      "BullhornLady"
+    ],
+    "videoEndTimepoint": 316,
+    "videoStartTimepoint": 297,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
+    }
+  },
+  {
+    "_id": "2x6X8UXbUibU",
+    "location": {
+      "lat": 38.8914859,
+      "lng": -77.0121812
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St NW",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:57:00.000Z",
+    "realTimeStart": "2021-01-06T17:53:00.000Z",
+    "summary": "Facebook live stream by hyperbole.  \nFilmer notices that a barrier has been breached. \"Holy moly.. they broke the barrier. They're going into the Capitol, I think.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 552,
+    "videoStartTimepoint": 316,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
     }
   },
   {
@@ -10621,6 +11083,31 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/PSfBHdR0uPsj_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "Ww5crzmq8gvE",
+    "location": {
+      "lat": 38.8904474,
+      "lng": -77.0115483
+    },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 1st Police Barricade",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:55:00.000Z",
+    "realTimeStart": "2021-01-06T17:53:00.000Z",
+    "summary": "Eddie Block livestream. Proud Boys lead the push down the Pennsylvania Walkway. Eddie cannot go up the walkway due to the steps. He captures footage of people (non-Proud Boys) moving down the Walkway until he can get to the accessible ramp.",
+    "suspectTags": [
+      "EddieBlock"
+    ],
+    "videoEndTimepoint": 5910,
+    "videoStartTimepoint": 5770,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
     }
   },
   {
@@ -10998,6 +11485,31 @@
     }
   },
   {
+    "_id": "MgyJvlGqQugk",
+    "location": {
+      "lat": 38.890387914575804,
+      "lng": -77.01181284661423
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "rationale": "Timestamp Calculation: The 27:01 minute marker in this video aligns with this image from Amy Harris, timestamped 11:40:49  -- <https://www.shutterstock.com/editorial/image-editorial/trump-supporters-protest-certification-of-presidentelect-biden-washington-usa-06-jan-2021-11695563a>.  As a reference point, note the head and leg position of the man in the American flag hat/gaiter and grey hoodie.   \n  \nAt 1 hour 20 minutes Eddie mentions that a motorcade has jammed his signal. Calculations after this time point are estimated. 1 hour 36 minutes roughly correlates with the FirstBarricadeBreach which occured at 12:53 pm.",
+    "realTimeEnd": "2021-01-06T17:57:00.000Z",
+    "realTimeStart": "2021-01-06T17:55:00.000Z",
+    "summary": "Eddie Block livestream. He travels out onto the West Lawn. FirstBarricadeBreach has already occured (there are lots of people on the Pennsylvania Walkway). Feed cuts out just as Eddie arrives at the front of the lawn.",
+    "suspectTags": [
+      "EddieBlock"
+    ],
+    "videoEndTimepoint": 6041,
+    "videoStartTimepoint": 5910,
+    "videoUrl": "https://archive.org/details/20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv#",
+    "videoDetails": {
+      "type": "archiveOrg",
+      "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+Bad+WiFi+in+dc+-+(6041s)+%5B1280x720%5D+%5BoSOsG5kN5wc%5D.mkv"
+    }
+  },
+  {
     "_id": "WgSUpziIMs_A",
     "location": {
       "lat": 38.8912,
@@ -11331,6 +11843,30 @@
     }
   },
   {
+    "_id": "u6B5cMKnAsD4",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T17:58:00.000Z",
+    "realTimeStart": "2021-01-06T17:57:00.000Z",
+    "summary": "Facebook live stream by hyperbole.  \n#GreenNewsboy approaches Capitol w/ crowd",
+    "suspectTags": [
+      "GreenNewsboy"
+    ],
+    "videoEndTimepoint": 655,
+    "videoStartTimepoint": 552,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
+    }
+  },
+  {
     "_id": "CjaInvsZohGo",
     "location": {
       "lat": 38.8898098,
@@ -11472,6 +12008,38 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+    }
+  },
+  {
+    "_id": "puAjBjGOciqY",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "OrangeTapeGroup",
+      "GreenTapeGroup",
+      "SeditionPitchfork",
+      "AZPBs"
+    ],
+    "rationale": "Facebook Timestamp",
+    "realTimeEnd": "2021-01-06T18:32:00.000Z",
+    "realTimeStart": "2021-01-06T17:58:00.000Z",
+    "summary": "Facebook live stream by hyperbole.  \n10:55 #GreenNewsboy with crowd reaches barriers in Lower NW Plaza  \n11:11 One person atop the media tower  \n12:24  #SgtPepperSprayer and associates cut through the crowd  \n17:04 Two men with orange tape on helmets in NW Plaza crowd  \n21:02 At least one participant seems to think Trump is coming to join them: \"They want us to run in and get blamed for it while Trump is on the way here. These are instigators. We need to stand there peacefully.\"  \n23:09 GreenTapeGroup  \n24:37 #AllBlackBabyThor yells forward, and walks through crowd  \n28:56 4-prong pitchfork seen  \n32:22 #HorseshoePB on the right edge of screen  \n37:07 #GreenNewsboy",
+    "suspectTags": [
+      "GreenNewsboy",
+      "SgtPepperSprayer",
+      "Number51PB",
+      "HorseshoePB"
+    ],
+    "videoEndTimepoint": 2738,
+    "videoStartTimepoint": 655,
+    "videoUrl": "https://www.facebook.com/503415183196009/videos/3822950527755733",
+    "videoDetails": {
+      "type": "facebook",
+      "profileId": "503415183196009",
+      "videoId": "3822950527755733"
     }
   },
   {
@@ -11702,6 +12270,28 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346967592871874562"
+    }
+  },
+  {
+    "_id": "I2KTAXFMkg00",
+    "location": {
+      "lat": 38.8918004,
+      "lng": -77.0164897
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
+    "otherTags": [],
+    "rationale": "Timestamp on screen in video. Note that footage is sped up throughout. End times are estimated.",
+    "realTimeEnd": "2021-01-06T19:00:00.000Z",
+    "realTimeStart": "2021-01-06T18:00:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher. Crowds leaving the rally and moving toward the Capitol.",
+    "suspectTags": [],
+    "videoEndTimepoint": 339,
+    "videoStartTimepoint": 184,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -19833,7 +20423,7 @@
     ],
     "realTimeEnd": "2021-01-06T19:09:00.000Z",
     "realTimeStart": "2021-01-06T19:00:00.000Z",
-    "summary": "Closeup Video of Window to left of Arch Entrance area. The first moment that the Capitol windows were broken; close up shots of the people who first broke the windows and entered the Capitol. at 4:07, someone with a  folded paper crawls through window #PaperPlan, at 7:21 #LouisVuitton hugs someone in red. #Slickback and #GreenNewsboy in distance by Arch Entrance,",
+    "summary": "Closeup Video of Window to left of Arch Entrance area. The first moment that the Capitol windows were broken; close up shots of the people who first broke the windows and entered the Capitol. At 4:07, someone with a  folded paper crawls through window #PaperPlan, at 7:21 #GinaBisignano hugs someone in red. #Slickback and #GreenNewsboy in distance by Arch Entrance.",
     "suspectTags": [
       "PippiLongScarf",
       "BlackGlove805",
@@ -20548,6 +21138,26 @@
       "videoId": "UN-La03NHoI",
       "thumbnailUrl": "https://img.youtube.com/vi/UN-La03NHoI/default.jpg"
     }
+  },
+  {
+    "_id": "7f8mhVZQEpg0",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:09:00.000Z",
+    "realTimeStart": "2021-01-06T19:05:00.000Z",
+    "summary": "The Pete Santilli Show  \n0:42 TealFace  \n3:57 BaldEagle",
+    "suspectTags": [
+      "TealFace",
+      "BaldEagle"
+    ],
+    "videoEndTimepoint": 312,
+    "videoStartTimepoint": 42,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "9RT09qflQobM",
@@ -21405,6 +22015,28 @@
     }
   },
   {
+    "_id": "07soSRrXUv7I",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:14:00.000Z",
+    "realTimeStart": "2021-01-06T19:10:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn. People arriving to the Capitol at the Peace Monument.",
+    "suspectTags": [],
+    "videoEndTimepoint": 820,
+    "videoStartTimepoint": 579,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "563L6dGHklMw",
     "location": {
       "lat": 38.889818,
@@ -21564,6 +22196,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/qARMZLFLjYAa_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "_VwF3ChUohLA",
+    "location": {
+      "lat": 38.8900686,
+      "lng": -77.0101871
+    },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:10:00.000Z",
+    "realTimeStart": "2021-01-06T19:10:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer enters NW Scaffold",
+    "suspectTags": [],
+    "videoEndTimepoint": 369,
+    "videoStartTimepoint": 312,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "bv_sQ5SYMpA0",
@@ -21839,6 +22488,28 @@
     }
   },
   {
+    "_id": "nDq7e-AHkpmE",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:12:00.000Z",
+    "realTimeStart": "2021-01-06T19:11:00.000Z",
+    "summary": "The Pete Santilli Show  \n6:09 NeonGingerNS moving up stairs, lower right.  \n6:28 NWStairsPinkBoo ascending NW Stairs  \n6:32 brief gilmpse of #longhornsNS ascending NW Stairs  \n6:48 Joe Biggs ascends NW Stairs",
+    "suspectTags": [
+      "NeonGingerNS",
+      "NWStairsPinkBoo",
+      "LongHornsNS",
+      "JoeBiggs"
+    ],
+    "videoEndTimepoint": 430,
+    "videoStartTimepoint": 369,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
     "_id": "xAV1X1p6klUg",
     "location": {
       "lat": 38.89,
@@ -21883,6 +22554,30 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/g5Yl8ERzrXxe_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "O75pPy_SYiKk",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:17:00.000Z",
+    "realTimeStart": "2021-01-06T19:12:00.000Z",
+    "summary": "The Pete Santilli Show  \n7:10 KevinSeefried  \n7:51 Filmer notes they are breaking in  \n8:10 NeonGingerNS  \n8:31 JoeBiggs, AuntRageFace proudly filming their sedition  \n11:37 GasMaskTwins  \n12:02 GingerYeesuz, GasMaskTwins  \n12:21 NW StairsPinkBoo throws something at officers  \n12:28 filmer yells at officers \"You're traitors. We will hagn your asses\"",
+    "suspectTags": [
+      "KevinSeefried",
+      "NeonGingerNS",
+      "JoeBiggs",
+      "AuntRageFace",
+      "GasMaskTwins",
+      "NWStairsPinkBoo"
+    ],
+    "videoEndTimepoint": 787,
+    "videoStartTimepoint": 430,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "o9HwtJ1cIpA0",
@@ -22214,6 +22909,28 @@
     }
   },
   {
+    "_id": "YLpmdPGlQqlA",
+    "location": {
+      "lat": 38.8906071,
+      "lng": -77.0109611
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:16:00.000Z",
+    "realTimeStart": "2021-01-06T19:14:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn. Filmer climbs over the wall at the back of the Pensylvania Lawn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 958,
+    "videoStartTimepoint": 820,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "mbh22AbckmpA",
     "location": {
       "lat": 38.8902,
@@ -22508,6 +23225,33 @@
     }
   },
   {
+    "_id": "AhWxcfqzoues",
+    "location": {
+      "lat": 38.8905596,
+      "lng": -77.009988
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:22:00.000Z",
+    "realTimeStart": "2021-01-06T19:16:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \n15:58 SgtPepperSprayer  \n18:51 FashProShop  \n21:35 GingerYeezus and EvilWashington",
+    "suspectTags": [
+      "SgtPepperSprayer",
+      "FashProShop",
+      "GingerYeezus",
+      "EvilWashington"
+    ],
+    "videoEndTimepoint": 1325,
+    "videoStartTimepoint": 958,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "IabJFJfgIkxA",
     "location": {
       "lat": 38.8903,
@@ -22754,6 +23498,23 @@
       "type": "tweet",
       "tweetId": "1347218476444901376"
     }
+  },
+  {
+    "_id": "ydrxp0VkUn8s",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:19:00.000Z",
+    "realTimeStart": "2021-01-06T19:18:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer says \"Like I said, I'm in for blood today.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 1268,
+    "videoStartTimepoint": 1165,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "zUq51Z7Dkt94",
@@ -23032,6 +23793,23 @@
     }
   },
   {
+    "_id": "lCLBboYzsp68",
+    "location": {
+      "lat": 38.8903567,
+      "lng": -77.0090601
+    },
+    "locationName": "Capitol Exterior West:\n  NW Door",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:20:00.000Z",
+    "realTimeStart": "2021-01-06T19:20:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer enters through NW door",
+    "suspectTags": [],
+    "videoEndTimepoint": 1297,
+    "videoStartTimepoint": 1268,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
     "_id": "mxZ6xoQWwps8",
     "location": {
       "lat": 38.8899,
@@ -23053,6 +23831,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/d7W6peU7P7SA_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "nnbrhPvGAmQw",
+    "location": {
+      "lat": 38.8926654,
+      "lng": -77.0079887
+    },
+    "locationName": "Unknown:\n  Unknown Capitol Interior",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:20:00.000Z",
+    "realTimeStart": "2021-01-06T19:20:00.000Z",
+    "summary": "The Pete Santilli Show  \n22:05 filmer crosses paths with Steve Baker/Prag. Constitutionalist & he can be seen on Baker's footage at the same time",
+    "suspectTags": [],
+    "videoEndTimepoint": 1335,
+    "videoStartTimepoint": 1297,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "vT0Uq_ZxgvLA",
@@ -23120,6 +23915,23 @@
       "videoId": "UXR_bqyAy4E",
       "thumbnailUrl": "https://img.youtube.com/vi/UXR_bqyAy4E/default.jpg"
     }
+  },
+  {
+    "_id": "FYjDvSULIhTo",
+    "location": {
+      "lat": 38.8901475,
+      "lng": -77.0088292
+    },
+    "locationName": "Capitol Interior Senate Wing:\n  Small Senate Rotunda",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:21:00.000Z",
+    "realTimeStart": "2021-01-06T19:21:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer begins yelling, \"Hey! Hey! We've got to find these underground bunkers. We've got to find these underground caverns. We gotta find them. They're probably hidden behind like a fake-ass wall.\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 1381,
+    "videoStartTimepoint": 1335,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "UfSsouXzIoQA",
@@ -23257,6 +24069,33 @@
     }
   },
   {
+    "_id": "PwlR7gni4qVI",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "SeditionComms",
+      "SeditionWeapons"
+    ],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:24:00.000Z",
+    "realTimeStart": "2021-01-06T19:22:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \n22:05 GreenShirtStairMaster  \n23:13 ClockWorkAlexPB carrying a baton",
+    "suspectTags": [
+      "GreenShirtStairmaster"
+    ],
+    "videoEndTimepoint": 1437,
+    "videoStartTimepoint": 1325,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "QLDpFROJsvMo",
     "location": {
       "lat": 38.889811,
@@ -23302,6 +24141,25 @@
       "videoId": "PfiS8MsfSF4",
       "thumbnailUrl": "https://img.youtube.com/vi/PfiS8MsfSF4/default.jpg"
     }
+  },
+  {
+    "_id": "lfBAdUa6Mpxk",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0090725
+    },
+    "locationName": "Capitol Interior Central:\n  Crypt",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:24:00.000Z",
+    "realTimeStart": "2021-01-06T19:22:00.000Z",
+    "summary": "The Pete Santilli Show  \n24:38 NWStairsPink on her phone",
+    "suspectTags": [
+      "NWStairsPink"
+    ],
+    "videoEndTimepoint": 1541,
+    "videoStartTimepoint": 1381,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "mk9U7cdGEhmY",
@@ -23538,6 +24396,26 @@
     }
   },
   {
+    "_id": "GZn9-zqVYsGw",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0090725
+    },
+    "locationName": "Capitol Interior Central:\n  Crypt",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:27:00.000Z",
+    "realTimeStart": "2021-01-06T19:24:00.000Z",
+    "summary": "The Pete Santilli Show  \n30:05 #PDXPB filming in the Crypt  \n30:39 back of #NWStairsPinkBoo head",
+    "suspectTags": [
+      "PDXPB",
+      "NWStairsPink"
+    ],
+    "videoEndTimepoint": 1993,
+    "videoStartTimepoint": 1805,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
     "_id": "_RQZL02icipo",
     "location": {
       "lat": 38.8906,
@@ -23580,6 +24458,30 @@
       "type": "youtube",
       "videoId": "_E-6bRNfx2c",
       "thumbnailUrl": "https://img.youtube.com/vi/_E-6bRNfx2c/default.jpg"
+    }
+  },
+  {
+    "_id": "ue7J9TKLIj2U",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:25:00.000Z",
+    "realTimeStart": "2021-01-06T19:24:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \n23:57 GadsdenFlagBib  \n24:31 Many of the first rush into the Capitol shown here",
+    "suspectTags": [
+      "GadsdenFlagBib"
+    ],
+    "videoEndTimepoint": 1510,
+    "videoStartTimepoint": 1437,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -23813,6 +24715,28 @@
     }
   },
   {
+    "_id": "q5Z-GeNbgjpM",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:27:00.000Z",
+    "realTimeStart": "2021-01-06T19:25:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn. In the NW Courtyard, people moving along the ramp up through the NW Door.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1625,
+    "videoStartTimepoint": 1477,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "qSppvQhhsgcA",
     "location": {
       "lat": 38.8908,
@@ -23957,6 +24881,28 @@
     }
   },
   {
+    "_id": "GFNbqmhbklQc",
+    "location": {
+      "lat": 38.8903595,
+      "lng": -77.0089714
+    },
+    "locationName": "Capitol Interior Senate Wing:\n  NW Entry Corridor",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:27:00.000Z",
+    "realTimeStart": "2021-01-06T19:27:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \nCamera enters NW Door, briefly in the hallway, goes back outside to tthe NW Courtyard.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1477,
+    "videoStartTimepoint": 1510,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "UkGsNsspUmWk",
     "location": {
       "lat": 38.8854,
@@ -24052,6 +24998,28 @@
       "type": "youtube",
       "videoId": "PfiS8MsfSF4",
       "thumbnailUrl": "https://img.youtube.com/vi/PfiS8MsfSF4/default.jpg"
+    }
+  },
+  {
+    "_id": "mrMpB6M7MnVI",
+    "location": {
+      "lat": 38.8903595,
+      "lng": -77.0089714
+    },
+    "locationName": "Capitol Interior Senate Wing:\n  NW Entry Corridor",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:28:00.000Z",
+    "realTimeStart": "2021-01-06T19:27:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn. Filmer enters the Capitol again through a window in the NW Courtyard. Follows the crowd to the right toward the Crypt.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1708,
+    "videoStartTimepoint": 1625,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -24293,6 +25261,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/GW0AjcMLlz1v_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "Qx9frBSgUvtU",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0090725
+    },
+    "locationName": "Capitol Interior Central:\n  Crypt",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:37:00.000Z",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \n33:10 Steve Baker of the Pragmatic Constitutionalist in his Yorktown cap.  \n35:29 A man vandalizes a display in the Crypt.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2230,
+    "videoStartTimepoint": 1708,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -24555,6 +25545,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/JMiW9EoHfKhS_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "M0OMcvD3MgEo",
+    "location": {
+      "lat": 38.88926,
+      "lng": -77.0090396
+    },
+    "locationName": "Capitol Exterior West:\n  SW Door",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:33:00.000Z",
+    "realTimeStart": "2021-01-06T19:29:00.000Z",
+    "summary": "The Pete Santilli Show  \nAt 37:55 The filmer uses the toilet. fortunately the camera is pointed at the ground for this. The hosts praise his ability to use the toilet",
+    "suspectTags": [],
+    "videoEndTimepoint": 2433,
+    "videoStartTimepoint": 2164,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "Ogko6TDM4qGE",
@@ -25535,6 +26542,25 @@
     }
   },
   {
+    "_id": "dacKL3P5kl7U",
+    "location": {
+      "lat": 38.88960695389188,
+      "lng": -77.00905318230339
+    },
+    "locationName": "Capitol Interior House Wing:\n  Small House Rotunda",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:34:00.000Z",
+    "realTimeStart": "2021-01-06T19:33:00.000Z",
+    "summary": "The Pete Santilli Show  \n40:46 HeartTInsider  \n41:09 Filmer pauses for a selfie with a bust of Washington",
+    "suspectTags": [
+      "HeartTInsider"
+    ],
+    "videoEndTimepoint": 2537,
+    "videoStartTimepoint": 2433,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
     "_id": "1ptPkV1bYi0E",
     "location": {
       "lat": 38.889448,
@@ -25838,6 +26864,23 @@
       "videoId": "PfiS8MsfSF4",
       "thumbnailUrl": "https://img.youtube.com/vi/PfiS8MsfSF4/default.jpg"
     }
+  },
+  {
+    "_id": "IlTyaBTesmaQ",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:35:00.000Z",
+    "realTimeStart": "2021-01-06T19:35:00.000Z",
+    "summary": "The Pete Santilli Show",
+    "suspectTags": [],
+    "videoEndTimepoint": 2557,
+    "videoStartTimepoint": 2537,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "LvjfoZCjAvHg",
@@ -26443,6 +27486,28 @@
     }
   },
   {
+    "_id": "DC8q-Awu4uqs",
+    "location": {
+      "lat": 38.88960695389188,
+      "lng": -77.00905318230339
+    },
+    "locationName": "Capitol Interior House Wing:\n  Small House Rotunda",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:41:00.000Z",
+    "realTimeStart": "2021-01-06T19:37:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2472,
+    "videoStartTimepoint": 2230,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "GcDgZa8Zkk38",
     "location": {
       "lat": 38.8899,
@@ -26533,6 +27598,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/fgGsrrkQeDQh_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "gtf5Ysj8QmSc",
+    "location": {
+      "lat": 38.8894404,
+      "lng": -77.0088463
+    },
+    "locationName": "Capitol Interior House Wing:\n  Statuary Hall",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:38:00.000Z",
+    "realTimeStart": "2021-01-06T19:37:00.000Z",
+    "summary": "The Pete Santilli Show  \n48:00 MarronPB",
+    "suspectTags": [],
+    "videoEndTimepoint": 2880,
+    "videoStartTimepoint": 2803,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "pl0z4-VTsif8",
@@ -26832,6 +27914,44 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/HErrRC01EIav_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "uCrlk1eK8sGU",
+    "location": {
+      "lat": 38.88913095298389,
+      "lng": -77.00902099578487
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Chamber Entrance",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:39:00.000Z",
+    "realTimeStart": "2021-01-06T19:38:00.000Z",
+    "summary": "The Pete Santilli Show",
+    "suspectTags": [],
+    "videoEndTimepoint": 2952,
+    "videoStartTimepoint": 2891,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
+    "_id": "6txVuG8M4voU",
+    "location": {
+      "lat": 38.8891045,
+      "lng": -77.0090404
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Corridor",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:44:00.000Z",
+    "realTimeStart": "2021-01-06T19:39:00.000Z",
+    "summary": "The Pete Santilli Show  \n49:12 BetaKappaMaga and GreyFleeceGadsdenFlag  \n51:17 FilaInsider  \n53:32 Filmer takes some paperwork  \n54:14 Officers shoo the filmer downstairs",
+    "suspectTags": [
+      "BetaKappaMaga",
+      "GreyFleeceGadsdenFlag",
+      "FilaInsider"
+    ],
+    "videoEndTimepoint": 3254,
+    "videoStartTimepoint": 2952,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "B0cYt_rTws-A",
@@ -27485,6 +28605,28 @@
     }
   },
   {
+    "_id": "O8p9w3hTQkP0",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:42:00.000Z",
+    "realTimeStart": "2021-01-06T19:41:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2552,
+    "videoStartTimepoint": 2472,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "RIE7XpyQkvIw",
     "location": {
       "lat": 38.8904,
@@ -27724,6 +28866,28 @@
     }
   },
   {
+    "_id": "eQpQD8jdImV0",
+    "location": {
+      "lat": 38.8894404,
+      "lng": -77.0088463
+    },
+    "locationName": "Capitol Interior House Wing:\n  Statuary Hall",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:43:00.000Z",
+    "realTimeStart": "2021-01-06T19:42:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2580,
+    "videoStartTimepoint": 2552,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "hOnhNnv7Ur4o",
     "location": {
       "lat": 38.8900716,
@@ -27853,6 +29017,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/z32a3bWM4IU5_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "zfrgxAsZciiw",
+    "location": {
+      "lat": 38.88913095298389,
+      "lng": -77.00902099578487
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Chamber Entrance",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:57:00.000Z",
+    "realTimeStart": "2021-01-06T19:43:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \n53:37 Someone tells the filmer that someone has been shot.  \n56:17 Gas is deployed",
+    "suspectTags": [],
+    "videoEndTimepoint": 3437,
+    "videoStartTimepoint": 2580,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -28164,6 +29350,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/QPVWWBfaGylL_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "l-RuCsRmQvHY",
+    "location": {
+      "lat": 38.8890196,
+      "lng": -77.0084706
+    },
+    "locationName": "Capitol Exterior East:\n  SE Doors",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:45:00.000Z",
+    "realTimeStart": "2021-01-06T19:44:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer, scolded downstairs from the 3rd floor to the 2nd, notices blood on the ground.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3396,
+    "videoStartTimepoint": 3283,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "mRZJ-lueojb8",
@@ -28873,6 +30076,38 @@
     }
   },
   {
+    "_id": "Z8GLI16dEtZ4",
+    "location": {
+      "lat": 38.8890196,
+      "lng": -77.0084706
+    },
+    "locationName": "Capitol Exterior East:\n  SE Doors",
+    "otherTags": [],
+    "rationale": "Time is estimated. LaptopCowGramps is seen here at 6:58. Also seen outside in the AAA footage at approximately 3:00 PM. This footage starts after Babbitt's death at 2:44 PM & people present at the shooting are already outside.",
+    "realTimeEnd": "2021-01-06T19:53:00.000Z",
+    "realTimeStart": "2021-01-06T19:46:00.000Z",
+    "summary": "NemosNewsNetwork  \nVarious individuals seen exiting the Capitol via the SE Doors.",
+    "suspectTags": [
+      "PonchoInsider",
+      "DennisSidorski",
+      "PhillipBromley",
+      "ChrisSpencer",
+      "ChristopherOrtiz",
+      "BetaKappaMaga",
+      "GreyFleeceGadsdenFlag",
+      "JolietPipefitter",
+      "ThomasBaranyi",
+      "LaptopCowGramps"
+    ],
+    "videoEndTimepoint": 455,
+    "videoStartTimepoint": 19,
+    "videoUrl": "https://rumble.com/vcydy7-nemos-news-network-exclusive-storming-dc-capitol-jan-6-2021.html",
+    "videoDetails": {
+      "type": "rumble",
+      "embedId": "vac7rj"
+    }
+  },
+  {
     "_id": "khaXZ3EOYvIw",
     "location": {
       "lat": 38.8895,
@@ -28894,6 +30129,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/aliZGu3YsI5q_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "ok7Vd6sf0vuM",
+    "location": {
+      "lat": 38.8891045,
+      "lng": -77.0090404
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Corridor",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:46:00.000Z",
+    "realTimeStart": "2021-01-06T19:46:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer and others, looking for an exit, go down stairs from the 2nd floor to 1st.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3441,
+    "videoStartTimepoint": 3396,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "7MTNVkfm8hkY",
@@ -28961,6 +30213,23 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/QuamW4hp4JQw_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "XSgaWanLosu8",
+    "location": {
+      "lat": 38.8892753,
+      "lng": -77.0086385
+    },
+    "locationName": "Capitol Exterior East:\n  Lower SE Door",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:48:00.000Z",
+    "realTimeStart": "2021-01-06T19:47:00.000Z",
+    "summary": "The Pete Santilli Show  \nFilmer exits using a 1st floor SE door.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3523,
+    "videoStartTimepoint": 3441,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
   },
   {
     "_id": "x4O51kU50p8U",
@@ -29137,6 +30406,23 @@
     }
   },
   {
+    "_id": "sA2nomEv4qMM",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "rationale": "Estimated based on the Capitol Siege Timeline - Long (https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI)",
+    "realTimeEnd": "2021-01-06T19:48:00.000Z",
+    "realTimeStart": "2021-01-06T19:48:00.000Z",
+    "summary": "The Pete Santilli Show",
+    "suspectTags": [],
+    "videoEndTimepoint": 3560,
+    "videoStartTimepoint": 3523,
+    "videoUrl": "https://www.bitchute.com/video/ek5kOvIial7a/"
+  },
+  {
     "_id": "soDRaXzOwu34",
     "location": {
       "lat": 38.8911,
@@ -29294,6 +30580,28 @@
       "type": "youtube",
       "videoId": "DHessyWYXqM",
       "thumbnailUrl": "https://img.youtube.com/vi/DHessyWYXqM/default.jpg"
+    }
+  },
+  {
+    "_id": "68i3TXBNoolc",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Time estimated based on crowds seen in the Upper and Lower West Terraces. Note that there are edits throughout. End times are estimated.",
+    "realTimeEnd": "2021-01-06T20:00:00.000Z",
+    "realTimeStart": "2021-01-06T19:50:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n5:55 View of the West side of the Capitol from Pennsylvania Avenue near the Peace Monument. People seen on the Upper West Plaza and filing the Lower West Plaza.  \n6:48 IAmPhillipAnderson on the Peace Monument",
+    "suspectTags": [],
+    "videoEndTimepoint": 449,
+    "videoStartTimepoint": 339,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -30679,6 +31987,30 @@
     }
   },
   {
+    "_id": "MigtHX42coAM",
+    "location": {
+      "lat": 38.8894404,
+      "lng": -77.0088463
+    },
+    "locationName": "Capitol Interior House Wing:\n  Statuary Hall",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:58:00.000Z",
+    "realTimeStart": "2021-01-06T19:57:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [
+      "YellowGlovesOrangeArmbandPB"
+    ],
+    "videoEndTimepoint": 3492,
+    "videoStartTimepoint": 3437,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "Ootp9fTsIvFE",
     "location": {
       "lat": 38.8903,
@@ -30835,6 +32167,30 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/Kv5stfJPDE5u_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "hpfqoGaHYjsk",
+    "location": {
+      "lat": 38.8891045,
+      "lng": -77.0090404
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Corridor",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T19:59:00.000Z",
+    "realTimeStart": "2021-01-06T19:58:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3541,
+    "videoStartTimepoint": 3492,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -30999,6 +32355,31 @@
     }
   },
   {
+    "_id": "MT5Mt2PP0ptU",
+    "location": {
+      "lat": 38.8891045,
+      "lng": -77.0090404
+    },
+    "locationName": "Capitol Interior House Wing:\n  House Corridor",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:01:00.000Z",
+    "realTimeStart": "2021-01-06T19:59:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \nBrief glimpse of MAGAMessageTaker at a desk in Pelosi's office. RichardBarnett seen in Nancy Pelosi's office.",
+    "suspectTags": [
+      "RichardBarnett",
+      "MAGAmessagetaker"
+    ],
+    "videoEndTimepoint": 3698,
+    "videoStartTimepoint": 3541,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "NIUdZQDWgtkI",
     "location": {
       "lat": 38.89,
@@ -31133,6 +32514,30 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/c7pkKiK235B9_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "4K3qRONx8r3s",
+    "location": {
+      "lat": 38.8906071,
+      "lng": -77.0109611
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T20:15:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nFilmer climbs over wall and onto Pennsylvania Lawn.",
+    "suspectTags": [
+      "KekSmokeShow"
+    ],
+    "videoEndTimepoint": 644,
+    "videoStartTimepoint": 449,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -31753,6 +33158,30 @@
     }
   },
   {
+    "_id": "nPkwz364sjOs",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:03:00.000Z",
+    "realTimeStart": "2021-01-06T20:01:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3791,
+    "videoStartTimepoint": 3698,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "pdez72ZpEmcc",
     "location": {
       "lat": 38.8898,
@@ -31892,6 +33321,32 @@
     }
   },
   {
+    "_id": "yPhQsPzekj7I",
+    "location": {
+      "lat": 38.88960695389188,
+      "lng": -77.00905318230339
+    },
+    "locationName": "Capitol Interior House Wing:\n  Small House Rotunda",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:05:00.000Z",
+    "realTimeStart": "2021-01-06T20:03:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [
+      "JorgeRiley",
+      "KnifeLeather",
+      "UncagedBird"
+    ],
+    "videoEndTimepoint": 3903,
+    "videoStartTimepoint": 3791,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "Jt4CICueos6g",
     "location": {
       "lat": 38.8862,
@@ -31994,7 +33449,7 @@
     "rationale": "Approximate, based on 1:21:21 of this video <https://www.youtube.com/watch?v=0zyjCvDN4Ig&t=59m20s,> benchmarked against other evidence rows using the same video (note the Louis Vuitton sweater)",
     "realTimeEnd": "2021-01-06T20:06:00.000Z",
     "realTimeStart": "2021-01-06T20:05:00.000Z",
-    "summary": "RedHairLookerLady on ledge inside tunnel; LouisVuitton on ledge inside tunnel as well.",
+    "summary": "RedHairLookerLady on ledge inside tunnel; GinaBisignano on ledge inside tunnel as well.",
     "suspectTags": [
       "RedHairLookerLady",
       "BullhornLady",
@@ -32030,6 +33485,36 @@
       "type": "youtube",
       "videoId": "oy6Wyeqvsx0",
       "thumbnailUrl": "https://img.youtube.com/vi/oy6Wyeqvsx0/default.jpg"
+    }
+  },
+  {
+    "_id": "Bj63R5Bp4jtw",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:18:00.000Z",
+    "realTimeStart": "2021-01-06T20:05:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \n1:06:50 #DoobieSmoker, #QCommsGuy, and others smoking in the Rotunda, #Individual4 passes by.  \n1:08:59 A small crowd, including Barnett and UncagedBird push police out of the Rotunda  \n1:16:37 John Strand",
+    "suspectTags": [
+      "QCommsGuy",
+      "DoobieSmoker",
+      "Individual4",
+      "RichardBarnett",
+      "UncagedBird",
+      "AuntRageFace",
+      "1776HatPB"
+    ],
+    "videoEndTimepoint": 4673,
+    "videoStartTimepoint": 3903,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -33458,6 +34943,30 @@
     }
   },
   {
+    "_id": "0zjN4jsNImIo",
+    "location": {
+      "lat": 38.8905596,
+      "lng": -77.009988
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [],
+    "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T20:20:00.000Z",
+    "realTimeStart": "2021-01-06T20:15:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nView of NW Courtyard from NW Lawn. 10:44 KekSmokeshow seen on the NW Courtyard",
+    "suspectTags": [
+      "KekSmokeShow"
+    ],
+    "videoEndTimepoint": 674,
+    "videoStartTimepoint": 644,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
     "_id": "5uTuTIhCAvB8",
     "location": {
       "lat": 38.891,
@@ -33781,6 +35290,28 @@
     }
   },
   {
+    "_id": "-_nAETMvEnCo",
+    "location": {
+      "lat": 38.8897867,
+      "lng": -77.0086484
+    },
+    "locationName": "Capitol Interior Central:\n  East Foyer",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:21:00.000Z",
+    "realTimeStart": "2021-01-06T20:18:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \n1:19:00 Police shut the doors  \n1:21:02 Central East Doors are repopened  \n1:21:14 Filmer exits Capitol",
+    "suspectTags": [],
+    "videoEndTimepoint": 4874,
+    "videoStartTimepoint": 4673,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "4R0s_Qz-ciuI",
     "location": {
       "lat": 38.8896989,
@@ -34066,6 +35597,28 @@
     }
   },
   {
+    "_id": "y1oxN0I60gII",
+    "location": {
+      "lat": 38.891164210228,
+      "lng": -77.0092144456451
+    },
+    "locationName": "Capitol Grounds North:\n  North Lawn",
+    "otherTags": [],
+    "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T20:25:00.000Z",
+    "realTimeStart": "2021-01-06T20:20:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nView of North side of Capitol from the North Lawn.",
+    "suspectTags": [],
+    "videoEndTimepoint": 728,
+    "videoStartTimepoint": 674,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
     "_id": "0i_MubVsUj0Y",
     "location": {
       "lat": 38.8898151,
@@ -34223,6 +35776,32 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/AP1Rxpm2FsWe_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "e9_r6J7iEnFg",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:28:00.000Z",
+    "realTimeStart": "2021-01-06T20:21:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.  \n1:22:32 Walistambo  \n1:25:38 Filmer says that OathKeepers are carrying someone who was injured. Mostly audio, very little visual",
+    "suspectTags": [
+      "Walistambo"
+    ],
+    "videoEndTimepoint": 5264,
+    "videoStartTimepoint": 4874,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -35021,6 +36600,28 @@
     }
   },
   {
+    "_id": "9ljwD9n0In_M",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:38:00.000Z",
+    "realTimeStart": "2021-01-06T20:28:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \nSullivan talking to others about Babbitt shooting",
+    "suspectTags": [],
+    "videoEndTimepoint": 5909,
+    "videoStartTimepoint": 5264,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "rPvpaFn-gkOY",
     "location": {
       "lat": 38.8886,
@@ -35608,6 +37209,33 @@
     }
   },
   {
+    "_id": "X4TUn5Jnsk7Q",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:54:00.000Z",
+    "realTimeStart": "2021-01-06T20:38:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \nAt 1:51:10 DogManOK an dothers clear a path for police walking down East Stairs.",
+    "suspectTags": [
+      "MrExtraCreepy",
+      "GadsdenFlagBib",
+      "LaptopCowGramps",
+      "DogmanOK"
+    ],
+    "videoEndTimepoint": 6847,
+    "videoStartTimepoint": 5909,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "5AKxiqlAMuiI",
     "location": {
       "lat": 38.8883,
@@ -36111,6 +37739,34 @@
     "videoDetails": {
       "type": "googleDrive",
       "driveFileId": "1f1INcArm9vfkWKTM4V-_CypM9YhRcVZx"
+    }
+  },
+  {
+    "_id": "yoVBCvsHcugg",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [
+      "SeditionComms"
+    ],
+    "rationale": "Timestamp Calculation: 16:38 lines up with Parler vid XNohvDluHfmx (timestamped at 3:52 pm). Note there are several edits throughout. Timestamps are estimated.",
+    "realTimeEnd": "2021-01-06T21:00:00.000Z",
+    "realTimeStart": "2021-01-06T20:45:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n15:04 An alternation between officers guarding a north side door & crowd.  \n15:51 Person in large, black coat with teal shoulders and a black baseball cap throws an object at window.  \n16:38 Crowd rushes forward into the North Door.  \n17:12 InGodITrustRioter  \n18:21 FacePaintBlowHard appears to be posing for a video whil the door behind him is overrun.  \n19:11 Gas is deployed out of the North Door.  \n22:47 A man in a grey Carhartt hoodie, red Trump cap, and black backpack holds a communication device to his ear. The device has a cord going into his backpack. #PInkBeret talks to a man in a camo helmet with an American flag heart sticker on the back he is wearing a black coat. #Smiles45(?) leans on a pillar to the left  \n23:12 A man with a tan helmet, tan, fleece-lined coat, goggles & respirator consults with a younger man with goggles",
+    "suspectTags": [
+      "InGodITrustRioter",
+      "FacePaintBlowhard",
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 1410,
+    "videoStartTimepoint": 728,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -36908,6 +38564,28 @@
     }
   },
   {
+    "_id": "-qMODO4xMjzI",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:58:00.000Z",
+    "realTimeStart": "2021-01-06T20:54:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \nGovernment vehicile with a flat tire.",
+    "suspectTags": [],
+    "videoEndTimepoint": 7104,
+    "videoStartTimepoint": 6847,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "E0VwmMQsoqtY",
     "location": {
       "lat": 38.8897,
@@ -37363,6 +39041,30 @@
     }
   },
   {
+    "_id": "tCUg1mfPogp4",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T20:59:00.000Z",
+    "realTimeStart": "2021-01-06T20:58:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.",
+    "suspectTags": [
+      "TreasonIsTiring"
+    ],
+    "videoEndTimepoint": 7159,
+    "videoStartTimepoint": 7104,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
+    }
+  },
+  {
     "_id": "HcWBBBj8AmiU",
     "location": {
       "lat": 38.8899,
@@ -37406,6 +39108,30 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/ZLCE4QPPz3kW_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "bgFBZySpghtE",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBS on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
+    "realTimeEnd": "2021-01-06T21:09:00.000Z",
+    "realTimeStart": "2021-01-06T20:59:00.000Z",
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \n#FashNSlash letting air out of tires",
+    "suspectTags": [
+      "FashNSlash"
+    ],
+    "videoEndTimepoint": 7755,
+    "videoStartTimepoint": 7159,
+    "videoUrl": "https://youtu.be/CSF5FHIGlbg",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CSF5FHIGlbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/CSF5FHIGlbg/default.jpg"
     }
   },
   {
@@ -37484,6 +39210,28 @@
       "type": "directLink",
       "videoUrl": "https://capitol-hill-riots.s3.us-east-1.wasabisys.com/YouTube/yt1s.com%20-%20The%20Storm%20On%20The%20US%20Capital%20Pt%201_1080p.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "AMdwheOVUl-s",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [],
+    "rationale": "Estimate",
+    "realTimeEnd": "2021-01-06T21:05:00.000Z",
+    "realTimeStart": "2021-01-06T21:00:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nOfficers clear crowd from North Terrace. Crowd rushes from West to East side",
+    "suspectTags": [],
+    "videoEndTimepoint": 1595,
+    "videoStartTimepoint": 1559,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -37580,6 +39328,28 @@
     "videoDetails": {
       "type": "instagram",
       "videoId": "CJxPQcXgq6H"
+    }
+  },
+  {
+    "_id": "Tq0wTfRYIoTE",
+    "location": {
+      "lat": 38.8902337,
+      "lng": -77.009364
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "rationale": "Estimate",
+    "realTimeEnd": "2021-01-06T21:05:00.000Z",
+    "realTimeStart": "2021-01-06T21:00:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nOfficers clear NW Courtyard",
+    "suspectTags": [],
+    "videoEndTimepoint": 1559,
+    "videoStartTimepoint": 1410,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -38448,6 +40218,28 @@
     }
   },
   {
+    "_id": "Dxq4zz1TEi78",
+    "location": {
+      "lat": 38.892036,
+      "lng": -77.017435
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:16:00.000Z",
+    "realTimeStart": "2021-01-06T21:11:00.000Z",
+    "summary": "RSBN Network Live Stream  \nReporter is walking down Pennsylvania Avenue toward the Capitol building. People are seen leaving the Capitol grounds, walking in the opposite direction.",
+    "suspectTags": [],
+    "videoEndTimepoint": 293,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "eOaXNJJMYsPg",
     "location": {
       "lat": 38.8899,
@@ -38854,6 +40646,32 @@
     }
   },
   {
+    "_id": "fzKFMgAqEj2c",
+    "location": {
+      "lat": 38.8908875,
+      "lng": -77.0082352
+    },
+    "locationName": "Capitol Grounds East:\n  NE Plaza",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "rationale": "Very rough estimate, North side of the Capitol is cleared by 4:34 pm.",
+    "realTimeEnd": "2021-01-06T21:20:00.000Z",
+    "realTimeStart": "2021-01-06T21:15:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n#DogManOK and a group of Oathkeepers watch as officers herd the crowd",
+    "suspectTags": [
+      "DogmanOK"
+    ],
+    "videoEndTimepoint": 1722,
+    "videoStartTimepoint": 1595,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
     "_id": "m8ZrQc1B4umI",
     "imageUrl": "https://www.flickr.com/photos/greenpeaceusa09/50809344682/in/album-72157717762393361/",
     "location": {
@@ -38970,6 +40788,52 @@
     }
   },
   {
+    "_id": "wed4NuOPouC0",
+    "location": {
+      "lat": 38.890843,
+      "lng": -77.013279
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:17:00.000Z",
+    "realTimeStart": "2021-01-06T21:16:00.000Z",
+    "summary": "RSBN Network Live Stream  \nApproaching the Peace Monument.",
+    "suspectTags": [],
+    "videoEndTimepoint": 374,
+    "videoStartTimepoint": 293,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
+    "_id": "3tWjkPRNglm8",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [
+      "CapitolFlagCalledFreedom"
+    ],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:19:00.000Z",
+    "realTimeStart": "2021-01-06T21:17:00.000Z",
+    "summary": "RSBN Network Live Stream  \nStepping onto the Pennsylvania Walkway. People are leaving the Capitol and walking the other direction. Pennsylvania lawn is largely clear. West lawn is only about half full. CapitolFlagCalledFreedom hanging on the NW Scaffold.",
+    "suspectTags": [],
+    "videoEndTimepoint": 502,
+    "videoStartTimepoint": 374,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "ZVC5ER6nAp18",
     "location": {
       "lat": 38.89006624869755,
@@ -39016,6 +40880,28 @@
     }
   },
   {
+    "_id": "E_Wj36kHorO8",
+    "location": {
+      "lat": 38.890085,
+      "lng": -77.010311
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:20:00.000Z",
+    "realTimeStart": "2021-01-06T21:19:00.000Z",
+    "summary": "RSBN Network Live Stream  \nReporter reaches the NW end of the Lower West Plaza.",
+    "suspectTags": [],
+    "videoEndTimepoint": 565,
+    "videoStartTimepoint": 502,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "knHOZ0ZHQsIc",
     "location": {
       "lat": 38.890847985572755,
@@ -39037,6 +40923,32 @@
       "type": "directLink",
       "videoUrl": "https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "ADS7Bjpa8h3o",
+    "location": {
+      "lat": 38.889891,
+      "lng": -77.010205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "SeditionLadder"
+    ],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:28:00.000Z",
+    "realTimeStart": "2021-01-06T21:20:00.000Z",
+    "summary": "RSBN Network Live Stream  \nReporter goes up the steps of the West Plaza to the left of the Media Tower. Moves to the right through the crowd. Trump 2020 flag to the right of the Lower West Plaza. Reports briefly from the center of the Lower West Plaza and then moves back toward the NW Scaffold.   \n12:30 a flashbang is heard, reporter comments that it is tear gas. MPD officers seen on the Upper West Terrace. People begin to leave the area.  \n14:00 chants of \"I can't breathe\".   \nSeditionLadder seen on the Lower West Terrace at 15:12 with someone standing on it. BabyMachoMan is at the Lower West Terrace railing to the left of the ladder.  \n16:04 Chants of USA. Reporter and cameraman move toward NW Steps.",
+    "suspectTags": [
+      "BabyMachoMan"
+    ],
+    "videoEndTimepoint": 1029,
+    "videoStartTimepoint": 565,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -39593,6 +41505,28 @@
     }
   },
   {
+    "_id": "3nlWB0P6QvZI",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:29:00.000Z",
+    "realTimeStart": "2021-01-06T21:28:00.000Z",
+    "summary": "RSBN Network Live Stream  \nClimbing the NW Steps, people are angry, expressing their anger with colorful language.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1080,
+    "videoStartTimepoint": 1029,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "XGhXLtvdkkPA",
     "location": {
       "lat": 38.8898,
@@ -39705,6 +41639,33 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/XCMfOk219rxY_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "4fEoL67lgkdo",
+    "location": {
+      "lat": 38.88993472458602,
+      "lng": -77.01005766961208
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T21:30:00.000Z",
+    "realTimeStart": "2021-01-06T21:29:00.000Z",
+    "summary": "RSBN Network Live Stream  \nOn the mezzanine of the Lower West Terrace. Passes several perps leaving the area.  \n17:45 WhiteDeathHoodie  \n18:12 BlackGlove805 seen washing out his eyes  \n18:37 HarleyJacketBatonMan  \nCrowd singing Star Spangled Banner  \n18:55 SleevelessRedTattoos",
+    "suspectTags": [
+      "WhiteDeathHoodie",
+      "BlackGlove805",
+      "HarleyJacketBatonMan",
+      "SleevelessRedTattoos"
+    ],
+    "videoEndTimepoint": 1141,
+    "videoStartTimepoint": 1080,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -39899,6 +41860,56 @@
       "type": "youtube",
       "videoId": "k4EFWNROkak",
       "thumbnailUrl": "https://img.youtube.com/vi/k4EFWNROkak/default.jpg"
+    }
+  },
+  {
+    "_id": "PJu-ZcWoAlFo",
+    "location": {
+      "lat": 38.889976478705876,
+      "lng": -77.0100308475232
+    },
+    "locationName": "Capitol Exterior West:\n  NW Riser",
+    "otherTags": [
+      "Violence",
+      "SeditionBat"
+    ],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:07:00.000Z",
+    "realTimeStart": "2021-01-06T21:30:00.000Z",
+    "summary": "RSBN Network Live Stream  \nView of the tunnel fight from the NW Riser.  \nPippiLongScarf at the left of tunnel, GreenEwsboy to the right. AquaDrawstrings trying to get through the crowd.  \n20:30 Zoom into Left of Tunnel window. WindowCheerleaders seen standing ont he ledge. Good view of apparent tunnel organizers just in front of the Left of Tunnel window.  \n20:40 View of individuals throwing objects at police (PlaidLad, WhitePowerPuff). Gas sprayed by officers. CATSweat and CranOceanSprayer move forward. TurtleneckTrumper and BigBlueDude standing to the right.  \n21:37 Furniture seen coming out of the Left of Tunnel window as rioters continue to attack police.  \n24:45 A flashbang goes off  \n25:47 A large tube is seen in front of the tunnel entrance, a large white board is being brought across the crowd toward the tunnel  \n27:22 Police clearing the Upper West Terrace (approx 4:38 pm)  \n27:58 A flashbang from the direction of the North West, crowd chanting \"traitors, traitors\"  \n33:59 A visible increase in police presence on the Upper West Plaza. GinaBisignano talking to the crowd on a bullhorn from the Left of Tunnel Window, BadSamaritanGrey on the steps to the tunnel.  \n35:35 Tear Gas visible in the tunnel (4:47 pm) Crowd all seen turning and ducking and moving away.  \n36:37 Flashbang seen in the tunnel (4:48 pm)  \n37:16 SwedishScarf seen in the Left of Tunnel window  \n37:40 A man in a red coat or sweatshirt seen at the Tunnel entrance putting his arms up, saying \"stop, stop.\" Scallops sneaks behind this man and throws a punch directly at an officer.  \n38:30 Violence increases again. BatBoy seen striking at officers with SeditionBat. Others throwing objects from the steps into the tunnel.  \n39:08 A bright light shines from the crowd to the tunnel entrance (4:50 pm). BullhornLady seen at the Right of Tunnel Window (just behind GreenNewsboy)  \n39:35 GinaBisignano at the Left of Tunnel Window on the bullhorn. \"Guys, we need every patriot! We need people to stand up for our country and our constitution!\" WindowCheerleader helping people climb inside the window. SwedishScarf still in the window. (4:51 pm)  \n39:40 Strobe type of lights at the tunnel entrance.  \n40:06 The big pole that BullhornLady was using to strike the window is seen.   \n41:05 An orange pilon is seen thrown into the tunnel opening. (4:52 pm)  \n41:23 Interview with a man who is looking for his son, Caden. Man says he is from Washington State. Cameraman pans the crowd, the West Plaza stage seems to be less full at this point. Brief dip in footage as the camera battery is changed.  \n44:22 Stream footage resumes.  \n44:51 PinStripeBoilerSuit pushing a roll of canvas at the cops in the tunnel entrance. Steps back and throws an object at police. Grabs a big camo fabric object (a tarp maybe) and holds it up to block police view. Strikes at officers with a wooden object.  \n45:30 A speaker is thrown at the officers. \"USA, USA\" chants from the crowd. People at the entrance are again hitting at officers with a SeditionBat and a broken piece of furniture. (4:57 pm)  \nCameraman pans the crowd again. Officers have cleared the Upper West Terrace. Crowd is thinning on the West Plaza. at 47:25 back to the view of the tunnel, strobe type of light seen inside.  \n48:07 Another orange pilon is thrown at officers.  \n49:39 PinStripeBoilerSuit throws an orange pylon at officers. Another round of fighting officers follows.  \n50:05 Brick Suit joins commentary and talks about how he believes the vandalism is largely from Antifa.  \n50:18 People in the room at the Left of Tunnel window have brought an interior door out. BullhornLady is nearby.  \n51:21 Green smoke comes out of the tunnel. It quickly becomes very thick. PinStripeBoilerSuit again striking at officers.   \n52:07 Flashbang at the tunnel entrance (5:03 pm)  \n52:28 An officer emerges at the tunnel with a weapon and is aiming it toward the crowd. (5:04 pm) Crowd reciprocates with some smoke bombs thrown in the direction of the police.  \n53:03 Two flashes seen at the tunnel entrance, large amounts of tear gas fill the Lower West Terrace. The crowd begins to disperse.  \n53:15 A series of additional tear gas flashes are seen. The crowd is quickly leaving the area.  \n53:44 The smoke clears enough to see that the Lower West Terrace is largely clear, and people have been pushed in the direction of the stairs. Police are emerging from the tunnel and taking formation on the steps.   \nCameraman in the crush of people as they leave the Terrace.",
+    "suspectTags": [
+      "PippiLongScarf",
+      "OrangeHoodieRedHat",
+      "LittleBrownBeard",
+      "BuffLightYear",
+      "AquaDrawStrings",
+      "GreenNewsboy",
+      "CommanderCamo",
+      "CommanderBlueHoodie",
+      "PlaidLad",
+      "WhitePowerPuff",
+      "BigBlueDude",
+      "TurtleneckTrumper",
+      "CatSweat",
+      "GinaBisignano",
+      "BadSamaritanGrey",
+      "GreenHornHoodlum",
+      "SwedishScarf",
+      "WindowCheerleader",
+      "Scallops",
+      "BatBoy",
+      "BullhornLady",
+      "PinStripeBoilerSuit",
+      "Slickback",
+      "IAmBlakeMarnell"
+    ],
+    "videoEndTimepoint": 3358,
+    "videoStartTimepoint": 1141,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -41066,6 +43077,28 @@
     }
   },
   {
+    "_id": "ffhezb2JQuX8",
+    "location": {
+      "lat": 38.8893059,
+      "lng": -77.0112292
+    },
+    "locationName": "Capitol Grounds West:\n  Maryland Walkway",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T21:48:00.000Z",
+    "realTimeStart": "2021-01-06T21:45:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n3:08: Believe he's walking up the Maryland Walkway",
+    "suspectTags": [],
+    "videoEndTimepoint": 205,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "qc0vFWWXgh9U",
     "location": {
       "lat": 38.8902337,
@@ -41226,6 +43259,28 @@
       "type": "directLink",
       "videoUrl": "https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "kK-KDEzUki18",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T21:55:00.000Z",
+    "realTimeStart": "2021-01-06T21:48:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n3:25: Hops onto the lawn  \n4:40: Rioters are visible on the Plaza, both scaffoldings, lower and upper terraces  \n7:08: Shows bicycle fencing used as ladders  \n8:26: Woman in white puffer coat and red Trump had hops off the wall and runs across the Plaza",
+    "suspectTags": [],
+    "videoEndTimepoint": 602,
+    "videoStartTimepoint": 205,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
     }
   },
   {
@@ -41915,6 +43970,32 @@
     }
   },
   {
+    "_id": "zxTRiqNS0v6Q",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [
+      "CapitolFlagCalledFreedom"
+    ],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:07:00.000Z",
+    "realTimeStart": "2021-01-06T21:55:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n10:27: On upper west Plaza, unfortunately the stream quality is awful  \n10:37: White tarp of NW Scaffolding is shredded  \n11:19: Looks up the NW Steps  \n13:29: Rioters say they've been tear-gassed by police at the top of the NW Steps  \n14:03: #CapitolFlagCalledFreedom is draped over the side of NW scaffolding  \n15:53: Rioters are crowded onto the NW steps but are blocked by police at the top  \n18:44: Think that's #AllGreenGuy on the balustrade, north side of the Plaza  \n20:24: Yellow Neon at left  \n22:23: Person in black/white buffalo check is descending the media tower  \n22:28: Cut",
+    "suspectTags": [
+      "AllGreenGuy"
+    ],
+    "videoEndTimepoint": 1373,
+    "videoStartTimepoint": 627,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "Nv_m2HmUYmD8",
     "location": {
       "lat": 38.9111,
@@ -42132,6 +44213,34 @@
       "type": "youtube",
       "videoId": "wccYJmpzvgI",
       "thumbnailUrl": "https://img.youtube.com/vi/wccYJmpzvgI/default.jpg"
+    }
+  },
+  {
+    "_id": "WdEocVD8AtnE",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash"
+    ],
+    "rationale": "Estimate based on timeline estimate of MediaSmash.",
+    "realTimeEnd": "2021-01-06T22:05:00.000Z",
+    "realTimeStart": "2021-01-06T22:00:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nFootage of the assault on the media in the NE Press Area.",
+    "suspectTags": [
+      "HarleySmashAOM",
+      "StringyPlaid",
+      "BostonWhiteBeanAOM"
+    ],
+    "videoEndTimepoint": 1873,
+    "videoStartTimepoint": 1722,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -42845,6 +44954,28 @@
     }
   },
   {
+    "_id": "ImyPIY5VgpHs",
+    "location": {
+      "lat": 38.8906613,
+      "lng": -77.0105001
+    },
+    "locationName": "Capitol Grounds West:\n  NW Path",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:10:00.000Z",
+    "realTimeStart": "2021-01-06T22:07:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n22:53: Police have reclaimed most of the NW Steps and are now on the NW scaffolding  \n23:44: Yellow Neon with flag at right  \n24:53: Orange Neon flag at right",
+    "suspectTags": [],
+    "videoEndTimepoint": 1495,
+    "videoStartTimepoint": 1373,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "Ud--490IYvow",
     "location": {
       "lat": 38.8896,
@@ -42910,6 +45041,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/z5gCyYj1MB4N_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "chGMKoVA8mfQ",
+    "location": {
+      "lat": 38.8900716,
+      "lng": -77.010055
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:08:00.000Z",
+    "realTimeStart": "2021-01-06T22:07:00.000Z",
+    "summary": "RSBN Network Live Stream  \nIn the crush of people as they leave the Lower West Terrace via the NW Steps. 56:05 A row of police are blocking access to the Upper West Terrace, so the crowd is forced to go down the steps.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3390,
+    "videoStartTimepoint": 3358,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -43025,6 +45178,30 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346941715895250949"
+    }
+  },
+  {
+    "_id": "rlZkhykkkgac",
+    "location": {
+      "lat": 38.890139,
+      "lng": -77.010283
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Steps",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:14:00.000Z",
+    "realTimeStart": "2021-01-06T22:08:00.000Z",
+    "summary": "RSBN Network Live Stream  \nAt the base of the NW Steps. Cameraman turns back to show the steps at 56:52 and a large formation of police is seen on the upper steps. Reporter says he thinks the fighting the Capitol police is not the way to go, but that a peaceful protest would be more productive. He is shaken by the experience of being caught in the crush of people.  \n58:44 Flashbang is seen and heard in the direction of the West Plaza.   \n59:20 the line of officers has advanced down the steps.  \n1:01:02 The Capitol Police emerge at the bottom of the NW Steps. People throw objects at them.  \n1:01:54 A woman in a Captain America costume is on the NW Bleachers holding out two flags: A grey Trump flag and a black Q flag.",
+    "suspectTags": [],
+    "videoEndTimepoint": 3750,
+    "videoStartTimepoint": 3390,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -43187,6 +45364,28 @@
     }
   },
   {
+    "_id": "3qhBqWxREpTg",
+    "location": {
+      "lat": 38.8906071,
+      "lng": -77.0109611
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:11:00.000Z",
+    "realTimeStart": "2021-01-06T22:10:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n25:06: Onto the NW Lawn, walking by white Dodge minivan, can't make out license plate  \n25:19: Yellow Neon on a scooter rolling across the lawn  \n25:39: Police appear to be on the Lower West Terrace  \n25:57: Onto the PA Walkway",
+    "suspectTags": [],
+    "videoEndTimepoint": 1557,
+    "videoStartTimepoint": 1495,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "QoZagyNp0qO4",
     "location": {
       "lat": 38.89,
@@ -43256,6 +45455,28 @@
   },
   {
     "_id": "PH2NE1UTYtb0",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:12:00.000Z",
+    "realTimeStart": "2021-01-06T22:11:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n26:17: Turns back to face the Capitol again",
+    "suspectTags": [],
+    "videoEndTimepoint": 1608,
+    "videoStartTimepoint": 1557,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
+    "_id": "PMv2eX_5IsEg",
     "location": {
       "lat": 38.8903503,
       "lng": -77.011189
@@ -43384,6 +45605,28 @@
     }
   },
   {
+    "_id": "c_ULB823cmfQ",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:24:00.000Z",
+    "realTimeStart": "2021-01-06T22:12:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n26:48: West Lawn facing the Capitol  \n28:34: Man in flag overalls walks by  \n29:02: Two Yellow Neons straight ahead  \n30:07: Says \"in 45 minutes they're going to try to force a curfew,\" making it 5:15 PM  \n37:48: Reaches the Maryland Walkway, says the police are now going to start pushing crowd",
+    "suspectTags": [],
+    "videoEndTimepoint": 2300,
+    "videoStartTimepoint": 1608,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "4o5igXxNgkbA",
     "location": {
       "lat": 38.8897,
@@ -43487,6 +45730,30 @@
     "videoEndTimepoint": 1442,
     "videoStartTimepoint": 1311,
     "videoUrl": "https://www.facebook.com/watch/live/?v=3047962525477215&ref=watch_permalink"
+  },
+  {
+    "_id": "i56KE1_Asplk",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:17:00.000Z",
+    "realTimeStart": "2021-01-06T22:14:00.000Z",
+    "summary": "RSBN Network Live Stream  \nReporter and Cameraman begin to move down Pennsylvania walkway.  \n1:04:28 They stop about halfway down the walkway and turn back to film the Capitol. BabyMachoMan seen exiting the area talking on his phone. A woman in a plaid scarf, a guy in a Philadelphia Fliers hat, and a woman in a TrumpGirl that express their frustration about the situation to the reporter. Talking about how BLM did not get the same treatment, how it is their constitutional duty to stop a coup.",
+    "suspectTags": [
+      "BabyMachoMan"
+    ],
+    "videoEndTimepoint": 3981,
+    "videoStartTimepoint": 3750,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
   },
   {
     "_id": "02baNIeskogY",
@@ -43622,6 +45889,28 @@
     }
   },
   {
+    "_id": "Hy-AtQBc0v44",
+    "location": {
+      "lat": 38.890174,
+      "lng": -77.010718
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:26:00.000Z",
+    "realTimeStart": "2021-01-06T22:17:00.000Z",
+    "summary": "RSBN Network Live Stream  \nThey move to one of the media risers along the Pennsylvania Walkway.  \n1:06:37 Flashbang from the direction of the NW Steps. There is a large formation of officers on the Lower West Plaza. Upper levels are clear and so is the scaffolding. People remain on the Lower West Terrace, West Lawn, and Pennsylvania Walkway.  \n1:11:29 Flashbang from the direction of the NW Steps.",
+    "suspectTags": [],
+    "videoEndTimepoint": 4498,
+    "videoStartTimepoint": 3981,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "iHzI3bsIAhmk",
     "location": {
       "lat": 38.891557282122065,
@@ -43658,6 +45947,32 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/GsVZm7o33oLw_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "_wdJg-BnspxI",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:28:00.000Z",
+    "realTimeStart": "2021-01-06T22:24:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n39:10: Upper Plaza is under control of police  \n41:22: #FlagFailure and #FlagGaiterCopHater are yelling through bullhorn on the lower Plaza  \n42:05: #GreenNewsboy is still there, at right of frame  \n42:24: #GreenNewsboy walks in front of camera  \n42:36: Back to the Maryland Walkway",
+    "suspectTags": [
+      "GreenNewsboy",
+      "FlagFailure",
+      "FlagGaiterCopHater"
+    ],
+    "videoEndTimepoint": 2556,
+    "videoStartTimepoint": 2324,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
     }
   },
   {
@@ -43802,6 +46117,30 @@
     }
   },
   {
+    "_id": "eA1lU_gEMuYU",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:29:00.000Z",
+    "realTimeStart": "2021-01-06T22:26:00.000Z",
+    "summary": "RSBN Network Live Stream  \nReporter moves back down to the PA Walkway, interview with Brick Suit.  \n1:17:32 Flashbang  \nCrowd begins to move down the Pennsylvania Walkway.",
+    "suspectTags": [
+      "IAmBlakeMarnell"
+    ],
+    "videoEndTimepoint": 4696,
+    "videoStartTimepoint": 4498,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
     "_id": "lJoWPnk5ggTA",
     "location": {
       "lat": 38.8895,
@@ -43845,6 +46184,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/ACa0xxSznKol_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "NqHTEVBK8poQ",
+    "location": {
+      "lat": 38.8893059,
+      "lng": -77.0112292
+    },
+    "locationName": "Capitol Grounds West:\n  Maryland Walkway",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:31:00.000Z",
+    "realTimeStart": "2021-01-06T22:28:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n42:37: Couple walking out, he's in a black jacket and she's in a light grey puffer  \n42:45: Yellow neon at right of walkway  \n43:02: Camera walks up onto one of the accessible platforms  \n43:51: Looks across West Lawn, says people are people pushed out on that side  \n44:00: Back to Maryland Walkway, says \"they're coming down, here it comes\" as police start pushing crowd back  \n45:16: Man in helmet/fatigues with red Trump flag coming down the path  \n45:53: Now out on the sidewalk",
+    "suspectTags": [],
+    "videoEndTimepoint": 2753,
+    "videoStartTimepoint": 2557,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
     }
   },
   {
@@ -43912,6 +46273,30 @@
       "type": "youtube",
       "videoId": "eAr-4jrTkr8",
       "thumbnailUrl": "https://img.youtube.com/vi/eAr-4jrTkr8/default.jpg"
+    }
+  },
+  {
+    "_id": "m_5gVkcAwj2Y",
+    "location": {
+      "lat": 38.890268,
+      "lng": -77.011035
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:31:00.000Z",
+    "realTimeStart": "2021-01-06T22:29:00.000Z",
+    "summary": "RSBN Network Live Stream  \nThey briefly go up another media riser along the Pennsylvania Walkway. View of the officers pushing the crowd down the walkway. They quickly continue to move down the walkway.",
+    "suspectTags": [
+      "IAmBlakeMarnell"
+    ],
+    "videoEndTimepoint": 4785,
+    "videoStartTimepoint": 4696,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -44000,6 +46385,74 @@
     }
   },
   {
+    "_id": "iLeqi8ujUtiA",
+    "location": {
+      "lat": 38.889594,
+      "lng": -77.012359
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn Border Fencing",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:32:00.000Z",
+    "realTimeStart": "2021-01-06T22:31:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n46:18: Tall guy in black/navy jacket, jeans, black shoes holding a water bottle walks onto sidewalk  \n46:37: Back on Maryland Walkway",
+    "suspectTags": [],
+    "videoEndTimepoint": 2797,
+    "videoStartTimepoint": 2753,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
+    "_id": "lFHf3ctDEuZQ",
+    "location": {
+      "lat": 38.8904474,
+      "lng": -77.0115483
+    },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 1st Police Barricade",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:33:00.000Z",
+    "realTimeStart": "2021-01-06T22:31:00.000Z",
+    "summary": "RSBN Network Live Stream  \nAt the location of where the first barricade was earlier in the day. A good view of officers advancing down the walkway and establishing a formation at the start of the walkway.",
+    "suspectTags": [
+      "IAmBlakeMarnell"
+    ],
+    "videoEndTimepoint": 4892,
+    "videoStartTimepoint": 4785,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
+    }
+  },
+  {
+    "_id": "V9KanYZzMqhc",
+    "location": {
+      "lat": 38.8893059,
+      "lng": -77.0112292
+    },
+    "locationName": "Capitol Grounds West:\n  Maryland Walkway",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:38:00.000Z",
+    "realTimeStart": "2021-01-06T22:32:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n46:55: Police line is extending across the lawn and walkway, about halfway up the walkway  \n47:01: Guy in leather jacket with USA/flag on the back at left of frame  \n47:49: Rioters and police facing each other, then police start pushing  \n48:20: Man in flag jacket and another in all white jacket/pants--have someone else check this  \n49:23: Two men are helping out a third, who is limping  \n50:10: Cut  \n51:06: Police have a line at the end of the Maryland walkway  \n51:54: USA flag jacket again  \n52:25: Going to walk to the other side",
+    "suspectTags": [],
+    "videoEndTimepoint": 3145,
+    "videoStartTimepoint": 2797,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "zSSXgd5zcvk8",
     "location": {
       "lat": 38.8893059,
@@ -44019,6 +46472,30 @@
       "type": "youtube",
       "videoId": "x33Vtedw5hU",
       "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
+    "_id": "Rs2xdohbUrjs",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "Timestamp taken from on screen clock.",
+    "realTimeEnd": "2021-01-06T22:44:00.000Z",
+    "realTimeStart": "2021-01-06T22:33:00.000Z",
+    "summary": "RSBN Network Live Stream  \nPolice have formed a line at the entrance to the Pennsylvania Walkway. The crowd remains in the Peace Circle. Brick Suit continues to give commentary.  \n1:26:14 crowd singing Star Spangled Banner  \nMore interviews with the crowd. Feed cuts out around 1:33.",
+    "suspectTags": [
+      "IAmBlakeMarnell"
+    ],
+    "videoEndTimepoint": 5580,
+    "videoStartTimepoint": 4892,
+    "videoUrl": "https://youtu.be/vTXOkcwYxvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "vTXOkcwYxvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
   },
   {
@@ -44105,6 +46582,28 @@
     }
   },
   {
+    "_id": "ApbTM76o4h9M",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:46:00.000Z",
+    "realTimeStart": "2021-01-06T22:40:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n54:08: Large crowd in the circle around the Peace Monument  \n55:24: Police line is established about halfway down the Pennsylvania Lawn  \n56:43: Someone is riding a scooter back and forth across the lawn with the headlight on, cameraman says he's in a yellow vest (neon)  \n57:29: Cameraman is taking a call, crowd is milling in the circle  \n57:52: Man in full black/white stripes and red hood  \n58:18: Red/black buffalo check and red knit cap at left  \n59:00: Review these guys at right, look familiar",
+    "suspectTags": [],
+    "videoEndTimepoint": 3600,
+    "videoStartTimepoint": 3248,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
     "_id": "ZKfw47dWYv5Y",
     "location": {
       "lat": 38.8906428,
@@ -44172,6 +46671,30 @@
   },
   {
     "_id": "tZn69utDslQc",
+    "location": {
+      "lat": 38.889594,
+      "lng": -77.012359
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn Border Fencing",
+    "otherTags": [
+      "BikersForTrump"
+    ],
+    "rationale": "at 30:07 in video, he says curfew is in 45 minutes",
+    "realTimeEnd": "2021-01-06T22:54:00.000Z",
+    "realTimeStart": "2021-01-06T22:46:00.000Z",
+    "summary": "Live in DC  \nWolfyGladly: Accountability Inspector  \n  \n1:01:06: Police are pushing rioters off the West lawn, over the wall onto the sidewalk  \n1:01:36: Police are at the wall bordering the West lawn  \n1:01:59: Curfew announcement being broadcast  \n1:02:57: Orange neon sleeves and a \"Bikers for Trump\" vest at center of frame  \n1:07:03: Bicycle fencing now blocking the PA Walkway, rioter shoves one panel over",
+    "suspectTags": [],
+    "videoEndTimepoint": 4136,
+    "videoStartTimepoint": 3600,
+    "videoUrl": "https://youtu.be/x33Vtedw5hU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "x33Vtedw5hU",
+      "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
+    }
+  },
+  {
+    "_id": "ySfXjrEUsvbU",
     "location": {
       "lat": 38.889594,
       "lng": -77.012359
@@ -45257,6 +47780,28 @@
     ]
   },
   {
+    "_id": "0zUNIFDsssdc",
+    "location": {
+      "lat": 38.8958392378086,
+      "lng": -77.0307040969342
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Freedom Plaza",
+    "otherTags": [],
+    "summary": "MAGA \"Baked Alaska\" and Old Man Plot to Storm Capitol (Night Before)  \nJay X  \n  \n:00: #BigMagaCamo tells #BakedAlaska that they have to go into the Capitol tomorrow",
+    "suspectTags": [
+      "BigMagaCamo",
+      "BakedAlaska"
+    ],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/SPqUqc20Mos",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "SPqUqc20Mos",
+      "thumbnailUrl": "https://img.youtube.com/vi/SPqUqc20Mos/default.jpg"
+    }
+  },
+  {
     "_id": "149jqzejEo-k",
     "otherTags": [],
     "summary": "We in DC taking our Country Back with Millions of Patriots!!",
@@ -45327,7 +47872,7 @@
     "otherTags": [
       "Violence"
     ],
-    "summary": "Sightings: #BullhornLady, At the opening, someone is hitting the police line with a metal bat. Starting at 0:25 you can see #WalkerTexasFascist with #Scallops gripping his hood, emerging to come down the steps. #LouisVuitton on the megaphone. At 1:07, someone in a leather jacket puts on an MPDC helmet near #PomPomOnlooker, and celebrates by hoisting a riot shield.",
+    "summary": "Sightings: #BullhornLady, At the opening, someone is hitting the police line with a metal bat. Starting at 0:25 you can see #WalkerTexasFascist with #Scallops gripping his hood, emerging to come down the steps. #GinaBisignano on the megaphone. At 1:07, someone in a leather jacket puts on an MPDC helmet near #PomPomOnlooker, and celebrates by hoisting a riot shield.",
     "suspectTags": []
   },
   {
@@ -45421,7 +47966,7 @@
     "otherTags": [
       "Violence"
     ],
-    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #LouisVuitton still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
+    "summary": "After the attack on the officers, more fighting at the Arch Entrance on the Lower West Terrace. #PippiLongScarf stands watch. Police begin to shine flashlights and strobes into the crowd as it grows darker. At 0:36, people in the lower right throw items at the police. Someone in dark tactical gear and a gas mask motions for more people to come close to the police line.  #GinaBisignano still on megaphone. At 1:24 #PinStripeBoilerSuit hands the gas mask person a baseball bat. Who brought the metal bat to a peaceful rally? At 1:32 #WhitePowerPuff throws a long pole or stick at the police. Someone else throws a shoe. Tear gas is deployed. Black gas mask person is hitting officers with the bat. Someone possibly #FloridaFlagJacket sprays then throws a fire extinguisher at officers. #PinstripeBoilerSuit and #WithePowerPuff throw more objects around the 3:05-3:10 mark. Many objects thrown at police from off-camera.",
     "suspectTags": [
       "PippiLongScarf",
       "PinStripeBoilerSuit"
@@ -45594,6 +48139,32 @@
       "type": "youtube",
       "videoId": "cJOgGsC0G9U",
       "thumbnailUrl": "https://img.youtube.com/vi/cJOgGsC0G9U/default.jpg"
+    }
+  },
+  {
+    "_id": "5CKxM49mkh7A",
+    "location": {
+      "lat": 38.8898193,
+      "lng": -77.0086116
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "summary": "Capitol Hill protest scene  \nCarrie Sheffield  \n  \n:00: Columbus Doors are open, crowd inside the Rotunda and outside recording  \n:20: Inside a group in tactical gear, helmets, and yellow-lensed goggles is headed outside. People are squinting and rubbing their eyes like they've been sprayed  \n:23: #GraydonYoung, #DonovanCrowl are helping a younger curly-haired man out  \n:25: #JessicaWatkins and I believe #SandraParker exit behind them  \n:27: Man in old-style gas mask walks out  \n:49: Young guy in tan helmet and eye protection about to walk out, dressed like previous Oath Keepers  \n1:00: Man in black/yellow scarf, tan hat, dark glasses and large headphones to left of doors",
+    "suspectTags": [
+      "GraydonYoung",
+      "DonovanCrowl",
+      "JessicaWatkins",
+      "SandraParker"
+    ],
+    "videoEndTimepoint": 64,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/fXbcERknJm0",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "fXbcERknJm0",
+      "thumbnailUrl": "https://img.youtube.com/vi/fXbcERknJm0/default.jpg"
     }
   },
   {
@@ -45812,6 +48383,25 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "voVGWTRY"
+    }
+  },
+  {
+    "_id": "7MPkCFRScqxA",
+    "location": {
+      "lat": 38.8921023,
+      "lng": -77.0281362
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [],
+    "summary": "Part 2 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n3:18: Yellow Neon at left  \n6:55: Man on right in helmet similar to #IronworkerGuy  \n7:26: Person with shofar stops for a photo, Capitol is now in view  \n  \nMost of the footage is of people's backs, walking toward the Capitol",
+    "suspectTags": [],
+    "videoEndTimepoint": 708,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/6Dr4xD2pvp0",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "6Dr4xD2pvp0",
+      "thumbnailUrl": "https://img.youtube.com/vi/6Dr4xD2pvp0/default.jpg"
     }
   },
   {
@@ -46357,7 +48947,7 @@
   {
     "_id": "FAACtxK5ou0M",
     "otherTags": [],
-    "summary": "Darker. Rioters are angry. Video caption notes that flashbangs were used repeatedly against the protestors. Rioters throw metal furniture and large red object at police and shine bright lights in their eyes. #PippiLongScarf looks on. #PinStripeBoilerSuit is there. #LouisVuitton still in window to left of arch. At 1:08 rioters are really going at it with their sticks, and large objects are thrown. Tear gas or pepper spray is deployed. At 2:21 the police line begins to move out into the front of the archway. They shine bright lights into the eyes of the crowd. Someone sprays pepper spray at police. 3:00 tear gas canisters erupt in multiple locations, followed by flashbangs. Steps are clearing.",
+    "summary": "Darker. Rioters are angry. Video caption notes that flashbangs were used repeatedly against the protestors. Rioters throw metal furniture and large red object at police and shine bright lights in their eyes. #PippiLongScarf looks on. #PinStripeBoilerSuit is there. #GinaBisignano still in window to left of arch. At 1:08 rioters are really going at it with their sticks, and large objects are thrown. Tear gas or pepper spray is deployed. At 2:21 the police line begins to move out into the front of the archway. They shine bright lights into the eyes of the crowd. Someone sprays pepper spray at police. 3:00 tear gas canisters erupt in multiple locations, followed by flashbangs. Steps are clearing.",
     "suspectTags": [
       "PippiLongScarf",
       "GinaBisignano"
@@ -46423,6 +49013,25 @@
     "videoEndTimepoint": 24,
     "videoStartTimepoint": 0,
     "videoUrl": "https://spectee.com/detail/61051"
+  },
+  {
+    "_id": "FjLA7IBokrMc",
+    "location": {
+      "lat": 38.893953962652,
+      "lng": -77.036636855875
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
+    "otherTags": [],
+    "summary": "Vendors to Secret Service, Crazy Mix of Individuals.. Pt 3/ White House Rally...  \nPeanut 411  \n  \n:58: Yellow Neon at left  \n1:51: Talks about Secret Service confiscating backpacks earlier, they weren't allowed past security  \n2:25: Two men argue about the Federal Reserve, group of three yellow neons across the street  \n3:58: She says we have the President speaking  \n7:08: Two men, one very tall in black/red buffalo check, other in a dark hoodie, heavyset, with full red beards. Shorter one is wearing \"March on [?]\" pass  \n8:34: Big pile of backpacks, left behind by people who went through security onto the Ellipse  \n9:19: Group of men in fatigues in middle of the street  \n12:00: Secret Service agents at security entrance, another pile of backpacks  \n14:53: Guy in fatigues and straw hat with Texas patch on his shoulder",
+    "suspectTags": [],
+    "videoEndTimepoint": 899,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/h1YUQn7iGnQ",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "h1YUQn7iGnQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/h1YUQn7iGnQ/default.jpg"
+    }
   },
   {
     "_id": "GEJMZT9KItAM",
@@ -46642,20 +49251,6 @@
     ]
   },
   {
-    "_id": "Hh44Jmaogh8g",
-    "locationName": "Various (Divided)",
-    "otherTags": [],
-    "summary": "Locations include: Mall, West Plaza, SW Scaffolding, SW Steps under scaffolding, Stairway to south side of Lower West Terrace, Arch Entrance. Justus Eapen walking from the rally to the Capitol where he scales the scaffolding and makes his way to the Arch entrance. Just after 4:33 #FleeceNazi, #TunnelCommander can be seen. Video cuts in and out. Riot shields being passed overhead. At 5:57 a caption appears on the video\"\"They just dragged a cop out of the Capitol ... For a minute I thought they were gonna throw him over the side. \"  In foreground, a blond man in tan jacket waves at people to cut it out. Caption continues:  \"He was crying. Definitely thought he was going to die.\" 6:36 - Video moves closer. we see officer's helmet is MPDC. At 6:40 profile of officer's face - it is Michael Fanone. Someone grabs his hand, as if to pull him up the steps, but the mob is difficult to move. He eventually is maneuvered back up. Meanwhile, other officers on the right of the arch are being punched with fists and struck with riot shields. At 8:12 #BlackGlove805 yells into megaphone that \"We are not moving until we get our way!\" Yup. That's how democracy works.",
-    "suspectTags": [
-      "FleeceNazi",
-      "TunnelCommander",
-      "TaserGuy"
-    ],
-    "videoEndTimepoint": 541,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://streamable.com/7czx5u"
-  },
-  {
     "_id": "Ht5wNZd-khuQ",
     "otherTags": [],
     "summary": "UPDATE - An historic day in DC",
@@ -46676,7 +49271,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "summary": "Series of videos of #LouisVuitton on megaphone calling for weapons and angry patriots to step up. She was at the Lower Terrace West Arch Entrance to tunnel and then stood by the window to the left of the steps. She also says her name and business through the megaphone.",
+    "summary": "Series of videos of #GinaBisignano on megaphone calling for weapons and angry patriots to step up. She was at the Lower Terrace West Arch Entrance to tunnel and then stood by the window to the left of the steps. She also says her name and business through the megaphone.",
     "suspectTags": [
       "GinaBisignano"
     ],
@@ -46917,6 +49512,27 @@
     }
   },
   {
+    "_id": "LPdbAScHAlpo",
+    "location": {
+      "lat": 38.8921023,
+      "lng": -77.0281362
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
+    "otherTags": [],
+    "summary": "Part 1 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n:00: Crowd is walking to the Capitol, Washington Monument behind them  \n1:10: Orange Neon with two dogs, also in orange  \n2:14: Man in a red and grey jacket with yellow tape on the right shoulder  \n2:18: Yellow Neon at left  \n7:18: Man at right in camo jacket, yellow tape on the right shoulder  \n9:45: #IAmForgiatoBlow taking a photo with others  \n  \nMost of the footage is of people's backs, walking toward the Capitol",
+    "suspectTags": [
+      "IAmForgiatoBlow"
+    ],
+    "videoEndTimepoint": 708,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/4iaKW3CnaXs",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "4iaKW3CnaXs",
+      "thumbnailUrl": "https://img.youtube.com/vi/4iaKW3CnaXs/default.jpg"
+    }
+  },
+  {
     "_id": "LRYATx99MhxA",
     "otherTags": [],
     "summary": "West plaza prior to breaching of the riot police line there, 11:17 #cowpoke full face shown at a distance, no covering, white Stetson with stars and stripes fabric on the inside of the hat; there is a less clear shot of the left hand side of his face at 10:24 with a cigarette or lolly (?) in his mouth.",
@@ -47076,6 +49692,28 @@
     "videoDetails": {
       "type": "archiveOrg",
       "videoPath": "miss-n-0b-0dy-not-sure-whats-going-on-here-but-apparently-some-people-feel-its-n/Miss+Nobody/Miss+N0b0dy+-+Testing-1346905899391016960.mp4"
+    }
+  },
+  {
+    "_id": "NOmiZgV2EgqU",
+    "location": {
+      "lat": 38.8902336,
+      "lng": -77.0102455
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
+    "otherTags": [],
+    "summary": "Part 5 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n1:36: Continues to warn people that Antifa is there, trying to get \"us\" to attack the police and storm in  \n3:10: A woman covers the eyes of a young girl, yells \"Put that shit down, there's fucking kids here\"  \n3:55: Interviewer from YT Channel \"No One's Safe\"  \n3:58: #TreasonEagleScout at right, screaming at the police through his bullhorn  \n4:24: #PinkBeret comes out of a port-a-potty behind the two men being interviewed; have someone else review this section, it looks like a bunch of PBs milling  \n5:16: #PinkBeret again, waiting   \n5:27: Moves to lawn",
+    "suspectTags": [
+      "TreasonEagleScout",
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 327,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/Fz6gwQpfQ9k",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "Fz6gwQpfQ9k",
+      "thumbnailUrl": "https://img.youtube.com/vi/Fz6gwQpfQ9k/default.jpg"
     }
   },
   {
@@ -47347,6 +49985,21 @@
       "type": "youtube",
       "videoId": "tjXEtxdOpNA",
       "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
+    "_id": "PRoJkzOPYrR0",
+    "locationName": "Various",
+    "otherTags": [],
+    "summary": "BGOnTheScene footage",
+    "suspectTags": [],
+    "videoEndTimepoint": 1358,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/gTurnetBh4A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "gTurnetBh4A",
+      "thumbnailUrl": "https://img.youtube.com/vi/gTurnetBh4A/default.jpg"
     }
   },
   {
@@ -47676,11 +50329,51 @@
     ]
   },
   {
+    "_id": "Sfi8-ufq4pVc",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "summary": "No Antifa/No Violence/White House Rally Pt2 Washington DC  \nPeanut 411  \n  \n2:41: Possible South Carolina group, they have a blue crescent Liberty flag  \n5:06: Bearded man in Oath Keepers hat at left  \n5:39: Young guy in an orange fedora with pink band",
+    "suspectTags": [],
+    "videoEndTimepoint": 506,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/fZkEC7YHt8w",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "fZkEC7YHt8w",
+      "thumbnailUrl": "https://img.youtube.com/vi/fZkEC7YHt8w/default.jpg"
+    }
+  },
+  {
     "_id": "SjoFtfsJsjtQ",
     "imageUrl": "https://photos.google.com/share/AF1QipNKRIwCgEOexCO7u-6kAAMsQ-cOUkQ7-Ivr6sIc7CLRa7v1u1xOUzLd0h9HUg5Kdg?key=NkVOMS1PNldqUk0wOXFEdkhJSW5LTHZXbmFfeU5n",
     "otherTags": [],
     "summary": "Google Photos album with four videos and five pictures from in front of the capitol -- looks like it was later in the evening",
     "suspectTags": []
+  },
+  {
+    "_id": "TdiELRE9gp7o",
+    "location": {
+      "lat": 38.8906071,
+      "lng": -77.0109611
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "summary": "Part 6 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n1:40: Cameraman has removed his shoes and socks, and is recording his bare feet on the lawn",
+    "suspectTags": [],
+    "videoEndTimepoint": 193,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/CnH6Mg046gc",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "CnH6Mg046gc",
+      "thumbnailUrl": "https://img.youtube.com/vi/CnH6Mg046gc/default.jpg"
+    }
   },
   {
     "_id": "TeGkYHsLcv0U",
@@ -48171,7 +50864,7 @@
     "otherTags": [
       "Violence"
     ],
-    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #LouisVuitton on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
+    "summary": "View of Arch Entrance at Lower West Terrace, after the attack on the officers as the window to the left has been broken. #PippiLongScarf stands watch. #GinaBisignano on megaphone. More rioters attacking the police. Tear gas deployed. At 1:29 a rioter off-camera appears to throw a flash-bang grenade into the arch entry where the officers are holding the line. Who brought a flash-bang grenade? At 2:06, someone off-camera thrusts a pink Women for Trump sign in the air. This might be #Scallops. He appears in the lower left corner at 3:03 in red clothing change.",
     "suspectTags": [
       "PippiLongScarf",
       "GinaBisignano",
@@ -48889,6 +51582,25 @@
     }
   },
   {
+    "_id": "iL6WfX1cQjR0",
+    "location": {
+      "lat": 38.8906071,
+      "lng": -77.0109611
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "summary": "Part 5 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n5:34: Tall man in thin blue line gaiter, Detroit beanie, green half-zip  \n11:05: Georgia \"Chinese Americans for Trump\" banner is being carried up the PA Walkway, later seen on the Capitol",
+    "suspectTags": [],
+    "videoEndTimepoint": 707,
+    "videoStartTimepoint": 327,
+    "videoUrl": "https://youtu.be/Fz6gwQpfQ9k",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "Fz6gwQpfQ9k",
+      "thumbnailUrl": "https://img.youtube.com/vi/Fz6gwQpfQ9k/default.jpg"
+    }
+  },
+  {
     "_id": "iVWcEDkPEhbo",
     "imageUrl": "https://www.shutterstock.com/image-photo/washington-dc-january-6-2021-protrump-1889190715",
     "otherTags": [],
@@ -48959,7 +51671,7 @@
     "otherTags": [
       "Vandalism"
     ],
-    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #LouisVuitton is on the megaphone.",
+    "summary": "View of Arch Entrance with #PippiLongScarf standing watch. Vantage of arch & steps is from straight across Lower West Terrace. People are talking more angrily here. I believe professional photographers Lev Radin and possible Eric Lee can be seen in the foreground of this footage. At 0:39, someone points to profanity scrawled in large letters across the NW wall of the Lower Terrace. #GinaBisignano is on the megaphone.",
     "suspectTags": [
       "PippiLongScarf",
       "GinaBisignano"
@@ -49203,6 +51915,33 @@
     }
   },
   {
+    "_id": "lf2f5mHyAk3c",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [
+      "GreenTapeGroup"
+    ],
+    "summary": "Part 4 of 6 - What really happened at Trump rally in D.C.  \nRollingRenfroes  \n  \n:00: #GasMaskTwins at left; police still in control of NW Steps, scaffolding tarp is intact, orange neon on bicycle fence line  \n:17: #GasMaskTwins are now in an argument with cameraman and crowd about the military coming in; yellow neon at right, Proud Boy? with ponytail at left  \n:33: Older of #GasMaskTwins taps younger one, they exit the Plaza to the north, cameraman yells \"Antifa!\" after them  \n1:02: Cameraman tells Capitol Police that Antifa was trying to get the crowd to attack police  \n1:24: Advanced Fire guy is at the corner of the NW scaffolding  \n2:37: #GreenTapeGroup helmet at right  \n4:00: #MissingToothMarine is on the Upper West Plaza yelling, directly in front of police  \n4:14: Yellow neon is up on the landing where #MissingToothMarine was moments ago  \n5:11: Three Yellow Neons visible in frame, on the Plaza in front of the NW scaffolding  \n5:56: One of the Yellow Neons starts praying loudly, #PinkyNTheBrainless at left  \n6:55: Yellow Neon in a Longhorns hat at left, second Orange Neon on the line  \n7:36: Some of the crowd starts leaving the Plaza to the north  \n7:42: #ZZTopPB, #MaroonPB leaving Plaza, at right  \n7:53: Check this yelling guy, looks familiar  \n7:55: Cameraman calls him Antifa, gets great face view while being threatened  \n8:23: Metro PD moves in to protect cameraman  \n9:05: Cameraman tells man with large red beard, Texas flag mask, red bucket hat, that anyone saying \"Fuck the Police\" is Antifa  \n9:33: Man in black puffer jacket is eating a PB&J  \n9:45: Black Plaza fencing is being pulled down  \n9:54: NW scaffolding tarp is still intact  \n11:34: Warns other rioters of Antifa disguised \"as one of us, there's a lot of them\"",
+    "suspectTags": [
+      "GasMaskTwins",
+      "MissingToothMarine",
+      "PinkyNTheBrainless",
+      "MaroonPB",
+      "ZZTopPB"
+    ],
+    "videoEndTimepoint": 708,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/uV3Bfl1zooo",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "uV3Bfl1zooo",
+      "thumbnailUrl": "https://img.youtube.com/vi/uV3Bfl1zooo/default.jpg"
+    }
+  },
+  {
     "_id": "lvZY_3bUAiGk",
     "otherTags": [],
     "summary": "DC Police idk what's going on",
@@ -49255,6 +51994,27 @@
       "type": "youtube",
       "videoId": "CdWz2EtsQ_Q",
       "thumbnailUrl": "https://img.youtube.com/vi/CdWz2EtsQ_Q/default.jpg"
+    }
+  },
+  {
+    "_id": "mExGtqzV8vt0",
+    "location": {
+      "lat": 38.893953962652,
+      "lng": -77.036636855875
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
+    "otherTags": [
+      "SonsofLiberty"
+    ],
+    "summary": "Save America March/Rally Washington DC  \nPikes Peak Auditors  \n  \n1:31: Cut  \n2:02: Cut  \n2:32: Zooms in toward VIP area, lots of yellow neon vests  \n2:40: Cut, man in jacket with Marines logo on back and red Trump hat  \n3:08: Zoom again toward VIP area  \n3:37: Cut, man in all black with yellow neon vest  \n3:44: Cut, another man in moss hoodie, tan balaclava, yellow neon vest  \n4:06: Woman in similar, yellow neon vest  \n4:10: Man in khaki pants, black shirt/tactical vest/hat talking into shoulder mic, another on the line in tan coat with \"Women for America First\" pass on lanyard  \n4:18: Cut  \n4:25: #SonsofLiberty member on top of port-a-potty waving a Sons of Liberty NJ flag",
+    "suspectTags": [],
+    "videoEndTimepoint": 276,
+    "videoStartTimepoint": 84,
+    "videoUrl": "https://youtu.be/liYelzdVlUU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "liYelzdVlUU",
+      "thumbnailUrl": "https://img.youtube.com/vi/liYelzdVlUU/default.jpg"
     }
   },
   {
@@ -49510,6 +52270,25 @@
     ]
   },
   {
+    "_id": "rR8uWLAcQj1I",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "summary": "Save America March/Rally Washington DC  \nPikes Peak Auditors  \n  \n:35: Group of men, one in a black \"Lions Not Sheep\" shirt, one in green camo jacket and yellow gloves  \n:56: Says he's there with Wolfy Gladly and Peanut 411  \n1:24: Cut",
+    "suspectTags": [],
+    "videoEndTimepoint": 84,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/liYelzdVlUU",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "liYelzdVlUU",
+      "thumbnailUrl": "https://img.youtube.com/vi/liYelzdVlUU/default.jpg"
+    }
+  },
+  {
     "_id": "rf4q2upzUjCw",
     "location": {
       "lat": 38.8958392378086,
@@ -49565,6 +52344,21 @@
       "type": "youtube",
       "videoId": "jsEdEwpi0FM",
       "thumbnailUrl": "https://img.youtube.com/vi/jsEdEwpi0FM/default.jpg"
+    }
+  },
+  {
+    "_id": "rt3U2I0K4rBo",
+    "locationName": "Various",
+    "otherTags": [],
+    "summary": "Global News lives stream. Very long video.",
+    "suspectTags": [],
+    "videoEndTimepoint": 24438,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/GNQRGohdW9Y",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "GNQRGohdW9Y",
+      "thumbnailUrl": "https://img.youtube.com/vi/GNQRGohdW9Y/default.jpg"
     }
   },
   {
@@ -49749,7 +52543,7 @@
     "otherTags": [
       "Violence"
     ],
-    "summary": "Darker. People continue to attack the officer line with bats, pieces of furniture, and other objects. #PippiLongScarf stands watch. Police use strobe light again. #LouisVuitton on megaphone. At 1:20 someone celebrates having stolen a riot shield and helmet of an MPDC officer's helmet. Slams riot shield onto the ground repeatedly. Going for officers'  feet? At 1:42 someone tries to use a large rolled up tarp? banner? to ram police, but quickly gives up.",
+    "summary": "Darker. People continue to attack the officer line with bats, pieces of furniture, and other objects. #PippiLongScarf stands watch. Police use strobe light again. #GinaBisignano on megaphone. At 1:20 someone celebrates having stolen a riot shield and helmet of an MPDC officer's helmet. Slams riot shield onto the ground repeatedly. Going for officers'  feet? At 1:42 someone tries to use a large rolled up tarp? banner? to ram police, but quickly gives up.",
     "suspectTags": [
       "PippiLongScarf",
       "GinaBisignano"
