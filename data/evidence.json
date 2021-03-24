@@ -1100,7 +1100,9 @@
     "realTimeEnd": "2021-01-06T13:40:00.000Z",
     "realTimeStart": "2021-01-06T13:39:00.000Z",
     "summary": "Parler video ftbEXsKvOCYn  \n  \nRally, Alex Jones and entourage moving through crowd",
-    "suspectTags": [],
+    "suspectTags": [
+      "IAmAlexJones"
+    ],
     "videoEndTimepoint": 47,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/ftbEXsKvOCYn_cvt.mp4",
@@ -12248,6 +12250,29 @@
     }
   },
   {
+    "_id": "Byzp9PPIol_I",
+    "imageUrl": "https://pbs.twimg.com/card_img/1374012218833039369/KfJHtFXh?format=jpg&name=medium",
+    "location": {
+      "lat": 38.890287,
+      "lng": -77.010758
+    },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 2nd Police Barricade",
+    "otherTags": [],
+    "rationale": "[ProPublica's timeline](https://projects.propublica.org/parler-capitol-videos/?id=EzzbAaHJ2SBs) sets this video at 1:00pm.",
+    "realTimeEnd": "2021-01-06T18:00:00.000Z",
+    "realTimeStart": "2021-01-06T18:00:00.000Z",
+    "summary": "0:00:29-0:00:32: [San Antiono TV station KSAT report](https://www.ksat.com/news/local/2021/03/22/video-shows-texas-lawmaker-near-steps-of-us-capitol-as-rioters-clashed-with-officers) describes sighting of Texas state legislator.",
+    "suspectTags": [],
+    "videoEndTimepoint": 31,
+    "videoStartTimepoint": 29,
+    "videoUrl": "http://d2hxwnssq7ss7g.cloudfront.net/EzzbAaHJ2SBs_cvt.mp4",
+    "videoDetails": {
+      "type": "directLink",
+      "videoUrl": "http://d2hxwnssq7ss7g.cloudfront.net/EzzbAaHJ2SBs_cvt.mp4",
+      "contentType": "video/mp4"
+    }
+  },
+  {
     "_id": "ELbX8HfH8ljU",
     "location": {
       "lat": 38.8898098,
@@ -13345,6 +13370,30 @@
     }
   },
   {
+    "_id": "BkBVKqbd8kV4",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "May be around 1:11 PM since the cops on the stage seem to be similar to the group seen in <https://www.flickr.com/photos/49283984@N05/50891537983/in/photolist-2kx7rd4>. The metadata for that picture says it was taken at 11:00:59+00:00, and since I believe his camera is 2 hrs and 8 min. early that would be 1:11 PM.",
+    "realTimeEnd": "2021-01-06T18:11:00.000Z",
+    "realTimeStart": "2021-01-06T18:11:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 5  \n- Zoomed-in view of about six cops at the inauguration stage, one holding up a riot shield and the other holding up a weapon. Camera pulls back to show the crowd on the north side of the Lower West Plaza. Kazakh flags are not present. There is only one person on the stone platform, and it looks like #NWStepsPinkBoo.",
+    "suspectTags": [
+      "NWStairsPinkBoo"
+    ],
+    "videoEndTimepoint": 54,
+    "videoStartTimepoint": 39,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "Lu9ZBcvLoiFo",
     "location": {
       "lat": 38.8897,
@@ -14189,6 +14238,28 @@
     }
   },
   {
+    "_id": "vFpEdDOtIogE",
+    "location": {
+      "lat": 38.89071849316838,
+      "lng": -77.01064976605709
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "Matches Parler video 7hJQCx8B1LwC.",
+    "realTimeEnd": "2021-01-06T18:18:00.000Z",
+    "realTimeStart": "2021-01-06T18:18:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 2  \n- An alternate view of the formation of riot cops on the North Lawn Circuit road walking into the area, while the first injured rioter is being taken away. An ambulance is driving up in the background.   \n- We might even be able to see the person who shot the simultaneous Parler video.",
+    "suspectTags": [],
+    "videoEndTimepoint": 22,
+    "videoStartTimepoint": 11,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "-G9Azr8N4mys",
     "location": {
       "lat": 38.892,
@@ -14209,6 +14280,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/qk0SCeACvdk7_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "DAoQYg9B8uPM",
+    "location": {
+      "lat": 38.890877886338444,
+      "lng": -77.01069339951563
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "Shortly after Parler video 7hJQCx8B1LwC.",
+    "realTimeEnd": "2021-01-06T18:19:00.000Z",
+    "realTimeStart": "2021-01-06T18:19:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 3  \n- The ambulance is parked behind the cops who are re-forming their group. They move forward. Behind them you can just make out the group taking the injured man away.",
+    "suspectTags": [],
+    "videoEndTimepoint": 31,
+    "videoStartTimepoint": 22,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -14281,6 +14374,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/c8OcZF1R9C8W_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "rxPgFgrNwjUw",
+    "location": {
+      "lat": 38.89081291827747,
+      "lng": -77.01068011335157
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "rationale": "Shortly after Parler video 7hJQCx8B1LwC.",
+    "realTimeEnd": "2021-01-06T18:19:00.000Z",
+    "realTimeStart": "2021-01-06T18:19:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 4  \n- The riot cops march toward the NW Lawn. That guy in the green jacket is next to them. This lines up with Shot 6 of v=xmF7qQdfcrQ.",
+    "suspectTags": [],
+    "videoEndTimepoint": 39,
+    "videoStartTimepoint": 31,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -15048,6 +15163,54 @@
     }
   },
   {
+    "_id": "NUtZbumuIhK0",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "This most likely precedes Shot 11 of v=xmF7qQdfcrQ because the field trip family have not walked as far yet.",
+    "realTimeEnd": "2021-01-06T18:24:00.000Z",
+    "realTimeStart": "2021-01-06T18:24:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 6  \n- Zoomed-in view of the cops at the inauguration stage again, with a fast pullback to show the crowd. Kazakh flags are present this time.   \n- NWStepsPinkBoo is on the platform waving a flag.   \n- At 1:09 the field trip family are walking away.  \n- Also at 1:09 you can see a man in a red and black jacket on the ground near the stone platform at the bottom of the NW Steps. He will be up there in a later shot.",
+    "suspectTags": [
+      "NWStairsPinkBoo"
+    ],
+    "videoEndTimepoint": 71,
+    "videoStartTimepoint": 54,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "PQhckWqxws98",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Just a guess if this is between Shots 6 and 11.",
+    "realTimeEnd": "2021-01-06T18:24:00.000Z",
+    "realTimeStart": "2021-01-06T18:24:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 7    \n- A quick cut to a nearly identical view. NWStepsPinkBoo is still the only person on the platform.   \n- The camera zooms in to the next landing to show a couple of cops seizing a man in a black and white plaid jacket.   \n- There is a roll of white tarp on the balustrade. (I think in the other log I suggested that this had been cut from the scaffolding. Maybe this is what the rioters would later use instead.)",
+    "suspectTags": [
+      "NWStairsPinkBoo"
+    ],
+    "videoEndTimepoint": 97,
+    "videoStartTimepoint": 71,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "Q5HguEKugjgQ",
     "location": {
       "lat": 38.8953,
@@ -15137,6 +15300,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/IjCvip4YonXA_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "AdNpGvg3Ymw0",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Just a guess if this is between Shots 6 and 11.",
+    "realTimeEnd": "2021-01-06T18:25:00.000Z",
+    "realTimeStart": "2021-01-06T18:25:00.000Z",
+    "summary": "Shot 8  \n- Another view of the crowd at the north end of the Lower West Plaza. The camera is partially behind a large white banner held by a long piece of white PVC pipe.",
+    "suspectTags": [],
+    "videoEndTimepoint": 107,
+    "videoStartTimepoint": 97,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -15374,6 +15559,32 @@
     }
   },
   {
+    "_id": "qTmVtm-acnow",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Just a guess if this is between Shots 6 and 11.",
+    "realTimeEnd": "2021-01-06T18:26:00.000Z",
+    "realTimeStart": "2021-01-06T18:26:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 9  \n- A look at several people on the stone platform. NWStairsPinkBoo, RonniePresley, the guy with the Million Maga March shirt from the other video, a few others. A new person is pulled up, again without the help of barricade \"steps\". Camera pulls back.  \n- #NWStairsPinkBoo has his scarf down, and you can see his face pretty well at 1:47. It is possible to read the writing on his left sleeve.  \n- #RonniePresley is yelling at the crowd, waving them toward him, and pointing up the steps.  \n- #NWStairsPink is on the groun standing in line to get up on the platform.",
+    "suspectTags": [
+      "RonniePresley",
+      "NWStairsPinkBoo",
+      "NWStairsPink"
+    ],
+    "videoEndTimepoint": 122,
+    "videoStartTimepoint": 107,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "JvCV_7H8MiRU",
     "location": {
       "lat": 38.8898126,
@@ -15447,6 +15658,33 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/n36b4RLj6RgU_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "kccEmIhVIveM",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  West Plaza Media Tower",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "rationale": "Just a guess if this is between Shots 6 and 11.",
+    "realTimeEnd": "2021-01-06T18:27:00.000Z",
+    "realTimeStart": "2021-01-06T18:27:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot   \nShot 10  \n- View of the media tower, from the north. Camera pans down.  \n- You can just make out the hat and bullhorn of #NWScaffoldCommander.",
+    "suspectTags": [
+      "PapaWhiteHood",
+      "NWScaffoldCommander"
+    ],
+    "videoEndTimepoint": 133,
+    "videoStartTimepoint": 122,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -15545,6 +15783,30 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/RZ6kOAnEylPI_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "LxysE9IvgnGI",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Just a guess based on the reasoning for Shot 12.",
+    "realTimeEnd": "2021-01-06T18:28:00.000Z",
+    "realTimeStart": "2021-01-06T18:28:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 11  \n- Group of people bring someone carefully down to the ground and someone else begins to perform CPR on him.",
+    "suspectTags": [
+      "PhilipGrillo"
+    ],
+    "videoEndTimepoint": 146,
+    "videoStartTimepoint": 133,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -15693,6 +15955,32 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346893610512510976"
+    }
+  },
+  {
+    "_id": "6jeTXAKUgsbA",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Just a guess. The end of this scene seems to match Shot 14 (4:53) of <https://www.youtube.com/watch?v=xmF7qQdfcrQ>",
+    "realTimeEnd": "2021-01-06T18:30:00.000Z",
+    "realTimeStart": "2021-01-06T18:29:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 12  \n- Same view after a cut. There is a woman who is very upset as people try to get her out of the way and manhandle the patient away.   \n- A well-dressed man in a purple tie and gray suit appears to be trying to oversee the situation. He gives instructions to a person in full camo uniform. This person has a patch on their pack that is black with a red diagonal stripe, which means this may be the person I described as \"Klessi\" in Shot 14 of v=xmF7qQdfcrQ. Even the black velcro rectangles on the back and top of his helmet match. If we want to know who the man in the gray suit was, Klessi might know. At 2:53 we can see Klessi's face pretty well.  \n- At 2:47 the man in the gray suit pats the shoulder of #FrodoTheFash, who at this point is wearing a black knit cap.  \n- The end of this shot lines up with Shot 14 of v=xmF7qQdfcrQ.as they take the injured man over a broken fence with the assistance of a police officer.  \n- At the very end we see the back of the helmet of one of the #GasMaskTwins, and that guy in the Skelator mask.",
+    "suspectTags": [
+      "FrodoTheFash",
+      "SeditiousGrampy",
+      "GasMaskTwins"
+    ],
+    "videoEndTimepoint": 200,
+    "videoStartTimepoint": 146,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -18281,6 +18569,34 @@
     }
   },
   {
+    "_id": "Q7_QxWuF4nrg",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Estimate. The man from Shot 25 of the other SCNR video is holding aloft that religious statue.  Based partially on <https://flickr.com/photos/49283984@N05/50826273863/>   \nbeing taken at 1:43 because Roy_17's camera seems to be 2 hours and 8 minutes behind (judging from his shots of the first barricade breach).",
+    "realTimeEnd": "2021-01-06T18:46:00.000Z",
+    "realTimeStart": "2021-01-06T18:46:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 16    \n- That guy holding aloft that religious statue on the stone platform. This lines up with Shot 25 of v=xmF7qQdfcrQ.",
+    "suspectTags": [
+      "NWStairsPinkBoo",
+      "NWStairsPink",
+      "SeditiousGrampy",
+      "EvilWashington",
+      "RedBucketHole"
+    ],
+    "videoEndTimepoint": 231,
+    "videoStartTimepoint": 224,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "2P9KS-CZwsbg",
     "location": {
       "lat": 38.8922,
@@ -18406,6 +18722,38 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/SRpNqkWUHoLX_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "Xb4HIAqMksHM",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "GreenTapeGroup"
+    ],
+    "rationale": "Estimate. The kid from Shot 25 of the other SCNR video is going back to the ground, so this is after that.  Based partially on <https://flickr.com/photos/49283984@N05/50826273863/>   \nbeing taken at 1:43 because Roy_17's camera seems to be 2 hours and 8 minutes behind (judging from his shots of the first barricade breach).",
+    "realTimeEnd": "2021-01-06T18:47:00.000Z",
+    "realTimeStart": "2021-01-06T18:47:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 17    \n- That kid from Shot 25 in v=xmF7qQdfcrQ is being turned around to go back to the ground.   \n- I'm not 100% certain that's OldFashNS in the background on top of the stone platform.  \n- Camera pulls quickly away to a wider view of the Lower West Plaza. Smoke is rising from the area. Camera then zooms in on the cops at the inauguration stage again. Camera moves around a lot.",
+    "suspectTags": [
+      "NWStairsPinkBoo",
+      "NWStairsPink",
+      "SeditiousGrampy",
+      "EvilWashington",
+      "RedBucketHole",
+      "GuyReffitt",
+      "OldFashNS"
+    ],
+    "videoEndTimepoint": 257,
+    "videoStartTimepoint": 231,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -18702,6 +19050,35 @@
     }
   },
   {
+    "_id": "8L6y7ExWgslQ",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "Just a guess, based on spitting the difference for these three shots between the apparent time points in Shots 17 and 20.",
+    "realTimeEnd": "2021-01-06T18:49:00.000Z",
+    "realTimeStart": "2021-01-06T18:49:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 18    \n- Rioters have moved up the NW Steps a little. Refitt is sitting on the balustrade and being helped by the guy with the Million Maga March shirt. Someone is hiding from the cops behind that wooden platform. Is that the old nazi up there?  \n- Does the guy in the blue jacket and flag gaiter have a hashtag? I didn't see him included among the \"spray\" names in the Suspects Database.",
+    "suspectTags": [
+      "NWStairsPinkBoo",
+      "NWStairsPink",
+      "SeditiousGrampy",
+      "EvilWashington",
+      "GuyReffitt",
+      "OldFashNS"
+    ],
+    "videoEndTimepoint": 267,
+    "videoStartTimepoint": 257,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "9IS6j5B_Ylds",
     "location": {
       "lat": 38.8886,
@@ -18916,6 +19293,35 @@
     }
   },
   {
+    "_id": "tt2G991zcu10",
+    "location": {
+      "lat": 38.88972222,
+      "lng": -77.01
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [
+      "SeditionSprayer",
+      "SeditionWeapon"
+    ],
+    "rationale": "Estimated time",
+    "realTimeEnd": "2021-01-06T19:10:00.000Z",
+    "realTimeStart": "2021-01-06T18:50:00.000Z",
+    "summary": "Video is upside down as filmer gets onto the stage area of the upper plaza  \n:02 Blueglovesngas bottom half and red and black sprayer  \n:04 Close in shot of embroidered Q Anons Leather jacket  \n:05 Blueglovesngas bottom half with handle and strap on gas sprayer  \n:06 Dominickmadden - bright blue hoodie, black ball cap and black underarmour athletic pants waving flag with umbrella handle  \n:07 Blueglovesngas with two Gas Sprayers, one in each hand, one is black and one is black and red  \n:07 Backside of person with long brown coat, grey back pack , black beanie and shaggy hair  \n:07 Person with red pattern cloth covering head, blue swim goggles, and black jacket and behind him is swedishscarf  \n:09 Facing the crowd and media tower on the west plaza, person wearing bluehooded jacket, black beanie, clothing, black and blue gloves, white face covering and carrying a flag with white and black 52 CAL Combat hockey stick with a flag on it and brokebackorangepack, and then allgreenguy and leather Q Anons jacket  \n:10 Man in black and white ball cap, black sweatshirts with Marines across the chest, wearing an over the shouldder army green back and holding yellow gloves and turbo57  \n:11 Q Anons embroidered leather jacket,   \n:13 back and side view of man with Red Mountain Hardware Jacket with black sleeves,  white and grey scarf, slightly greying short brown hair, white and brown goatee and red hat with white embroidered Trump Make America Great Again, black gloves and jeans, and Swedishscarf  \n:15 Larger build man in long brown coat, black rimmed goggles, black cap, greay beard with two braids, orange radio on his shoulder, carrying Trump Rambo flag,   \n:18 spray can blue and white laying on the ground  \n:21 Navy blue hooded sweatshirt, dark blue or black ball cap, reddish brown face gaiter, wearing blue back pack, carrying a wooden walking stick  \n:21 Woman with darker complexion, curly brown hair and hooped earrings in olive green, fur-lined hooded coat, over a low cut red sweater with white pattern on it who is holding a Capitol police helmet and a black can of bear spray and the back side of legionnaire  \n:27 feet of baldeagle,    \n:29 Black man in dark blue jacket with black wrists, red patterned facemask, facial har, black beanie, black backpack  \n:30 Clean cut white man, brown hair, black rim prescription glasses",
+    "suspectTags": [
+      "BlueGlovesNGas",
+      "DominickMadden",
+      "SwedishScarf",
+      "BrokeBackOrangePack",
+      "AllGreenGuy",
+      "Turbo57",
+      "Legionnaire",
+      "BaldEagle"
+    ],
+    "videoEndTimepoint": 30,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.dropbox.com/scl/fo/gs3fmtd6sww1rogb38dic/AADMNst-MU4g7ouozuwHrNRIa/Facebook/zach.moushon/Jan%206?dl=0&preview=5162805153759953.mp4&subfolder_nav_tracking=1        https://www.facebook.com/zach.moushon/videos/5162805153759953/?"
+  },
+  {
     "_id": "zx6bk3IGMrdk",
     "imageUrl": "https://www.gettyimages.com/detail/video/donald-trump-supporters-storm-the-united-states-capitol-news-footage/1295320499",
     "location": {
@@ -18982,19 +19388,20 @@
   {
     "_id": "xIg3aZxdsulM",
     "location": {
-      "lat": 38.8900686,
-      "lng": -77.0101871
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
     },
     "locationName": "Capitol Exterior West:\n  NW Scaffold",
     "otherTags": [],
+    "rationale": "Just a guess, based on spitting the difference for these three shots between the apparent time points in Shots 17 and 20.",
     "realTimeEnd": "2021-01-06T18:51:00.000Z",
     "realTimeStart": "2021-01-06T18:51:00.000Z",
-    "summary": "Individual4 signals to the crowd to push forward towards the NW scaffolding",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 19    \n- Wide shot of the crowd zooms in on #Individual4 waving people into the scaffolding. Someone else is cutting away more of the tarp from ground level.",
     "suspectTags": [
       "Individual4"
     ],
-    "videoEndTimepoint": 280,
-    "videoStartTimepoint": 268,
+    "videoEndTimepoint": 289,
+    "videoStartTimepoint": 267,
     "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
     "videoDetails": {
       "type": "youtube",
@@ -19097,6 +19504,34 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/cKdzPlpSzvAk_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "-URsll6CMlEE",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [
+      "SeditionComms",
+      "SeditionBullhorn"
+    ],
+    "rationale": "Just a guess, based on spitting the difference for these three shots between the apparent time points in Shots 17 and 20.",
+    "realTimeEnd": "2021-01-06T18:53:00.000Z",
+    "realTimeStart": "2021-01-06T18:53:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 20    \n- Camera swings around erratically to show Alex Jones standing on a stack of chairs and yelling through a bullhorn.  \n- Behind Jones is #IAmAliAlexander. I'm not sure if that's #IAmOwenShroyer next to him.  \n- At 4:57 at the lower left corner of the frame is the auburn-haired woman with the headphones/hearing proiecxtion I noticed in Shot 4 of v=xmF7qQdfcrQ.",
+    "suspectTags": [
+      "IAmAlexJones",
+      "IAmAliAlexander"
+    ],
+    "videoEndTimepoint": 336,
+    "videoStartTimepoint": 289,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -19362,6 +19797,39 @@
       "type": "youtube",
       "videoId": "lz1ativgkRU",
       "thumbnailUrl": "https://img.youtube.com/vi/lz1ativgkRU/default.jpg"
+    }
+  },
+  {
+    "_id": "6yLsr8HCsnzM",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "SeditionSprayers",
+      "SeditionComms",
+      "OrangeTapeGroup"
+    ],
+    "rationale": "Lines up with the spray attack shown in <https://www.flickr.com/photos/49283984@N05/50835776166/> and <https://www.flickr.com/photos/49283984@N05/50835798231/> by Roy_17. I believe his camera is 2 hours and 8 minutes behind correct Eastern Time.",
+    "realTimeEnd": "2021-01-06T18:55:00.000Z",
+    "realTimeStart": "2021-01-06T18:55:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 21    \n- Back at the NW Steps, more people are cutting away the tarp from the north face of the scaffolding. Refitt is still recovering, sitting on the balustrade. Some people are hiding under some white tarp, which may be the roll that had been sitting on the balustrade. (It isn't there anymore.) Someone under there throws a water bottle up the steps.   \n- #ThroatMic moves up the steps holding the wooden platform as a shield in front of him. He reaches the landing and drops the platform (onto the cops?) and the cops hit him with batons. #ThroatMic yeets back down the steps.   \n- Meanwhile someone behind him in a black hoodie that says \"Bring Enough Guns\" (?) has a riot shield in front of him. And the guy in the Million Maga March shirt is next to him. (You can tell by his hat.) As a cop walks down after #ThroatMic, the sprayer in the blue jacket stands up on the balustrade next to Refitt and attacks. Someone wearing an eyepatch stands up behind the sprayer to steady him.   \n- The end of this shot ines up with Shot 28 of v=xmF7qQdfcrQ because we see a rioter in a black snake hoodie who appears to have been shot.  He is holding his hand up to the right side of his head. People get him off the platform, including the guy with a dark blue helmet that has orange tape on the top.  \n- Also, the American flag Ichthos flag is up there, so maybe we can track its bearer.",
+    "suspectTags": [
+      "NWStairsPinkBoo",
+      "NWStairsPink",
+      "GetPumpedPB",
+      "EvilWashington",
+      "BlackHoodExtinguisher",
+      "GuyReffitt"
+    ],
+    "videoEndTimepoint": 366,
+    "videoStartTimepoint": 336,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -20077,14 +20545,18 @@
   {
     "_id": "5MxjpexvEknc",
     "location": {
-      "lat": 38.8900716,
-      "lng": -77.010055
+      "lat": 38.89,
+      "lng": -77.01
     },
     "locationName": "Capitol Exterior West:\n  NW Steps",
-    "otherTags": [],
+    "otherTags": [
+      "SeditionComms",
+      "ThreePercenter"
+    ],
+    "rationale": "Estimated",
     "realTimeEnd": "2021-01-06T19:06:00.000Z",
     "realTimeStart": "2021-01-06T19:00:00.000Z",
-    "summary": "Video from Facebook posts. Witkus2. Climbing through scaffolding to upper left front of the Capitol.",
+    "summary": "Video from Facebook posts. Witkus2.  Filmer is on the NW Capitol steps near scaffolding  \n:05 \"We're taking over the capitol\"  \n:08 Woman on a bullhorn is chanting \"We the People\" x 3 \"This is our republic\"  \n:35 Women in the crowd commenting that the smell in the air \"That's no tear gas...it's weed\"  \n:41 A long grey bearded man in navy black hooded sweatshirt, green helmet, tan tactical vest, orange tinted goggles, with a black looped antenna on his left shoulder immediately followed by   \n:45 A younger white man brown facial hair, in purple tinted camo with green tactical vest and green helmet. three percent patch and a name tag WICK on his chest, black goggles, and carrying black radios strapped to his tac vest, carrying a yellow Gadsden Flag with white PVC pipe immediately followed by  \n:51 A white man in orange hoodie under an army green jacket, green helmet, american flag mask, wearing green pouches and maybe carrying a gas mask and white camoflage pants  \n1:13 Purple camo guy has two patches on the back of his green tac vest  \n1:13 Person with White hoodie, white patterned hankerchief, black jacket with a white logo, grey backpack  \n2:05 \"Fight for trump\" chant  \n2:16 Filmer says \"This is great dude, this is unbelievable\" a woman say Yes it is\" another man says \"History\" a woman says \"History\" and the Filmer says \"Yeah and we're a part of it\" woman says \" yes...we got peppered sprayed, let's go again\"  \n2:25 Filmer says \"We gotta get up there somehow man\"  \n3:00 Someone is yelling push foward the filmer is moving south of the scaffolding  \n3:02 Fiizzing sound...The Filmer says \"What was that, fireworks?\"  \n3:14 \"inaudible...flare\"  \n3:21 Filmer says, \"I think somebody shot it off over here\" moves camera to point up the scaffolding  \n3:38 Women start yelling \"We're inside\"  \n3:45 People are yelling in celebration  \n4:00 Filmer says \"You want to go this way Will? We ain't getting up those steps\"   \n4:16 they turn around and proceed up the steps inside of the scaffolding  \n4:22 Someone with a bullhorn is setting off the siren  \n4:35 The filmer's friend will has a Red Underarmour sweatshirt, black gloves and hands him a black back pack and they say \"It\"s now or never\"  \n5:26 They say again \"Now or never, right?\" and the filmer says \"Now or Never\"  \n5:29 Crowd is chanting \"USA\"  \n5:45 Men are yelling move foward and a hand made white sign with New Jersey in red paint",
     "suspectTags": [],
     "videoEndTimepoint": 378,
     "videoStartTimepoint": 0,
@@ -22350,6 +22822,37 @@
     }
   },
   {
+    "_id": "18N1i6LCMtTw",
+    "location": {
+      "lat": 38.89020345547585,
+      "lng": -77.01031423389954
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "rationale": "This shot appears to end just before <https://www.flickr.com/photos/49283984@N05/50836177288/> by Roy_17. I believe his camera is 2 hours and 8 minutes behind correct Eastern Time.  \nThis run up the stairs also precedes Parler video StkJb205ViGR which is times at 2:12 PM.",
+    "realTimeEnd": "2021-01-06T19:11:00.000Z",
+    "realTimeStart": "2021-01-06T19:11:00.000Z",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 28    \n- A view of the NW steps as rioters rush up them. The camera zooms in and we see the cops running up ahead of them. #ThroatMic waves people on.  \n- People throw traffic cones into the air.",
+    "suspectTags": [
+      "NWStairsPinkBoo",
+      "NWStairsPink",
+      "SeditiousGrampy",
+      "EvilWashington",
+      "ElfNazi",
+      "BlackQShirt",
+      "WilliamWatson",
+      "LongHornsNS"
+    ],
+    "videoEndTimepoint": 489,
+    "videoStartTimepoint": 466,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "9XJ1QLWkIniU",
     "location": {
       "lat": 38.8899,
@@ -22573,6 +23076,7 @@
       "JoeBiggs",
       "AuntRageFace",
       "GasMaskTwins",
+      "GingerYeezus",
       "NWStairsPinkBoo"
     ],
     "videoEndTimepoint": 787,
@@ -25275,7 +25779,9 @@
     "realTimeEnd": "2021-01-06T19:37:00.000Z",
     "realTimeStart": "2021-01-06T19:28:00.000Z",
     "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \n33:10 Steve Baker of the Pragmatic Constitutionalist in his Yorktown cap.  \n35:29 A man vandalizes a display in the Crypt.",
-    "suspectTags": [],
+    "suspectTags": [
+      "OrangeLensesPB"
+    ],
     "videoEndTimepoint": 2230,
     "videoStartTimepoint": 1708,
     "videoUrl": "https://youtu.be/CSF5FHIGlbg",
@@ -26620,7 +27126,7 @@
     "realTimeStart": "2021-01-06T19:34:00.000Z",
     "summary": "CampAuscwitzShirt",
     "suspectTags": [
-      "CampAushwitzShirt",
+      "CampAuschwitzShirt",
       "GasMaskTwins"
     ],
     "videoEndTimepoint": 1804,
@@ -29176,7 +29682,7 @@
       "JohnEarlSullivan",
       "HelmetBoy",
       "SeriousForehead",
-      "CampAushwitzShirt"
+      "CampAuschwitzShirt"
     ],
     "videoEndTimepoint": 140,
     "videoStartTimepoint": 0,
@@ -30089,14 +30595,17 @@
     "summary": "NemosNewsNetwork  \nVarious individuals seen exiting the Capitol via the SE Doors.",
     "suspectTags": [
       "PonchoInsider",
+      "IAmTaylerHansen",
       "DennisSidorski",
       "PhillipBromley",
       "ChrisSpencer",
       "ChristopherOrtiz",
+      "CampAuschwitzShirt",
       "BetaKappaMaga",
       "GreyFleeceGadsdenFlag",
       "JolietPipefitter",
       "ThomasBaranyi",
+      "JohnEarlSullivan",
       "LaptopCowGramps"
     ],
     "videoEndTimepoint": 455,
@@ -30593,8 +31102,10 @@
     "rationale": "Time estimated based on crowds seen in the Upper and Lower West Terraces. Note that there are edits throughout. End times are estimated.",
     "realTimeEnd": "2021-01-06T20:00:00.000Z",
     "realTimeStart": "2021-01-06T19:50:00.000Z",
-    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n5:55 View of the West side of the Capitol from Pennsylvania Avenue near the Peace Monument. People seen on the Upper West Plaza and filing the Lower West Plaza.  \n6:48 IAmPhillipAnderson on the Peace Monument",
-    "suspectTags": [],
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n5:55 View of the West side of the Capitol from Pennsylvania Avenue near the Peace Monument. People seen on the Upper West Plaza and filing the Lower West Plaza.  \n6:48 IAmPhilipAnderson on the Peace Monument",
+    "suspectTags": [
+      "IAmPhilipAnderson"
+    ],
     "videoEndTimepoint": 449,
     "videoStartTimepoint": 339,
     "videoUrl": "https://youtu.be/tjXEtxdOpNA",
@@ -33335,7 +33846,8 @@
     "suspectTags": [
       "JorgeRiley",
       "KnifeLeather",
-      "UncagedBird"
+      "UncagedBird",
+      "DamonBeckley"
     ],
     "videoEndTimepoint": 3903,
     "videoStartTimepoint": 3791,
@@ -35463,26 +35975,6 @@
     }
   },
   {
-    "_id": "mwhtCcwzwqDw",
-    "location": {
-      "lat": 38.8899627,
-      "lng": -77.0099712
-    },
-    "locationName": "Capitol Exterior West:\n  NW Riser",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T20:27:00.000Z",
-    "realTimeStart": "2021-01-06T20:19:00.000Z",
-    "summary": "Video from Facebook posts. Witkus FBV4. View of the crowd on the Lower Western Terrace from the North Riser. Man can be heard saying \"they dragged a cop out of that damn building and pulled him out into the crowd.\"",
-    "suspectTags": [],
-    "videoEndTimepoint": 502,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1K_lNEPutfjwXNJK_iAAf-ndPWBAi881q",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "1K_lNEPutfjwXNJK_iAAf-ndPWBAi881q"
-    }
-  },
-  {
     "_id": "s4N-mA2lAsZQ",
     "location": {
       "lat": 38.8892,
@@ -35571,6 +36063,29 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/M8YHLRH9D7gh_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "mwhtCcwzwqDw",
+    "location": {
+      "lat": 38.89,
+      "lng": -77.00972222
+    },
+    "locationName": "Capitol Exterior West:\n  NW Riser",
+    "otherTags": [],
+    "rationale": "Based upon crowd chanting- assume its during officer Fanone being dragged in crowd",
+    "realTimeEnd": "2021-01-06T20:28:00.000Z",
+    "realTimeStart": "2021-01-06T20:20:00.000Z",
+    "summary": "Video from Facebook posts. Witkus FBV4. View of the crowd on the Lower Western Terrace from the North Riser. Man can be heard saying \"they dragged a cop out of that damn building and pulled him out into the crowd.\" Crowd is chanting \"Let the cop go, Let the Cop Go\"  \n:00 Patriot Party of Mississippi We say No to American Communism sign being held by man in red hooded flannel jacket and reddish-brown hair  \nZooms in on crowd towards west tunnel and plaza  \n:38 Zooms in on Patriot Party sign holder  \n:45 \"We want trump\" chant starts  \n1:13 talking about the crowd dragging the cops out of the tunnel  \n2:20 \"Who's house, our house\" chant  \n2:35 \"We stand up\" Chant  \n3:45 \"No Peace No trust\"  \n4:09 The filmer say \"If you didn't think people ain't pissed, wait til you see this video\"  \n4:25 The filmer describes how the Capitol was blocked off and Trump supporters barrelled through the police line  \n5:13 pans to the sky toward helicopter flying overhead  \n5:15 \"Freedom, Freedom\" chant  \n5:21 Black jacket with WWG1WGA Red White and blue skull on the back of jacket  \n5:40 \"we want trump\" chant  \n6:09 \"we the people\" chant  \n6:38 Young guy with curly brown hair, 45 knit cap, white shirt, purple jacket, facial hair and young guy with dark hair longer hair and full short beard, black jacket over a white and black striped hoodie, tan backpack and red make america great again ballcap and blue scarf with stars  \n6:57 Guy from philie striped hoodie says his wife is mad  \n7:03 Two young men have opened bears have someone take their photo  \n7:25 Filmer asks where is the cop at did they let him go?  \n7:26 Ingoditrustrioter is vaping  \n7:58 Filmer says he's from Chambersburg, PA originally from Baltimore  \n8:05 Two young men admit to being from Philadelphia   \n8:09 Man in full camo clothes and hat, followed by man with grey hoodie, black beanie and black and white flannel shirt with professional photography gear moving toward the capitol on the riser  \n8:13 Person in light tan hooded jacket with ball cap following photographer  \n8:15 Person with camo helmet and grey hoodie following tan jacket  \n8:17 Ingoditrustrioter follows camo helmet  \n8:20 Man with Green and yellow knit cap and long brown pony tail follows Ingoditrustrioter  \n8:22 Older man with blond hair, green scarf, black or brown coat follows green knit cap guy",
+    "suspectTags": [
+      "InGodITrustRioter"
+    ],
+    "videoEndTimepoint": 502,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1K_lNEPutfjwXNJK_iAAf-ndPWBAi881q",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "1K_lNEPutfjwXNJK_iAAf-ndPWBAi881q"
     }
   },
   {
@@ -36611,7 +37126,9 @@
     "realTimeEnd": "2021-01-06T20:38:00.000Z",
     "realTimeStart": "2021-01-06T20:28:00.000Z",
     "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn.   \nSullivan talking to others about Babbitt shooting",
-    "suspectTags": [],
+    "suspectTags": [
+      "JohnEarlSullivan"
+    ],
     "videoEndTimepoint": 5909,
     "videoStartTimepoint": 5264,
     "videoUrl": "https://youtu.be/CSF5FHIGlbg",
@@ -43911,8 +44428,10 @@
     "rationale": "Facebook Timestamp",
     "realTimeEnd": "2021-01-06T21:56:00.000Z",
     "realTimeStart": "2021-01-06T21:55:00.000Z",
-    "summary": "3:30 IAmPhillipAnderson is being led away by two other men  \n5:11 Man in a tricorn hat speaks to crowd w/ sound equipment",
-    "suspectTags": [],
+    "summary": "3:30 IAmPhilipAnderson is being led away by two other men  \n5:11 Man in a tricorn hat speaks to crowd w/ sound equipment",
+    "suspectTags": [
+      "IAmPhilipAnderson"
+    ],
     "videoEndTimepoint": 311,
     "videoStartTimepoint": 210,
     "videoUrl": "https://www.facebook.com/watch/live/?v=3047962525477215&ref=watch_permalink"
@@ -44048,6 +44567,7 @@
     "realTimeStart": "2021-01-06T21:58:00.000Z",
     "summary": "SnubNoseRedHat talking to #CommanderCamo",
     "suspectTags": [
+      "SnubNoseRedHat",
       "CommanderCamo"
     ],
     "videoEndTimepoint": 25,
@@ -45309,7 +45829,7 @@
     "rationale": "Facebook Timestamp",
     "realTimeEnd": "2021-01-06T22:11:00.000Z",
     "realTimeStart": "2021-01-06T22:09:00.000Z",
-    "summary": "17:21 #BluePJ  \n18:30 #IAmPhillipAnderson being led away by a woman",
+    "summary": "17:21 #BluePJ  \n18:30 #IAmPhilipAnderson being led away by a woman",
     "suspectTags": [
       "BluePJ"
     ],
@@ -47678,6 +48198,25 @@
     }
   },
   {
+    "_id": "-vOqkWpsQjNM",
+    "location": {
+      "lat": 38.89023855479026,
+      "lng": -77.00966097023293
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 62    \n- Slow pan down from a view of the Rotunda to a view of the riot cops.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1186,
+    "videoStartTimepoint": 1175,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "00pVksdMAjiI",
     "location": {
       "lat": 38.8898151,
@@ -47749,6 +48288,29 @@
     ]
   },
   {
+    "_id": "0ZqdHu61clXQ",
+    "location": {
+      "lat": 38.89028696337949,
+      "lng": -77.01031155169208
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 25   \n - #CamoHeadPusher now leans over the last cop, sweeps his hat off, and throws it away.  \n- Next to him is a man in a black trilby or fedora (?), but I can't tell if this is #SkinheadMikePB. The clothes are different.  \n- On the ground is a guy with a jacket that says \"Christendom Rugby\" from Christendom College in Virginia.",
+    "suspectTags": [
+      "CamoHeadPusher",
+      "NWStairsPink",
+      "BluePlaidSprayer"
+    ],
+    "videoEndTimepoint": 447,
+    "videoStartTimepoint": 433,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "0hwkObwLwg8w",
     "otherTags": [],
     "summary": "We are ‘Boots on the Ground’ in Washington, DC!.",
@@ -47778,6 +48340,27 @@
     "suspectTags": [
       "SleevelessRedTattoos"
     ]
+  },
+  {
+    "_id": "0yZNl2O7gr84",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [
+      "GreenTapeGroup"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 14    \n- After a quick cut we see mostly the same view as before. #GreenTapeGroup at bottom of screen.  \n- The police appear to launch a teargas grenade, and the Trumpists throw two objects onto the Upper West Plaza.",
+    "suspectTags": [],
+    "videoEndTimepoint": 218,
+    "videoStartTimepoint": 207,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "0zUNIFDsssdc",
@@ -47834,6 +48417,27 @@
     }
   },
   {
+    "_id": "1E3JN_dE4q6E",
+    "location": {
+      "lat": 38.89034640342786,
+      "lng": -77.00929729941318
+    },
+    "locationName": "Capitol Exterior West:\n  NW Side Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 40    \n- Now we are looking at the door at the top of the steps again. #PinkBeret is still standing outside the open door. Some people leave while others enter.  \n- In front of a window to the right of the door are two people in helmets and possibly armor. One of them has a yellow cloth tied around their right arm.  \n- Another person who goes up the stairs has a black jacket with a bright green hand on it. Didn't I see that on someone at the North door?",
+    "suspectTags": [
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 847,
+    "videoStartTimepoint": 837,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "1GpvZols8jgs",
     "otherTags": [],
     "summary": "Scallops head appears at 0:08; climbs up and joins fight from left of doors at 0:17; loses his hat at 0:34; climbs down at 0:37",
@@ -47848,6 +48452,25 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1348897866249433090"
+    }
+  },
+  {
+    "_id": "1LsnZzedkrtc",
+    "location": {
+      "lat": 38.890356736987705,
+      "lng": -77.00910194877376
+    },
+    "locationName": "Capitol Exterior West:\n  NW Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 53  \n- A look at a door with a broken window as more people saunter into the Capitol.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1075,
+    "videoStartTimepoint": 1066,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -47941,6 +48564,28 @@
     "videoDetails": {
       "type": "instagram",
       "videoId": "CJug56LJcr4"
+    }
+  },
+  {
+    "_id": "2qvPveu_kriw",
+    "location": {
+      "lat": 38.889811,
+      "lng": -77.0096544
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 71    \n- That kid walks a police motorcycle back under a tarp. #OldFashNS walks past.",
+    "suspectTags": [
+      "OldFashNS",
+      "TowerGecko"
+    ],
+    "videoEndTimepoint": 1417,
+    "videoStartTimepoint": 1389,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -48102,6 +48747,7 @@
     "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "suspectTags": [
+      "SnubNoseRedHat",
       "CommanderCamo"
     ]
   },
@@ -48201,6 +48847,27 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346935309137825803"
+    }
+  },
+  {
+    "_id": "5j8nLXp_IpNU",
+    "location": {
+      "lat": 38.89033311742014,
+      "lng": -77.00937695695548
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 38  \n- After a quick cut we see a repeat of a few seconds of the previous shot.",
+    "suspectTags": [
+      "BatBoy"
+    ],
+    "videoEndTimepoint": 827,
+    "videoStartTimepoint": 824,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -48373,6 +49040,25 @@
     ]
   },
   {
+    "_id": "7DeRRzkzQkWg",
+    "location": {
+      "lat": 38.889822761674814,
+      "lng": -77.00837955149194
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 78    \n- An Infowars sticker that reads \"I am Q\" is stuck to the armored truck.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1486,
+    "videoStartTimepoint": 1482,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "7Fzgq8y_Er2w",
     "otherTags": [],
     "summary": "Police Encircle Trump Supporters at Their Hotels",
@@ -48481,6 +49167,25 @@
     }
   },
   {
+    "_id": "9GK0jlFkoiAA",
+    "location": {
+      "lat": 38.89039253087961,
+      "lng": -77.00954842912202
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 56    \n- A view of the crowd on the Upper West Terrace, looking west.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1115,
+    "videoStartTimepoint": 1101,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "9RxAOVGxQhUk",
     "location": {
       "lat": 38.8898151,
@@ -48538,6 +49243,25 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "X5EwmD7S"
+    }
+  },
+  {
+    "_id": "9qDCnMnokoyY",
+    "location": {
+      "lat": 38.890390690102336,
+      "lng": -77.00911143181452
+    },
+    "locationName": "Capitol Exterior West:\n  NW Portico",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 48    \n- Closer views of seditionists climbing through broken windows and going in and out of the open door. The camera looks into the second window to show some of the people inside. Some decent face shots.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1006,
+    "videoStartTimepoint": 978,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -48666,6 +49390,25 @@
     "otherTags": [],
     "summary": "Guy with reddish beard bleeding from head wound, holding a fur",
     "suspectTags": []
+  },
+  {
+    "_id": "BeC_bNjwIhnY",
+    "location": {
+      "lat": 38.890224979485595,
+      "lng": -77.00967170865191
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 60    \n- At the top of the NW Steps, the riot cops have moved their line to move people away from part of the courtyard.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1169,
+    "videoStartTimepoint": 1158,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "BiKrcgW1cqdc",
@@ -48930,6 +49673,25 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346983128452239360"
+    }
+  },
+  {
+    "_id": "EKYqgGcQYvlE",
+    "location": {
+      "lat": 38.89102368060583,
+      "lng": -77.00834197115387
+    },
+    "locationName": "Capitol Grounds East:\n  NE Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 72    \n- Now we are on the East Side of the Capitol Building. A couple of Homeland Security riot cops are walking around on the northern end. Some guy taps one of them on the shoulder and keeps walking.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1435,
+    "videoStartTimepoint": 1417,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -49251,6 +50013,25 @@
     ]
   },
   {
+    "_id": "Hs073aj2YvkY",
+    "location": {
+      "lat": 38.89013247368432,
+      "lng": -77.01023913204844
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 33    \n- This appears to be a view from the stone platform itself. We can see the steps up are crowded with rioters, as are the steps under the scaffolding.",
+    "suspectTags": [],
+    "videoEndTimepoint": 638,
+    "videoStartTimepoint": 628,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "Ht5wNZd-khuQ",
     "otherTags": [],
     "summary": "UPDATE - An historic day in DC",
@@ -49261,6 +50042,30 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "KwdE1bTA"
+    }
+  },
+  {
+    "_id": "IjlGeaqzwtg8",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 46    \n- The portico area again. These people sure do like to wave flags.   \n- Then back to the side door. At 15:25 a woman in red stockings and a blue and white tutu walks past. I don't think it's #BlondePony, but someone in a similar costume.   \n- The crowd is sings The Star-Spangled Banner.  \n- I think that's #BurlyTheFirst at 15:41 near the lamp post, but Im not certain.",
+    "suspectTags": [
+      "PinkBeret",
+      "BurlyTheFirst",
+      "BatBoy",
+      "PinkyNTheBrainless"
+    ],
+    "videoEndTimepoint": 952,
+    "videoStartTimepoint": 899,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -49478,6 +50283,25 @@
     }
   },
   {
+    "_id": "L5mhJ1Ki4jTQ",
+    "location": {
+      "lat": 38.890218069365325,
+      "lng": -77.01031691610851
+    },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 27    \n- Somone up on the scaffolding is waving a Trump flag.",
+    "suspectTags": [],
+    "videoEndTimepoint": 466,
+    "videoStartTimepoint": 461,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "L6kIG1iEkpCw",
     "otherTags": [],
     "summary": "LIVE - Crowds gathering for Save America Rally in Washington DC",
@@ -49500,7 +50324,8 @@
     "otherTags": [],
     "summary": "Jenna Ryan Facebook Live Stream Archive 1. At 9:26 she is told by #GreenShirtStairmaster \"If you push hard enough, they'll budge.\"",
     "suspectTags": [
-      "GreenShirtStairmaster"
+      "GreenShirtStairmaster",
+      "JenniferRyan"
     ],
     "videoEndTimepoint": 648,
     "videoStartTimepoint": 0,
@@ -49788,6 +50613,46 @@
     ]
   },
   {
+    "_id": "NyVCh1yAgjck",
+    "location": {
+      "lat": 38.89033311742014,
+      "lng": -77.00937695695548
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [
+      "SeditionComms"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 36  \n- The camera pans down from a view of the Rotunda to the rioters on the NW Courtyard.  \n- At the very end of the shot you can see a guy in a desert camo balaklava and behind him a guy with an earpiece.",
+    "suspectTags": [],
+    "videoEndTimepoint": 793,
+    "videoStartTimepoint": 789,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "O7EN7NiO8jiw",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 15    \n- I am not certain that the location is correct, but in the background we seem to see the dirt below the NW Steps.  \n- Trumpist protest sign and flags, including what appears to be the banner mentioned in Shot 8.",
+    "suspectTags": [],
+    "videoEndTimepoint": 224,
+    "videoStartTimepoint": 218,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "O9lQe6i9soOk",
     "imageUrl": "https://twitter.com/eeemonts/status/1351242316820975617/photo/3",
     "otherTags": [],
@@ -49795,6 +50660,27 @@
     "suspectTags": [
       "SleevelessRedTattoos"
     ]
+  },
+  {
+    "_id": "OR2bT7gnYpSk",
+    "location": {
+      "lat": 38.8901247751768,
+      "lng": -77.00969315674286
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 67    \n- The riot cops seem to be expanding their L-shaped line into the alcove that has the two doors.",
+    "suspectTags": [
+      "PBStrutter"
+    ],
+    "videoEndTimepoint": 1351,
+    "videoStartTimepoint": 1344,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "OUeCBhg0ouWc",
@@ -49860,6 +50746,27 @@
       "type": "youtube",
       "videoId": "jsEdEwpi0FM",
       "thumbnailUrl": "https://img.youtube.com/vi/jsEdEwpi0FM/default.jpg"
+    }
+  },
+  {
+    "_id": "OlojMi8OQm4I",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 1  \n- Five people are on the platform at the base of the NW Steps. A sixth clambers up, without the aid of the barricade \"steps\". His hat goes flying.  \n- Since the camera position matches that of Shots 5 and later in this video, I think this was edited to the beginning to get the viewer's attention. Considering the number of people around, I doubt the camera operator started here, moved north, and then moved back to this spot.",
+    "suspectTags": [
+      "NWStairsPinkBoo"
+    ],
+    "videoEndTimepoint": 11,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50040,6 +50947,33 @@
     }
   },
   {
+    "_id": "Pgh8LmafwvNE",
+    "location": {
+      "lat": 38.89028070029045,
+      "lng": -77.01036787808042
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
+    "otherTags": [
+      "SeditionComms"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 23    \n- A crowd of rioters are surrounding a group of riot cops near the speakers.   \n- Before he starts pushing heads, #CamoHeadPusher hands his Trump flag to a guy with an earpiece.  \n- #TreasonEagleScout and #SnapOnPB are on the ground pushing against the cops.  \n- The camera swings around and we a neon masker in the scrum.   \n- At 6:48 we see a woman in a white coat holding a sign that says \"No Mandatory Vaccine Chipping\". I know I've seen her elsewhere recently.  \n- #GunsHoodieNS at right at 06:29 .  \n- In the scrum we see the back of this guy: <https://twitter.com/jakobravner/status/1373722592981442562>  \n- The rioters on the stone platform have brought up one of the barricades with them.",
+    "suspectTags": [
+      "CamoHeadPusher",
+      "TreasonEagleScout",
+      "SnapOnPB",
+      "LongHornsNS",
+      "GunsHoodieNS"
+    ],
+    "videoEndTimepoint": 416,
+    "videoStartTimepoint": 378,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "Q-jcjYpkYjfM",
     "imageUrl": "https://www.flickr.com/photos/randallartphotos/50836747266/in/album-72157717895372853/",
     "otherTags": [],
@@ -50078,6 +51012,44 @@
     }
   },
   {
+    "_id": "Q8K9RqWU8g5c",
+    "location": {
+      "lat": 38.89062036497896,
+      "lng": -77.00818430623501
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 73    \n- A shot of the stairs that lead up to what I believe is the Senate wing, from the East side.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1440,
+    "videoStartTimepoint": 1435,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "QLx6A3K8El9g",
+    "location": {
+      "lat": 38.8901247751768,
+      "lng": -77.00969315674286
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 68    \n- A quick cut and more of the same view as in the previous shot. Possible orange hat at far left.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1362,
+    "videoStartTimepoint": 1351,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "QUVydl_Vks-I",
     "location": {
       "lat": 38.8898151,
@@ -50097,6 +51069,25 @@
       "type": "youtube",
       "videoId": "fR3kdmirdj0",
       "thumbnailUrl": "https://img.youtube.com/vi/fR3kdmirdj0/default.jpg"
+    }
+  },
+  {
+    "_id": "QbNjZ3B5guuU",
+    "location": {
+      "lat": 38.89039253087961,
+      "lng": -77.00954842912202
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 57   \n- A quick cut and much the same view as the last shot. The camera zooms in on the crowd around the reflecting pool.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1138,
+    "videoStartTimepoint": 1115,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50243,6 +51234,25 @@
     ]
   },
   {
+    "_id": "Rk58uVjHQj2M",
+    "location": {
+      "lat": 38.89040102365573,
+      "lng": -77.00910384538192
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 49    \n- Art shot of a red MAGA hat on the wrought iron fencing in front of a shattered window.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1021,
+    "videoStartTimepoint": 1006,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "RuODgAGbctt0",
     "otherTags": [],
     "summary": "LittleBrownBeard, LittleBlondeGreyHood during first tunnel assault",
@@ -50257,6 +51267,27 @@
       "type": "youtube",
       "videoId": "UN-La03NHoI",
       "thumbnailUrl": "https://img.youtube.com/vi/UN-La03NHoI/default.jpg"
+    }
+  },
+  {
+    "_id": "RvYkGFJ6MhbQ",
+    "location": {
+      "lat": 38.890080933441844,
+      "lng": -77.00969852116079
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 70    \n- Back at the top of the steps.  \n- Two guys in neon back toward the Grandstand.",
+    "suspectTags": [
+      "InGodITrustRioter"
+    ],
+    "videoEndTimepoint": 1389,
+    "videoStartTimepoint": 1370,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50357,6 +51388,25 @@
     "suspectTags": []
   },
   {
+    "_id": "TCY80NAcwh_s",
+    "location": {
+      "lat": 38.89024729713519,
+      "lng": -77.01005405962965
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 30    \n- Some close-ups of faces as people walk by.",
+    "suspectTags": [],
+    "videoEndTimepoint": 552,
+    "videoStartTimepoint": 533,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "TdiELRE9gp7o",
     "location": {
       "lat": 38.8906071,
@@ -50386,6 +51436,25 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "y5VmXZyJ"
+    }
+  },
+  {
+    "_id": "Tg0fIoHQwuQc",
+    "location": {
+      "lat": 38.889863139263376,
+      "lng": -77.00801191152927
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 75    \n- A straight-on view of the Rotunda and the Central Stairs.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1458,
+    "videoStartTimepoint": 1451,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50429,6 +51498,25 @@
       "type": "facebook",
       "profileId": "calvin.johnson.5264",
       "videoId": "158542326049264"
+    }
+  },
+  {
+    "_id": "U50y-ljHMkSw",
+    "location": {
+      "lat": 38.88982100612702,
+      "lng": -77.00834797505325
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 79    \n- More Infowars stickers are plastered on the front of the truck, including its front license plate. Standing on top of the truck is that guy with the flag shirt and the huge muttonchops who we say during the Trumpist confrontation with the SCNR crew at the end of the other video. The camera pulls back and pans up to to show as much of the building as possible.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1508,
+    "videoStartTimepoint": 1486,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50606,6 +51694,25 @@
     }
   },
   {
+    "_id": "WSYViQXFgjOg",
+    "location": {
+      "lat": 38.89015633496341,
+      "lng": -77.00966412221626
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 59    \n- A view of rioters in front of a line of riot cops. At 19:12 we see the guy who might be the guy in gray I mentioned in the other video log. He looks straight at the camera.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1158,
+    "videoStartTimepoint": 1146,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "WTlLlKVWsgB0",
     "imageUrl": "https://www.pacificpressagency.com/preview/1300295",
     "otherTags": [],
@@ -50614,6 +51721,46 @@
       "BrimmedHelmet",
       "MAGAManInBlack"
     ]
+  },
+  {
+    "_id": "WXZucZmfQrvk",
+    "location": {
+      "lat": 38.8903559,
+      "lng": -77.009112
+    },
+    "locationName": "Capitol Exterior West:\n  NW Portico",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 54    \n- Another shot of a broken window.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1083,
+    "videoStartTimepoint": 1075,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "W_r3Jj1a8mk0",
+    "location": {
+      "lat": 38.89000577612034,
+      "lng": -77.00969986226367
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 64    \n- Over at the top of the stairs, near the central white structure, there appears to be a small skirmish between the cops and the rioters. I think this lines up with Parler video ___.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1298,
+    "videoStartTimepoint": 1264,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "WdTZPjVO4tDk",
@@ -50730,6 +51877,27 @@
     "suspectTags": []
   },
   {
+    "_id": "XplROjE0AvDY",
+    "location": {
+      "lat": 38.88973322868225,
+      "lng": -77.00823069113814
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 76    \n- The camera zooms in on the supposed fight with an anti-fascist. I'll have to watch this from other angles and see more complete coverage, but it seems that the fascists were accusing the guy in the green plaid shirt of being their enemy. But then #Individual4 seems to calm them down. Do they know that he has some kind of role in the putsch?",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 1472,
+    "videoStartTimepoint": 1458,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "Xt8-kQJVcg5M",
     "imageUrl": "https://twitter.com/rocketman2001/status/1353347752411815943",
     "otherTags": [],
@@ -50757,6 +51925,28 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346945637812559872"
+    }
+  },
+  {
+    "_id": "Y59RQl4HwqQ4",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Side Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 42    \n- The door at the top of the steps again. #PinkBeret is still there. As one guy starts down the steps she taps him on the arm, he turns toward her, and she points southwest. They talk for a couple of seconds, she nods, and he walks away. I can't tell it they already knew each other or not.   \n- We can see the patches on the front of the person with the yellow armband.  \n- At 14:17, someone else emerges out of the doorway with a U.S. Senate flag. The pole it is on looks like the two-piece type that you would have in an office, with the brass middle part that joins the two halves. I doubt he brought it in with him, so I suspect that he stole it.",
+    "suspectTags": [
+      "PinkBeret",
+      "CaesarNoSalad"
+    ],
+    "videoEndTimepoint": 870,
+    "videoStartTimepoint": 854,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -50916,6 +52106,25 @@
     }
   },
   {
+    "_id": "Z6Im-g4LIn5Y",
+    "location": {
+      "lat": 38.89036707054605,
+      "lng": -77.00935419765767
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 39    \n- After another quick cut we see the area again.",
+    "suspectTags": [],
+    "videoEndTimepoint": 837,
+    "videoStartTimepoint": 827,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "ZBRnRf-TUnRw",
     "location": {
       "lat": 38.89231,
@@ -50954,6 +52163,27 @@
     }
   },
   {
+    "_id": "_SBXWMVP4iwc",
+    "location": {
+      "lat": 38.89039364254632,
+      "lng": -77.00925747064204
+    },
+    "locationName": "Capitol Exterior West:\n  NW Side Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 55    \n- The door on the north side of the courtyard is closed. That seemingly drunk guy I mentioned in the other video log is on the steps outside the door, and he is now wearing a \"Cobra Kai\" t-shirt. He is congratulating the seditionists. He walks into the crowd and we #LarryBrock.  \n- When the camera pans down to the ground, we see a wooden rod with a metallic end at 18:16. Wasn't #PinkBeret seen holding something like this?",
+    "suspectTags": [
+      "LarryBrock"
+    ],
+    "videoEndTimepoint": 1101,
+    "videoStartTimepoint": 1083,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "_cKs2TB2go-A",
     "otherTags": [],
     "summary": "DC After Curfew Live",
@@ -50964,6 +52194,25 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "X0E0EJJY"
+    }
+  },
+  {
+    "_id": "a2QiDfrvIosk",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 13  \n- Man in black hat helps people get up on the stone platform. The hat has blue lettering that says something about a marathon. He wears a black North Face jacket and a red kerchief around his neck. Reddish beard. Smoking a cigarette. He also appeared at 2:56, right of screen.  \n- Note the rectangular wooden object leaning against the stone. I think we'll see that later.  \n- 7:32 In background, Alberts S.C. is yelling at the cops at the top of the stairs.  \n- 7:39 young woman with copper hair and blue glasses, a star sweater, and a snake flag climbs up. (She was also at 2:41)  \n- 7:47 kid with the sunglasses on top of his red hat goes up the \"steps\" to the platform.  \n- 7:58 guy with tactical outfit, green helmet, and black \"Mad Dog\" gloves goes up.  #SeditionBodyArmor",
+    "suspectTags": [],
+    "videoEndTimepoint": 207,
+    "videoStartTimepoint": 200,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -51081,6 +52330,25 @@
     "videoDetails": {
       "type": "archiveOrg",
       "videoPath": "20210105-eddie.-live-in-dc-for-real-18575s-1280x-720-urab-wfjljs_202102/20210106+-+On+the+Capitol+-+(56s)+%5B1280x720%5D+%5BBPi53yHq4Qw%5D.mkv"
+    }
+  },
+  {
+    "_id": "byCndI1OErTI",
+    "location": {
+      "lat": 38.890184666185,
+      "lng": -77.01021499216772
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 32    \n- People place another section of fencing against he stone.  \n- Is anyone looking for the guy in the colorful hardhat?",
+    "suspectTags": [],
+    "videoEndTimepoint": 628,
+    "videoStartTimepoint": 621,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -51205,6 +52473,27 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "R6JCXbyR"
+    }
+  },
+  {
+    "_id": "cVGr2OTx4nF0",
+    "location": {
+      "lat": 38.89038626143612,
+      "lng": -77.00910194877376
+    },
+    "locationName": "Capitol Exterior West:\n  NW Portico",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 52    \n- Another look through a broken window to see some people inside.  \n- I'm not sure if that's #YoungSkullMan on the left at 17:44.",
+    "suspectTags": [
+      "LionManeInsider"
+    ],
+    "videoEndTimepoint": 1066,
+    "videoStartTimepoint": 1052,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -51369,11 +52658,53 @@
     ]
   },
   {
+    "_id": "ei8kEzfVskVA",
+    "location": {
+      "lat": 38.89033311742014,
+      "lng": -77.00937695695548
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 35  \n- Crowd of rioters in the NW Courtyard. Some are at a door that still seems to be closed. I can't tell if the one at the end of the ramp is closed.",
+    "suspectTags": [],
+    "videoEndTimepoint": 789,
+    "videoStartTimepoint": 774,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "emTRpwkQ0hiE",
     "imageUrl": "https://www.flickr.com/photos/mvjantzen/50810726392/",
     "otherTags": [],
     "summary": "Guy with the trump bust, he's on the West plaza police line later.",
     "suspectTags": []
+  },
+  {
+    "_id": "esbe0Ra1Io48",
+    "location": {
+      "lat": 38.890271957947554,
+      "lng": -77.00965158250224
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 63    \n- A pan of the riot cops and then the camera pulls back. This is the scene where the old man in the Greek fisherman cap talks to #PBStrutter. The camera pans left again and we see that the riot cops have secured only part of the courtyard. The alcove with the two doors is still in rioter hands.",
+    "suspectTags": [
+      "PBStrutter"
+    ],
+    "videoEndTimepoint": 1264,
+    "videoStartTimepoint": 1207,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "eszCnu7msmn0",
@@ -51458,6 +52789,25 @@
     }
   },
   {
+    "_id": "fzLSctuzAoXE",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot   \nShot 41    \n- The NW portico area again.",
+    "suspectTags": [],
+    "videoEndTimepoint": 854,
+    "videoStartTimepoint": 847,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "g8EKX5QbIps4",
     "imageUrl": "https://media.gettyimages.com/photos/demonstrators-clash-with-law-enforcement-as-they-attempt-to-enter-the-picture-id1230459601?s=2048x2048",
     "location": {
@@ -51470,6 +52820,25 @@
     "suspectTags": [
       "OrangeHoodieRedHat"
     ]
+  },
+  {
+    "_id": "gJZvvQitAsRY",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 44    \n- We see some seditionists in front of some riot cops.  \n- The window-washing platform is in the background.",
+    "suspectTags": [],
+    "videoEndTimepoint": 891,
+    "videoStartTimepoint": 882,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "gSXAoBsi0hdA",
@@ -51515,6 +52884,25 @@
     }
   },
   {
+    "_id": "h6EG_u0dUvuk",
+    "location": {
+      "lat": 38.89053646237976,
+      "lng": -77.00953041134251
+    },
+    "locationName": "Capitol Exterior West:\n  Upper NW Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbo  \ntShot 58    \n- A low-angled view of the Rotunda from the NW Courtyard. We see a few faces.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1146,
+    "videoStartTimepoint": 1138,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "h7tziJ67ArQI",
     "imageUrl": "https://media.gettyimages.com/photos/trump-supporters-clash-with-police-and-security-forces-as-they-storm-picture-id1230455280?s=2048x2048",
     "location": {
@@ -51546,6 +52934,27 @@
       "type": "facebook",
       "profileId": "anson.merriman",
       "videoId": "3672830249471033"
+    }
+  },
+  {
+    "_id": "hUTKMOiGQo8U",
+    "location": {
+      "lat": 38.890398071212054,
+      "lng": -77.00909815555745
+    },
+    "locationName": "Capitol Exterior West:\n  NW Portico",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 50    \n- Another rioter goes into a broken window.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1033,
+    "videoStartTimepoint": 1021,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -51703,6 +53112,27 @@
     }
   },
   {
+    "_id": "j_rc0BGFQtf8",
+    "location": {
+      "lat": 38.89036559432353,
+      "lng": -77.0091910893568
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 47    \n- A quick cut to a view of the side door but from closer to the ramp. The crowd is still singing, so this can't be too much later than the previous shot. More people are going in and a couple are coming out.   \n- The camera pans to the right and we see two women standing in front of a window. The older woman is wearing that old helmet with the hand-painted Texas flag. Next to her is a woman with a Trumpist sign. She has some kind of shiny silver belt or fanny pack.",
+    "suspectTags": [
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 978,
+    "videoStartTimepoint": 952,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "jh_mjKKtgg_8",
     "location": {
       "lat": 38.89356,
@@ -51766,6 +53196,48 @@
     "videoDetails": {
       "type": "googleDrive",
       "driveFileId": "1B8PWUvpKkO7TJwj6nP2FB7_tht9XrfBn"
+    }
+  },
+  {
+    "_id": "kORTFjBTkjzo",
+    "location": {
+      "lat": 38.89024312174023,
+      "lng": -77.01021230995876
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 31    \n- The stone platform is even more crowded, and rioters are moving more fencing to use as steps.  \n- #InGodITrustRioter waits in line.",
+    "suspectTags": [
+      "InGodITrustRioter"
+    ],
+    "videoEndTimepoint": 621,
+    "videoStartTimepoint": 552,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "kcoLOH9yQtcU",
+    "location": {
+      "lat": 38.89022394090504,
+      "lng": -77.00960732605358
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 61    \n- Another view of a line of riot cops.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1175,
+    "videoStartTimepoint": 1169,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -51942,6 +53414,25 @@
     }
   },
   {
+    "_id": "lnHXsBgWcjw0",
+    "location": {
+      "lat": 38.8898543615276,
+      "lng": -77.0083637632726
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 77    \n- Trumpist signs on the windshield of a government vehicle on the East Side of the Capitol, and rioters pointing out its deflated tire. Then we see some rioters standing on top of the armored truck.   \n- Do we see #AngryBalaklava walk past?",
+    "suspectTags": [],
+    "videoEndTimepoint": 1482,
+    "videoStartTimepoint": 1472,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "lvZY_3bUAiGk",
     "otherTags": [],
     "summary": "DC Police idk what's going on",
@@ -52018,6 +53509,25 @@
     }
   },
   {
+    "_id": "mWf0rOJWAo14",
+    "location": {
+      "lat": 38.89023355866601,
+      "lng": -77.00810664084531
+    },
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 74    \n- A view of the Rotunda, and the camera pans down to show the Central Stairs with a lot of people on them.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1451,
+    "videoStartTimepoint": 1440,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "mf9rGZqwkng8",
     "imageUrl": "https://media.gettyimages.com/photos/supporters-of-us-president-donald-trump-protest-inside-the-us-capitol-picture-id1230734223?s=2048x2048",
     "location": {
@@ -52078,6 +53588,29 @@
     }
   },
   {
+    "_id": "ngm8sIcCsqkY",
+    "location": {
+      "lat": 38.890105778674474,
+      "lng": -77.00983024631279
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [
+      "SeditionBullhorn"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 34  \n- The camera operator reaches the top of the NW Steps. He is behind a man who is holding a red, white, and blue-striped stick and who keeps hitting the ground with the far end of it. The camera operator follows him into the crowd. Then we see phalanx of riot cops in the courtyard with rioters milling around in front of them. The camera looks at the front for a bit, and then pans left. We see that the man with the striped stick is pointing it at the cops about ten feet away from them. He hits the ground again.   \n- The camera spins around 180 degrees to show a man in a black shirt sitting on the ground. He may have been pepper sprayed since he then wipes his face, stands, and another person moves to (apparently) pour something one his face.  \n- At 11:39 is a guy with yellow gloves and a long  metal rod.  \n- Guy with the bullhorn yells at the cops, \"We are a million strong. We are Americans and we will win,\" and \"We don't want to fight, but we will. Stand with us.\"  \n- At 11:48 the guy is still tapping the stick. We see that he has a beige sweater with red, blue, and brown stripes on the chest, #BeigeSweaterWrestler. Another man tries to calm the situation and holds his hands up. Then at 12:11 the cop line moves forward, some wielding batons and at least one using a spray. At 12:25 the camera turns right and we see one of the riot cops, number 5020, ahead of the rest, tackle the guy who has the striped stick. Of course they go right for the Black guy. They go to the ground and other cops pile on. They appear to arrest at least one other person.",
+    "suspectTags": [
+      "BeigeSweaterWrestler"
+    ],
+    "videoEndTimepoint": 774,
+    "videoStartTimepoint": 638,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "o0xZy3Za4sHs",
     "location": {
       "lat": 38.8897733,
@@ -52117,6 +53650,48 @@
       "type": "youtube",
       "videoId": "tjXEtxdOpNA",
       "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
+    "_id": "oiI6hecP0mw4",
+    "location": {
+      "lat": 38.89039216632433,
+      "lng": -77.00915126058565
+    },
+    "locationName": "Capitol Exterior West:\n  NW Side Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 51    \n- We see many people leaving the building from the side door.  \n- We also see more of the face of the guy with the yellow armband who is standing in front of the window.",
+    "suspectTags": [
+      "CaesarNoSalad"
+    ],
+    "videoEndTimepoint": 1052,
+    "videoStartTimepoint": 1033,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "onCZEVy88hnU",
+    "location": {
+      "lat": 38.890271957947554,
+      "lng": -77.00965158250224
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 62  \n- A quick cut and we see the cop line at the top of the steps again. #PBStrutter is pacing  \n back and forth, agitated and flashing his gang sign almost as a hex against the cops.  \n- At 20:06 we see a guy walk into frame and he has a piece of paper in his back pocket. It seems to have some numbers on it. Anything useful?",
+    "suspectTags": [
+      "PBStrutter"
+    ],
+    "videoEndTimepoint": 1207,
+    "videoStartTimepoint": 1186,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -52270,6 +53845,28 @@
     ]
   },
   {
+    "_id": "rMht7o1U8rzM",
+    "location": {
+      "lat": 38.89033311742014,
+      "lng": -77.00937695695548
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 37  \n- A quick cut and it is clear that the door at the top of the small set of stairs is open. A woman (I assume) in a black hooded coat is holding it open, standing outside the railing. Next to her, inside the railing, is #PinkBeret. She's just standing there as a few people leave and some others enter.   \n- The camera then moves to show the door inside the portico and people walking in while others enter the Capitol through a nearby broken window. One of them has blue-green hair, and I wonder if it's the same person I saw near the end of the other video.",
+    "suspectTags": [
+      "PinkBeret",
+      "BatBoy"
+    ],
+    "videoEndTimepoint": 824,
+    "videoStartTimepoint": 793,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "rR8uWLAcQj1I",
     "location": {
       "lat": 38.8894473623761,
@@ -52286,6 +53883,27 @@
       "type": "youtube",
       "videoId": "liYelzdVlUU",
       "thumbnailUrl": "https://img.youtube.com/vi/liYelzdVlUU/default.jpg"
+    }
+  },
+  {
+    "_id": "rXzQ6wEZAlYM",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Courtyard",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot   \nShot 43  \n- View of the window and ramp area. More people climb out of the window. A woman in a furry black hat and a snake flag as a cape sashays down the ramp.   \n- We might also see one of the neon gaiter guys with his mask off.   \n- At 14:40 the camera pulls back and pans left back to the other door. The Senate flag thief is still in the doorway, waving the flag high.",
+    "suspectTags": [
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 882,
+    "videoStartTimepoint": 870,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -52368,6 +53986,30 @@
     "suspectTags": [
       "CommanderCamo"
     ]
+  },
+  {
+    "_id": "sGVQDGjDAlsA",
+    "location": {
+      "lat": 38.8902640108939,
+      "lng": -77.01039465720024
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "SeditionComms"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 22    \n- We see a cop kneeling on the steps farther up, being helped by two people in civiilan attire.",
+    "suspectTags": [
+      "EvilWashington",
+      "RedBucketHole"
+    ],
+    "videoEndTimepoint": 378,
+    "videoStartTimepoint": 366,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "sO81A9hAQp6o",
@@ -52573,6 +54215,50 @@
     ]
   },
   {
+    "_id": "vcGTN8EFci3o",
+    "location": {
+      "lat": 38.89028696337949,
+      "lng": -77.01034105599074
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 24    \n- We see a guy on the ground harrassing a cop at the end of the line. The same cop is shoved the other way by a bearded man in a white baseball cap and a dark blue jacket.  \n- We also see #CamoHeadPusher trying to take a baton from one of the cops.   \n- At 7:12 we get a pretty good look at the face of <https://twitter.com/jakobravner/status/1373722592981442562,> but he is still wearing those blue goggles.  \n- In the background the stone platform is crowded. You can just see #BluePlaidSprayer up there.",
+    "suspectTags": [
+      "CamoHeadPusher",
+      "NWStairsPink",
+      "BluePlaidSprayer"
+    ],
+    "videoEndTimepoint": 433,
+    "videoStartTimepoint": 416,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "w-Z1Qe3YQpM8",
+    "location": {
+      "lat": 38.890191581578,
+      "lng": -77.00970254447422
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 66    \n- Another quick cut and the scene continues.  \n- #TowerGecko at bottom right at 22:12.",
+    "suspectTags": [
+      "TowerGecko"
+    ],
+    "videoEndTimepoint": 1344,
+    "videoStartTimepoint": 1319,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "w9GhHOLZor6s",
     "imageUrl": "https://www.gettyimages.ca/detail/news-photo/trump-supporters-clash-with-police-and-security-forces-as-news-photo/1230455056?adppopup=true",
     "otherTags": [],
@@ -52613,6 +54299,28 @@
     "suspectTags": [
       "WhiteDeathHoodie"
     ]
+  },
+  {
+    "_id": "wekhVgRp0sr8",
+    "location": {
+      "lat": 38.89001203923226,
+      "lng": -77.00967840459352
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 69    \n- A man in red appears to be cleaning his eyes and face.   \n- We also get a good view of #TowerGecko and what appears to be a teammate. They are wearing Ororo brand vests.",
+    "suspectTags": [
+      "TowerGecko",
+      "InGodITrustRioter"
+    ],
+    "videoEndTimepoint": 1370,
+    "videoStartTimepoint": 1362,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
   },
   {
     "_id": "wjbWvnOEMlOA",
@@ -52727,6 +54435,29 @@
     }
   },
   {
+    "_id": "xQ_RUr5-0tqM",
+    "location": {
+      "lat": 38.8902577356215,
+      "lng": -77.01006478846553
+    },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 29    \n- Rioters climbing up the walls on the north face of the NW Steps.   \n- #RufioPB at bottom left of screen at 8:16, and maybe at 8:09 looking up at the climbers?   \n- The camera moves up to show another rioter has reached the top of the scaffolding.",
+    "suspectTags": [
+      "Rufio"
+    ],
+    "videoEndTimepoint": 533,
+    "videoStartTimepoint": 489,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "xmtzG2ynUvFU",
     "otherTags": [],
     "summary": "Compilation of clips. Barricade being opened by police (NE corner of capitol??); rioters moving other barricades on East side; people running up the Central East Steps to the main door; people breaking into the Capitol and entering the Rotunda; scuffles with police; men in tactical gear climping Central East Steps in organized fashion, West Lawn, Brief Interviews, #Individual4 and others destroying media equipment on NE Plaza. Locations include NE Plaza, Central East Steps, Rotunda, Eastern Plaza, North Terrace",
@@ -52743,20 +54474,44 @@
     }
   },
   {
-    "_id": "xngbvgipciow",
-    "locationName": "Various (Divided)",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "Video compilation by Benjamin Reports. Locations include: Washington Monument, DC Streets, NW Plaza, SW Plaza, SE Corner, SE Breezeway. March towards the Capitol and captures scenes of getting to the Capitol steps and at 5:00, #WhiteHoodie breaching path barricades. Shows Capitol officers trying to enforce the barriers by sprays pepper spray at the Trump supporters and physical altercations between officers and protestors. Also shows people trying to break the doors to a Capitol entrance by puncturing the glass and breaking windows. Also shows a discussion between officers and a Trump supporter that they are \"escorting\" outside of the building and the supporter is talking about the woman that was shot inside.",
+    "_id": "xxwRM6Fu4uqs",
+    "location": {
+      "lat": 38.890191581578,
+      "lng": -77.00970254447422
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 65   \n- A quick cut but the scene continues. The guy with the Trump bust holds it up in front of the cops like a totem.",
     "suspectTags": [],
-    "videoEndTimepoint": 1893,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/DHessyWYXqM",
+    "videoEndTimepoint": 1319,
+    "videoStartTimepoint": 1298,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
     "videoDetails": {
       "type": "youtube",
-      "videoId": "DHessyWYXqM",
-      "thumbnailUrl": "https://img.youtube.com/vi/DHessyWYXqM/default.jpg"
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
+    "_id": "y10Mbhtfck0A",
+    "location": {
+      "lat": 38.890245209437744,
+      "lng": -77.01032496273541
+    },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 26    \n- The last cop is again harrassed by a belligerent group of rioters. One particularly irate guy wears a black knit Snap-On cap and seems to have his name on is jacket.  \n- Then a bunch of them shove the cop back.  \n- Also, you can see a large section of tarp is gone on the north face of the scaffolding.",
+    "suspectTags": [
+      "CamoHeadPusher",
+      "NWStairsPink"
+    ],
+    "videoEndTimepoint": 461,
+    "videoStartTimepoint": 447,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
     }
   },
   {
@@ -52833,11 +54588,32 @@
     ]
   },
   {
+    "_id": "yWzYB5XGkvf0",
+    "location": {
+      "lat": 38.890340498535856,
+      "lng": -77.0092935061969
+    },
+    "locationName": "Capitol Exterior West:\n  NW Side Door",
+    "otherTags": [],
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 45    \n- The side door again. The Senate flag thief is now joined by someone walking out with a U.S. flag on the same kind of office pole. Some invaders walk in while others walk out.  \n- This shot seems to be an excerpt of the next one.",
+    "suspectTags": [
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 899,
+    "videoStartTimepoint": 891,
+    "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "8Vh8wPeo6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
+    }
+  },
+  {
     "_id": "ykBKuEBN4jwc",
     "otherTags": [],
     "summary": "Claims from one Trump supporter in a red flannel shirt that \"Antifa\" is inside the capitol. Camp Auschwitz sweater guy is visible speaking as well.",
     "suspectTags": [
-      "CampAushwitzShirt"
+      "CampAuschwitzShirt"
     ],
     "videoEndTimepoint": 79,
     "videoStartTimepoint": 0,
