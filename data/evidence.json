@@ -1727,6 +1727,30 @@
     }
   },
   {
+    "_id": "egseX9Lm4l9s",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
+    "otherTags": [],
+    "rationale": "Assumed this is prior to rally start. Crowds at the monument are still small.",
+    "realTimeEnd": "2021-01-06T14:00:00.000Z",
+    "realTimeStart": "2021-01-06T14:00:00.000Z",
+    "summary": "WASHINGTON MONUMENT  \nInterviewee in a Snap-on jacket",
+    "suspectTags": [
+      "SnapOnPB"
+    ],
+    "videoEndTimepoint": 25,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/_P4jKzFmdTk",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_P4jKzFmdTk",
+      "thumbnailUrl": "https://img.youtube.com/vi/_P4jKzFmdTk/default.jpg"
+    }
+  },
+  {
     "_id": "fE3CXg0NsvkQ",
     "location": {
       "lat": 38.893953962652,
@@ -5273,30 +5297,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/4LUHpTKftGHg_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "egseX9Lm4l9s",
-    "location": {
-      "lat": 38.8894473623761,
-      "lng": -77.0352722232227
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
-    "otherTags": [],
-    "rationale": "Assumed this is prior to rally start. Crowds at the monument are still small.",
-    "realTimeEnd": "2021-01-06T16:00:00.000Z",
-    "realTimeStart": "2021-01-06T16:00:00.000Z",
-    "summary": "WASHINGTON MONUMENT  \nInterviewee in a Snap-on jacket",
-    "suspectTags": [
-      "SnapOnPB"
-    ],
-    "videoEndTimepoint": 25,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/_P4jKzFmdTk",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_P4jKzFmdTk",
-      "thumbnailUrl": "https://img.youtube.com/vi/_P4jKzFmdTk/default.jpg"
     }
   },
   {
@@ -11341,7 +11341,7 @@
       "OrangeTapeGroup",
       "FirstBarricadeBreach"
     ],
-    "rationale": "FirstBarricadeBreach at marker 1:43 in this video, which has known time of 12:53 pm. Multiple cuts, video is not continuous.",
+    "rationale": "FirstBarricadeBreach at marker 1:43 in this video, which been estimated to occur at12:53 pm. Multiple cuts, video is not continuous.",
     "realTimeEnd": "2021-01-06T17:54:00.000Z",
     "realTimeStart": "2021-01-06T17:50:00.000Z",
     "summary": "0:43 WhiteHoodie approaching the First Barricade  \n1:05: Men in fatigues with helmets and Armor of God patches walk up to Capitol path  \n1:43: FirstBarricadeBreach, Police fall back, crowd moves up path toward Capitol  \n2:04: Joe Biggs, lower right screen",
@@ -11607,7 +11607,7 @@
       "NWalkwayBreach",
       "FirstBarricadeBreach"
     ],
-    "rationale": "Timestamp calculation: 1:24 shows the FirstBarricadeBreach which is known to occur at 12:53 pm",
+    "rationale": "Timestamp calculation: 1:24 shows the FirstBarricadeBreach which is estimated to occur at 12:53 pm",
     "realTimeEnd": "2021-01-06T17:53:00.000Z",
     "realTimeStart": "2021-01-06T17:52:00.000Z",
     "summary": ":00: Group approaches bicycle fencing on the PA Walkway, #WhiteHoodie leading the way  \n:08: People on right raise their hands at the police  \n:28: #YoungSkullMan pushes on the fencing  \n:32: #MoreTreesGuy shoves on fencing  \n:39: #WhiteHoodie rips off his jacket and flips his hat, clearly wants to fight  \n:45: #BigMagaCamo intervenes with #WhiteHoodie  \n:49: #OldHelmetTexasFlag appears from left, #BigMagaCamo says something into #WhiteHoodie's ear  \n:54: #GreenGramps shoves the fence  \n:57: Fence is shoved violently by the front line  \n1:05: Female officer is thrown into the steps, #WhiteHoodie pulls her back upright  \n1:17: Young officer fights rioters back from fence  \n1:20: #YoungSkullMan tries to scale fence and falls, #MAGAretWhiteCoat joins  \n1:24: Crowd has broken the line  \n1:34: Police retreat",
@@ -11766,7 +11766,7 @@
     "otherTags": [
       "FirstBarricadeBreach"
     ],
-    "rationale": "Video shows the FirstBarricadeBreach at 0:51, which occurred at 12:53 pm.",
+    "rationale": "Video shows the FirstBarricadeBreach at 0:51, which is estimated to occur at 12:53 pm.",
     "realTimeEnd": "2021-01-06T17:54:00.000Z",
     "realTimeStart": "2021-01-06T17:53:00.000Z",
     "summary": "[COPY / CLIP OF ORIGINAL] First Breach. #WhiteHoodie in front of barrier with #YoungSkullMan. 0.03 #MoreTreesGuy on Bullhorn out of shot, \"We pay your bills\",\"You back the F off\", \"You back off\", \"Move, Move\". #GreenGramps at 0.08, #WhitehoodieGF at 0.11. From 014, Guy in green plaid, #MoreTreesGuy, #ComeOnBlue, #WhiteHoodie, #YoungSkullMan all at barriers. 6 police there, further 2 to the right behind barrier. 0.27 #YoungSkullman pulls barrier, 0.32 #WhiteHoodie pushes next barrier, and at 0.37 takes off denim jacket, turns cap around. #MoreTreesGuy moves out of shot, says \"Hold my backpack\".,returns to barrier.0.45 #BigMagaCamo has word with# WhiteHoodie and at 0.51 #GreenGramps and others push end barrier which knocks over female officer. At 0.59 rest along the line push barriers into police. 1.02 #WhiteHoodie sees fallen officer and with others helps her up. 1.07 Several rioters fight with police. #YoungSkullMan gets punched by officer. 1.13 #GreenBandanaMan and #GreenPufferUnderCover, 1.21 #TheBrat, 1.23 Appearance by #MAGAretWhiteCoat. By 1.21 the left side is breached and people are going through, police notice at 1.31 and retreat. Breachers move forward, #YoungSkullMan, #MoreTreesGuy and #MFInvadesCapitol.",
@@ -11810,7 +11810,7 @@
       "NWalkwayBreach",
       "Violence"
     ],
-    "rationale": "Time point for the beginning of the video was established based on known time for breach of the first barricade.",
+    "rationale": "Time point for the beginning of the video was established based on estimated of the first barricade at 12:53 pm.",
     "realTimeEnd": "2021-01-06T17:56:00.000Z",
     "realTimeStart": "2021-01-06T17:53:00.000Z",
     "summary": "Video compilation by ABQ Raw; clear footage from the crowd at the West Gate; fighting with police, breaching the barricade, and marching to the Lower West Plaza.   \n1:53: #Individual4 jumps over a small wall on the right side of the path, runs towards the barrier.",
@@ -11893,7 +11893,7 @@
       "FirstBarricadeBreach",
       "NWalkwayBreach"
     ],
-    "rationale": "The 0:06 minute marker in this video aligns with the FirstBarricadeBreach which is known to be at 12:53 pm.",
+    "rationale": "The 0:06 minute marker in this video aligns with the FirstBarricadeBreach which is estimated to be at 12:53 pm.",
     "realTimeEnd": "2021-01-06T17:54:00.000Z",
     "realTimeStart": "2021-01-06T17:53:00.000Z",
     "summary": "Initial breach of police lines on the Pennsylvania Walkway.   \n0:00 #WhiteHoodie far ahead of crowd, already at first barricade  \n0:03 #KidRailing skips into view (first known appearance)  \n0:03 On megaphone, speaker (possibly #MoreTreesGuy) says \"Let's go, fuck this shit, we pay your bills, you back the fuck off\"  \n0:07 #GreenGramps comes into view  \n0:17 Videographer reachers barricade  \n0:32 Mob starts trying to tear down barricade  \n0:44 #BigMagaCamo talks to #WhiteHoodie  \n0:51 #KidRailing in view again  \n1:00 railing falls, police officer knocked over.    \n  \nFighting proceeds as crowd crosses over and around the barrier",
@@ -12111,7 +12111,7 @@
     "otherTags": [
       "NWalkwayBreach"
     ],
-    "rationale": "Just after breach of second PA walkway barricade. Known real time of 12:54 pm",
+    "rationale": "Just after breach of second PA walkway barricade, which has been estimated to occur at 12:54 pm",
     "realTimeEnd": "2021-01-06T17:55:00.000Z",
     "realTimeStart": "2021-01-06T17:54:00.000Z",
     "summary": "People pushing past the second police barricade on the PA Walkway. They begin to fill the Lower West Plaza.",
@@ -12431,7 +12431,7 @@
       "CapitolJerichoCross",
       "Violence"
     ],
-    "rationale": "Segment begins about 3 minutes before the black terrace fence collapses (known real-time of 12:58 pm). End point correlates roughly with appearance of the CapitolJerichoCross which is estimated at approximately 1:17 pm",
+    "rationale": "Segment begins about 3 minutes before the black terrace fence collapses (estimated to occur at 12:58 pm). End point correlates roughly with appearance of the CapitolJerichoCross which is estimated at approximately 1:17 pm",
     "realTimeEnd": "2021-01-06T18:21:00.000Z",
     "realTimeStart": "2021-01-06T17:55:00.000Z",
     "summary": "2:56: GandalfCopBaiter in front of black fence  \n3:03: FashyFreddyMercury  \n3:18: Terrace fence down  \n4:15: Police fall back  \n5:31: First person visible on right scaffolding  \n6:48: #FacepaintBlowhard shows up  \n6:52: #HatHag appears from right  \n8:23: Shoving match with police, who have formed a line near the steps  \n9:55: #FacepaintBlowhard again  \n10:46: #VIPUncleSam on the media tower  \n11:14: #FacepaintBlowhard inciting  \n13:12: #HatHag  \n15:15: attack on the police line  \n16:07: #RacistValknut tries to grab reporter after he's thrown over the wall  \n16:44: Viking on the media tower  \n17:28: #IronworkerGuy  \n17:49: #HatHag  \n19:17: #BlackGlove805 yells from the media tower  \n21:22: Another crowd push against the lower plaza fence  \n23:25: Police maced from the crowd by #SuitMacer  \n25:25: First person seen on upper bleachers  \n25:46: Wooden cross arrives, heads toward media tower  \n27:00: Metal fence section carried out",
@@ -12590,7 +12590,7 @@
       "NWalkwayBreach",
       "Violence"
     ],
-    "rationale": "Time point for the beginning of the video was established based on known time for breach of the first barricade. Video is edited. At the end of this segment, we see people breaching the Lower Western Terrace. Estimated ending point of video is about 2:40 pm",
+    "rationale": "Time point for the beginning of the video was established based on estimated of the first barricade at 12:53 pm. Video is edited. At the end of this segment, we see people breaching the Lower Western Terrace. Estimated ending point of video is about 2:40 pm",
     "realTimeEnd": "2021-01-06T19:40:00.000Z",
     "realTimeStart": "2021-01-06T17:56:00.000Z",
     "summary": "Video compilation by ABQ Raw; clear footage from the crowd at the Lower West Plaza as they first confront CPD officers. Officers quickly retreat behind the black fence. Proud Boys chanting \"Whose house? Our house?\" Crowd floods the Lower West Terrace. At 5:05 the crowd pushes through the black fences and presses forward onto the West Plaza. Police reinforcements arrive. Police play announcement that the area is restricted and that people will be subjected to riot control agents. Multiple altercations between rioters and police. Crowd can be seen climbing up to the Upper Western Terrace and flooding the West Terrace at the end of this clip.",
@@ -13245,7 +13245,6 @@
   },
   {
     "_id": "C7v72Zduwlng",
-    "imageUrl": "https://twitter.com/erica1933/status/1375125009568530432/photo/3",
     "location": {
       "lat": 38.890287,
       "lng": -77.010758
@@ -13261,12 +13260,7 @@
     ],
     "videoEndTimepoint": 525,
     "videoStartTimepoint": 520,
-    "videoUrl": "https://www.youtube.com/watch?v=BkyV9AOIQ3I",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "BkyV9AOIQ3I",
-      "thumbnailUrl": "https://img.youtube.com/vi/BkyV9AOIQ3I/default.jpg"
-    }
+    "videoUrl": "https://www.youtu.be/BkyV9AOIQ3I"
   },
   {
     "_id": "ELbX8HfH8ljU",
@@ -13947,7 +13941,7 @@
     "otherTags": [
       "Violence"
     ],
-    "rationale": "Same moment appears at roughly 23 minutes in this video: <https://mega.nz/file/oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8,> which is continuous. Timestamp calculation of source based on FirstBarricadeBreach which is known to be at 12:53 pm.",
+    "rationale": "Same moment appears at roughly 23 minutes in this video: <https://mega.nz/file/oFk1QQjK#hisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8,> which is continuous. Timestamp calculation of source based on FirstBarricadeBreach which is estimated to be at 12:53 pm.",
     "realTimeEnd": "2021-01-06T18:10:00.000Z",
     "realTimeStart": "2021-01-06T18:08:00.000Z",
     "summary": "Crowd and police fight in the West Plaza after the barricade breach. Caption: \"Proud Boys and Trump supporters are trying to storm the Capitol and are getting pushed back by Capitol Police wearing riot gear. So far it’s only pepper spray and billy clubs, have not seen a strong response yet. #FashVsFash #WashingtonDC <https://twitch.tv/statuscoup\">",
@@ -14936,7 +14930,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [],
-    "rationale": "Flashbang is heard in this video at about 4:15 (known real-time of 1:21 pm). #NWScaffoldCommander can be also heard saying \"Move forward, move forward.\" There are cuts in the video. Assumed start of about 5 minutes before.",
+    "rationale": "Flashbang is heard in this video at about 4:15 (estimated to occur at 1:21 pm). #NWScaffoldCommander can be also heard saying \"Move forward, move forward.\" There are cuts in the video. Assumed start of about 5 minutes before.",
     "realTimeEnd": "2021-01-06T18:20:00.000Z",
     "realTimeStart": "2021-01-06T18:15:00.000Z",
     "summary": "Crowd in West Plaza near Media Tower before the police line is broken. Some are breaching the north scaffolds.  \n0:02: Odd thing--two men, one with bright pink tape hanging off the back strap of his hat, another near him with a bright pink band on his brown bucket hat. Bottom center frame.  \n0:14: Looks like a third man in front of them, in a red hat, with pink tape wrapped around the forearm of his coat.  \n0:20: #YellowScarfYeti in the crowd, wearing a red hat.  \n0:54: Vernon Jones, I think  \n1:39: Rioter with flag has scaled NW Riser, crowd cheers them on  \n2:14: Vernon Jones basks in the adoration of the crowd  \n2:25: Cut  \n2:52: #HidingCrossMan  \n3:11: Cut  \n4:15: Flash bang heard  \n4:26: people on the wall between West Lawn and Plaza are pulling more people onto the Plaza",
@@ -17363,7 +17357,7 @@
     "otherTags": [
       "SeditionBillboard"
     ],
-    "rationale": "#SeditionBillboard seen at 8:56 in this video. Known time of 1:40 pm. Multiple cuts in this video. Assumed start time of about 10 minutes before.",
+    "rationale": "#SeditionBillboard seen at 8:56 in this video, which has been estimated to occur at 1:40 pm. Multiple cuts in this video. Assumed start time of about 10 minutes before.",
     "realTimeEnd": "2021-01-06T18:40:00.000Z",
     "realTimeStart": "2021-01-06T18:30:00.000Z",
     "summary": "0:5: Same guy in PSI hoodie that was rinsing a #ScarfSignal's face  \n0:29: Cross on lower plaza  \n0:37: #NWScaffoldCommander is on the Media Tower  \n:46: Cut  \n:46: Cross lower right with #HidingCrossMan  \n1:17: #YoungGuyBurgundyHood on right, filming with his phone  \n1:23: #FacepaintBlowhard walking through the crowd near base of Media Tower  \n1:52: #HatHag on the police line at right  \n2:43: Cut  \n2:45: #ClanMontgomeryLady in lower right, talking to a man in a black coat and blue shirt  \n2:56: Cut  \n4:22: Flashbang Heard  \n5:05: Cut  \n5:13: Jacob Chansley climbing the Media Tower  \n6:54: Cut  \n7:12: Cross is on West Lawn now  \n7:32: #HatHag and #Sean59AFO on the police line, right  \n8:02: Cut  \n8:56: Metal-framed Trump flag being forced over police line at right  \n9:03: Police spray crowd at police line, cameraman hides behind cardboard Wisconsin  \n9:45: Cut  \n9:59: Cut  \n10:05 #Cowpoke walking through crowd, lower right   \n10:19: #Cowpoke now moving closer to line, right of frame  \n10:29: #Cowpoke talking to a man in a black leather jacket and very dark beanie",
@@ -20213,7 +20207,7 @@
       "OrangeTapeGroup",
       "Violence"
     ],
-    "rationale": "Timestamp estimated based on known timeframe for NW Steps being breached (1:48 pm). Several brief edits occur in this video.",
+    "rationale": "Timestamp estimated based on estimated timeframe for NW Steps being breached (1:48 pm). Several brief edits occur in this video.",
     "realTimeEnd": "2021-01-06T19:01:00.000Z",
     "realTimeStart": "2021-01-06T18:48:00.000Z",
     "summary": "NW steps have been breached. Crowd meets resistance from the police at the temporary doors under the scaffolding. Individual 4 seen from the inside of the scaffolding, having cut an opening in the canvas at 37:35. View of the crowd amassing at the foot of the steps. At 38:40 individual4 throws a helmet at Capitol police. Crowd makes their way around the temporary door. At 38:57 three men tackle a CPD officer to the ground. Crowd reaches the top of the steps where there is another standoff. By about 48:40 the crowd has breached the barricade, and gains access to the Upper West Terrace.",
@@ -21046,7 +21040,7 @@
       "OrangeTapeGroup",
       "ProudBoys"
     ],
-    "rationale": "Parler Video of mob rushing up the final flight of NW Steps (at about the 0:23 mark): <https://d2hxwnssq7ss7g.cloudfront.net/U4cg0Dfgtz12_cvt.mp4> This video ends jut before this moment.",
+    "rationale": "Parler Video of mob rushing up the final flight of NW Steps (at about the 0:23 mark): <https://d2hxwnssq7ss7g.cloudfront.net/U4cg0Dfgtz12_cvt.mp4> This video ends just before this moment.",
     "realTimeEnd": "2021-01-06T19:04:00.000Z",
     "realTimeStart": "2021-01-06T18:55:00.000Z",
     "summary": "Clip of footage from JaydenX. Climbing under scaffolding on the West side of the Capitol.   \n24:08 Individual4 is cutting the tarp from the inside.  \n29:40 Individual4 speaks \"They got him pinned.\" \"Yo, we should go now\"  \n33:10 Individual4 speaks \"Shit. I have no water. Fuck, Hey we got water? We need water.\" Speaks \"Push! Push! Push!:  \n37:31 Individual4 moved lower on the steps.  \n38:07 Individual4 shows face under balaclava.  \n1:10-1:39, 1:50-1:55 #Individual4 can be seen at top of steps near edge of scaffold tarp. Seems to be communicating with person(s) near them. More (and closer of #Individual4 at 2:32-2:36, and again at 2:43-2:48, 3:28-3:40, 4:37, 5:06-5:24,  \nQAnon Shaman in horns is lower on steps at 3:05, 7:24, 8:40-9:01.  \nAt 5:30ish, police line seems to be overwhelmed, and rioters gain entry to the Terrace.",
@@ -23528,6 +23522,7 @@
       "CapitolFlagCalledFreedom"
     ],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T19:07:00.000Z",
     "realTimeStart": "2021-01-06T19:07:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n:43: #CapitolFlagCalledFreedom being carried by the crowd  \n:46: Cut to view of flag with Capitol in frame  \n:54: Cut to view underneath flag  \n1:03: Cut to behind flag  \n1:19: Cut to earlier footage from Washington Monument",
     "suspectTags": [],
@@ -25753,7 +25748,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
-    "rationale": "Time estimated based on known time of the West Plaza Police Line Breach (2:28 pm)",
+    "rationale": "Time estimated based on estimated time of the West Plaza Police Line Breach (2:28 pm)",
     "realTimeEnd": "2021-01-06T19:20:00.000Z",
     "realTimeStart": "2021-01-06T19:20:00.000Z",
     "summary": "Video selfie of Proud Boys follower G.NotesJustice on the West Plaza, before the police lines are breached.",
@@ -27133,7 +27128,7 @@
     "otherTags": [
       "Violence"
     ],
-    "rationale": "Time start based on known time for West Plaza being full breached (2:28 pm). Video is continuous through this section.",
+    "rationale": "Time start based on estimated time for West Plaza being full breached (2:28 pm). Video is continuous through this section.",
     "realTimeEnd": "2021-01-06T19:32:00.000Z",
     "realTimeStart": "2021-01-06T19:28:00.000Z",
     "summary": "41:10: #BrokeBackOrangePack, #IronworkerGuy, #FenceSnatcher move up  \n41:50: Police attempt to re-establish a line on the Upper West Plaza  \n42:06: #EyeGouger is behind police line  \n42:23: #EyeGouger tells police to turn around and go  \n42:40: Police fall back towards South Scaffold  \n42:53: Rioter in \"Stop the Steal\" cowboy hat and another in buffalo check jacket push a plywood sheet into police line  \n43:10: Police are pepper sprayed from lower left screen  \n43:18: #SwedishScarf mounts the Stage railing  \n43:32: Rioters on stage strike police with poles  \n43:40: Upper West Plaza is overrun  \n43:49: Clear shot of #Legionnaire on the Stage  \n44:57: #extinguisherman appears",
@@ -29452,6 +29447,7 @@
     "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
     "otherTags": [],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T19:36:00.000Z",
     "realTimeStart": "2021-01-06T19:36:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n2:05: Camera is pointed at NW Steps and NW Scaffolding, tarp has been sliced in multiple places and rioters are climbing over the balustrade onto the steps  \n2:09: Cut to wider view  \n2:13: Cut to zoomed view of NW scaffolding",
     "suspectTags": [],
@@ -30992,6 +30988,7 @@
     "locationName": "Capitol Grounds West:\n  NW Lawn",
     "otherTags": [],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T19:44:00.000Z",
     "realTimeStart": "2021-01-06T19:42:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n2:16: Line of police walking across the NW lawn toward the East side of the Capitol  \n2:40: Cut to earlier footage of march  \n3:29: Cut back to NW lawn, police line still moving out  \n4:21: Claims at 2:44 PM, a single flare goes off after police leave  \n4:22: Cut to footage of Trump speaking",
     "suspectTags": [],
@@ -32794,6 +32791,7 @@
       "CapitolFlagCalledFreedom"
     ],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T19:49:00.000Z",
     "realTimeStart": "2021-01-06T19:49:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n5:12: #CapitolFlagCalledFreedom is being draped over the scaffolding  \n5:26: Cut  \n5:41: Cut back to Ellipse crowd",
     "suspectTags": [],
@@ -34187,7 +34185,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Lower West Terrace",
     "otherTags": [],
-    "rationale": "Known time of #TunnelCommander taking this position is 2:52 pm. Estimated this is a few minutes later.",
+    "rationale": "Estimated time of #TunnelCommander taking this position is 2:52 pm. Estimated this is a few minutes later.",
     "realTimeEnd": "2021-01-06T19:55:00.000Z",
     "realTimeStart": "2021-01-06T19:55:00.000Z",
     "summary": "TUNNEL  \nGood sweep of crowd during tunnel attack on the south side of the terrace. #TunnelCommander is at the left of the tunnel entrance (he has taken off his grey hoodie), #GreenNewsboy is at the right.",
@@ -34397,6 +34395,7 @@
     "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
     "otherTags": [],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T19:57:00.000Z",
     "realTimeStart": "2021-01-06T19:57:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n6:12: Says at 2:57 PM, people begin singing the national anthem  \n6:39: Cut to march crowd from earlier",
     "suspectTags": [],
@@ -36087,6 +36086,7 @@
       "OrangeTapeGroup"
     ],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T20:07:00.000Z",
     "realTimeStart": "2021-01-06T20:07:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n7:09: Says at 3:07 PM, MAGA Hulk leads a chant of \"Whose house? Our house!\"  \n7:18: Says at 3:10 PM, \"We the people\" chant  \n7:22: Cut, says at 3:12 PM, rioters started climbing down the wall from the NW Steps. Ropes or cables are rigged from the balustrade down to the lawn  \n7:28: Two helmets with green tape visible at lower right  \n7:39: Heavyset man in brimmed black helmet with orange tape, on the lawn.   \n7:50: He drinks directly from what looks like a half gallon of orange juice  \n7:51: Cut back to march near Washington Monument",
     "suspectTags": [],
@@ -36290,7 +36290,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36313,7 +36314,8 @@
       "lng": -77.01
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 18:07:05",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36336,7 +36338,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36359,7 +36362,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36405,7 +36409,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36428,7 +36433,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36451,7 +36457,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36474,7 +36481,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -36497,7 +36505,8 @@
       "lng": -77.0103
     },
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "PossibleDuplicate"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:10:00.000Z",
@@ -38107,7 +38116,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "rationale": "Officer Fanone is returned to tunnel at 1:22:27, which is known to occur at 3:22 pm",
+    "rationale": "Officer Fanone is returned to tunnel at 1:22:27, which is estimated to occur at 3:22 pm",
     "realTimeEnd": "2021-01-06T20:25:00.000Z",
     "realTimeStart": "2021-01-06T20:21:00.000Z",
     "summary": "1:21:10: Crowd yells not to hurt police officer  \n1:22:27: As one officer is returned to the tunnel, another is pulled by his shield  \n1:22:58: #TunnelCommander tries to calm the crowd  \n1:23:55: #SwedishScarf washes his face",
@@ -38645,7 +38654,7 @@
     },
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "rationale": "TunnelCommander seen early in the clip giving order to sit down. Known real-time of 3:23 pm",
+    "rationale": "TunnelCommander seen early in the clip giving order to sit down, which is estimated to occur at 3:23 pm.",
     "realTimeEnd": "2021-01-06T20:23:00.000Z",
     "realTimeStart": "2021-01-06T20:23:00.000Z",
     "summary": "0:01: #Pridehorn at right  \n0:22: #TunnelCommander calms crowd  \n0:48: crowd attacks a supporter in a black hoodie, he is hit in the head with a flagpole",
@@ -39263,6 +39272,7 @@
     "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [],
     "rationale": "timestamped in the video",
+    "realTimeEnd": "2021-01-06T20:30:00.000Z",
     "realTimeStart": "2021-01-06T20:30:00.000Z",
     "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n8:48: Says at 3:30 PM, Antifa was prevented from breaking the window at left of tunnel, which is inexplicably blurred out  \n8:52: #NeonFilmer  \n9:06 Cut to Pennsylvania Lawn",
     "suspectTags": [
@@ -41707,6 +41717,7 @@
     "locationName": "Capitol Exterior North:\n  North Portico",
     "otherTags": [],
     "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T21:01:00.000Z",
     "realTimeStart": "2021-01-06T21:00:00.000Z",
     "summary": "Filmer captures people escaping tear gas at East end of North Portico",
     "suspectTags": [
@@ -41785,6 +41796,7 @@
     "locationName": "Capitol Exterior North:\n  North Portico",
     "otherTags": [],
     "rationale": "Estimated",
+    "realTimeEnd": "2021-01-06T21:01:00.000Z",
     "realTimeStart": "2021-01-06T21:00:00.000Z",
     "summary": "Filmer captures aftermath of tear gas spray and crowd on North Terrace",
     "suspectTags": [],
@@ -44542,7 +44554,7 @@
     "otherTags": [
       "NeedsSummaryAndTags"
     ],
-    "rationale": "Approximate. Two blug flags are visible on the back wall of the West Plaza. These appeared sometime between 4:16 and 4:29 per this document: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
+    "rationale": "Approximate. Two blue flags are visible on the back wall of the West Plaza. These appeared sometime between 4:16 and 4:29 per this document: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
     "realTimeEnd": "2021-01-06T21:30:00.000Z",
     "realTimeStart": "2021-01-06T21:30:00.000Z",
     "suspectTags": [],
@@ -44937,7 +44949,11 @@
   },
   {
     "_id": "VBnFTPyOEvlc",
-    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Exterior East:\n  East Plaza",
     "otherTags": [
       "NeedsSummaryAndTags"
     ],
@@ -45649,32 +45665,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/8ONiSixYGejX_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "JMgFbLVwUptw",
-    "location": {
-      "lat": 38.89081989733181,
-      "lng": -77.00884669371554
-    },
-    "locationName": "Capitol Exterior North:\n  North Portico",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T21:39:00.000Z",
-    "realTimeStart": "2021-01-06T21:39:00.000Z",
-    "summary": "Individual4 Getting pepper sprayed, phone filming riot police, attempted breach of door, attempts to break windows, scuffle between two men, interviews, AOM",
-    "suspectTags": [
-      "Individual4",
-      "InGodITrustRioter",
-      "BarrierCarrier",
-      "BigBrickPitcher"
-    ],
-    "videoEndTimepoint": 403,
-    "videoStartTimepoint": 398,
-    "videoUrl": "https://youtu.be/WmV_7W4em5A",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "WmV_7W4em5A",
-      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -46618,29 +46608,6 @@
       "type": "youtube",
       "videoId": "rnGXNnHQfms",
       "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
-    }
-  },
-  {
-    "_id": "1FLnMlFp4mO8",
-    "location": {
-      "lat": 38.890817817729406,
-      "lng": -77.00787837478865
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T21:53:00.000Z",
-    "realTimeStart": "2021-01-06T21:53:00.000Z",
-    "summary": "Individual4 Vandalizing Press Equipment",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 638,
-    "videoStartTimepoint": 606,
-    "videoUrl": "https://youtu.be/WmV_7W4em5A",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "WmV_7W4em5A",
-      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -48388,6 +48355,26 @@
     }
   },
   {
+    "_id": "Ho5HkOSKIm9M",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T22:10:00.000Z",
+    "realTimeStart": "2021-01-06T22:10:00.000Z",
+    "summary": "[ DELETED FILE ] Instagram Story archive for wheres.finn. Crowd beginning to disperse. Brief video from the top of the media tower.",
+    "suspectTags": [],
+    "videoEndTimepoint": 238,
+    "videoStartTimepoint": 210,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
+    }
+  },
+  {
     "_id": "QoZagyNp0qO4",
     "location": {
       "lat": 38.89,
@@ -48825,6 +48812,70 @@
     }
   },
   {
+    "_id": "FfAexuI9oj4U",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T22:15:00.000Z",
+    "realTimeStart": "2021-01-06T22:15:00.000Z",
+    "summary": "[ DELETED FILE ] Instagram Story archive for wheres.finn. Night time. Police lines on the West Plaza. Defiant protesters praying, playing music, egging on the officers",
+    "suspectTags": [],
+    "videoEndTimepoint": 299,
+    "videoStartTimepoint": 239,
+    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
+    }
+  },
+  {
+    "_id": "LzuSc8UsMjTU",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T22:15:00.000Z",
+    "realTimeStart": "2021-01-06T22:15:00.000Z",
+    "summary": "Officers dispersing crowds outside of the Capitol after curfew. Police and rioters clash. Police forcefully push rioters who do not disperse.",
+    "suspectTags": [],
+    "videoEndTimepoint": 45,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1-zRXIUa0wvKATpSAvOGZ8O82aRTVe2zP",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "1-zRXIUa0wvKATpSAvOGZ8O82aRTVe2zP"
+    }
+  },
+  {
+    "_id": "NyNU18J7UiqQ",
+    "location": {
+      "lat": 38.8898098,
+      "lng": -77.0105472
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
+    "otherTags": [],
+    "rationale": "Time estimated based on dusk.",
+    "realTimeEnd": "2021-01-06T22:15:00.000Z",
+    "realTimeStart": "2021-01-06T22:15:00.000Z",
+    "summary": "ABQ Raw, Anatomy of a Riot. NW side of the West Plaza near the base of the NW Stairs. Crowd beginning to leave. Officers establishing formation at the base of the stairs. Objects are thrown at the officers.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1625,
+    "videoStartTimepoint": 1478,
+    "videoUrl": "https://youtu.be/U3gVJ9TeBV4",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "U3gVJ9TeBV4",
+      "thumbnailUrl": "https://img.youtube.com/vi/U3gVJ9TeBV4/default.jpg"
+    }
+  },
+  {
     "_id": "OGHlEIGggkfo",
     "location": {
       "lat": 38.8898486,
@@ -48993,6 +49044,28 @@
     "videoEndTimepoint": 2158,
     "videoStartTimepoint": 1510,
     "videoUrl": "https://www.facebook.com/watch/live/?v=3047962525477215&ref=watch_permalink"
+  },
+  {
+    "_id": "GVYgI7s10rrw",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Time estimated based on dusk.",
+    "realTimeEnd": "2021-01-06T22:20:00.000Z",
+    "realTimeStart": "2021-01-06T22:20:00.000Z",
+    "summary": "ABQ Raw, Anatomy of a Riot. People being forced down the walkway and away from the Capitol. Flashbangs and teargas seen behind the crowd.",
+    "suspectTags": [],
+    "videoEndTimepoint": 1769,
+    "videoStartTimepoint": 1720,
+    "videoUrl": "https://youtu.be/U3gVJ9TeBV4",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "U3gVJ9TeBV4",
+      "thumbnailUrl": "https://img.youtube.com/vi/U3gVJ9TeBV4/default.jpg"
+    }
   },
   {
     "_id": "_ygYYfxBMieg",
@@ -49468,26 +49541,6 @@
     }
   },
   {
-    "_id": "Ho5HkOSKIm9M",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T22:30:00.000Z",
-    "realTimeStart": "2021-01-06T22:30:00.000Z",
-    "summary": "[ DELETED FILE ] Instagram Story archive for wheres.finn. Crowd beginning to disperse. Brief video from the top of the media tower.",
-    "suspectTags": [],
-    "videoEndTimepoint": 238,
-    "videoStartTimepoint": 210,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
-    }
-  },
-  {
     "_id": "g0qLVHyiEsYQ",
     "location": {
       "lat": 38.8908,
@@ -49920,28 +49973,6 @@
     }
   },
   {
-    "_id": "NyNU18J7UiqQ",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "rationale": "Time estimated based on dusk.",
-    "realTimeEnd": "2021-01-06T23:02:00.000Z",
-    "realTimeStart": "2021-01-06T23:00:00.000Z",
-    "summary": "ABQ Raw, Anatomy of a Riot. NW side of the West Plaza near the base of the NW Stairs. Crowd beginning to leave. Officers establishing formation at the base of the stairs. Objects are thrown at the officers.",
-    "suspectTags": [],
-    "videoEndTimepoint": 1625,
-    "videoStartTimepoint": 1478,
-    "videoUrl": "https://youtu.be/U3gVJ9TeBV4",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "U3gVJ9TeBV4",
-      "thumbnailUrl": "https://img.youtube.com/vi/U3gVJ9TeBV4/default.jpg"
-    }
-  },
-  {
     "_id": "WNo2USuDIhmI",
     "location": {
       "lat": 38.89108,
@@ -50058,28 +50089,6 @@
     }
   },
   {
-    "_id": "GVYgI7s10rrw",
-    "location": {
-      "lat": 38.8903503,
-      "lng": -77.011189
-    },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
-    "otherTags": [],
-    "rationale": "Time estimated, assumed this occurred before the documented time that the police established a perimeter (known to be 6:14 pm)",
-    "realTimeEnd": "2021-01-06T23:10:00.000Z",
-    "realTimeStart": "2021-01-06T23:10:00.000Z",
-    "summary": "ABQ Raw, Anatomy of a Riot. People being forced down the walkway and away from the Capitol. Flashbangs and teargas seen behind the crowd.",
-    "suspectTags": [],
-    "videoEndTimepoint": 1769,
-    "videoStartTimepoint": 1720,
-    "videoUrl": "https://youtu.be/U3gVJ9TeBV4",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "U3gVJ9TeBV4",
-      "thumbnailUrl": "https://img.youtube.com/vi/U3gVJ9TeBV4/default.jpg"
-    }
-  },
-  {
     "_id": "bwaf_mXrYjf4",
     "location": {
       "lat": 38.8914859,
@@ -50142,28 +50151,6 @@
     }
   },
   {
-    "_id": "LzuSc8UsMjTU",
-    "location": {
-      "lat": 38.8903503,
-      "lng": -77.011189
-    },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
-    "otherTags": [
-      "Violence"
-    ],
-    "realTimeEnd": "2021-01-06T23:15:00.000Z",
-    "realTimeStart": "2021-01-06T23:15:00.000Z",
-    "summary": "Officers dispersing crowds outside of the Capitol after curfew. Police and rioters clash. Police forcefully push rioters who do not disperse.",
-    "suspectTags": [],
-    "videoEndTimepoint": 45,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1-zRXIUa0wvKATpSAvOGZ8O82aRTVe2zP",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "1-zRXIUa0wvKATpSAvOGZ8O82aRTVe2zP"
-    }
-  },
-  {
     "_id": "iL8uYsgd0jpU",
     "location": {
       "lat": 38.8914859,
@@ -50197,26 +50184,6 @@
     "realTimeStart": "2021-01-06T23:30:00.000Z",
     "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. \"There are children here.\"",
     "suspectTags": []
-  },
-  {
-    "_id": "FfAexuI9oj4U",
-    "location": {
-      "lat": 38.8898098,
-      "lng": -77.0105472
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
-    "otherTags": [],
-    "realTimeEnd": "2021-01-06T23:31:00.000Z",
-    "realTimeStart": "2021-01-06T23:30:00.000Z",
-    "summary": "[ DELETED FILE ] Instagram Story archive for wheres.finn. Night time. Police lines on the West Plaza. Defiant protesters praying, playing music, egging on the officers",
-    "suspectTags": [],
-    "videoEndTimepoint": 299,
-    "videoStartTimepoint": 239,
-    "videoUrl": "https://drive.google.com/file/d/195bju1uVd0fHNTkQNYDAMo8alW1pk7-W",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "195bju1uVd0fHNTkQNYDAMo8alW1pk7-W"
-    }
   },
   {
     "_id": "l24NKH58Qlv0",
@@ -53928,7 +53895,7 @@
     "suspectTags": [
       "InGodITrustRioter"
     ],
-    "videoEndTimepoint": 1389,
+    "videoEndTimepoint": 0,
     "videoStartTimepoint": 1370,
     "videoUrl": "https://youtu.be/8Vh8wPeo6Jk",
     "videoDetails": {
