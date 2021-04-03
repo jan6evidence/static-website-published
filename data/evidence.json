@@ -2034,7 +2034,7 @@
     },
     "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [],
-    "rationale": "Timestamp on screen in video. Note that footage is sped up throughout. End times are estimated.",
+    "rationale": "Timestamp on screen in video. There are multiple cuts throughout. End times are estimated.",
     "realTimeEnd": "2021-01-06T14:45:00.000Z",
     "realTimeStart": "2021-01-06T14:20:00.000Z",
     "summary": "Into the Belly of the Beast by Sarah Corriher. Arriving at the Washington Monument.  \n1:36 A group seen with a lot of camo clothing.",
@@ -13591,7 +13591,7 @@
     },
     "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
     "otherTags": [],
-    "rationale": "Timestamp on screen in video. Note that footage is sped up throughout. End times are estimated.",
+    "rationale": "Timestamp on screen in video. There are multiple cuts throughout. End times are estimated.",
     "realTimeEnd": "2021-01-06T19:00:00.000Z",
     "realTimeStart": "2021-01-06T18:00:00.000Z",
     "summary": "Into the Belly of the Beast by Sarah Corriher. Crowds leaving the rally and moving toward the Capitol.",
@@ -17088,6 +17088,28 @@
       "type": "youtube",
       "videoId": "cRCEMN-lq_o",
       "thumbnailUrl": "https://img.youtube.com/vi/cRCEMN-lq_o/default.jpg"
+    }
+  },
+  {
+    "_id": "KyDxDEPQ0lAw",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Exterior East:\n  East Plaza",
+    "otherTags": [],
+    "rationale": "Start point estimated based on Parler video HS34fpbzqg2b. Endpoint estimated based on Parler video samoZXZlikg3.",
+    "realTimeEnd": "2021-01-06T19:05:00.000Z",
+    "realTimeStart": "2021-01-06T18:27:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultiple brief clips of people breaching the barricade on the East Plaza.",
+    "suspectTags": [],
+    "videoEndTimepoint": 73,
+    "videoStartTimepoint": 27,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -20788,7 +20810,7 @@
     "rationale": "Based upon Parler stamp",
     "realTimeEnd": "2021-01-06T18:49:00.000Z",
     "realTimeStart": "2021-01-06T18:49:00.000Z",
-    "summary": ":00 White cowboy hat with tag on it a woman in the crowd, everyone chanting USA and IAMALEXJONES on bullhorn  \n:15 Man with a grey beanie with a red rim, black jacket, and Solar Turbines Caterpillar company black backpack (San Diego based company)  \n:17 Jesus Saves letter cut out sign on a stick in the background  \n:19 IAMALIALEXANDER  \n:20 IAMOWENSHROYER  \nIAMALEXJONES to the crowd \"Listen to me, we have a permit on the other side.  It's great that this happened but Trump's not going to come when we've taken this over. We're not ANTIFA, we're not BLM. You're amazing, I love ya. Let's march around to the other side.  Let's not fight the police and give the system what they want. We are peaceful. We wond this election. And as much as I love seeing the Trump flags flying over this, we need to not have a confrontation with the police. They're going to make that the story. I'm gonna march to the other side, where we have a stage, where we can speak and occupy peacefully.  Tell everybody behind you, March to the other side. March to the other side.  You guys are great but the police..provocateurs have caused a problem.\"",
+    "summary": "0:00 White cowboy hat with tag on it a woman in the crowd, everyone chanting USA and IAmAlexJones on bullhorn  \n0:15 Man with a grey beanie with a red rim, black jacket, and Solar Turbines Caterpillar company black backpack (San Diego based company)  \n0:17 Jesus Saves letter cut out sign on a stick in the background  \n0:19 IAmAliAlexander  \n0:20 IAmOwenShroyer  \nIAmAlexJonesto the crowd \"Listen to me, we have a permit on the other side.  It's great that this happened but Trump's not going to come when we've taken this over. We're not ANTIFA, we're not BLM. You're amazing, I love ya. Let's march around to the other side.  Let's not fight the police and give the system what they want. We are peaceful. We won this election. And as much as I love seeing the Trump flags flying over this, we need to not have a confrontation with the police. They're going to make that the story. I'm gonna march to the other side, where we have a stage, where we can speak and occupy peacefully.  Tell everybody behind you, March to the other side. March to the other side.  You guys are great but the police..provocateurs have caused a problem.\"",
     "suspectTags": [
       "IAmAlexJones",
       "IAmAliAlexander",
@@ -20814,7 +20836,7 @@
     "rationale": "Based upon Parler stamp",
     "realTimeEnd": "2021-01-06T18:49:00.000Z",
     "realTimeStart": "2021-01-06T18:49:00.000Z",
-    "summary": ":00 Opens on older white hair man with Red Trump hat, glasses and a blue puffer jacket and everyone chanting USA and IAMALEXJONES on bullhorn on an elevated platform with IAMALIALEXANDER and IAMOWENSHROYER  \n:30 Greenhoodlanyard  \n1:13 White Man faces the camera with grey beanie with red ring and glasses  \n1:17 White man with a grey bandana around his neck, salt and pepper gray hair and facial hair, camo Trump ball cap, grey jacket with a hood inner lining is black  \n  \nIAMALEXJONES to the crowd \"Listen to me, we have a permit on the other side.  It's great that this happened but Trump's not going to come when we've taken this over. We're not ANTIFA, we're not BLM. You're amazing, I love ya. Let's march around to the other side.  Let's not fight the police and give the system what they want. We are peaceful. We wond this election. And as much as I love seeing the Trump flags flying over this, we need to not have a confrontation with the police. They're going to make that the story. I'm gonna march to the other side, where we have a stage, where we can speak and occupy peacefully.  Tell everybody behind you, March to the other side. March to the other side.  You guys are great but the police..provocateurs have caused a problem and the Police are throwing flash bangs. We don't want another Kent State her. We're saving the Republic, this beautiful, but please tell everyone you know to march to the other side, we're going to march *inaudible* Trump's coming to the other side.",
+    "summary": "0:00 Opens on older white hair man with Red Trump hat, glasses and a blue puffer jacket and everyone chanting USA and IAmAlexJones on bullhorn on an elevated platform with IAmAliAlexander and IAmOwenShroyer  \n0:30 GreenHoodLanyard  \n1:13 White Man faces the camera with grey beanie with red ring and glasses  \n1:17 White man with a grey bandana around his neck, salt and pepper gray hair and facial hair, camo Trump ball cap, grey jacket with a hood inner lining is black  \n  \nIAmAlexJones to the crowd \"Listen to me, we have a permit on the other side.  It's great that this happened but Trump's not going to come when we've taken this over. We're not ANTIFA, we're not BLM. You're amazing, I love ya. Let's march around to the other side.  Let's not fight the police and give the system what they want. We are peaceful. We wond this election. And as much as I love seeing the Trump flags flying over this, we need to not have a confrontation with the police. They're going to make that the story. I'm gonna march to the other side, where we have a stage, where we can speak and occupy peacefully.  Tell everybody behind you, March to the other side. March to the other side.  You guys are great but the police..provocateurs have caused a problem and the Police are throwing flash bangs. We don't want another Kent State her. We're saving the Republic, this beautiful, but please tell everyone you know to march to the other side, we're going to march *inaudible* Trump's coming to the other side.",
     "suspectTags": [
       "IAmAlexJones",
       "IAmAliAlexander",
@@ -23693,6 +23715,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/CE7LhOl22vJ9_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "wQkDZagbgm7Q",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [],
+    "rationale": "Start point shows the moment of the Central East Steps being breached, which has been estimated to occur at 2:06 pm. End point is estimated.",
+    "realTimeEnd": "2021-01-06T19:20:00.000Z",
+    "realTimeStart": "2021-01-06T19:06:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultiple brief clips of people breaching the police line on the Central East Steps, then filling the steps, and porticos.",
+    "suspectTags": [],
+    "videoEndTimepoint": 105,
+    "videoStartTimepoint": 73,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -30084,7 +30128,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:36:00.000Z",
     "realTimeStart": "2021-01-06T19:36:00.000Z",
-    "summary": "Parler video A1z3oGHrEMaJ",
+    "summary": "0:00 White cowboy hat with tag on it a woman in the crowd, everyone chanting USA and IAmAlexJones on bullhorn  \n0:15 Man with a grey beanie with a red rim, black jacket, and Solar Turbines Caterpillar company black backpack (San Diego based company)  \n0:17 Jesus Saves letter cut out sign on a stick in the background  \n0:19 IAmAliAlexander  \n0:20 IAmOwenShroyer  \nIAmAlexJonesto the crowd \"Listen to me, we have a permit on the other side.  It's great that this happened but Trump's not going to come when we've taken this over. We're not ANTIFA, we're not BLM. You're amazing, I love ya. Let's march around to the other side.  Let's not fight the police and give the system what they want. We are peaceful. We won this election. And as much as I love seeing the Trump flags flying over this, we need to not have a confrontation with the police. They're going to make that the story. I'm gonna march to the other side, where we have a stage, where we can speak and occupy peacefully.  Tell everybody behind you, March to the other side. March to the other side.  You guys are great but the police..provocateurs have caused a problem.\"",
     "suspectTags": [],
     "videoEndTimepoint": 16,
     "videoStartTimepoint": 0,
@@ -30141,6 +30185,30 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346949336370827266"
+    }
+  },
+  {
+    "_id": "svST9XwLsuu4",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [
+      "OathKeepers"
+    ],
+    "rationale": "This event occurs at 2:36 pm per parler video YcQOeXTOuGhu.",
+    "realTimeEnd": "2021-01-06T19:36:00.000Z",
+    "realTimeStart": "2021-01-06T19:36:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nOathKeepers seen moving in a stack formation up the Central East Steps as the crowd sings the Star Spangeled Anthem.",
+    "suspectTags": [],
+    "videoEndTimepoint": 536,
+    "videoStartTimepoint": 527,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -30556,6 +30624,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/k2X98xAHmHWa_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "UxEIbXKpQniI",
+    "location": {
+      "lat": 38.8898193,
+      "lng": -77.0086116
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
+    "otherTags": [],
+    "rationale": "The breach of the main doors has been estimated to occur at 2:38 pm",
+    "realTimeEnd": "2021-01-06T19:38:00.000Z",
+    "realTimeStart": "2021-01-06T19:38:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultiple brief clips of people pushing into the Central East Doors.",
+    "suspectTags": [],
+    "videoEndTimepoint": 123,
+    "videoStartTimepoint": 105,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -32252,6 +32342,30 @@
     }
   },
   {
+    "_id": "68i3TXBNoolc",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [],
+    "rationale": "At the 6:34 mark of the video, it zooms in on the NWScaffolding and we can see the #CapitolFlagCalledFreedom draped over the seating. Therefore the time is approximately 2:45 pm, between the flag being at stair base at 2:36 pm and it unfurling across the back of the scaffold at 2:53 pm (per <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw)>. Note that there are edits throughout. End times are estimated.",
+    "realTimeEnd": "2021-01-06T19:55:00.000Z",
+    "realTimeStart": "2021-01-06T19:44:00.000Z",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n5:55 View of the West side of the Capitol from Pennsylvania Avenue near the Peace Monument. People seen on the Upper West Plaza and filing the Lower West Plaza.  \n6:48 IAmPhilipAnderson on the Peace Monument",
+    "suspectTags": [
+      "IAmPhilipAnderson"
+    ],
+    "videoEndTimepoint": 449,
+    "videoStartTimepoint": 339,
+    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "tjXEtxdOpNA",
+      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
+    }
+  },
+  {
     "_id": "9ErPZ3xzYhnw",
     "location": {
       "lat": 38.8897,
@@ -32895,6 +33009,53 @@
     }
   },
   {
+    "_id": "GvE9-PCEop9w",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T19:50:00.000Z",
+    "realTimeStart": "2021-01-06T19:45:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultiple brief clips of the Rotunda full of people.   \nClip 1: JohnStrand and SimoneGold standing on the base of a statue. Simone says \"God bless America!\" via her megaphone.  \nClip 2: A large crowd of people in the Rotunda.",
+    "suspectTags": [
+      "JohnStrand",
+      "SimoneGold"
+    ],
+    "videoEndTimepoint": 137,
+    "videoStartTimepoint": 123,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
+    "_id": "HIiAjKxvEn8s",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Exterior East:\n  East Plaza",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T19:45:00.000Z",
+    "realTimeStart": "2021-01-06T19:45:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultiple clips of people in the East Plaza. Someone talking about a girl having been shot.",
+    "suspectTags": [],
+    "videoEndTimepoint": 527,
+    "videoStartTimepoint": 498,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "I89GNdSHohrc",
     "location": {
       "lat": 38.8899,
@@ -33029,6 +33190,27 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/7iB22C7LbbNy_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "RCxNPQFncsE4",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Exterior East:\n  East Plaza",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T19:45:00.000Z",
+    "realTimeStart": "2021-01-06T19:45:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nA guy who is very angry talking about someone having been shot. Says she was a patriot.",
+    "suspectTags": [],
+    "videoEndTimepoint": 544,
+    "videoStartTimepoint": 536,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -33311,29 +33493,6 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/eGOoR3I08FkK_cvt.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "RhgvOjvHYtjA",
-    "location": {
-      "lat": 38.8906428,
-      "lng": -77.0123117
-    },
-    "locationName": "Capitol Grounds West:\n  Peace Monument",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "rationale": "around the 6:34 mark of the video, it zooms in on the NWScaffolding and we can see the #CapitolFlagCalledFreedom draped over the seating. Therefore the time is approximately 2:45, between the flag being at stair base at 2:36 and it unfurling across the back of the scaffold at 2:53 per: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
-    "realTimeEnd": "2021-01-06T19:47:00.000Z",
-    "realTimeStart": "2021-01-06T19:46:00.000Z",
-    "suspectTags": [],
-    "videoEndTimepoint": 439,
-    "videoStartTimepoint": 372,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -33841,30 +34000,6 @@
       "type": "youtube",
       "videoId": "DHessyWYXqM",
       "thumbnailUrl": "https://img.youtube.com/vi/DHessyWYXqM/default.jpg"
-    }
-  },
-  {
-    "_id": "68i3TXBNoolc",
-    "location": {
-      "lat": 38.8906428,
-      "lng": -77.0123117
-    },
-    "locationName": "Capitol Grounds West:\n  Peace Monument",
-    "otherTags": [],
-    "rationale": "Time estimated based on crowds seen in the Upper and Lower West Terraces. Note that there are edits throughout. End times are estimated.",
-    "realTimeEnd": "2021-01-06T20:00:00.000Z",
-    "realTimeStart": "2021-01-06T19:50:00.000Z",
-    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n5:55 View of the West side of the Capitol from Pennsylvania Avenue near the Peace Monument. People seen on the Upper West Plaza and filing the Lower West Plaza.  \n6:48 IAmPhilipAnderson on the Peace Monument",
-    "suspectTags": [
-      "IAmPhilipAnderson"
-    ],
-    "videoEndTimepoint": 449,
-    "videoStartTimepoint": 339,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -34461,6 +34596,31 @@
     }
   },
   {
+    "_id": "11bSiysvMvbw",
+    "location": {
+      "lat": 38.8914671,
+      "lng": -77.0106402
+    },
+    "locationName": "Capitol Grounds North:\n  Summerhouse",
+    "otherTags": [
+      "CapitolFlagCalledFreedom",
+      "SeditionInterview"
+    ],
+    "rationale": "Estimated based on the CapitolFlagCalledFreedom having recently been draped on the NW Scaffold according to the Filmer. This moment is estimated to be at 2:53 pm per Parler haVmHJDrNtHD and IA3EZSOAq1Mo. There is a brief cut in this video. Endpoint is estimated.",
+    "realTimeEnd": "2021-01-06T20:00:00.000Z",
+    "realTimeStart": "2021-01-06T19:53:00.000Z",
+    "summary": "Michigan Constitutional Crusader  \nOn the NW Lawn near Summerhouse. CapitolFlagCalledFreedom is seen on the NW Scaffold. Filmer and another man say that the flag \"just got there.\" A man talks about two people being taken out on a stretcher. Says the mainstream media is calling this a riot. They talk wih a man in a green beanie. Their conversation gets heated, but they shake and make-up.'  \n4:06 Cut. Moving with the crowd towad the Peace Monument. Talking with a man in a camo balaclava who is recounting what is happening at the front lines. The filmer says, \"well if you're going to storm a building, wear armor.\"  \n6:10 A man in a flag gaiter carring a large camera asks to talk to the filmer. He recounts that someone got shot in the face. Claims with a shotgun, and reports that she is dead. He says that they were inside where she was killed.",
+    "suspectTags": [],
+    "videoEndTimepoint": 431,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/rnGXNnHQfms",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "rnGXNnHQfms",
+      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
+    }
+  },
+  {
     "_id": "131luDNPsmG4",
     "location": {
       "lat": 38.8903,
@@ -34979,7 +35139,7 @@
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:55:00.000Z",
     "realTimeStart": "2021-01-06T19:54:00.000Z",
-    "summary": "Parler video NxFqzCuhUuWu  \n  \nNW Ctyard/Upper West Terrace, good quality",
+    "summary": "Parler video NxFqzCuhUuWu  \n  \nNW Courtyard/Upper West Terrace, good quality",
     "suspectTags": [],
     "videoEndTimepoint": 82,
     "videoStartTimepoint": 0,
@@ -35894,7 +36054,7 @@
     },
     "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
     "otherTags": [],
-    "rationale": "Estimated",
+    "rationale": "At the 7:25 mark of the video, the #CaptiolFlagCalledFreedom can be seen draped across the back of the NW Scaffold. The tim is after 2:53 pm per <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw>. Note that there are edits throughout. End times are estimated.",
     "realTimeEnd": "2021-01-06T20:15:00.000Z",
     "realTimeStart": "2021-01-06T20:00:00.000Z",
     "summary": "Into the Belly of the Beast by Sarah Corriher.   \nFilmer climbs over wall and onto Pennsylvania Lawn.",
@@ -36110,6 +36270,48 @@
     }
   },
   {
+    "_id": "Iz62-VqAolBM",
+    "location": {
+      "lat": 38.8898129,
+      "lng": -77.0084185
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T20:00:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nVIews of the crowd on the East Plaza from the top of the steps. People at the East Doors expressing their frustration.",
+    "suspectTags": [],
+    "videoEndTimepoint": 592,
+    "videoStartTimepoint": 544,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
+    "_id": "JBj32R0UwtU8",
+    "location": {
+      "lat": 38.8901744809344,
+      "lng": -77.0084023229447
+    },
+    "locationName": "Capitol Grounds East:\n  NE Courtyard",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T20:15:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \n4:37 Men chanting \"Whose house? Our house!\"  \n4:44 A man in a green sweatshirt recouting what happened in the Rontuda. He says the Oath Keepers just went up.",
+    "suspectTags": [],
+    "videoEndTimepoint": 317,
+    "videoStartTimepoint": 277,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "MJJzm5ceci38",
     "location": {
       "lat": 38.8898088,
@@ -36197,6 +36399,27 @@
     }
   },
   {
+    "_id": "RR4HlaKqsshQ",
+    "location": {
+      "lat": 38.8898193,
+      "lng": -77.0086116
+    },
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T20:15:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nView from the Central East Doors looking outside.",
+    "suspectTags": [],
+    "videoEndTimepoint": 243,
+    "videoStartTimepoint": 238,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "TkCjew-NAnwU",
     "location": {
       "lat": 38.8893059,
@@ -36216,6 +36439,35 @@
       "type": "youtube",
       "videoId": "wccYJmpzvgI",
       "thumbnailUrl": "https://img.youtube.com/vi/wccYJmpzvgI/default.jpg"
+    }
+  },
+  {
+    "_id": "VVy2NQ5PQiEQ",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0088777
+    },
+    "locationName": "Capitol Interior Central:\n  Rotunda",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T20:15:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nMultplie clips of altercations between officers and rioters. RonniePresley seen at 2:30. FigueroBrewingMAGA at 2:35. PacifierDummy at 2:49. GaribaldiBeardFighter and GaribaldiBeardFighterGF at 3:15. At 3:38 people rinsing their eyes out.",
+    "suspectTags": [
+      "RonniePresley",
+      "FigueroBrewingMAGA",
+      "GaribaldiBeardFighter",
+      "GaribaldiBeardFighterGF",
+      "PacifierDummy"
+    ],
+    "videoEndTimepoint": 238,
+    "videoStartTimepoint": 137,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -36463,6 +36715,32 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tN18oEGcdGtX_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "zB6AclEJEppk",
+    "location": {
+      "lat": 38.8897867,
+      "lng": -77.0086484
+    },
+    "locationName": "Capitol Interior Central:\n  East Foyer",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T20:15:00.000Z",
+    "realTimeStart": "2021-01-06T20:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nOfficers trying to push people out the Central East Doors from the Rotunda.  \n4:03 HenryMuntzer among the crowd.  \n4:36 PacifierDummy seen exiting the Capitol.",
+    "suspectTags": [
+      "HenryMuntzer",
+      "PacifierDummy"
+    ],
+    "videoEndTimepoint": 277,
+    "videoStartTimepoint": 243,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -41393,8 +41671,8 @@
   {
     "_id": "yoVBCvsHcugg",
     "location": {
-      "lat": 38.8908629,
-      "lng": -77.0089819
+      "lat": 38.890868668550446,
+      "lng": -77.0089859163991
     },
     "locationName": "Capitol Exterior North:\n  North Terrace",
     "otherTags": [
@@ -41403,11 +41681,13 @@
     "rationale": "Timestamp Calculation: 16:38 lines up with Parler vid XNohvDluHfmx (timestamped at 3:52 pm). Note there are several edits throughout. Timestamps are estimated.",
     "realTimeEnd": "2021-01-06T21:00:00.000Z",
     "realTimeStart": "2021-01-06T20:45:00.000Z",
-    "summary": "Into the Belly of the Beast by Sarah Corriher.   \n15:04 An alternation between officers guarding a north side door & crowd.  \n15:51 Person in large, black coat with teal shoulders and a black baseball cap throws an object at window.  \n16:38 Crowd rushes forward into the North Door.  \n17:12 InGodITrustRioter  \n18:21 FacePaintBlowHard appears to be posing for a video while the door behind him is overrun.  \n19:11 Gas is deployed out of the North Door.  \n22:47 A man in a grey Carhartt hoodie, red Trump cap, and black backpack holds a communication device to his ear. The device has a cord going into his backpack. #PInkBeret talks to a man in a camo helmet with an American flag heart sticker on the back he is wearing a black coat. #Smiles45(?) leans on a pillar to the left  \n23:12 A man with a tan helmet, tan, fleece-lined coat, goggles & respirator consults with a younger man with goggles",
+    "summary": "Into the Belly of the Beast by Sarah Corriher. Footage is heavily edited, and excludes much fo the violence that occurred on the NorthTerrace.  \n15:04 An alternation between officers guarding a north side door & crowd.  \n15:51 Person in large, black coat with teal shoulders and a black baseball cap throws an object at window.  \n16:38 Crowd rushes forward into the North Door.  \n17:12 InGodITrustRioter  \n18:21 FacePaintBlowHard appears to be posing for a video while the door behind him is overrun.  \n19:11 Gas is deployed out of the North Door.  \n22:47 A man in a grey Carhartt hoodie, red Trump cap, and black backpack holds a communication device to his ear. The device has a cord going into his backpack. #PInkBeret talks to a man in a camo helmet with an American flag heart sticker on the back he is wearing a black coat. #Smiles45(?) leans on a pillar to the left  \n23:12 A man with a tan helmet, tan, fleece-lined coat, goggles & respirator consults with a younger man with goggles",
     "suspectTags": [
       "InGodITrustRioter",
       "FacePaintBlowhard",
-      "PinkBeret"
+      "PinkBeret",
+      "BigBrickPitcher",
+      "BarrierCarrier"
     ],
     "videoEndTimepoint": 1410,
     "videoStartTimepoint": 728,
@@ -43014,7 +43294,7 @@
     "rationale": "Estimate",
     "realTimeEnd": "2021-01-06T21:05:00.000Z",
     "realTimeStart": "2021-01-06T21:00:00.000Z",
-    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nOfficers clear NW Courtyard",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nOfficers clear the area outside of the North Doors.",
     "suspectTags": [],
     "videoEndTimepoint": 1559,
     "videoStartTimepoint": 1410,
@@ -44298,6 +44578,27 @@
     }
   },
   {
+    "_id": "QYu1D7bH8mIQ",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [],
+    "realTimeEnd": "2021-01-06T21:15:00.000Z",
+    "realTimeStart": "2021-01-06T21:15:00.000Z",
+    "summary": "FNTV - FreedomNewsTV\r  \nTear gas is thick in the air over the North Terrace. Crowd chants \"USA\"",
+    "suspectTags": [],
+    "videoEndTimepoint": 330,
+    "videoStartTimepoint": 317,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "QpY5-9df4rD4",
     "location": {
       "lat": 38.890720550771,
@@ -44716,6 +45017,31 @@
       "type": "directLink",
       "videoUrl": "https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "rNwW4PpjEkzs",
+    "location": {
+      "lat": 38.8908019,
+      "lng": -77.0088724
+    },
+    "locationName": "Capitol Exterior North:\n  North Doors",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T21:25:00.000Z",
+    "realTimeStart": "2021-01-06T21:20:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \n5:37 InGodITrustRioter and another man violently throwing objects in through the North Doors.   \n6:01 A big cloud of tear gas comes from the North Doors. InGodITrustRioter isn't phased. Shouts \"Fuck your gas!\". Someone cues up some music on their phone.",
+    "suspectTags": [
+      "InGodITrustRioter"
+    ],
+    "videoEndTimepoint": 379,
+    "videoStartTimepoint": 330,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -45906,6 +46232,34 @@
     }
   },
   {
+    "_id": "bBPOvGky4qo4",
+    "location": {
+      "lat": 38.8908019,
+      "lng": -77.0088724
+    },
+    "locationName": "Capitol Exterior North:\n  North Doors",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T21:35:00.000Z",
+    "realTimeStart": "2021-01-06T21:30:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nFigueroBrewingMAGA peers in the door. A man in a green and blue plaid coat take a selfie with the officers in the background via the window in the North Doors. FigueroBrewingMAGA does the same. InGodITrustRioter places a metal bar through the door handles. Rioters carry a police barricade toward the doors, attempt to use it to ram the doors.  \n7:32 Officers entering the Capitol via North Doors.",
+    "suspectTags": [
+      "FigueroBrewingMAGA",
+      "InGodITrustRioter",
+      "BarrierCarrier",
+      "BigBrickPitcher"
+    ],
+    "videoEndTimepoint": 458,
+    "videoStartTimepoint": 403,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "btTLyjZYEjvA",
     "location": {
       "lat": 38.8898084,
@@ -46752,6 +47106,28 @@
     }
   },
   {
+    "_id": "KUqbftYwYndQ",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [],
+    "rationale": "Two flashbangs go off in rapid succession. Seen in this Parler video timestamped at 4:37 pm: <https://d2hxwnssq7ss7g.cloudfront.net/xk6W7U04wAeQ_cvt.mp4>",
+    "realTimeEnd": "2021-01-06T21:37:00.000Z",
+    "realTimeStart": "2021-01-06T21:37:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \n7:38 People banging on a window on the North Portico  \n7:54 Double flashbangs in the crowd on the North Terrace. People moving aay from the North Terrace.",
+    "suspectTags": [],
+    "videoEndTimepoint": 498,
+    "videoStartTimepoint": 458,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "juA88FbOIryM",
     "location": {
       "lat": 38.8909306808629,
@@ -46925,6 +47301,31 @@
     }
   },
   {
+    "_id": "4vYlt5B00mYo",
+    "location": {
+      "lat": 38.8908629,
+      "lng": -77.0089819
+    },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
+    "otherTags": [
+      "Violence"
+    ],
+    "realTimeEnd": "2021-01-06T21:39:00.000Z",
+    "realTimeStart": "2021-01-06T21:39:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nOfficers arriving. More smoke comes from the North Doors.  \n6:38 Individual4 getting pepper sprayed, phone filming riot police",
+    "suspectTags": [
+      "Individual4"
+    ],
+    "videoEndTimepoint": 403,
+    "videoStartTimepoint": 379,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "GaR-INKkAp9U",
     "location": {
       "lat": 38.8898,
@@ -46968,6 +47369,37 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/hUhwsaOzwD5t_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "201eGDkPkhxk",
+    "location": {
+      "lat": 38.89085330955594,
+      "lng": -77.0084255454794
+    },
+    "locationName": "Capitol Exterior East:\n  NE Plaza",
+    "otherTags": [],
+    "rationale": "MediaCartWheeler seen in this footage at 26:51 corresponds with 56:03 in DLive Zykotic livestream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). This section of video is continuous.",
+    "realTimeEnd": "2021-01-06T21:52:00.000Z",
+    "realTimeStart": "2021-01-06T21:40:00.000Z",
+    "summary": "Michigan Constitutional Crusader  \nOn the North Terrace as police are beginning to clear the crowd. A man in a shamrock sweatshirt holding a cloth to his face, he is bleeding. Officers make people get down from one of the pedistals. Crowd chants \"USA\" and \"Traitors\" at hte police.   \n10:23 StringyPlaid and MaroonBinocularBoy seen in the crowd.  \n11:40 MrMunsterAOM immediately in front of the filmer. MaroonBInocularBoy behind him, StringyPlaid to his right. Filmer follows MrMunsterAOM through the crowd in the direction of the NE Plaza. Films the officers assembling on the Portico.  \n14:25 Individual4 standing at the front lines. Calmly stands there for several minutes with his hands in his pockets.  \n16:25 Filmer follows some officers through the crowd. PinkBeret briefly visible off to the right. Very few people remain on the NE Steps.  \n17:12 Chants of \"CNN Sucks\" are heard  \n17:38 Filmer crosses paths with JacobChansley, compliments his outfit  \n17:54 ImGabeBrownPB moving away from the steps in the direction of the NE Lawn Media Pen  \n18:16 Filmer notices crowd near the NE Lawn Media pen and moves toward the action.",
+    "suspectTags": [
+      "StringyPlaid",
+      "MrMunsterAOM",
+      "MaroonBinocularBoy",
+      "Individual4",
+      "PinkBeret",
+      "JacobChansley",
+      "ImGabeBrownPB",
+      "PinkBeret"
+    ],
+    "videoEndTimepoint": 1110,
+    "videoStartTimepoint": 431,
+    "videoUrl": "https://youtu.be/rnGXNnHQfms",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "rnGXNnHQfms",
+      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
     }
   },
   {
@@ -47365,30 +47797,6 @@
     }
   },
   {
-    "_id": "g3YODRls4i_E",
-    "location": {
-      "lat": 38.8908875,
-      "lng": -77.0082352
-    },
-    "locationName": "Capitol Exterior East:\n  NE Plaza",
-    "otherTags": [
-      "NeedsSummaryAndTags",
-      "MediaSmash"
-    ],
-    "rationale": "Approximate time synched with MrMunsterAOM continuous Livestream (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4) (bullhorn calls to MediaSmash begin approx 4:46)",
-    "realTimeEnd": "2021-01-06T21:49:00.000Z",
-    "realTimeStart": "2021-01-06T21:47:00.000Z",
-    "suspectTags": [],
-    "videoEndTimepoint": 1708,
-    "videoStartTimepoint": 1611,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "xMa5I01pAtYI",
     "location": {
       "lat": 38.89089746659951,
@@ -47649,31 +48057,6 @@
     }
   },
   {
-    "_id": "9QMjfpXaUlxw",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "Twitter Post at 5:17 pm. Time of MediaSmash estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:51:00.000Z",
-    "realTimeStart": "2021-01-06T21:50:00.000Z",
-    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. A crowd around a pile of media equipment. A man says “We are at war. We're coming for bodies.”",
-    "suspectTags": [
-      "PinkBeret"
-    ],
-    "videoEndTimepoint": 33,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/ellievhall/status/1346944103074979843",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346944103074979843"
-    }
-  },
-  {
     "_id": "F1XdC8Zocv_0",
     "location": {
       "lat": 38.8899,
@@ -47770,51 +48153,36 @@
     }
   },
   {
-    "_id": "YG7XsBEJ8mTY",
+    "_id": "_oqM3MaS8sVg",
     "location": {
       "lat": 38.8909252,
       "lng": -77.0078413
     },
     "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
     "otherTags": [
-      "NeedsSummaryAndTags",
-      "MediaSmash"
+      "MediaSmash",
+      "Vandalism"
     ],
-    "rationale": "Approximate Time. #MediaSmash. Seen in the DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:51:00.000Z",
+    "rationale": "This video has multiple, brief cuts. All times are estimates.   \n  \nBeginning of video shows the moments just before MediaSmash begins. Estimated to be about 4:50 pm according to DLive Zykotic live stream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4).  \n  \nEnd of video is a few minutes after Zykotic livestream leaves the scene of MediaSmash at 5:03 pm.",
+    "realTimeEnd": "2021-01-06T22:05:00.000Z",
     "realTimeStart": "2021-01-06T21:50:00.000Z",
-    "suspectTags": [],
-    "videoEndTimepoint": 74,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://drive.google.com/file/d/1y6psFl_42JySMVfn1jCAOJMR8R7xujoe",
-    "videoDetails": {
-      "type": "googleDrive",
-      "driveFileId": "1y6psFl_42JySMVfn1jCAOJMR8R7xujoe"
-    }
-  },
-  {
-    "_id": "Z0nmuPi88tA0",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "NeedsSummaryandTags",
-      "MediaSmash"
+    "summary": "6:29 Rioters are harassing members of the press, who are still present in the Media pen  \n7:27 The back of HarleySmashAOM  \n7:40 StringyPlaid pushes into the media pen. More rioters pusing in from the right of the frame.  \n7:50 Cut. Rioters have pushed out the reporters and are converging on the video equipment. Individual4 in the background.  \n8:10 Cut. PeterHarding walking toward the media pen. A man smashes a camera tripod on the ground.  \n8:39: Cut  \n8:57: Cut  \n9:20: Cut. We can finally see inside the media pen, big pile of equipment and a man in an orange neon vest with a bullhorn. MediaCartWheelerAOM tosses a media cart onto the pile. ImGabeBrownPB heard.  \n9:56: Cut. A man in a blue Trump hat talking about how terrible the media is. Says \"we are at war!\" ImGabeBrown to the right of the media pile. PinkBeret at left. A man in a black hoodie rants about how terible the media is. People discussing Ashli Bennet's shooting.  \n11:08: Man in green hat and flag scarf smashes equipment cart into the pile. Violently slams a camera at the ground. Jokes \"we have a news camera up for auction today\"  \n11:42: Cut. Crowd has somewhat dispersed. One man remains and kicks at the equipment. ImGabeBrownPB still filming.  \n12:05: HarleSmashAOM tosses a barricade on top of the pile of media equipment. ImGabBrownPB still heard.",
+    "suspectTags": [
+      "PinkBeret",
+      "HarleySmashAOM",
+      "StringyPlaid",
+      "Individual4",
+      "PeterHarding",
+      "MediaCartWheelerAOM",
+      "ImGabeBrownPB"
     ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:51:00.000Z",
-    "realTimeStart": "2021-01-06T21:50:00.000Z",
-    "summary": "Individuals outside the Capitol harassing reporters and destroying their equipment (duplicate of Julio Rosas video)",
-    "suspectTags": [],
-    "videoEndTimepoint": 74,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/o9h9O3SqW8g",
+    "videoEndTimepoint": 702,
+    "videoStartTimepoint": 368,
+    "videoUrl": "https://youtu.be/34gwzOJF1kA",
     "videoDetails": {
       "type": "youtube",
-      "videoId": "o9h9O3SqW8g",
-      "thumbnailUrl": "https://img.youtube.com/vi/o9h9O3SqW8g/default.jpg"
+      "videoId": "34gwzOJF1kA",
+      "thumbnailUrl": "https://img.youtube.com/vi/34gwzOJF1kA/default.jpg"
     }
   },
   {
@@ -47825,9 +48193,10 @@
     },
     "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
     "otherTags": [
-      "MediaSmash"
+      "MediaSmash",
+      "Vandalism"
     ],
-    "rationale": "Timestamp calculation: 1:47 in this footage aligns with 52:22 (4:56 pm) in the DLive Zykotic livestream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
+    "rationale": "Timestamp calculation: 1:47 in this footage aligns with 52:22 (4:56 pm) in the DLive Zykotic live stream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
     "realTimeEnd": "2021-01-06T21:56:00.000Z",
     "realTimeStart": "2021-01-06T21:50:00.000Z",
     "summary": "Blackrock Beacon. Media Smash in the NE Lawn Media Pen.  \n0:25 PinkBeret to the left of the frame.  \n0:48 PeterHarding in the center of the crowd, vandalizing equipment. HarleySmashAOM, MrMunsterAOM, MaroonBinocularBoy seen attacking equipment.  \n1:08 A man violently hits equpment with a bat.   \n1:47 PeterHarding trying to light the equipment on fire. He succeeds in getting something to catch fire.  \n3:10 PinkBeret with a man in a red Trump beanie with a pom pom.  \n3:30 Closup of hte pile of media equipment. MrMunsterAOM and PeterHarding to the right. MrMunsterAOM says \"this is abandoned property\"  \n4:30 CaesarNoSalad observing the event to the left of the crowd.  \n5:29 Brief glimpse Individual4 pacing around behind the crowd",
@@ -47881,7 +48250,8 @@
     },
     "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
     "otherTags": [
-      "MediaSmash"
+      "MediaSmash",
+      "Vandalism"
     ],
     "rationale": "Timestamp calculation: Double flashbangs heard at 31:04 and 31:07 are also heard in this parler video, which is timestamped at 4:37 pm. <https://d2hxwnssq7ss7g.cloudfront.net/xk6W7U04wAeQ_cvt.mp4>",
     "realTimeEnd": "2021-01-06T21:52:00.000Z",
@@ -47897,27 +48267,6 @@
       "type": "directLink",
       "videoUrl": "https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4",
       "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "le0h02jjss2M",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "NeedsSummaryAndTags",
-      "MediaSmash"
-    ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeStart": "2021-01-06T21:50:00.000Z",
-    "suspectTags": [],
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://www.instagram.com/tv/CJuXIz7B-wV",
-    "videoDetails": {
-      "type": "instagram",
-      "videoId": "CJuXIz7B-wV"
     }
   },
   {
@@ -47940,36 +48289,6 @@
       "type": "youtube",
       "videoId": "34gwzOJF1kA",
       "thumbnailUrl": "https://img.youtube.com/vi/34gwzOJF1kA/default.jpg"
-    }
-  },
-  {
-    "_id": "JiIZ-OsqUhsk",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "This is estimated to be 1-2 minutes prior to the DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). This livestream has been time-synched to flash bangs in Parler video xk6W7U04wAeQ.",
-    "realTimeEnd": "2021-01-06T21:43:00.000Z",
-    "realTimeStart": "2021-01-06T21:51:00.000Z",
-    "summary": "Crowd gathers, smashes media equipment outside Capitol  \n0:02-0:22 Individual4 forcefully grabs a reporter's camera, vandalizes press equipment.  \n0:40 StringyPlaid vandalizing eqipment. PinkBeret to the left of the pile. ImGabeBrown walks into frame, filming on his phone.  \n0:48 Individual4 putting on his glove.  \n1:32 WildDog in the crowd, next to PinkBeret. StringyPlaid continues to tear equipment out of the cases.",
-    "suspectTags": [
-      "Individual4",
-      "ImGabeBrownPB",
-      "PinkBeret",
-      "WildDog",
-      "DirtyPhoneCallerAOM"
-    ],
-    "videoEndTimepoint": 123,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/xjkA8irS_vc",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "xjkA8irS_vc",
-      "thumbnailUrl": "https://img.youtube.com/vi/xjkA8irS_vc/default.jpg"
     }
   },
   {
@@ -47997,12 +48316,13 @@
     },
     "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
     "otherTags": [
-      "MediaSmash"
+      "MediaSmash",
+      "Vandalism"
     ],
     "rationale": "Timestamp calculation: Double flashbangs heard at 31:04 and 31:07 are also heard in this parler video, which is timestamped at 4:37 pm. <https://d2hxwnssq7ss7g.cloudfront.net/xk6W7U04wAeQ_cvt.mp4>",
     "realTimeEnd": "2021-01-06T22:03:00.000Z",
     "realTimeStart": "2021-01-06T21:52:00.000Z",
-    "summary": "DLive Zykotic livestream  \n46:45 Cameraman walks away from Media Smash as it begins, watches from afar  \n47:36 Cameraman returns to Media Smash, passes Individual4 along the way.   \n47:56 He is films some poeple stomping on a camera.   \n48:25 He talks about looting some of the equipment. WildDog right in front of him. PinkBeret center of frame.  \n48:40 Filmer steals Microphone.  \n49:06 He mock interviews a guy. Best quote \"We've got some breaking news here\" as StringyPlaid and HarlySmashAOM break equipment in the background.  \n49:55 ImGabeBrownPB gives his name. Peter Harding immediately behind him. Cameraman continues to incite the crowd.  \n51:38 PeterHarding attempting to light the media equipment on fire. Apparently MrMunsterAOM provided him with the lighter. PeterHarding gets some flames starting at 52:22.  \n52:40 Someone says \"hey everyone, CNN is hiding at Union Station. Their headquarters are over there\" via megaphone.  \n53:00 HarleySmashAOM passes a piece of grey eggcarton foam to PeterHarding. Someone else pours a liquid. HarleySmashAOM tries to find more flammable equipment.  \n54:30 Camerama takes a bag from the pile.  \n55:00 A man in a brown leather coat tries to add more flammable material to the pile.  \n26:03 MediaCartWheelerAOM tosses a media cart",
+    "summary": "DLive Zykotic livestream  \n46:45 Cameraman walks away from Media Smash as people begin to break equipment. He watches from afar  \n47:36 Cameraman returns to Media Smash, passes Individual4 along the way.   \n47:56 He is films some people stomping on a camera.   \n48:25 He talks about looting some of the equipment. WildDog right in front of him. PinkBeret center of frame.  \n48:40 Filmer steals Microphone.  \n49:06 He mock interviews a guy. Best quote \"We've got some breaking news here\" as StringyPlaid and HarlySmashAOM break equipment in the background.  \n49:55 ImGabeBrownPB gives his name. Peter Harding immediately behind him. Cameraman continues to incite the crowd.  \n51:38 PeterHarding attempting to light the media equipment on fire. Apparently MrMunsterAOM provided him with the lighter. PeterHarding gets some flames starting at 52:22.  \n52:40 Someone says \"hey everyone, CNN is hiding at Union Station. Their headquarters are over there\" via megaphone.  \n53:00 HarleySmashAOM passes a piece of grey egg carton foam to PeterHarding. Someone else pours a liquid. HarleySmashAOM tries to find more flammable equipment.  \n54:30 Cameraman takes a bag from the pile.  \n55:00 A man in a brown leather coat tries to add more flammable material to the pile.  \n56:03 MediaCartWheelerAOM tosses a media cart",
     "suspectTags": [
       "Individual4",
       "MrMunsterAOM",
@@ -48030,6 +48350,43 @@
     }
   },
   {
+    "_id": "Q7qegb8ywh3A",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "Vandalism"
+    ],
+    "rationale": "MediaCartWheeler seen in this footage at 26:51 corresponds with 56:03 in DLive Zykotic live stream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). This section of video is continuous.",
+    "realTimeEnd": "2021-01-06T22:01:00.000Z",
+    "realTimeStart": "2021-01-06T21:52:00.000Z",
+    "summary": "Michigan Constitutional Crusader. At the scene of the MediaSmash.  \n19:23 Filmer climbs onto a wall, good aerial view of the MediaSmash. ImGabeBrownPB in the center of the circle. BostonWhiteBeanAOM attacks equipment. PinkBeret at the center of the screen.  \n19:43 StringyPlaid begins to break things. GadsdenPouch jabs at equipment with his flag pole. HarleySmashAOM seen breaking things. DirtyPhoneCallerAOM steals a microphone. DenimDumperAOM dumps out a bag of equipment.  \n20:27 MrMunsterAOM enters the circle of people. StringyPlaid continues to break stuff.  \n21:20 PeterHarding seen at the top of the circle of people, shakes hands with a man in a red sweatshirt.  \n21:53 People saying \"light it up\". MaroonBinocularBoy banging stuff. PeterHarding joins in. MrMunsterAOM heard saying \"we are here for a fucking revolution!\"  \n25:00 Crowd is beginning to disperse.  \n26:51 MediaCartWheeler throws a media cart onto the pile.  \n27:32 Individual4 seen in the background crossing from right of screen to left, apparently talking on his phone. Apparently leaves the scene.  \n27:46 A man in a neon orange vest begins to speak via a bullhorn. \"This is the real deal ladies and gentlemen.\"   \n28:09 ImGabeBrownPB pontificating. \"Their legacy is dead!\"  \n28:40 MrMunsterAOM exits the scene from the bottom of the frame.  \n29:50 Filmer steps down off the wall to get a different vantage point. Zooms into the pile of equipment and talks about it. ImGabeBrownPB and the man in orange in the middle of his frame.  \n31:55 Men in crowd and ImGabeBrownPB saying \"we are at war!\"  \n32:08 HarleySmashAOM breaking more equipment. Filmer says it says \"Fox New\" on it.  \n32:51 A man in cargo pants enters the scene and tries again to break a cart, he slams a camera onto the pile. ImGabeBrownPB is right there filming him. HarleySmashAOM steps right in front of the camera.   \n34:00 People suddenly begin to exit the area to the South.  \n34:30 HarleySmashAOM exits the area, flashes the white power symbol as he leaves.",
+    "suspectTags": [
+      "BostonWhiteBeanAOM",
+      "ImGabeBrownPB",
+      "PinkBeret",
+      "GadsdenPouch",
+      "StringyPlaid",
+      "DirtyPhoneCallerAOM",
+      "MrMunsterAOM",
+      "DenimDumperAOM",
+      "HarleySmashAOM",
+      "PeterHarding",
+      "MaroonBinocularBoy"
+    ],
+    "videoEndTimepoint": 2070,
+    "videoStartTimepoint": 1110,
+    "videoUrl": "https://youtu.be/rnGXNnHQfms",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "rnGXNnHQfms",
+      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
+    }
+  },
+  {
     "_id": "WdEocVD8AtnE",
     "location": {
       "lat": 38.8909252,
@@ -48039,48 +48396,20 @@
     "otherTags": [
       "MediaSmash"
     ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
+    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). Note there is an edit in this clip, so the end time is estimated to be later than the elapsed 3 minutes of video.",
     "realTimeEnd": "2021-01-06T21:55:00.000Z",
     "realTimeStart": "2021-01-06T21:52:00.000Z",
-    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nFootage of the assault on the media in the NE Press Area.",
+    "summary": "Into the Belly of the Beast by Sarah Corriher.   \nFootage of the assault on the media in the NE Press Area. Footage begins when crowd starts to gather at the press area. Crowd heard chanting CNN Sucks. View is from behind the crowd, so perpetrators of vandalism are not directly visible.",
     "suspectTags": [
-      "HarleySmashAOM",
-      "StringyPlaid",
-      "BostonWhiteBeanAOM"
+      "StringyPlaid"
     ],
-    "videoEndTimepoint": 1873,
+    "videoEndTimepoint": 1838,
     "videoStartTimepoint": 1722,
     "videoUrl": "https://youtu.be/tjXEtxdOpNA",
     "videoDetails": {
       "type": "youtube",
       "videoId": "tjXEtxdOpNA",
       "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
-    "_id": "XSqrnSMBgtIk",
-    "location": {
-      "lat": 38.89079170270381,
-      "lng": -77.00783548479666
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:52:00.000Z",
-    "realTimeStart": "2021-01-06T21:52:00.000Z",
-    "summary": "Individual4 Vandalizing Press Equipment.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 228,
-    "videoStartTimepoint": 207,
-    "videoUrl": "https://youtu.be/9i0G7bJVPvE",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "9i0G7bJVPvE",
-      "thumbnailUrl": "https://img.youtube.com/vi/9i0G7bJVPvE/default.jpg"
     }
   },
   {
@@ -48103,6 +48432,40 @@
     "videoUrl": "https://www.facebook.com/watch/live/?v=3047962525477215&ref=watch_permalink"
   },
   {
+    "_id": "sdZmpbmlIt2k",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "Violence",
+      "MediaSmash"
+    ],
+    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
+    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "realTimeStart": "2021-01-06T21:52:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nRioters harrassing media in the NE Lawn Media Pen. They throw barricades at them. Toss the equipment.  \n10:21 Individual4 throws a camera at the ground  \n10:39 PinkBeret standing calmly near the pile of equipment. Individuals continue to break things and pour water on the equipment.  \n10:47 BostonWhiteBeanAOM breaking things, StringyPlaid right in front of him. ImGabeBrownPB behind him. DirtyPhoneCallerAOM yelling \"Fuck CNN\" into a stolen microphone.  \n11:01 DenimDumperAOM tossing a bag of equipment.  \n11:11 HarleySmashAOM smashing a media light on the ground.",
+    "suspectTags": [
+      "Individual4",
+      "PinkBeret",
+      "DirtyPhoneCallerAOM",
+      "StringyPlaid",
+      "BostonWhiteBeanAOM",
+      "ImGabeBrownPB",
+      "DenimDumperAOM",
+      "HarleySmashAOM"
+    ],
+    "videoEndTimepoint": 683,
+    "videoStartTimepoint": 592,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "wJtXNsn50scA",
     "location": {
       "lat": 38.8909252,
@@ -48114,12 +48477,22 @@
       "Violence",
       "MediaSmash"
     ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "rationale": "Timestamp Calculation: Individual4 seen at 0:22 is also seen picking up a camera at 0:16 in this footage which is estimated to begin at 4:53 pm <https://youtu.be/9i0G7bJVPvE>  \n  \nThere are a few brief cuts in this clip. End point is estimated based on a man's laugh heard at 1:57 which can also be heard at 49:22 in Zykotic (MrMunsterAOM)'s live stream.",
+    "realTimeEnd": "2021-01-06T21:55:00.000Z",
     "realTimeStart": "2021-01-06T21:52:00.000Z",
-    "summary": "Destruction of AP media equipment (protestors thought it was CNN equipment)",
+    "summary": "Freedomnews.TV Instagram footage. Destruction of AP media equipment (protestors thought it was CNN equipment).  \n0:22 Individual4 violently throws a camera stand to the side, picks up a camera and tosses it to the ground.   \n0:46 Brief cut. PinkBeret to the left of the media equipment. A man pours water on the equipment.  \n0:55 Brief cut. BostonWhiteBeanAOM and ImGabeBrownPB destroying equipment. DirtyPhoneCallerAOM and PinkBeret in the background.  \n1:11 StringyPlaid starts breaking stuff. GadsdenPouch stabs at equipment with his flag pole. HarleySmashAOM busts up equipment, DenimDumperAOM dumps out a bag. CamoMediaSmash in the background.  \n2:07 MrMunsterAOM mock reporting to the left",
     "suspectTags": [
-      "Individual4"
+      "Individual4",
+      "StringyPlaid",
+      "PinkBeret",
+      "BostonWhiteBeanAOM",
+      "ImGabeBrownPB",
+      "DirtyPhoneCallerAOM",
+      "GadsdenPouch",
+      "DenimDumperAOM",
+      "HarleySmashAOM",
+      "CamoMediaSmash",
+      "MrMunsterAOM"
     ],
     "videoEndTimepoint": 127,
     "videoStartTimepoint": 0,
@@ -48127,32 +48500,6 @@
     "videoDetails": {
       "type": "instagram",
       "videoId": "CJuhDdIp1ss"
-    }
-  },
-  {
-    "_id": "-DkK9jdiAgAY",
-    "location": {
-      "lat": 38.89070193234612,
-      "lng": -77.00770271545966
-    },
-    "locationName": "Capitol Grounds East:\n  SE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T22:01:00.000Z",
-    "realTimeStart": "2021-01-06T21:53:00.000Z",
-    "summary": "Individual4 looting from a stolen case, walking around and talking on his phone.",
-    "suspectTags": [
-      "Individual4"
-    ],
-    "videoEndTimepoint": 1694,
-    "videoStartTimepoint": 1170,
-    "videoUrl": "https://youtu.be/rnGXNnHQfms",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "rnGXNnHQfms",
-      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
     }
   },
   {
@@ -48178,6 +48525,238 @@
       "type": "facebook",
       "profileId": "hyperbolefxbg",
       "videoId": "3047962525477215"
+    }
+  },
+  {
+    "_id": "JiIZ-OsqUhsk",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash"
+    ],
+    "rationale": "Indiviudual4 seen at 0:08 in this video is also seen at 0:27 in <https://youtu.be/9i0G7bJVPvE,> which has been estimated to begin at 4:53 pm.",
+    "realTimeEnd": "2021-01-06T21:55:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "Crowd gathers, smashes media equipment outside Capitol  \n0:08 Individual4 forcefully grabs a reporter's camera, vandalizes press equipment.  \n0:40 StringyPlaid vandalizing eqipment. GasdenPouch jabbing at equipment with a stick. PinkBeret to the left of the pile. ImGabeBrown walks into frame, filming on his phone.  \n0:48 Individual4 putting on his glove to the left of the filmer.  \n1:32 WildDog in the crowd, next to PinkBeret. StringyPlaid continues to tear equipment out of the cases.",
+    "suspectTags": [
+      "Individual4",
+      "ImGabeBrownPB",
+      "PinkBeret",
+      "WildDog",
+      "DirtyPhoneCallerAOM"
+    ],
+    "videoEndTimepoint": 123,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/xjkA8irS_vc",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "xjkA8irS_vc",
+      "thumbnailUrl": "https://img.youtube.com/vi/xjkA8irS_vc/default.jpg"
+    }
+  },
+  {
+    "_id": "NjMwg9mO0lqI",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "PossibleDuplicate",
+      "Vandalism"
+    ],
+    "rationale": "Timestamp Calculation: Individual4 seen at 0:22 is also seen picking up a camera at 0:16 in this footage which is estimated to begin at 4:53 pm <https://youtu.be/9i0G7bJVPvE>",
+    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "The beginning of the MediaSmash. (Duplicate of this YouTube video: <https://youtu.be/o9h9O3SqW8g)>  \n0:05 DenimDumperAOM batting at media lights with a flag pole. CamCrusher and another man pushing over media equipment.  \n0:22 Individual4 in the background picks up a camera. StringyPlaid can be seen to his right.  \n0:38 StringyPlaid pushes over the last standing media light.  \n0:45 HarleySmashAOM pushes over a camera. StringyPlaid, GadsdenPouch, and a group of 6-8 men kicking and breaking equipment.  \n1:04 PinkBeret steps into frame. DenimDumperAOM kicking equipment.",
+    "suspectTags": [
+      "DenimDumperAOM",
+      "StringyPlaid",
+      "Individual4",
+      "PinkBeret",
+      "HarleySmashAOM",
+      "GadsdenPouch",
+      "CamCrusher"
+    ],
+    "videoEndTimepoint": 74,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346939312647118849",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346939312647118849"
+    }
+  },
+  {
+    "_id": "XSqrnSMBgtIk",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "Vandalism"
+    ],
+    "rationale": "Timestamp Calculation: Man's laugh heard at 2:32 which can also be heard at 49:22 in DLive Zykotic live stream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). This footage is continuous.",
+    "realTimeEnd": "2021-01-06T22:02:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "Nigrotime on YouTube  \n0:10 HarleySmashAOM right by the barricade as others push it down. Individual4 can be seen to the right in the background of the video.  \n0:16 Individual4 picks up a camera and violently throws it to the ground. HarleySmashAOM crosses his path.  \n0:27 Individual4 attempts to grab a camera from a reporter, and seems to threaten him.  \n1:03 View of the media smashing. PinkBeret seen to the left. GadsdenPouch and StringyPlaid to the right. A man in a black puffer vest pours water on equipment.  \n1:19 DirtyPhoneCallerAOM picks up a phone and pretends to talk on it, then grabs a microphone.  \n1:34 BostonBeanAOM, StringyPlaid, and ImGabeBrownPB to the left.  \n1:48 GaddenPouch jabbing at equipment with his flag pole.  \n1:57 HarleySmashAOM and StringyPlaid breaking stuff.  \n2:03 DenimDumperAOM dumps out a bag of equipment.  \n2:32 MrMunsterAOM seen entering from the left, man's laugh heard as he tells his \"breaking news\" joke. StringyPlaid continues to break stuff. MrMunsterAOM talks to ImGabeBrownPB.  \n3:32 PeterHarding enters the seen behind ImGabeBrownPB  \n3:56 A woman says \"light it up.\" PeterHarding joins breaking of stuff. MaroonBinocularBoy in the foreground breaking equipment.  \n4:30 HarleySmashAOM hoists a camera up and violently slams it at the ground. MrMunsterAOM hands PeterHarding a lighter.  \n4:47 PeterHarding begins to try to light the equipment on fire. He achieves some flames at 5:27.  \n6:00 CamoMediaSmash lifts a media case as if to throw it. PeterHarding gives up on lighting equipment on fire. People continue to throw stuff onto the pile. A man in a camel colored trench coat seems to be picking up some stuff and pocketing it.",
+    "suspectTags": [
+      "Individual4",
+      "HarleySmashAOM",
+      "GadsdenPouch",
+      "StringyPlaid",
+      "PinkBeret",
+      "DirtyPhoneCallerAOM",
+      "DenimDumperAOM",
+      "ImGabeBrownPB",
+      "MrMunsterAOM",
+      "PeterHarding",
+      "MaroonBinocularBoy",
+      "CamoMediaSmash"
+    ],
+    "videoEndTimepoint": 558,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/9i0G7bJVPvE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "9i0G7bJVPvE",
+      "thumbnailUrl": "https://img.youtube.com/vi/9i0G7bJVPvE/default.jpg"
+    }
+  },
+  {
+    "_id": "YG7XsBEJ8mTY",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "PossibleDuplicate",
+      "Vandalism"
+    ],
+    "rationale": "Timestamp Calculation: Individual4 seen at 0:22 is also seen picking up a camera at 0:16 in this footage which is estimated to begin at 4:53 pm <https://youtu.be/9i0G7bJVPvE>",
+    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "The beginning of the MediaSmash. (Duplciate video of Twitter post by Julio_Rosas11 <https://twitter.com/Julio_Rosas11/status/1346939312647118849> and this YouTube video <https://youtu.be/o9h9O3SqW8g)>  \n0:05 DenimDumperAOM batting at media lights with a flag pole. CamCrusher and another man pushing over media equipment.  \n0:22 Individual4 in the background picks up a camera. StringyPlaid can be seen to his right.  \n0:38 StringyPlaid pushes over the last standing media light.  \n0:45 HarleySmashAOM pushes over a camera. StringyPlaid, GadsdenPouch, and a group of 6-8 men kicking and breaking equipment.  \n1:04 PinkBeret steps into frame. DenimDumperAOM kicking equipment.",
+    "suspectTags": [
+      "DenimDumperAOM",
+      "StringyPlaid",
+      "Individual4",
+      "PinkBeret",
+      "HarleySmashAOM",
+      "GadsdenPouch",
+      "CamCrusher"
+    ],
+    "videoEndTimepoint": 74,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://drive.google.com/file/d/1y6psFl_42JySMVfn1jCAOJMR8R7xujoe",
+    "videoDetails": {
+      "type": "googleDrive",
+      "driveFileId": "1y6psFl_42JySMVfn1jCAOJMR8R7xujoe"
+    }
+  },
+  {
+    "_id": "Z0nmuPi88tA0",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "PossibleDuplicate",
+      "Vandalism"
+    ],
+    "rationale": "Timestamp Calculation: Individual4 seen at 0:22 is also seen picking up a camera at 0:16 in this footage which is estimated to begin at 4:53 pm <https://youtu.be/9i0G7bJVPvE>",
+    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "The beginning of the MediaSmash. (Duplciate video of Twitter post by Julio_Rosas11 <https://twitter.com/Julio_Rosas11/status/1346939312647118849> and this YouTube video <https://youtu.be/o9h9O3SqW8g)>  \n0:05 DenimDumperAOM batting at media lights with a flag pole. CamCrusher and another man pushing over media equipment.  \n0:22 Individual4 in the background picks up a camera. StringyPlaid can be seen to his right.  \n0:38 StringyPlaid pushes over the last standing media light.  \n0:45 HarleySmashAOM pushes over a camera. StringyPlaid, GadsdenPouch, and a group of 6-8 men kicking and breaking equipment.  \n1:04 PinkBeret steps into frame. DenimDumperAOM kicking equipment.",
+    "suspectTags": [
+      "DenimDumperAOM",
+      "StringyPlaid",
+      "Individual4",
+      "PinkBeret",
+      "HarleySmashAOM",
+      "GadsdenPouch",
+      "CamCrusher"
+    ],
+    "videoEndTimepoint": 74,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/o9h9O3SqW8g",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "o9h9O3SqW8g",
+      "thumbnailUrl": "https://img.youtube.com/vi/o9h9O3SqW8g/default.jpg"
+    }
+  },
+  {
+    "_id": "le0h02jjss2M",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "Vandalism"
+    ],
+    "rationale": "Media Smash time estimated, same moments seen in DLive Zykotic live stream at roughly 49 minutes. Source live stream has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
+    "realTimeEnd": "2021-01-06T21:55:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "StringyPlaid, DirtyPhoneCallerAOM seen breaking equipment. DenimDumperAOM dumps out a bag. HarleySmashAOM breaking stuff. PinkBeret in the background. MrMunsterAOM enters about a minute into the video.",
+    "suspectTags": [
+      "StringyPlaid",
+      "DirtyPhoneCallerAOM",
+      "DenimDumperAOM",
+      "ImGabeBrownPB",
+      "HarleySmashAOM",
+      "PinkBeret",
+      "MrMunsterAOM"
+    ],
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://www.instagram.com/tv/CJuXIz7B-wV",
+    "videoDetails": {
+      "type": "instagram",
+      "videoId": "CJuXIz7B-wV"
+    }
+  },
+  {
+    "_id": "rFIylEoq0oD0",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "Vandalism"
+    ],
+    "rationale": "Twitter post at 5:08 pm. Same moment is seen in DLive Zykotic livestream at 47:54. (Zyotic's \"woo\" and his voice can be heard in this Twitter clip.) (Timestamp source: <https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4>. Timestamp source is calculated based on alignment with a Parler video.)",
+    "realTimeEnd": "2021-01-06T21:54:00.000Z",
+    "realTimeStart": "2021-01-06T21:53:00.000Z",
+    "summary": "Mob of Trump supporters swarm the media near the US Capitol. They yell what Trump frequently says, “the media is the enemy of the people.” They destroy equipment and chased out reporters. DirtyPhoneCallerAOM takes a microphone, PinkBeret seen in the foreground. GadsdenPouch and DenimDumperAOM in the background. ImGabeBrownPB and StringyPlaid destroying equipment. WildDog also seen in the crowd.",
+    "suspectTags": [
+      "MrMunsterAOM",
+      "DirtyPhoneCallerAOM",
+      "PinkBeret",
+      "DenimDumperAOM",
+      "GadsdenPouch",
+      "ImGabeBrownPB",
+      "WildDog",
+      "StringyPlaid"
+    ],
+    "videoEndTimepoint": 60,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/shomaristone/status/1346941715895250949",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346941715895250949"
     }
   },
   {
@@ -48289,32 +48868,6 @@
     "videoUrl": "https://www.facebook.com/watch/live/?v=3047962525477215&ref=watch_permalink"
   },
   {
-    "_id": "_oqM3MaS8sVg",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "This video has multiple, brief cuts. All times are estimates. Real EST time calculation is not possible.  \n  \n10:06 roughly coordinates with <https://pbs.twimg.com/media/ErFLQmkWMAMTWFu?format=jpg&name=large> which is timestamped at 5:03 pm",
-    "realTimeEnd": "2021-01-06T22:05:00.000Z",
-    "realTimeStart": "2021-01-06T21:55:00.000Z",
-    "summary": "6:29: Rioters are harassing members of the press, who are still present in the Media pen  \n8:10: More rioters are converging on the media pen  \n8:17: First piece of equipment smashed  \n8:40: Cut  \n8:48: Cut  \n8:57: Cut  \n9:20: Cut, can finally see inside the media pen, big pile of equipment and an Orange Neon with a bullhorn  \n10:06: #PinkBeret at left  \n11:08: Man in green hat and flag scarf smashes equipment cart into the pile  \n11:42: Cut  \n12:05: Rioters toss barricades on top of the pile of media equipment",
-    "suspectTags": [
-      "PinkBeret"
-    ],
-    "videoEndTimepoint": 702,
-    "videoStartTimepoint": 368,
-    "videoUrl": "https://youtu.be/34gwzOJF1kA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "34gwzOJF1kA",
-      "thumbnailUrl": "https://img.youtube.com/vi/34gwzOJF1kA/default.jpg"
-    }
-  },
-  {
     "_id": "d8DocP2jogHs",
     "location": {
       "lat": 38.8898126,
@@ -48338,29 +48891,6 @@
       "type": "youtube",
       "videoId": "x33Vtedw5hU",
       "thumbnailUrl": "https://img.youtube.com/vi/x33Vtedw5hU/default.jpg"
-    }
-  },
-  {
-    "_id": "rFIylEoq0oD0",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "Twitter post at 5:08 pm. Media Smash time estimated, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:56:00.000Z",
-    "realTimeStart": "2021-01-06T21:55:00.000Z",
-    "summary": "Mob of Trump supporters swarm the media near the US Capitol. They yell what Trump frequently says, “the media is the enemy of the people.” They destroy equipment and chased out reporters.",
-    "suspectTags": [],
-    "videoEndTimepoint": 60,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/shomaristone/status/1346941715895250949",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346941715895250949"
     }
   },
   {
@@ -48397,9 +48927,10 @@
     },
     "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
     "otherTags": [
-      "MediaSmash"
+      "MediaSmash",
+      "Vandalism"
     ],
-    "rationale": "Timestamp calculation: 11:15 in this footage aligns with 52:22 (4:56 pm) in the DLive Zykotic livestream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
+    "rationale": "Timestamp calculation: 11:15 in this footage aligns with 52:22 (4:56 pm) in the DLive Zykotic live stream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
     "realTimeEnd": "2021-01-06T21:57:00.000Z",
     "realTimeStart": "2021-01-06T21:56:00.000Z",
     "summary": "A Reporter’s Footage from Inside the Capitol Siege | The New Yorker  \nPeople trashing media equipment in the NE Lawn Media Pen  \n11:15 HarleySmashAOM and StringyPlaid. A crowd is around the destroyed equipment, including MrMunsterAOM. PeterHarding trying to light pile of equipment on fire.  \n11:47 PinkBeret conferring with two associates. She goes to the pile with one to collect a stick.",
@@ -48466,6 +48997,33 @@
     }
   },
   {
+    "_id": "9QMjfpXaUlxw",
+    "location": {
+      "lat": 38.8909252,
+      "lng": -77.0078413
+    },
+    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
+    "otherTags": [
+      "MediaSmash",
+      "Vandalism"
+    ],
+    "rationale": "Twitter post at 5:17 pm. This clip correlates with 31:55 (4:58 pm) in <https://youtu.be/rnGXNnHQfms>.",
+    "realTimeEnd": "2021-01-06T21:58:00.000Z",
+    "realTimeStart": "2021-01-06T21:58:00.000Z",
+    "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. A crowd around a pile of media equipment. ImGabeBrownPB says “We are at war. We're coming for bodies.”",
+    "suspectTags": [
+      "PinkBeret",
+      "ImGabeBrownPB"
+    ],
+    "videoEndTimepoint": 33,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://twitter.com/ellievhall/status/1346944103074979843",
+    "videoDetails": {
+      "type": "tweet",
+      "tweetId": "1346944103074979843"
+    }
+  },
+  {
     "_id": "EsaXVBg4cl2U",
     "otherTags": [],
     "realTimeEnd": "2021-01-06T21:58:00.000Z",
@@ -48481,29 +49039,6 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1353001083799564291"
-    }
-  },
-  {
-    "_id": "NjMwg9mO0lqI",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "MediaSmash"
-    ],
-    "rationale": "Time taken from Tweet. Media Smash began at 4:50 pm, seen in DLive Zykotic livestream at 46:45 (4:52 pm) (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)",
-    "realTimeEnd": "2021-01-06T21:59:00.000Z",
-    "realTimeStart": "2021-01-06T21:58:00.000Z",
-    "summary": "Twitter thread by Julio_Rosas11. People seen smashing media equipment and pouring water on it.",
-    "suspectTags": [],
-    "videoEndTimepoint": 74,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://twitter.com/Julio_Rosas11/status/1346939312647118849",
-    "videoDetails": {
-      "type": "tweet",
-      "tweetId": "1346939312647118849"
     }
   },
   {
@@ -48572,6 +49107,28 @@
     }
   },
   {
+    "_id": "AilScJOCUmu8",
+    "location": {
+      "lat": 38.89004,
+      "lng": -77.01041
+    },
+    "locationName": "Capitol Exterior West:\n  NW Plaza",
+    "otherTags": [],
+    "rationale": "Time is estimated. Likely just before police begin to clear the Lower West Terrace.",
+    "realTimeEnd": "2021-01-06T22:00:00.000Z",
+    "realTimeStart": "2021-01-06T22:00:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nView of a many waving a flag from the NW Scaffold. Woman's voice heard on a megaphone \"are you ready to fight?\" People are still seen on the Lower West Terrace.",
+    "suspectTags": [],
+    "videoEndTimepoint": 713,
+    "videoStartTimepoint": 708,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "GQ75nIKFwrkg",
     "location": {
       "lat": 38.88969,
@@ -48608,7 +49165,7 @@
     "otherTags": [
       "MediaSmash"
     ],
-    "rationale": "Twitter Post is at 5:03 pm. MediaSmash begins at 4:52 pm according to DLive Zykotic livestream (See 46:45 in <https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4)>",
+    "rationale": "Twitter Post is at 5:03 pm. This image roughly aligns with 8:18 in <https://youtu.be/9i0G7bJVPvE,> which would make the time 5:00 pm.",
     "realTimeStart": "2021-01-06T22:00:00.000Z",
     "summary": "Twitter thread by BuzzFeedNews reporter Ellie Hall. Photo of a pile of media equipment as the crowd looks on.",
     "suspectTags": [
@@ -48637,29 +49194,6 @@
     "videoDetails": {
       "type": "megavideo",
       "videoId": "T9cCHbrK"
-    }
-  },
-  {
-    "_id": "YYgDIBUsUnxU",
-    "location": {
-      "lat": 38.8909252,
-      "lng": -77.0078413
-    },
-    "locationName": "Capitol Grounds East:\n  NE Lawn Media Pen",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "rationale": "Approximate time based on MrMunsterAOM Livestream",
-    "realTimeEnd": "2021-01-06T22:02:00.000Z",
-    "realTimeStart": "2021-01-06T22:00:00.000Z",
-    "suspectTags": [],
-    "videoEndTimepoint": 1837,
-    "videoStartTimepoint": 1708,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -48729,6 +49263,31 @@
       "type": "facebook",
       "profileId": "calvin.johnson.5264",
       "videoId": "158546989382131"
+    }
+  },
+  {
+    "_id": "cNODqLKs0o8U",
+    "location": {
+      "lat": 38.89054433230116,
+      "lng": -77.00793470123878
+    },
+    "locationName": "Capitol Exterior East:\n  NE Plaza",
+    "otherTags": [],
+    "rationale": "MediaCartWheeler seen in this footage at 26:51 corresponds with 56:03 in DLive Zykotic livestream which has been time-synched to flash bangs in Parler video xk6W7U04wAeQ (https://capitol-hill-riots.s3.us-east-1.wasabisys.com/Dlive/Zykotik/DC%20Rally%21%20%5B%241%20tts%5D%20%C2%B7%20DLive%20-%20nXPI0TaMR.mp4). This section of video is continuous.",
+    "realTimeEnd": "2021-01-06T22:05:00.000Z",
+    "realTimeStart": "2021-01-06T22:01:00.000Z",
+    "summary": "Michigan Constitutional Crusader. Follows the crowd toward the East Plaza. CaesarNoSalad spotted. People have gathered around a news anchor. He seems to be someone the crowd respects. People move along quickly. Filmer discusses the situation with some other streamers. They wander around the East Plaza briefly. A few news crews remain.",
+    "suspectTags": [
+      "CaesarNoSalad",
+      "GadsdenPouch"
+    ],
+    "videoEndTimepoint": 2318,
+    "videoStartTimepoint": 2070,
+    "videoUrl": "https://youtu.be/rnGXNnHQfms",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "rnGXNnHQfms",
+      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
     }
   },
   {
@@ -48844,6 +49403,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/BbZw5Xms6z3W_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "fPKgro_lArr8",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "Flashbang first used on the Lower West Terrace at 5:03 pm according to RSBN Live Stream (https://youtu.be/vTXOkcwYxvE)",
+    "realTimeEnd": "2021-01-06T22:03:00.000Z",
+    "realTimeStart": "2021-01-06T22:03:00.000Z",
+    "summary": "FNTV - FreedomNewsTV   \nLooking up at the West side of the Capitol from the West Lawn. Flashbang seen in the arched tunnel at 11:56. People leaving. A man stands on the wall telling people about Donald Trump's tweet \"about 25 minutes ago\".",
+    "suspectTags": [],
+    "videoEndTimepoint": 747,
+    "videoStartTimepoint": 714,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -49713,6 +50294,50 @@
     }
   },
   {
+    "_id": "bSCaJ6XM0rFA",
+    "location": {
+      "lat": 38.8886424,
+      "lng": -77.005937
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St SE",
+    "otherTags": [],
+    "rationale": "Estimated to be about 5 minutes after this filmer's previous clip.",
+    "realTimeEnd": "2021-01-06T22:17:00.000Z",
+    "realTimeStart": "2021-01-06T22:10:00.000Z",
+    "summary": "Michigan Constitutional Crusader. It is evening. There are police cars lined up on the street. At 40:35 filmer claims that they are working on a suspcious package where they are standing.",
+    "suspectTags": [],
+    "videoEndTimepoint": 2746,
+    "videoStartTimepoint": 2318,
+    "videoUrl": "https://youtu.be/rnGXNnHQfms",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "rnGXNnHQfms",
+      "thumbnailUrl": "https://img.youtube.com/vi/rnGXNnHQfms/default.jpg"
+    }
+  },
+  {
+    "_id": "wtqQifaqQjAo",
+    "location": {
+      "lat": 38.8898486,
+      "lng": -77.0114368
+    },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
+    "otherTags": [],
+    "rationale": "Time is estimated. Police have cleared the Lower West Terrace.",
+    "realTimeEnd": "2021-01-06T22:10:00.000Z",
+    "realTimeStart": "2021-01-06T22:10:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nA woman who is distraught is being led away. Brief view of the West Plaza. Police have cleared the Lower West Terrace.",
+    "suspectTags": [],
+    "videoEndTimepoint": 703,
+    "videoStartTimepoint": 683,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
+    }
+  },
+  {
     "_id": "xPKVO-KtooLE",
     "location": {
       "lat": 38.8906071,
@@ -50233,6 +50858,28 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/i7PnrbCEXg6R_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "leYsS3WqwjgQ",
+    "location": {
+      "lat": 38.8903503,
+      "lng": -77.011189
+    },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "otherTags": [],
+    "rationale": "Officers seen clearing people from Pennsylvnaia Avenue at 5:15 pm according to RSBN Live Stream (https://youtu.be/vTXOkcwYxvE)",
+    "realTimeEnd": "2021-01-06T22:20:00.000Z",
+    "realTimeStart": "2021-01-06T22:15:00.000Z",
+    "summary": "FNTV - FreedomNewsTV  \nOfficers push people down the Pennsylvania Walkway. A view from behind police lines.",
+    "suspectTags": [],
+    "videoEndTimepoint": 806,
+    "videoStartTimepoint": 747,
+    "videoUrl": "https://youtu.be/WmV_7W4em5A",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "WmV_7W4em5A",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
   },
   {
@@ -53359,26 +54006,6 @@
     }
   },
   {
-    "_id": "B2tM6fRqUpoA",
-    "location": {
-      "lat": 38.8923571,
-      "lng": -77.0400281
-    },
-    "locationName": "Unknown:\n  Unknown Street",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 297,
-    "videoStartTimepoint": 184,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "BBvkWxHPsl3o",
     "location": {
       "lat": 38.893953962652,
@@ -55024,26 +55651,6 @@
     }
   },
   {
-    "_id": "PLtRjId1si3I",
-    "location": {
-      "lat": 38.8908019,
-      "lng": -77.0088724
-    },
-    "locationName": "Capitol Exterior North:\n  North Doors",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 1349,
-    "videoStartTimepoint": 854,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "PMVXue5WUnZ8",
     "location": {
       "lat": 38.8900686,
@@ -55125,27 +55732,6 @@
       "type": "youtube",
       "videoId": "kppGiBhKTio",
       "thumbnailUrl": "https://img.youtube.com/vi/kppGiBhKTio/default.jpg"
-    }
-  },
-  {
-    "_id": "PdNIAAAD4goM",
-    "location": {
-      "lat": 38.8905596,
-      "lng": -77.009988
-    },
-    "locationName": "Capitol Grounds West:\n  NW Lawn",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "summary": "Very high quality footage of multiple locations throughout the day, 15th, Wash Mon, lots of coverage of NW lawn, NW terrace, and N side.",
-    "suspectTags": [],
-    "videoEndTimepoint": 692,
-    "videoStartTimepoint": 600,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -55397,26 +55983,6 @@
     "videoDetails": {
       "type": "tweet",
       "tweetId": "1346935445066805248"
-    }
-  },
-  {
-    "_id": "RBV9r1MgYnJ8",
-    "location": {
-      "lat": 38.889811,
-      "lng": -77.0096544
-    },
-    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 1560,
-    "videoStartTimepoint": 1349,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -55813,26 +56379,6 @@
     ]
   },
   {
-    "_id": "V3AXvAtpMoaE",
-    "location": {
-      "lat": 38.8918004,
-      "lng": -77.0164897
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 372,
-    "videoStartTimepoint": 297,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "VkCbA4z7AlZ8",
     "location": {
       "lat": 38.8898124,
@@ -56180,28 +56726,6 @@
       "type": "youtube",
       "videoId": "8Vh8wPeo6Jk",
       "thumbnailUrl": "https://img.youtube.com/vi/8Vh8wPeo6Jk/default.jpg"
-    }
-  },
-  {
-    "_id": "YAsloaBzQjMk",
-    "location": {
-      "lat": 38.890868668550446,
-      "lng": -77.0089859163991
-    },
-    "locationName": "Capitol Exterior North:\n  North Terrace",
-    "otherTags": [],
-    "summary": "Heavily edited footage of the North Terrace that exclude all of the violence that occurred there.",
-    "suspectTags": [
-      "BigBrickPitcher",
-      "BarrierCarrier"
-    ],
-    "videoEndTimepoint": 854,
-    "videoStartTimepoint": 728,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
     }
   },
   {
@@ -57348,26 +57872,6 @@
     }
   },
   {
-    "_id": "hXotgZj2UkwI",
-    "location": {
-      "lat": 38.8894473623761,
-      "lng": -77.0352722232227
-    },
-    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 184,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "hdU5vLfFctIw",
     "location": {
       "lat": 38.9013441,
@@ -57465,26 +57969,6 @@
     "suspectTags": [
       "SleevelessRedTattoos"
     ]
-  },
-  {
-    "_id": "isLyioRGUj4Q",
-    "location": {
-      "lat": 38.8908629,
-      "lng": -77.0089819
-    },
-    "locationName": "Capitol Exterior North:\n  North Terrace",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 1611,
-    "videoStartTimepoint": 1560,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
   },
   {
     "_id": "iwEBZQOHgnuE",
@@ -58163,27 +58647,6 @@
     }
   },
   {
-    "_id": "o49uGzfykjKY",
-    "location": {
-      "lat": 38.8906613,
-      "lng": -77.0105001
-    },
-    "locationName": "Capitol Grounds West:\n  NW Path",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "rationale": "At the 7:25 mark, the #CapitolFlagCalledFreedom can be seen draped across the back of the NW Scaffold. Thus the time is after 2:53pm. Per: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
-    "suspectTags": [],
-    "videoEndTimepoint": 600,
-    "videoStartTimepoint": 560,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "o85pWRgRUiEU",
     "location": {
       "lat": 38.89176,
@@ -58804,47 +59267,6 @@
     }
   },
   {
-    "_id": "tnWfMNKYMsvs",
-    "location": {
-      "lat": 38.8926666,
-      "lng": -77.0120333
-    },
-    "locationName": "Unknown:\n  Unknown",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 1873,
-    "videoStartTimepoint": 1837,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
-    "_id": "tq_hDj-zoiPA",
-    "location": {
-      "lat": 38.8906071,
-      "lng": -77.0109611
-    },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "rationale": "At the 7:25 mark, the #CapitolFlagCalledFreedom can be seen draped across the back of the NW Scaffold. Thus the time is after 2:53pm. Per: <https://docs.google.com/document/d/1aoUBFlERClHrNOoufBMiC7p0M15PrvyjM371sIG02Jw/edit?usp=sharing>",
-    "suspectTags": [],
-    "videoEndTimepoint": 560,
-    "videoStartTimepoint": 439,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
-  },
-  {
     "_id": "uab3jVg2UkRY",
     "location": {
       "lat": 38.8902337,
@@ -59378,25 +59800,5 @@
       "CommanderBlueHoodie",
       "CommanderCamo"
     ]
-  },
-  {
-    "_id": "ztJsoRSDwqEc",
-    "location": {
-      "lat": 38.891164210228,
-      "lng": -77.0092144456451
-    },
-    "locationName": "Capitol Grounds North:\n  North Lawn",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
-    "suspectTags": [],
-    "videoEndTimepoint": 728,
-    "videoStartTimepoint": 692,
-    "videoUrl": "https://youtu.be/tjXEtxdOpNA",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "tjXEtxdOpNA",
-      "thumbnailUrl": "https://img.youtube.com/vi/tjXEtxdOpNA/default.jpg"
-    }
   }
 ]
