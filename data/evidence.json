@@ -3313,13 +3313,14 @@
       "lat": 38.8923,
       "lng": -77.053
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 10:14:59",
     "realTimeEnd": "2021-01-06T15:00:00.000Z",
     "realTimeStart": "2021-01-06T15:00:00.000Z",
-    "summary": "Parler video MgMiCd8EjrVH",
+    "summary": "Footage from inside a bus of rally goers on the road near the mall",
     "suspectTags": [],
     "videoEndTimepoint": 24,
     "videoStartTimepoint": 0,
@@ -3405,13 +3406,14 @@
       "lat": 38.8894,
       "lng": -77.0403
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T15:04:00.000Z",
+    "realTimeEnd": "2021-01-06T15:02:00.000Z",
     "realTimeStart": "2021-01-06T15:02:00.000Z",
-    "summary": "Parler video akVq8hns9Ekq",
+    "summary": "At WWII memorial, weird scene of guy singing national anthem in middle of fountain",
     "suspectTags": [],
     "videoEndTimepoint": 119,
     "videoStartTimepoint": 0,
@@ -3595,13 +3597,14 @@
       "lat": 38.8895,
       "lng": -77.0349
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T15:09:00.000Z",
     "realTimeStart": "2021-01-06T15:09:00.000Z",
-    "summary": "Parler video Y7d0hySnClTl",
+    "summary": "View from Wash Mon of people nearby and looks along Mall towards Capitol",
     "suspectTags": [],
     "videoEndTimepoint": 28,
     "videoStartTimepoint": 0,
@@ -5035,13 +5038,14 @@
       "lat": 38.8919,
       "lng": -77.0364
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T15:57:00.000Z",
+    "realTimeEnd": "2021-01-06T15:54:00.000Z",
     "realTimeStart": "2021-01-06T15:54:00.000Z",
-    "summary": "Parler video BInzNTtug9A8",
+    "summary": "Sideways footage of big screen TV at rally  \n1:58 Giuliani takes the stage",
     "suspectTags": [],
     "videoEndTimepoint": 168,
     "videoStartTimepoint": 0,
@@ -5636,13 +5640,14 @@
       "lat": 38.8894,
       "lng": -77.024
     },
+    "locationName": "Off Capitol Grounds (DC):\n  3rd St SW",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T16:07:00.000Z",
+    "realTimeEnd": "2021-01-06T16:06:00.000Z",
     "realTimeStart": "2021-01-06T16:06:00.000Z",
-    "summary": "Parler video VYWo9y4A00do",
+    "summary": "Super close up selfie video on Mall, not much other value",
     "suspectTags": [],
     "videoEndTimepoint": 48,
     "videoStartTimepoint": 0,
@@ -5934,13 +5939,14 @@
       "lat": 38.8917,
       "lng": -77.0395
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-08 12:22:11",
-    "realTimeEnd": "2021-01-06T16:15:00.000Z",
+    "realTimeEnd": "2021-01-06T16:14:00.000Z",
     "realTimeStart": "2021-01-06T16:14:00.000Z",
-    "summary": "Parler video ZEmep69Mt7pq",
+    "summary": "View of Wash Mon, mounted police, 17th st on Mall",
     "suspectTags": [],
     "videoEndTimepoint": 65,
     "videoStartTimepoint": 0,
@@ -7141,13 +7147,14 @@
       "lat": 38.8941,
       "lng": -77.0066
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T16:34:00.000Z",
+    "realTimeEnd": "2021-01-06T16:33:00.000Z",
     "realTimeStart": "2021-01-06T16:33:00.000Z",
-    "summary": "Parler video FPX4J9n7LjeK",
+    "summary": "Coverage of Blacks for Trump.",
     "suspectTags": [],
     "videoEndTimepoint": 33,
     "videoStartTimepoint": 0,
@@ -7512,13 +7519,14 @@
       "lat": 38.8934,
       "lng": -77.0369
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 19:03:58",
-    "realTimeEnd": "2021-01-06T16:45:00.000Z",
+    "realTimeEnd": "2021-01-06T16:44:00.000Z",
     "realTimeStart": "2021-01-06T16:44:00.000Z",
-    "summary": "Parler video F2W6OmWVy8b4",
+    "summary": "Rally, VIP area close to stage, selfie video with quick pan, okay quality",
     "suspectTags": [],
     "videoEndTimepoint": 17,
     "videoStartTimepoint": 0,
@@ -13427,7 +13435,9 @@
     "realTimeStart": "2021-01-06T17:59:00.000Z",
     "summary": "#Individual4 in the crowd, chanting with arm up.",
     "suspectTags": [
-      "Individual4"
+      "Individual4",
+      "AZSkeletorPB",
+      "HatHag"
     ],
     "videoEndTimepoint": 26,
     "videoStartTimepoint": 25,
@@ -14651,13 +14661,14 @@
       "lat": 38.8918,
       "lng": -77.0355
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T18:11:00.000Z",
+    "realTimeEnd": "2021-01-06T18:10:00.000Z",
     "realTimeStart": "2021-01-06T18:10:00.000Z",
-    "summary": "Parler video 27RdbSgSj64v",
+    "summary": "Rally, just as Trump finishes speaking, people start heading east, good quality.",
     "suspectTags": [],
     "videoEndTimepoint": 92,
     "videoStartTimepoint": 0,
@@ -14739,13 +14750,14 @@
       "lat": 38.892,
       "lng": -77.0363
     },
+    "locationName": "Off Capitol Grounds (DC):\n  The Ellipse",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T18:11:00.000Z",
     "realTimeStart": "2021-01-06T18:11:00.000Z",
-    "summary": "Parler video jmTwoZT1bv04",
+    "summary": "Rally, shaky footage among crowd, some face vis",
     "suspectTags": [],
     "videoEndTimepoint": 18,
     "videoStartTimepoint": 0,
@@ -15030,29 +15042,6 @@
     "videoDetails": {
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/tIdRNahpGUtR_cvt.mp4",
-      "contentType": "video/mp4"
-    }
-  },
-  {
-    "_id": "xs_He_e08sEU",
-    "location": {
-      "lat": 38.8919,
-      "lng": -77.0365
-    },
-    "otherTags": [
-      "ParlerVideo"
-    ],
-    "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 13:14:11",
-    "realTimeEnd": "2021-01-06T18:14:00.000Z",
-    "realTimeStart": "2021-01-06T18:13:00.000Z",
-    "summary": "Parler video C0iVFlxMD0xd",
-    "suspectTags": [],
-    "videoEndTimepoint": 43,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/C0iVFlxMD0xd_cvt.mp4",
-    "videoDetails": {
-      "type": "directLink",
-      "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/C0iVFlxMD0xd_cvt.mp4",
       "contentType": "video/mp4"
     }
   },
@@ -15415,13 +15404,14 @@
       "lat": 38.8921,
       "lng": -77.0385
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T18:16:00.000Z",
     "realTimeStart": "2021-01-06T18:16:00.000Z",
-    "summary": "Parler video AsI5A9nNiP28",
+    "summary": "Rally crowd heading west",
     "suspectTags": [],
     "videoEndTimepoint": 28,
     "videoStartTimepoint": 0,
@@ -16513,13 +16503,14 @@
       "lat": 38.89,
       "lng": -77.0116
     },
+    "locationName": "Capitol Grounds West:\n  West Lawn",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T18:21:00.000Z",
     "realTimeStart": "2021-01-06T18:21:00.000Z",
-    "summary": "Parler video 0m53Jfe0nCjK  \n  \nPlease note that the video declares \"President Trump is here at the Capitol building with us. We saw the motorcade. Shit is about to get real.\"",
+    "summary": "View from West Lawn, pan of mall, colorful narration, poor face vis  \n\"they're deploying flash bangs on us\"  \n\"these people are pissed\"  \n\"President Trump is here at the Capitol building with us. We saw the motorcade. Shit is about to get real.\"",
     "suspectTags": [],
     "videoEndTimepoint": 32,
     "videoStartTimepoint": 0,
@@ -16846,14 +16837,17 @@
       "lat": 38.89,
       "lng": -77.0104
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T18:25:00.000Z",
+    "realTimeEnd": "2021-01-06T18:24:00.000Z",
     "realTimeStart": "2021-01-06T18:24:00.000Z",
-    "summary": "Parler video EFv9XkrdDg8Q",
-    "suspectTags": [],
+    "summary": "Short clip at lower west plaza, ends with very close concussion bomb explosion  \nStarts off with middle finger directed at Capitol  \n0:03 tracksuitpb  \n0:06 incoming concussion bomb",
+    "suspectTags": [
+      "TrackSuitPB"
+    ],
     "videoEndTimepoint": 16,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/EFv9XkrdDg8Q_cvt.mp4",
@@ -17304,12 +17298,14 @@
     "locationName": "Capitol Grounds West:\n  NW Lawn Portables",
     "otherTags": [
       "SeditionComms",
-      "SeditionBodyArmor"
+      "SeditionBodyArmor",
+      "ThreePercenters",
+      "ProudBoys"
     ],
     "rationale": "Timestamp is estimated",
     "realTimeEnd": "2021-01-06T18:27:00.000Z",
     "realTimeStart": "2021-01-06T18:27:00.000Z",
-    "summary": "Shot 12  \n- Man in a brown Carhartt hat and a Snap-On jacket talks to the camera  \n- Man walks behind him with a radio on his chest. I can't make out the frequency, but this is 4K so maybe you can.  #SeditionComms  \n- Young guy with thinning hair and a gray Carhartt hoodie on the right looks familiar.  (I thought it was #ClipperGlitch but now I don't think so.)  \n- Guy with white hoodie at left at 4:16.  Turns out that that it has little patches of light blue, too.  \n- 4:20 A couple of people behind the flags have #SeditionBodyArmor  \n- 4:23 guy dressed like #WhiteHoodie has neck tattoos.  \n- 4:24 #TreasonEagleScout again.  The back of his hoodie has white writing.  Starts with a B?",
+    "summary": "Shot 12    \n- Man in a brown Carhartt hat and a Snap-On jacket talks to the camera    \n- Man walks behind him with a radio on his chest. I can't make out the frequency, but this is 4K so maybe you can.  #SeditionComms    \n- Young guy with thinning hair and a gray Carhartt hoodie on the right looks familiar.  (I thought it was #ClipperGlitch but now I don't think so.)    \n- Guy with white hoodie at left at 4:16.  Turns out that that it has little patches of light blue, too.    \n- 4:20 A couple of people behind the flags have #SeditionBodyArmor    \n- 4:23 guy dressed like #WhiteHoodie has neck tattoos.    \n- 4:24 #TreasonEagleScout again.  The back of his hoodie has white writing.  Starts with a B?  \n4:26 threepercenter patch, proudboys patch",
     "suspectTags": [
       "SnapOnPB",
       "GasMaskTwins",
@@ -17427,12 +17423,12 @@
       "lat": 38.8902640108939,
       "lng": -77.01039465720024
     },
-    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
+    "locationName": "Capitol Grounds West:\n  PA Walkway 2nd Police Barricade",
     "otherTags": [],
     "rationale": "Just a guess based on the reasoning for Shot 12.",
     "realTimeEnd": "2021-01-06T18:28:00.000Z",
     "realTimeStart": "2021-01-06T18:28:00.000Z",
-    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 11  \n- Group of people bring someone carefully down to the ground and someone else begins to perform CPR on him.",
+    "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot    \nShot 11    \n- Group of people bring someone carefully down to the ground and someone else begins to perform CPR on him, gets carried off",
     "suspectTags": [
       "PhilipGrillo"
     ],
@@ -17971,13 +17967,14 @@
       "lat": 38.8922,
       "lng": -77.0302
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T18:31:00.000Z",
+    "realTimeEnd": "2021-01-06T18:30:00.000Z",
     "realTimeStart": "2021-01-06T18:30:00.000Z",
-    "summary": "Parler video gyU7mdAtGkbk",
+    "summary": "Marchers along Constitution between 12/14th",
     "suspectTags": [],
     "videoEndTimepoint": 43,
     "videoStartTimepoint": 0,
@@ -18280,13 +18277,14 @@
       "lat": 38.8928,
       "lng": -77.0337
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T18:32:00.000Z",
     "realTimeStart": "2021-01-06T18:32:00.000Z",
-    "summary": "Parler video vF0r7gQNd90g",
+    "summary": "Another angle of girls singing in front of DOJ",
     "suspectTags": [],
     "videoEndTimepoint": 8,
     "videoStartTimepoint": 0,
@@ -18968,14 +18966,18 @@
       "lat": 38.8922,
       "lng": -77.0176
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "AmericaFirst"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T18:36:00.000Z",
+    "realTimeEnd": "2021-01-06T18:35:00.000Z",
     "realTimeStart": "2021-01-06T18:35:00.000Z",
-    "summary": "Parler video BQQyPL9LxpLz",
-    "suspectTags": [],
+    "summary": "Shaky selfie video with marchers on Constitution at 4th  \n0:15 America First flag seen  \n0:26 #iamalexjones and entourage  \n0:44 \"dude i grew up watching this fucking guy here\"  \n0:50 \"alex this is your revolution\"",
+    "suspectTags": [
+      "IAmAlexJones"
+    ],
     "videoEndTimepoint": 94,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/BQQyPL9LxpLz_cvt.mp4",
@@ -19920,13 +19922,14 @@
       "lat": 38.8899,
       "lng": -77.0104
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T18:45:00.000Z",
+    "realTimeEnd": "2021-01-06T18:44:00.000Z",
     "realTimeStart": "2021-01-06T18:44:00.000Z",
-    "summary": "Parler video A8Jiah39MrVY",
+    "summary": "Up front at west plaza barricade  \nGuy in white cap is later seen on 1st st showing off pepper spray",
     "suspectTags": [],
     "videoEndTimepoint": 14,
     "videoStartTimepoint": 0,
@@ -23562,13 +23565,14 @@
       "lat": 38.8901,
       "lng": -77.0087
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T19:08:00.000Z",
+    "realTimeEnd": "2021-01-06T19:06:00.000Z",
     "realTimeStart": "2021-01-06T19:06:00.000Z",
-    "summary": "Parler video sNSIvKezD8qU",
+    "summary": "Good quality from N steps looking over NE courtyard.   \n0:47 Hunter Ehmke breaks window",
     "suspectTags": [],
     "videoEndTimepoint": 139,
     "videoStartTimepoint": 0,
@@ -23818,14 +23822,17 @@
       "lat": 38.8901,
       "lng": -77.0087
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 22:54:08",
-    "realTimeEnd": "2021-01-06T19:08:00.000Z",
+    "realTimeEnd": "2021-01-06T19:06:00.000Z",
     "realTimeStart": "2021-01-06T19:06:00.000Z",
-    "summary": "Parler video wd3geYW1nvRL",
-    "suspectTags": [],
+    "summary": "#HunterEhmke breaking a window on east side of Capitol north of steps, USCP not having it",
+    "suspectTags": [
+      "HunterEhmke"
+    ],
     "videoEndTimepoint": 93,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/wd3geYW1nvRL_cvt.mp4",
@@ -24259,13 +24266,14 @@
       "lat": 38.8896,
       "lng": -77.0105
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T19:10:00.000Z",
+    "realTimeEnd": "2021-01-06T19:09:00.000Z",
     "realTimeStart": "2021-01-06T19:09:00.000Z",
-    "summary": "Parler video JhXxhl6veRlW",
+    "summary": "High quality footage of police pushing rioters out of upper west plaza",
     "suspectTags": [],
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
@@ -24577,13 +24585,14 @@
       "lat": 38.8901,
       "lng": -77.0103
     },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
     "otherTags": [
-      "ParlerVideo"
+      "ProudBoys"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:11:00.000Z",
     "realTimeStart": "2021-01-06T19:10:00.000Z",
-    "summary": "Parler video 4z3SiPE3gdYo",
+    "summary": "Good quality of many people ascending under NW scaffold  \n0:10 orange tape on helmet / tape rolls, tagging proudboys",
     "suspectTags": [],
     "videoEndTimepoint": 64,
     "videoStartTimepoint": 0,
@@ -24790,13 +24799,14 @@
       "lat": 38.891,
       "lng": -77.0121
     },
+    "locationName": "Off Capitol Grounds (DC):\n  1st St SE",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T19:12:00.000Z",
+    "realTimeEnd": "2021-01-06T19:11:00.000Z",
     "realTimeStart": "2021-01-06T19:11:00.000Z",
-    "summary": "Parler video nVWCCOpy84Lb",
+    "summary": "Interview with man in gray jacket showing off pepper spray residue on white MAGA cap",
     "suspectTags": [],
     "videoEndTimepoint": 23,
     "videoStartTimepoint": 0,
@@ -24930,13 +24940,14 @@
       "lat": 38.8906,
       "lng": -77.0101
     },
+    "locationName": "Capitol Grounds West:\n  NW Lawn",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:12:00.000Z",
     "realTimeStart": "2021-01-06T19:12:00.000Z",
-    "summary": "Parler video g5Yl8ERzrXxe",
+    "summary": "Selfie video of guy at NW lawn, people rushing to climb NW wall are visible",
     "suspectTags": [],
     "videoEndTimepoint": 11,
     "videoStartTimepoint": 0,
@@ -25052,13 +25063,14 @@
       "lat": 38.8912,
       "lng": -77.0114
     },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:13:00.000Z",
     "realTimeStart": "2021-01-06T19:13:00.000Z",
-    "summary": "Parler video kVSC3Z1yeZEe",
+    "summary": "NW lawn distant view of upper terrace, poor quality",
     "suspectTags": [],
     "videoEndTimepoint": 14,
     "videoStartTimepoint": 0,
@@ -25311,10 +25323,12 @@
     "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
     "otherTags": [],
     "rationale": "Filmer says that footage begins at 2:10 PM. Validated by calculating backwards from the clock on the TV in Pelosi's office. (MSNBC on screen time seen at 59:39, reading 2:59 pm). Note that visuals increasing lag behind audio as the footage progresses, making audio an unreliable marker of time.",
-    "realTimeEnd": "2021-01-06T19:16:00.000Z",
+    "realTimeEnd": "2021-01-06T19:14:00.000Z",
     "realTimeStart": "2021-01-06T19:14:00.000Z",
-    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn. Filmer climbs over the wall at the back of the Pennsylvania Lawn.",
-    "suspectTags": [],
+    "summary": "Jeremy Lee Quinn on YouTube. Uncut helmet cam footage from Stephen Horn with commentary.  \nFilmer climbs over the wall at the back of the Pennsylvania Lawn.  \n01:06:10 Rotunda  \n01:21:00 East Steps  \n01:37:50 #johnstrand",
+    "suspectTags": [
+      "JohnStrand"
+    ],
     "videoEndTimepoint": 958,
     "videoStartTimepoint": 820,
     "videoUrl": "https://youtu.be/CSF5FHIGlbg",
@@ -25330,13 +25344,15 @@
       "lat": 38.8902,
       "lng": -77.0105
     },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 2nd Police Barricade",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "AmericaFirst"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T19:15:00.000Z",
+    "realTimeEnd": "2021-01-06T19:14:00.000Z",
     "realTimeStart": "2021-01-06T19:14:00.000Z",
-    "summary": "Parler video kR4Y0kFSrb9C",
+    "summary": "Good quality pan of crowd at PA walkway 2nd barricade, America First flag seen  \n0:29 Guy in camo helmet/flag gaiter later seen at NW Ctyard, Senate floor",
     "suspectTags": [],
     "videoEndTimepoint": 40,
     "videoStartTimepoint": 0,
@@ -25788,13 +25804,14 @@
       "lat": 38.8899,
       "lng": -77.0108
     },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:18:00.000Z",
     "realTimeStart": "2021-01-06T19:16:00.000Z",
-    "summary": "Parler video zq7UIxedJaq1",
+    "summary": "Passing Peace Circle barricades and moving up PA lawn",
     "suspectTags": [],
     "videoEndTimepoint": 92,
     "videoStartTimepoint": 0,
@@ -26261,13 +26278,14 @@
       "lat": 38.8899,
       "lng": -77.0087
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:20:00.000Z",
     "realTimeStart": "2021-01-06T19:20:00.000Z",
-    "summary": "Parler video IgCQjNBok5f2",
+    "summary": "Shaky footage from Capitol steps",
     "suspectTags": [],
     "videoEndTimepoint": 24,
     "videoStartTimepoint": 0,
@@ -26575,13 +26593,14 @@
       "lat": 38.8899,
       "lng": -77.008
     },
+    "locationName": "Capitol Interior Senate Wing:\n  Senate Corridor",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-07 09:21:14",
     "realTimeEnd": "2021-01-06T19:22:00.000Z",
     "realTimeStart": "2021-01-06T19:22:00.000Z",
-    "summary": "Parler video xf5PcQJRH676",
+    "summary": "Shaman posing for photos, Mostofsky seems to feel upstaged by a leaner and flashier Shaman",
     "suspectTags": [],
     "videoEndTimepoint": 12,
     "videoStartTimepoint": 0,
@@ -27014,14 +27033,17 @@
       "lat": 38.8906,
       "lng": -77.0123
     },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo americafirst groyper"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:24:00.000Z",
     "realTimeStart": "2021-01-06T19:24:00.000Z",
-    "summary": "Parler video 7Fu9YJVZmNkj",
-    "suspectTags": [],
+    "summary": "High quality view from up on the Peace Monument, groypers, americafirst rallying",
+    "suspectTags": [
+      "IAmPhilipAnderson"
+    ],
     "videoEndTimepoint": 29,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/7Fu9YJVZmNkj_cvt.mp4",
@@ -27336,13 +27358,14 @@
       "lat": 38.8908,
       "lng": -77.0144
     },
+    "locationName": "Off Capitol Grounds (DC):\n  3rd St SW",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:25:00.000Z",
     "realTimeStart": "2021-01-06T19:25:00.000Z",
-    "summary": "Parler video XNw7AmWaby1m",
+    "summary": "View at Madison and 3rd",
     "suspectTags": [],
     "videoEndTimepoint": 14,
     "videoStartTimepoint": 0,
@@ -27805,18 +27828,14 @@
   },
   {
     "_id": "Iyh0IW7YktD4",
-    "location": {
-      "lat": 38.88956,
-      "lng": -77.01043
-    },
-    "locationName": "Capitol Exterior West:\n  SW Plaza",
     "otherTags": [],
     "rationale": "Close approximation. This shows the West Plaza breach, which occurred at 2:28pm per: <https://projects.propublica.org/parler-capitol-videos/?id=bLzjJt5EsDB8>",
     "realTimeEnd": "2021-01-06T19:28:00.000Z",
     "realTimeStart": "2021-01-06T19:28:00.000Z",
-    "summary": "People push against the police line and barricades, breaking through at the base of the Western Steps leading up to the entrance arch to the Capitol. #TunnelCommander was spotted in this video by someone 7:44-10:06",
+    "summary": "People push against the police line and barricades, breaking through at the base of the Western Steps leading up to the entrance arch to the Capitol. #TunnelCommander was spotted in this video by someone 7:44-10:06  \n  \nFrom 0:34 #IronworkerGuy pushes against the barricades.",
     "suspectTags": [
-      "TunnelCommander"
+      "TunnelCommander",
+      "IronworkerGuy"
     ],
     "videoEndTimepoint": 72,
     "videoStartTimepoint": 0,
@@ -27990,13 +28009,14 @@
       "lat": 38.8895,
       "lng": -77.0108
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:28:00.000Z",
     "realTimeStart": "2021-01-06T19:28:00.000Z",
-    "summary": "Parler video 9quKY3UvWlvg",
+    "summary": "Shaky backs of heads at lower west plaza",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -28282,13 +28302,14 @@
       "lat": 38.8904,
       "lng": -77.011
     },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:29:00.000Z",
     "realTimeStart": "2021-01-06T19:29:00.000Z",
-    "summary": "Parler video eQuAGfU87pPB",
+    "summary": "Large flag moving up PA walkway",
     "suspectTags": [],
     "videoEndTimepoint": 25,
     "videoStartTimepoint": 0,
@@ -29044,13 +29065,14 @@
       "lat": 38.8894,
       "lng": -77.0118
     },
+    "locationName": "Capitol Exterior West:\n  NW Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:31:00.000Z",
     "realTimeStart": "2021-01-06T19:31:00.000Z",
-    "summary": "Parler video 24fJYQldjZd2",
+    "summary": "View of terrace from NW steps",
     "suspectTags": [],
     "videoEndTimepoint": 12,
     "videoStartTimepoint": 0,
@@ -29632,15 +29654,18 @@
   {
     "_id": "9dt0-9VAsn0Y",
     "location": {
-      "lat": 38.8921023,
-      "lng": -77.0281362
+      "lat": 38.8906071,
+      "lng": -77.0109611
     },
-    "locationName": "Off Capitol Grounds (DC):\n  Constitution Ave",
-    "otherTags": [],
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Lawn",
+    "otherTags": [
+      "capitolflagcalledfreedom",
+      "oathkeepers"
+    ],
     "rationale": "Time estimated based on reference to curfew announcement and Interviews mentioning rioters entering Nancy Pelosi's office",
-    "realTimeEnd": "2021-01-06T19:37:00.000Z",
+    "realTimeEnd": "2021-01-06T19:35:00.000Z",
     "realTimeStart": "2021-01-06T19:35:00.000Z",
-    "summary": "Video by redpillfairy. Narrating as she walks from her hotel to the Capitol. Says that Trump supporters are storming the Capitol because Pence has said he cannot overturn the electoral college. She complains about the curfew that the DC Mayor has put into place.",
+    "summary": "Video by redpillfairy. Narrating as she walks from her hotel to the Capitol. Says that Trump supporters are storming the Capitol because Pence has said he cannot overturn the electoral college. She complains about the curfew that the DC Mayor has put into place.  \n  \n0:49 Walking south on First NW at C, enters grounds from NW  \n01:45 crossing Peace Circle barricades  \n2:08 stand-up on PA lawn  \n2:45 capitolflagcalledfreedom  \n2:50 colorful interview, if we fail, the world fails, invoke the insurrection act today  \n3:16 i am a member of the oath keepers, there are hundreds of us here, along with several other hundreds of militia  \n4:45 milling around west plaza steps, looking up at NW scaffold, man updating people, \"on the senate floor, we breached the doors, i just got word from the news that trump supporters are on the senate floor\", in nancy pelosi's office   \n7:05 going up NW steps under scaffold  \n9:00 back down NW steps  \n10:05 lower west terrace pledge of allegiance  \n15:05 stand-up with guy in pepe frog shirt, chain mail, red trump hat, wrapped in flag  \n18:00 trump message to protesters played over the crowd  \n20:20 audio-only interview with rioter  \n21:25 coverage Maryland walkway  \n22:45 another stand-up, \"this was a peaceful assembly\" blood of the person shot is on the mayor's head",
     "suspectTags": [],
     "videoEndTimepoint": 95,
     "videoStartTimepoint": 0,
@@ -29867,13 +29892,14 @@
       "lat": 38.8891,
       "lng": -77.0058
     },
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:35:00.000Z",
     "realTimeStart": "2021-01-06T19:35:00.000Z",
-    "summary": "Parler video ai8AzhEoyrGX",
+    "summary": "Up front with police blocking many rioters at the Columbus Doors",
     "suspectTags": [],
     "videoEndTimepoint": 21,
     "videoStartTimepoint": 0,
@@ -30059,10 +30085,11 @@
     "rationale": "Time is estimated. Video includes multiple brief clips. Smoke as the police exit the West Terrace estimated to occur at 2:36 per time calculations for this video <https://youtu.be/qhIN5E35dZc>.",
     "realTimeEnd": "2021-01-06T19:36:00.000Z",
     "realTimeStart": "2021-01-06T19:36:00.000Z",
-    "summary": "Chaos on Capitol Hill. A series of clips of West breach and attacks. Vantage point is from the SW Steps looking down on the West Plaza.  \n4:13 Tear gas in the upper SW corner. Officers can be seen exiting the top of the SW Temp stair to the Lower West Terrace. CapitolFlagCalledFreedom seen on the opposite side of the Plaza.",
+    "summary": "Chaos on Capitol Hill. A series of clips of West breach and attacks. Vantage point is from the SW Steps looking down on the West Plaza.  \n  \nBlackGlove805 seen picking up fire extinguisher.  \n  \n4:13 Tear gas in the upper SW corner. Officers can be seen exiting the top of the SW Temp stair to the Lower West Terrace. CapitolFlagCalledFreedom seen on the opposite side of the Plaza.",
     "suspectTags": [
       "BigMagaCamo",
-      "BaldEagle"
+      "BaldEagle",
+      "BlackGlove805"
     ],
     "videoEndTimepoint": 281,
     "videoStartTimepoint": 244,
@@ -30292,13 +30319,14 @@
       "lat": 38.8898,
       "lng": -77.0105
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:36:00.000Z",
     "realTimeStart": "2021-01-06T19:36:00.000Z",
-    "summary": "Parler video 65TvMK7dx9fy",
+    "summary": "Selfie video man in blue skulls gaiter",
     "suspectTags": [],
     "videoEndTimepoint": 7,
     "videoStartTimepoint": 0,
@@ -30615,7 +30643,7 @@
       "lat": 38.8899,
       "lng": -77.0106
     },
-    "locationName": "Capitol Exterior West:\n  West Plaza Steps",
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
@@ -31908,13 +31936,14 @@
       "lat": 38.8904,
       "lng": -77.0103
     },
+    "locationName": "Capitol Grounds West:\n  NW Lawn Storage Tent",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T19:41:00.000Z",
     "realTimeStart": "2021-01-06T19:41:00.000Z",
-    "summary": "Parler video k7KE6Yc6SkoA",
+    "summary": "At NW lawn storage tent looking at back of NW scaffold and NW steps",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -34004,7 +34033,9 @@
     "realTimeEnd": "2021-01-06T19:48:00.000Z",
     "realTimeStart": "2021-01-06T19:48:00.000Z",
     "summary": "Parler video jCFVVrYH4bSd",
-    "suspectTags": [],
+    "suspectTags": [
+      "GypsyJacketGuy"
+    ],
     "videoEndTimepoint": 14,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/jCFVVrYH4bSd_cvt.mp4",
@@ -37594,7 +37625,8 @@
     "suspectTags": [
       "RedHairLookerLady",
       "BullhornLady",
-      "GinaBisignano"
+      "GinaBisignano",
+      "OrangeGlowHead"
     ],
     "videoEndTimepoint": 25,
     "videoStartTimepoint": 0,
@@ -38948,13 +38980,14 @@
       "lat": 38.8911,
       "lng": -77.009
     },
+    "locationName": "Capitol Exterior North:\n  North Doors",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-07 17:13:13",
-    "realTimeEnd": "2021-01-06T20:12:00.000Z",
+    "realTimeEnd": "2021-01-06T20:11:00.000Z",
     "realTimeStart": "2021-01-06T20:11:00.000Z",
-    "summary": "Parler video H3xEi7VU7UMH",
+    "summary": "Rioters fighting with police for control of the north doors, losing",
     "suspectTags": [],
     "videoEndTimepoint": 80,
     "videoStartTimepoint": 0,
@@ -39350,13 +39383,14 @@
       "lat": 38.8896,
       "lng": -77.0102
     },
+    "locationName": "Capitol Exterior West:\n  SW Scaffold",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:14:00.000Z",
+    "realTimeEnd": "2021-01-06T20:13:00.000Z",
     "realTimeStart": "2021-01-06T20:13:00.000Z",
-    "summary": "Parler video P965teMlfY6l",
+    "summary": "POV is from the top of SW scaffold, literally straddling the top bar, looking over terrace and  and looking down on people heading up SW temp stairs and SW steps, excellent perspective, shows many important locations",
     "suspectTags": [],
     "videoEndTimepoint": 24,
     "videoStartTimepoint": 0,
@@ -39905,13 +39939,14 @@
       "lat": 38.8899,
       "lng": -77.0103
     },
+    "locationName": "Capitol Exterior West:\n  SW Temporary Stair",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 21:01:17",
     "realTimeEnd": "2021-01-06T20:19:00.000Z",
     "realTimeStart": "2021-01-06T20:19:00.000Z",
-    "summary": "Parler video FGl5ZhqR5Jpp",
+    "summary": "Inside SW temp stairs, looking down stairs and over terrace",
     "suspectTags": [],
     "videoEndTimepoint": 26,
     "videoStartTimepoint": 0,
@@ -40044,13 +40079,14 @@
       "lat": 38.89,
       "lng": -77.0098
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace Grandstands",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:20:00.000Z",
     "realTimeStart": "2021-01-06T20:20:00.000Z",
-    "summary": "Parler video M8YHLRH9D7gh",
+    "summary": "Quick pan under the grandstands",
     "suspectTags": [],
     "videoEndTimepoint": 13,
     "videoStartTimepoint": 0,
@@ -40249,13 +40285,14 @@
       "lat": 38.8899,
       "lng": -77.0071
     },
+    "locationName": "Capitol Interior Central:\n  East Foyer",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:22:00.000Z",
+    "realTimeEnd": "2021-01-06T20:21:00.000Z",
     "realTimeStart": "2021-01-06T20:21:00.000Z",
-    "summary": "Parler video uAKQeDMoSL0c",
+    "summary": "Good quality footage of police corralling rioters in East Foyer, \"fight for trump\" chant",
     "suspectTags": [],
     "videoEndTimepoint": 35,
     "videoStartTimepoint": 0,
@@ -40580,6 +40617,7 @@
       "lat": 38.89,
       "lng": -77.0101
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
@@ -40587,9 +40625,7 @@
     "realTimeEnd": "2021-01-06T20:23:00.000Z",
     "realTimeStart": "2021-01-06T20:23:00.000Z",
     "summary": "Parler video 650ut3VxB679",
-    "suspectTags": [
-      "TaserPrick"
-    ],
+    "suspectTags": [],
     "videoEndTimepoint": 28,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/650ut3VxB679_cvt.mp4",
@@ -40860,13 +40896,14 @@
       "lat": 38.8975,
       "lng": -77.0064
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:24:00.000Z",
     "realTimeStart": "2021-01-06T20:24:00.000Z",
-    "summary": "Parler video zRSzr6ii0I8o",
+    "summary": "Singing \"God Bless America\" at Union Station",
     "suspectTags": [],
     "videoEndTimepoint": 40,
     "videoStartTimepoint": 0,
@@ -40906,13 +40943,14 @@
       "lat": 38.89,
       "lng": -77.0103
     },
+    "locationName": "Capitol Exterior West:\n  NW Riser",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:27:00.000Z",
+    "realTimeEnd": "2021-01-06T20:25:00.000Z",
     "realTimeStart": "2021-01-06T20:25:00.000Z",
-    "summary": "Parler video apk625yMXapx",
+    "summary": "Wide view from top of NW riser of terrace and mall",
     "suspectTags": [],
     "videoEndTimepoint": 102,
     "videoStartTimepoint": 0,
@@ -40929,14 +40967,17 @@
       "lat": 38.8907,
       "lng": -77.0084
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
-      "ParlerVideo"
+      "senatefloor"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:25:00.000Z",
     "realTimeStart": "2021-01-06T20:25:00.000Z",
-    "summary": "Parler video ATHRnnmNpayv",
-    "suspectTags": [],
+    "summary": "jacobchansley on E steps. Maga goon in black jacket behind him made it to Senate floor.",
+    "suspectTags": [
+      "JacobChansley"
+    ],
     "videoEndTimepoint": 28,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/ATHRnnmNpayv_cvt.mp4",
@@ -41188,7 +41229,8 @@
     },
     "locationName": "Capitol Exterior West:\n  SW Riser",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "SeditionComms"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:29:00.000Z",
@@ -41249,13 +41291,14 @@
       "lat": 38.8901,
       "lng": -77.0099
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:31:00.000Z",
+    "realTimeEnd": "2021-01-06T20:29:00.000Z",
     "realTimeStart": "2021-01-06T20:29:00.000Z",
-    "summary": "Parler video ntz8J5eFBH6g",
+    "summary": "Police line pushing back rioters from NW ctyard at upper west terrace near top of NW steps  \nbronze trump bust guy visible",
     "suspectTags": [],
     "videoEndTimepoint": 85,
     "videoStartTimepoint": 0,
@@ -41524,13 +41567,14 @@
       "lat": 38.8899,
       "lng": -77.0101
     },
+    "locationName": "Capitol Exterior West:\n  West Plaza Stage",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:34:00.000Z",
+    "realTimeEnd": "2021-01-06T20:33:00.000Z",
     "realTimeStart": "2021-01-06T20:33:00.000Z",
-    "summary": "Parler video Rp3qrB15ypiE",
+    "summary": "Man in cowboy hat with bullhorn speaking from inaugural stage to plaza below",
     "suspectTags": [],
     "videoEndTimepoint": 76,
     "videoStartTimepoint": 0,
@@ -41641,13 +41685,14 @@
       "lat": 38.8899,
       "lng": -77.0104
     },
+    "locationName": "Capitol Exterior West:\n  NW Scaffold",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T20:35:00.000Z",
     "realTimeStart": "2021-01-06T20:35:00.000Z",
-    "summary": "Parler video 35iIAVuIAijR",
+    "summary": "View from inside NW scaffold",
     "suspectTags": [],
     "videoEndTimepoint": 7,
     "videoStartTimepoint": 0,
@@ -41853,13 +41898,14 @@
       "lat": 38.8907,
       "lng": -77.0095
     },
+    "locationName": "Capitol Exterior West:\n  Upper NW Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:41:00.000Z",
+    "realTimeEnd": "2021-01-06T20:40:00.000Z",
     "realTimeStart": "2021-01-06T20:40:00.000Z",
-    "summary": "Parler video D74suPzrQwTL",
+    "summary": "Shaky NW terrace footage",
     "suspectTags": [],
     "videoEndTimepoint": 12,
     "videoStartTimepoint": 0,
@@ -41972,13 +42018,14 @@
       "lat": 38.8898,
       "lng": -77.0083
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:42:00.000Z",
+    "realTimeEnd": "2021-01-06T20:41:00.000Z",
     "realTimeStart": "2021-01-06T20:41:00.000Z",
-    "summary": "Parler video c0nIoRasIm5z",
+    "summary": "View from bottom of Capitol steps of police in riot gear heading out, people shouting, \"we were invited by the president of the united states\"",
     "suspectTags": [],
     "videoEndTimepoint": 25,
     "videoStartTimepoint": 0,
@@ -42471,12 +42518,11 @@
       "lng": -77.01456
     },
     "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
+    "otherTags": [],
     "rationale": "Very approximate time. The two young women in this video say they already stormed the Capitol via what sounds like the NW Steps. This did not occur until 1:48pm per this timeline <https://docs.google.com/document/d/1uzKC6f9pPFQfBJM_jO-iNeFXQlZIP4ad_J4vizClENI/edit?usp=sharing>",
-    "realTimeEnd": "2021-01-06T21:18:00.000Z",
+    "realTimeEnd": "2021-01-06T20:48:00.000Z",
     "realTimeStart": "2021-01-06T20:48:00.000Z",
+    "summary": "Streamer (\"lil alice\" / \"kaliclown\") and companion (\"Haley) on camera set up at Penn and 4th, lots of westbound protesters visible in background  \npoor quality stream throughout, plus these two are dumb as rocks  \n  \n1:00 one shows face (later referred to as \"haley\")  \n2:50 \"i was right on the police line\", climbed up scaffolding, tear gas, people fucked up by cops  \n9:30 \"haley\"  \n12:00 streamer shows face  \n12:48 more face vis  \n13:25 \"if you want to buy us dinner, donate to my cashapp\"  \n15:01 shows phone w twitter account  \n18:30 begin heading eastbound on Penn, walking against crowd",
     "suspectTags": [],
     "videoEndTimepoint": 1464,
     "videoStartTimepoint": 1092,
@@ -42492,14 +42538,17 @@
       "lat": 38.8899,
       "lng": -77.01
     },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:49:00.000Z",
+    "realTimeEnd": "2021-01-06T20:48:00.000Z",
     "realTimeStart": "2021-01-06T20:48:00.000Z",
-    "summary": "Parler video 0lmypbT9naSL",
-    "suspectTags": [],
+    "summary": "View of people around left of tunnel window",
+    "suspectTags": [
+      "GinaBisignano"
+    ],
     "videoEndTimepoint": 27,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/0lmypbT9naSL_cvt.mp4",
@@ -42555,13 +42604,14 @@
       "lat": 38.89,
       "lng": -77.0106
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:49:00.000Z",
+    "realTimeEnd": "2021-01-06T20:48:00.000Z",
     "realTimeStart": "2021-01-06T20:48:00.000Z",
-    "summary": "Parler video mMG01UJganoD",
+    "summary": "Barriers aka bike racks used as ladders, man encouraging bystanders, \"ladders open\", asian-american statue of liberty lady again",
     "suspectTags": [],
     "videoEndTimepoint": 51,
     "videoStartTimepoint": 0,
@@ -42713,9 +42763,9 @@
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:52:00.000Z",
+    "realTimeEnd": "2021-01-06T20:51:00.000Z",
     "realTimeStart": "2021-01-06T20:51:00.000Z",
-    "summary": "Parler video X1mc2UButF8U",
+    "summary": "Parler video X1mc2UButF8U. Man in video says: \"They're pepper spraying. People are going crazy. Its absolutely insane. Unbelieveable\"",
     "suspectTags": [],
     "videoEndTimepoint": 8,
     "videoStartTimepoint": 0,
@@ -42910,13 +42960,15 @@
       "lat": 38.8901,
       "lng": -77.0082
     },
+    "locationName": "Capitol Grounds East:\n  NE Courtyard",
     "otherTags": [
-      "ParlerVideo"
+      "ParlerVideo",
+      "ThreePercenters"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:53:00.000Z",
+    "realTimeEnd": "2021-01-06T20:52:00.000Z",
     "realTimeStart": "2021-01-06T20:52:00.000Z",
-    "summary": "Parler video 29cZegQUocJb",
+    "summary": "Selfie video of man with three percenter patch at NE ctyard, \"the tear gas was real, that ain't no shit\"",
     "suspectTags": [],
     "videoEndTimepoint": 15,
     "videoStartTimepoint": 0,
@@ -42986,7 +43038,7 @@
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 19:21:10",
     "realTimeEnd": "2021-01-06T20:52:00.000Z",
     "realTimeStart": "2021-01-06T20:52:00.000Z",
-    "summary": "Parler video oVATX1R86Rcj",
+    "summary": "Crowd is coordinating at tunnel entrance push, \"heave ho\"",
     "suspectTags": [],
     "videoEndTimepoint": 26,
     "videoStartTimepoint": 0,
@@ -43124,13 +43176,14 @@
       "lat": 38.89,
       "lng": -77.0106
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:55:00.000Z",
+    "realTimeEnd": "2021-01-06T20:53:00.000Z",
     "realTimeStart": "2021-01-06T20:53:00.000Z",
-    "summary": "Parler video hgQYuqIrZTls",
+    "summary": "lower west plaza scene, statue of liberty lady rebuffs advances, photo ops",
     "suspectTags": [],
     "videoEndTimepoint": 70,
     "videoStartTimepoint": 0,
@@ -43251,13 +43304,14 @@
       "lat": 38.8986,
       "lng": -77.0074
     },
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:57:00.000Z",
+    "realTimeEnd": "2021-01-06T20:55:00.000Z",
     "realTimeStart": "2021-01-06T20:55:00.000Z",
-    "summary": "Parler video aQ7YeQ31lz32",
+    "summary": "On First St NE just outside Union Station, Asian-Americans being interviewed about what they saw at the Capitol, describe men climbing walls, firecrackers, one girl got shot  \n  \n1:23 \"my understanding is that they walked right in, it was not a dramatic breach per se\"",
     "suspectTags": [],
     "videoEndTimepoint": 111,
     "videoStartTimepoint": 0,
@@ -43461,13 +43515,14 @@
       "lat": 38.8899,
       "lng": -77.01
     },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-06 16:11:41",
-    "realTimeEnd": "2021-01-06T20:58:00.000Z",
+    "realTimeEnd": "2021-01-06T20:57:00.000Z",
     "realTimeStart": "2021-01-06T20:57:00.000Z",
-    "summary": "Parler video w0LzlCqerE1N",
+    "summary": "Good perspective on tunnel entrance push, can hear people nearby chatting as flagpoles are thrown in tunnel, \"fuck joe biden\"",
     "suspectTags": [],
     "videoEndTimepoint": 25,
     "videoStartTimepoint": 0,
@@ -43484,13 +43539,14 @@
       "lat": 38.8896,
       "lng": -77.0101
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T20:58:00.000Z",
+    "realTimeEnd": "2021-01-06T20:57:00.000Z",
     "realTimeStart": "2021-01-06T20:57:00.000Z",
-    "summary": "Parler video niJAyVlPCRZJ",
+    "summary": "Wide view from top of SW platform",
     "suspectTags": [],
     "videoEndTimepoint": 43,
     "videoStartTimepoint": 0,
@@ -43986,13 +44042,14 @@
       "lat": 38.8901,
       "lng": -77.0099
     },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T21:00:00.000Z",
     "realTimeStart": "2021-01-06T21:00:00.000Z",
-    "summary": "Parler video 50XYMR09ys3v",
+    "summary": "View from NW riser during pledge of allegiance",
     "suspectTags": [],
     "videoEndTimepoint": 27,
     "videoStartTimepoint": 0,
@@ -44241,13 +44298,14 @@
       "lat": 38.8892,
       "lng": -77.0095
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T21:15:00.000Z",
+    "realTimeEnd": "2021-01-06T21:03:00.000Z",
     "realTimeStart": "2021-01-06T21:03:00.000Z",
-    "summary": "Parler video EjkHpFX9ATgp",
+    "summary": "Good quality of tussle on police lines at Upper West Terrace, retreating down NW steps  \npeople yelling at police, \"we defend you\" \"you took an oath\"  \nbronze trump bust guy  \n06:35 people start pushing back  \n08:00 tear gas deployed, rioters retreat down NW steps",
     "suspectTags": [],
     "videoEndTimepoint": 735,
     "videoStartTimepoint": 0,
@@ -44428,14 +44486,18 @@
       "lat": 38.8898,
       "lng": -77.0081
     },
+    "locationName": "Capitol Exterior East:\n  Central East Steps",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T21:05:00.000Z",
     "realTimeStart": "2021-01-06T21:04:00.000Z",
-    "summary": "Parler video WvNy0mY8LFTq",
-    "suspectTags": [],
+    "summary": "Melee involving wooden cane on capitol steps, individual4, shaman present",
+    "suspectTags": [
+      "Individual4",
+      "JacobChansley"
+    ],
     "videoEndTimepoint": 50,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/WvNy0mY8LFTq_cvt.mp4",
@@ -44764,13 +44826,14 @@
       "lat": 38.8905,
       "lng": -77.0118
     },
+    "locationName": "Capitol Grounds West:\n  Pennsylvania Walkway",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T21:11:00.000Z",
+    "realTimeEnd": "2021-01-06T21:09:00.000Z",
     "realTimeStart": "2021-01-06T21:09:00.000Z",
-    "summary": "Parler video DIPqf1K2PJba",
+    "summary": "Bottom of PA walkway, Jesus Saves sign guy engages crowd, extended dialogue in Spanish  \n0:02 Colorfully dressed red white blue lades",
     "suspectTags": [],
     "videoEndTimepoint": 90,
     "videoStartTimepoint": 0,
@@ -45438,10 +45501,13 @@
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T21:17:00.000Z",
+    "realTimeEnd": "2021-01-06T21:16:00.000Z",
     "realTimeStart": "2021-01-06T21:16:00.000Z",
     "summary": "Parler video 0261f0TEn46K",
-    "suspectTags": [],
+    "suspectTags": [
+      "KingstonAsh",
+      "MississippiFlagGuy"
+    ],
     "videoEndTimepoint": 47,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/0261f0TEn46K_cvt.mp4",
@@ -45926,13 +45992,14 @@
       "lat": 38.8898,
       "lng": -77.0103
     },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T21:26:00.000Z",
+    "realTimeEnd": "2021-01-06T21:25:00.000Z",
     "realTimeStart": "2021-01-06T21:25:00.000Z",
-    "summary": "Parler video U10ndi3PaWJm",
+    "summary": "Selfie video from west plaza steps, brief pan of surroundings",
     "suspectTags": [],
     "videoEndTimepoint": 41,
     "videoStartTimepoint": 0,
@@ -46065,11 +46132,18 @@
   {
     "_id": "Hquuwy75kq6k",
     "imageUrl": "https://static01.nyt.com/images/2021/01/15/video/vid15-capitol-trampling-top-new/vid15-capitol-trampling-top-new-superJumbo.jpg?quality=90&auto=webp",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
+    "realTimeEnd": "2021-01-06T21:26:00.000Z",
     "realTimeStart": "2021-01-06T21:26:00.000Z",
-    "summary": "being extracted from tunnel after being trapped",
+    "summary": "Quality photo of tunnel entrance violence, man seen on ground  \nbeing extracted from tunnel after being trapped",
     "suspectTags": [
-      "WhiteDeathHoodie"
+      "WhiteDeathHoodie",
+      "BaldEagle"
     ]
   },
   {
@@ -46408,13 +46482,12 @@
       "lat": 38.8899,
       "lng": -77.0099
     },
-    "otherTags": [
-      "ParlerVideo"
-    ],
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T21:28:00.000Z",
+    "realTimeEnd": "2021-01-06T21:27:00.000Z",
     "realTimeStart": "2021-01-06T21:27:00.000Z",
-    "summary": "Parler video kiBnNejo0JW0",
+    "summary": "Good quality very close to tunnel entrance violence",
     "suspectTags": [],
     "videoEndTimepoint": 48,
     "videoStartTimepoint": 0,
@@ -46828,12 +46901,12 @@
       "lat": 38.8898,
       "lng": -77.00401
     },
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
+    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "otherTags": [],
     "rationale": "Very approximate. Light is waning and East Plaza clearing, but there are still people on the Central East Steps. Those were clear by 5:04 per Parler RBdMuuOchqsh  -- <https://twitter.com/search?q=RBdMuuOchqsh&src=typed_query>",
-    "realTimeEnd": "2021-01-06T21:32:00.000Z",
+    "realTimeEnd": "2021-01-06T21:30:00.000Z",
     "realTimeStart": "2021-01-06T21:30:00.000Z",
+    "summary": "Smooth footage from a guy on a bike riding around DC during the riots  \n2:00 Enters East Plaza  \n5:30 Leaves East Plaza, heads NE  \n8:00 Maryland near Supreme Court",
     "suspectTags": [],
     "videoEndTimepoint": 100,
     "videoStartTimepoint": 0,
@@ -47562,13 +47635,14 @@
       "lat": 38.8908,
       "lng": -77.009
     },
+    "locationName": "Capitol Exterior North:\n  North Terrace",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
     "realTimeEnd": "2021-01-06T21:34:00.000Z",
     "realTimeStart": "2021-01-06T21:34:00.000Z",
-    "summary": "Parler video xSgtD3jz8mUZ",
+    "summary": "In the middle of police pushing back rioters at N terrace",
     "suspectTags": [],
     "videoEndTimepoint": 40,
     "videoStartTimepoint": 0,
@@ -48578,14 +48652,19 @@
       "lat": 38.8898,
       "lng": -77.0099
     },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from jan6attack.com. Note that @kcimc's metadata differs, reporting 2021-01-08 14:57:25",
-    "realTimeEnd": "2021-01-06T21:47:00.000Z",
+    "realTimeEnd": "2021-01-06T21:46:00.000Z",
     "realTimeStart": "2021-01-06T21:46:00.000Z",
     "summary": "Parler video VSBG3TilomZ3",
-    "suspectTags": [],
+    "suspectTags": [
+      "OrangeHoodieRedHat",
+      "GinaBisignano",
+      "FullCamoKneePads"
+    ],
     "videoEndTimepoint": 29,
     "videoStartTimepoint": 0,
     "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/VSBG3TilomZ3_cvt.mp4",
@@ -50221,13 +50300,14 @@
       "lat": 38.8874,
       "lng": -77.0153
     },
+    "locationName": "Off Capitol Grounds (DC):\n  3rd St SW",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T22:04:00.000Z",
+    "realTimeEnd": "2021-01-06T22:03:00.000Z",
     "realTimeStart": "2021-01-06T22:03:00.000Z",
-    "summary": "Parler video BbZw5Xms6z3W",
+    "summary": "Amateur street interview with Ron C from Michigan, claims to be a disabled vet, he saw guys with helmets and bulletproof vests at the Capitol, breaking windows, police let them in, all a set up, Fox News should be ashamed. At the ice cream truck on 3rd St Sw at Independence (I've seen other footage from here).",
     "suspectTags": [],
     "videoEndTimepoint": 47,
     "videoStartTimepoint": 0,
@@ -50292,18 +50372,20 @@
     },
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
-      "Violence"
+      "Violence",
+      "SeditionBat"
     ],
-    "realTimeEnd": "2021-01-06T22:04:00.000Z",
+    "realTimeEnd": "2021-01-06T22:03:00.000Z",
     "realTimeStart": "2021-01-06T22:03:00.000Z",
-    "summary": "Brief video showing what appears to to be the last moments of the tunnel fight. People throwing objects at the police. Caption in Turkish says, roughly: \"Guys, I'm fine, thank you, everyone who texted. My phone wasn't picking up, so he just came to.\"   \n0:18 PinStripeBoilerSuit throws pylon at officers.  \n1:00 PinStripeBoilerSuit strikes officers with a club multiple times  \n1:03 yellow smoke emerges from the tunnel. Flash bangs and tear gas are shot from the tunnel.   \n1:35 WindowCheerleader climbs in window  \nVideo ends with people fleeing down the SW Temp Stair.",
+    "summary": "Brief video showing what appears to to be the last moments of the tunnel fight. Multiple people throwing objects at LEOs (pilon, flag poles, speaker, lamp). Caption in Turkish says, roughly: \"Guys, I'm fine, thank you, everyone who texted. My phone wasn't picking up, so he just came to.\"     \n0:00-0:18 Scuffle with LEO and guy in plaid b&w jacket on (what appears to be West Scaffold platform)  \n0:18 Tunnel scene. PinStripeBoilerSuit throws pylon at officers.    \n1:00 PinStripeBoilerSuit strikes officers with a club multiple times    \n0:35 and on multiple perps throw objects at LEOs (pilon 2x, lamp post, flag poles...)  \n1:03 yellow smoke emerges from tunnel. Flash bangs and tear gas are shot from the tunnel.     \n1:35 WindowCheerleader climbs in window    \nVideo ends with people fleeing down the SW Temp Stair.",
     "suspectTags": [
       "PrideHorn",
       "PinStripeBoilerSuit",
       "OrangeHoodieRedHat",
       "PippiLongScarf",
       "WindowCheerleader",
-      "CryBeardBrawler"
+      "CryBeardBrawler",
+      "FlagGaiterCopHater"
     ],
     "videoEndTimepoint": 113,
     "videoStartTimepoint": 0,
@@ -52178,13 +52260,14 @@
       "lat": 38.8895,
       "lng": -77.0117
     },
+    "locationName": "Capitol Grounds West:\n  PA Walkway 2nd Police Barricade",
     "otherTags": [
       "ParlerVideo"
     ],
     "rationale": "Timestamp from @kcimc's metadata",
-    "realTimeEnd": "2021-01-06T22:28:00.000Z",
+    "realTimeEnd": "2021-01-06T22:27:00.000Z",
     "realTimeStart": "2021-01-06T22:27:00.000Z",
-    "summary": "Parler video ACa0xxSznKol",
+    "summary": "Dark shaky footage of police action near PA 2nd barricade",
     "suspectTags": [],
     "videoEndTimepoint": 63,
     "videoStartTimepoint": 0,
@@ -52842,6 +52925,7 @@
       "lat": 38.88753,
       "lng": -77.01545
     },
+    "locationName": "Off Capitol Grounds (DC):\n  3rd St SW",
     "otherTags": [
       "NeedsSummaryAndTags"
     ],
@@ -54133,11 +54217,20 @@
   {
     "_id": "1dNPTjLyUsOA",
     "imageUrl": "https://www.gettyimages.com.au/detail/video/trump-supporters-outside-the-u-s-capitol-hill-building-news-footage/1295311606?adppopup=true",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [
       "Violence"
     ],
     "summary": "Sightings: #BullhornLady, At the opening, someone is hitting the police line with a metal bat. Starting at 0:25 you can see #WalkerTexasFascist with #Scallops gripping his hood, emerging to come down the steps. #GinaBisignano on the megaphone. At 1:07, someone in a leather jacket puts on an MPDC helmet near #PomPomOnlooker, and celebrates by hoisting a riot shield.",
-    "suspectTags": []
+    "suspectTags": [
+      "BullhornLady",
+      "WalkerTexasFascist",
+      "Scallops"
+    ]
   },
   {
     "_id": "1jmS_OVGshag",
@@ -54381,6 +54474,11 @@
   {
     "_id": "3OxtLDsF8uV4",
     "imageUrl": "https://www.alamy.com/washington-dc-united-states-6th-jan-2021-police-use-tear-gas-around-capitol-building-where-pro-trump-supporters-riot-and-breached-the-capitol-in-washington-dc-on-january-6-2021-rioters-broke-windows-and-breached-the-capitol-building-in-an-attempt-to-overthrow-the-results-of-the-2020-election-police-used-buttons-and-tear-gas-grenades-to-eventually-disperse-the-crowd-rioters-used-metal-bars-and-tear-gas-as-well-against-the-police-photo-by-lev-radinsipa-usa-credit-sipa-usaalamy-live-news-image396843731.html?pv=1&stamp=2&imageid=BD52006C-72B9-453C-A5AE-43C06CBE18C2&p=1219465&n=2&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3Dwashington%2520riot%26qt_raw%3Dwashington%2520riot%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D20210106%26dtto%3D20210106%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26filters%3D1",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "summary": "confronting police",
     "suspectTags": [
@@ -55147,8 +55245,13 @@
   {
     "_id": "AfDU0X0JElXs",
     "imageUrl": "https://www.alamy.com/washington-dc-united-states-6th-jan-2021-protesters-seen-all-over-capitol-building-where-pro-trump-supporters-riot-and-breached-the-capitol-in-washington-dc-on-january-6-2021-rioters-broke-windows-and-breached-the-capitol-building-in-an-attempt-to-overthrow-the-results-of-the-2020-election-police-used-buttons-and-tear-gas-grenades-to-eventually-disperse-the-crowd-rioters-used-metal-bars-and-tear-gas-as-well-against-the-police-photo-by-lev-radinsipa-usa-credit-sipa-usaalamy-live-news-image396843741.html?pv=1&stamp=2&imageid=421BC9FB-2031-4BDE-813E-2E7664DC30E5&p=1219465&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dwashington%2520riot%26qt_raw%3dwashington%2520riot%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d20210106%26dtto%3d20210106%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "summary": "fixing his shoe",
+    "summary": "Quality still photo of crowd around tunnel entrance, left of tunnel window, and upper terrace ledge  \nWindowCheerleader fixing his shoe at left of tunnel window",
     "suspectTags": [
       "WindowCheerleader"
     ]
@@ -55291,7 +55394,11 @@
       "TunnelCommander",
       "GreenNewsboy",
       "StripesGuy",
-      "TaserGuy"
+      "TaserGuy",
+      "HellishHansen",
+      "PippiLongScarf",
+      "PlaidBearSpray",
+      "CapitolWig"
     ],
     "videoEndTimepoint": 225,
     "videoStartTimepoint": 0,
@@ -56186,13 +56293,16 @@
   {
     "_id": "JogBy2Vski88",
     "location": {
-      "lat": 38.8926666,
-      "lng": -77.0120333
+      "lat": 38.8898126,
+      "lng": -77.0103012
     },
-    "locationName": "Unknown:\n  Unknown",
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
     "otherTags": [],
-    "summary": "Early Breaches  -- (status coup) Breaking... Trump supporters breach barriers and storm the Capitol.",
-    "suspectTags": [],
+    "summary": "status coup) Breaking... Trump supporters breach barriers and storm the Capitol.  \ngood quality, west side, PA walkway, upper west plaza, many perps in here  \n  \n0:00-4:00 around 1st St SW/west lawn border fencing  \n0:04:45 looking right over NWScaffoldCommander 's shoulder,  \n0:08:30 camera heading over to PA walkway, right during push at 1st PA walkway (this might pair well with the ABQ RAW pa walkway footage), individual4 visible  \n0:09:30 arrive at PA walkway 2nd barricade, MAGAretWhiteCoat  \n01:03:00 upper west plaza police conflict coverage up to this point  \n01:03:30 momentum builds in push up NW steps  \n...more conflict around plaza, camera does not go up NW steps",
+    "suspectTags": [
+      "Individual4",
+      "MAGAretWhiteCoat"
+    ],
     "videoEndTimepoint": 5130,
     "videoStartTimepoint": 0,
     "videoUrl": "https://drive.google.com/file/d/1QpWmBRq2kAZvERiFaahjaSRhvCT3dYkt",
@@ -56281,11 +56391,8 @@
       "lng": -77.0352722232227
     },
     "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
-    "otherTags": [
-      "VariousLocations",
-      "LongVideo"
-    ],
-    "summary": "LIVE - Crowds gathering for Save America Rally in Washington DC",
+    "otherTags": [],
+    "summary": "LIVE - Crowds gathering for Save America Rally in Washington DC  \nLow quality stream for the most part  \nCoverage of Chinese-Americans for Trump",
     "suspectTags": [],
     "videoEndTimepoint": 8203,
     "videoStartTimepoint": 0,
@@ -56434,6 +56541,11 @@
   {
     "_id": "LhV-2MLrAlFU",
     "imageUrl": "https://twitter.com/SimonWGhost/status/1349783031196762116?s=20",
+    "location": {
+      "lat": 38.8926838,
+      "lng": -77.0090899
+    },
+    "locationName": "Unknown:\n  Unknown Capitol Exterior",
     "otherTags": [],
     "summary": "Twitter thread containing multiple images/screen captures; source URLs missing",
     "suspectTags": [
@@ -56589,6 +56701,11 @@
   {
     "_id": "MzazThqTYgAY",
     "imageUrl": "https://www.flickr.com/photos/blinkofanaye/50809391457/in/photolist-2kqyLRq-2kpUGZe-2kqSK1m-2kpZF26-2kq3MnA-2kpQPt3-2kq4n5B-2kpXH7i-2kpQPua-2kpMEBG-2kpM259-2kqzgi6-2kpM23W-2kpYH6n-2kpRpUD-2kpYYoJ-2kpRpSj-2kpM25E-2kpM24Y-2kq4n5S-2kpM254-2kpRpUt-2kpM261-2kpQPuA-2kpM25Q-2kpYYtZ-2kpYYmu-2kpM25j-2kpYYto-2kpRpU3-2kpM25z-2kpQPt8-2kpRpSE-2kpT648-2kpYYvT-2kquXuj-2kpQPuf-2kpQPtZ-2kquXvg-2kpM26b-2kqyLQU-2kqzghe-2kq4n7F-2kqyLPg-2kpYYza-2kq3Myn-2kq4n32-2kpYYwj-2kq3MpE-2kpYYuW/",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0100205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
     "otherTags": [],
     "suspectTags": [
       "SeattleUWGuy"
@@ -56737,8 +56854,13 @@
   {
     "_id": "Nsmzii_tUh9s",
     "imageUrl": "https://twitter.com/eeemonts/status/1351163877850030082/photo/2",
+    "location": {
+      "lat": 38.8926666,
+      "lng": -77.0120333
+    },
+    "locationName": "Unknown:\n  Unknown",
     "otherTags": [],
-    "summary": "consulting with #BuffLightyear and #CommanderBlueHoodie",
+    "summary": "TWEET UNAVAILABLE  \nconsulting with #BuffLightyear and #CommanderBlueHoodie",
     "suspectTags": [
       "PufferJacketCameraman",
       "BuffLightYear",
@@ -56958,10 +57080,10 @@
   {
     "_id": "Owq1-hCfUmwo",
     "location": {
-      "lat": 38.8908125,
-      "lng": -77.0071278
+      "lat": 38.8898193,
+      "lng": -77.0086116
     },
-    "locationName": "Capitol Grounds East:\n  NE Lawn",
+    "locationName": "Capitol Exterior East:\n  Central East Doors",
     "otherTags": [
       "NeedsSummaryAndTags"
     ],
@@ -57089,11 +57211,13 @@
   },
   {
     "_id": "PRoJkzOPYrR0",
-    "locationName": "Various",
-    "otherTags": [
-      "VariousLocations"
-    ],
-    "summary": "BGOnTheScene footage",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [],
+    "summary": "BGOnTheScene footage   \ngood coverage of conflict at upper west plaza shot from media tower  \n7:45 cuts to bottom of NW steps, climbs steps to NW ctyard  \n11:20 window breach",
     "suspectTags": [],
     "videoEndTimepoint": 1358,
     "videoStartTimepoint": 0,
@@ -57667,7 +57791,11 @@
     "otherTags": [],
     "summary": "just to left of tunnel entrance",
     "suspectTags": [
-      "BullhornLady"
+      "BullhornLady",
+      "BaldEagle",
+      "PippiLongScarf",
+      "IronworkerGuy",
+      "CapitolWig"
     ]
   },
   {
@@ -57865,8 +57993,15 @@
   },
   {
     "_id": "UN05h-8QgjJM",
-    "otherTags": [],
-    "summary": "LIZREP STREAM IRL - PROTESTING TRAITORS IN DC",
+    "location": {
+      "lat": 38.8906428,
+      "lng": -77.0123117
+    },
+    "locationName": "Capitol Grounds West:\n  Peace Monument",
+    "otherTags": [
+      "ProudBoys"
+    ],
+    "summary": "LIZREP STREAM IRL - PROTESTING TRAITORS IN DC  \nNighttime at Peace Monument and a little bit down Penn along reflecting pool, Capitol in background lit up, lots of people milling around, people filming police lines  \n34:39 \"how many more deaths\"  \n51:00 police/national guard lines  \n01:06:03 #iamgabebrownpb, Alberts speaking on bullhorn (believed to be Christopher Alberts, arrested) <https://twitter.com/capitolhunters/status/1374661495187927041>",
     "suspectTags": [],
     "videoEndTimepoint": 5846,
     "videoStartTimepoint": 0,
@@ -57951,7 +58086,11 @@
     "otherTags": [
       "GraphicViolence"
     ],
-    "suspectTags": [],
+    "suspectTags": [
+      "ShinyCircleTattoo",
+      "FakeNewsHat",
+      "OrangeGlowHead"
+    ],
     "videoEndTimepoint": 86,
     "videoStartTimepoint": 0,
     "videoUrl": "https://youtu.be/qpkRzfRerGs",
@@ -58148,6 +58287,11 @@
   {
     "_id": "WkLR-qcj0uE8",
     "imageUrl": "https://www.flickr.com/photos/mvjantzen/50808899362/",
+    "location": {
+      "lat": 38.8894473623761,
+      "lng": -77.0352722232227
+    },
+    "locationName": "Off Capitol Grounds (DC):\n  Washington Monument",
     "otherTags": [],
     "summary": "#BluePatch, and two friends",
     "suspectTags": [
@@ -58848,7 +58992,8 @@
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
-      "BuffLightYear"
+      "BuffLightYear",
+      "PippiLongScarf"
     ]
   },
   {
@@ -59217,7 +59362,10 @@
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
     "suspectTags": [
-      "BlackHandedRedHood"
+      "BlackHandedRedHood",
+      "RyanNichols",
+      "CapitolWig",
+      "CowboyScreech"
     ]
   },
   {
@@ -59974,8 +60122,9 @@
     },
     "locationName": "Off Capitol Grounds (DC):\n  Pennsylvania Avenue",
     "otherTags": [
-      "NeedsSummaryAndTags"
+      "NeedsTags"
     ],
+    "summary": "Among demonstrators on Penn at 12th, some dispute about masks and racists and antifa  \n2:36 people exiting Capitol doors, Statuary hall in background",
     "suspectTags": [],
     "videoEndTimepoint": 157,
     "videoStartTimepoint": 0,
@@ -60218,7 +60367,10 @@
     "otherTags": [],
     "summary": "with #OrangeHoodieRedHat next to #LittleBrownBeard",
     "suspectTags": [
-      "BullhornLady"
+      "BullhornLady",
+      "PippiLongScarf",
+      "OrangeHoodieRedHat",
+      "LittleBrownBeard"
     ]
   },
   {
@@ -60390,8 +60542,7 @@
       "SeditionSprayer"
     ],
     "rationale": "All times in this video are based on the moment at 6:42, which seems to align with timestamp 0:00 in parler vid ozbb7nl0rd6n & noted in @sansastark525's long timeline.",
-    "realTimeEnd": "2021-01-06T19:38:00.000Z",
-    "summary": "Moments after the West Plaza is over run by rioters. EyeGouger is walking with hands raised.  \n0:47 BullHornLady seen in the crowd just behind officers.  \n1:55 IronWorkerGuy scuffle with officers (glimpses of BullHornLady)  \n2:33 FleeceNazi scuffle with officers  \n3:15 Filmer begins yelling \"take their helmets off\"  \n3:49 Filmer's face partly visible  \n4:04 BullHornLady seen covering her face  \n4:43 Brief glimpse of face of #Slickback  \n5:15 Rioter with name badge visible--looks like K. Jackson U.C.N?  \n5:26 Cry for \"medic\" heard  \n6:08 A man collapsed on ground first visible  \n7:42 EmoNazi near temporary stairs",
+    "summary": "Moments after the West Plaza is over run by rioters. EyeGouger is walking with hands raised.    \n0:47 BullHornLady seen in the crowd just behind officers.    \n1:55 IronWorkerGuy scuffle with officers (glimpses of BullHornLady)    \n2:33 FleeceNazi scuffle with officers    \n3:15 Filmer begins yelling \"take their helmets off\"    \n3:49 Filmer's face partly visible    \n4:04 BullHornLady seen covering her face    \n4:43 Brief glimpse of face of #Slickback    \n5:15 Rioter with name badge visible--looks like K. Jackson U.C.N?    \n5:26 Cry for \"medic\" heard    \n6:08 A man collapsed on ground first visible    \n7:42 EmoNazi near temporary stairs",
     "suspectTags": [
       "EyeGouger",
       "BullhornLady",
@@ -60400,7 +60551,9 @@
       "ScarHead",
       "Slickback",
       "EmoNazi",
-      "SwedishScarf"
+      "SwedishScarf",
+      "BaldEagle",
+      "IronworkerGuy"
     ],
     "videoEndTimepoint": 528,
     "videoStartTimepoint": 0,
@@ -61321,11 +61474,12 @@
     },
     "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
     "otherTags": [],
-    "summary": "waiting to pull someone out of the tunnel",
+    "summary": "waiting to pull someone out of the tunnel. #Scallops attacks officers in the tunnel with a crutch.",
     "suspectTags": [
       "LittleBrownBeard",
       "HarleyJacketBatonMan",
-      "HockeyStickMan"
+      "HockeyStickMan",
+      "Scallops"
     ]
   },
   {
@@ -61388,11 +61542,17 @@
   },
   {
     "_id": "ugZ70-ypAi0U",
-    "locationName": "Capitol Grounds East:\n  East Plaza",
+    "location": {
+      "lat": 38.8898205,
+      "lng": -77.0080791
+    },
+    "locationName": "Capitol Exterior East:\n  East Plaza",
     "otherTags": [
-      "NeedsSummaryAndTags"
+      "EastTerrace",
+      "EastStairs"
     ],
     "rationale": "Claims to be a video time lapse: an entire day of footage sped up into 1 minute.",
+    "summary": "Annoying sped up video showing crowd arriving, leaving, moving around at East Plaza some with flags. In the distance you can see there has been a breach and the stairs become crowded. The video was too blurry when paused to accurately identify anyone IMO.",
     "suspectTags": [],
     "videoEndTimepoint": 59,
     "videoStartTimepoint": 0,
@@ -61528,9 +61688,9 @@
       "lat": 38.88957,
       "lng": -77.01704
     },
-    "otherTags": [
-      "NeedsSummaryAndTags"
-    ],
+    "locationName": "Off Capitol Grounds (DC):\n  Off Capitol Grounds - DC",
+    "otherTags": [],
+    "summary": "Appears to be Crowd walking the path of the National Mall toward Capitol Building. Nothing of significance to report.",
     "suspectTags": [],
     "videoEndTimepoint": 861,
     "videoStartTimepoint": 810,
@@ -61648,6 +61808,26 @@
     "otherTags": [
       "NeedsSummaryAndTags"
     ],
+    "summary": "Crowd mingling below, crowd on deck above. Nothing significant to report.",
+    "suspectTags": [],
+    "videoEndTimepoint": 461,
+    "videoStartTimepoint": 441,
+    "videoUrl": "https://youtu.be/k4EFWNROkak",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "k4EFWNROkak",
+      "thumbnailUrl": "https://img.youtube.com/vi/k4EFWNROkak/default.jpg"
+    }
+  },
+  {
+    "_id": "x8DKlwIicoJs",
+    "location": {
+      "lat": 38.8915774,
+      "lng": -77.0093974
+    },
+    "locationName": "Capitol Grounds North:\n  North Lawn Circuit",
+    "otherTags": [],
+    "summary": "Crowd mingling below, crowd on deck above. Nothing significant to report.",
     "suspectTags": [],
     "videoEndTimepoint": 461,
     "videoStartTimepoint": 441,
