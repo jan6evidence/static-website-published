@@ -29596,7 +29596,7 @@
     "rationale": "Timing based on this video, which is a different view of the same location: <https://d2hxwnssq7ss7g.cloudfront.net/Fw8gshXuwqLs_cvt.mp4>",
     "realTimeEnd": "2021-01-06T19:35:00.000Z",
     "realTimeStart": "2021-01-06T19:35:00.000Z",
-    "summary": "Video showing people breaking into the Capitol through the SW doors on the Upper West Terrace. CPD officers can be seen lining the hallway and they allow the crowd into the building.",
+    "summary": "Video showing people breaking into the Capitol through the Central West Doors on the Upper West Terrace. CPD officers can be seen lining the hallway and they allow the crowd into the building.",
     "suspectTags": [],
     "videoEndTimepoint": 56,
     "videoStartTimepoint": 0,
@@ -41352,30 +41352,6 @@
     }
   },
   {
-    "_id": "0ee4HPvoYmek",
-    "location": {
-      "lat": 38.889866,
-      "lng": -77.0098835
-    },
-    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
-    "otherTags": [],
-    "rationale": "timestamped in the video",
-    "realTimeEnd": "2021-01-06T20:30:00.000Z",
-    "realTimeStart": "2021-01-06T20:30:00.000Z",
-    "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n8:48: Says at 3:30 PM, Antifa was prevented from breaking the window at left of tunnel, which is inexplicably blurred out  \n8:52: NeonFilmer  \n9:06 Cut to Pennsylvania Lawn",
-    "suspectTags": [
-      "NeonFilmer"
-    ],
-    "videoEndTimepoint": 546,
-    "videoStartTimepoint": 528,
-    "videoUrl": "https://youtu.be/_YNCj61hmLE",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "_YNCj61hmLE",
-      "thumbnailUrl": "https://img.youtube.com/vi/_YNCj61hmLE/default.jpg"
-    }
-  },
-  {
     "_id": "2cR2F5uHUo40",
     "location": {
       "lat": 38.890524,
@@ -42262,6 +42238,33 @@
     }
   },
   {
+    "_id": "0ee4HPvoYmek",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
+    "otherTags": [
+      "Vandalism",
+      "TerraceWindowBreak"
+    ],
+    "rationale": "Video states that time is 3:30 pm. This clip shows the same moment as <https://capitol-hill-riots.s3.us-east-1.wasabisys.com/YouTube/yt1s.com%20-%20The%20Storm%20On%20The%20US%20Capital%20Pt%201_1080p.mp4> which is calculated to occur at 3:44 pm.",
+    "realTimeEnd": "2021-01-06T20:44:00.000Z",
+    "realTimeStart": "2021-01-06T20:44:00.000Z",
+    "summary": "99.9% PEACEFUL Jan 6th, Washington DC, Capitol Building  \nFord Esp  \n  \n8:48: Says at 3:30 PM, Antifa was prevented from breaking the window at left of tunnel, which is inexplicably blurred out  \n8:52: NeonFilmer  \n9:06 Cut to Pennsylvania Lawn",
+    "suspectTags": [
+      "NeonFilmer"
+    ],
+    "videoEndTimepoint": 546,
+    "videoStartTimepoint": 528,
+    "videoUrl": "https://youtu.be/_YNCj61hmLE",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "_YNCj61hmLE",
+      "thumbnailUrl": "https://img.youtube.com/vi/_YNCj61hmLE/default.jpg"
+    }
+  },
+  {
     "_id": "9uS7cUupIpDA",
     "location": {
       "lat": 38.889866,
@@ -42856,6 +42859,40 @@
       "type": "directLink",
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/xDvtEJtl0RsY_cvt.mp4",
       "contentType": "video/mp4"
+    }
+  },
+  {
+    "_id": "SAF6xaKEQpME",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Timestamp Calculation: The 0:27 mark of this footage <https://www.youtube.com/watch?v=NUoBiRXZs5Q> aligns with this photo by Lev Radin: <https://www.pacificpressagency.com/preview/1300785> timestamped 15:51:36. As points of reference note that the person crowdsurfing has lost one shoe (he had this shoe on his foot 10 seconds earlier in the footage). The man in the black hoodie holds this shoeless foot up. The man with the yellow polarized sunglasses has one hand up grasping something while #tunnelcommander looks between the crook of his arm. Above them, a man in a grey hoodie extends his arm, gesturing for people to come up the steps.",
+    "realTimeEnd": "2021-01-06T21:00:00.000Z",
+    "realTimeStart": "2021-01-06T20:51:00.000Z",
+    "summary": "Title: THAT'S ONE BIG FLAG! / THE STORM ARRIVED PT. 7  \nChannel: The Black Conservative Preacher  \n  \nA large flag is passed toward the arch entrance by the crowd. Violently bashing police with sticks, enormous flag and other sticks passed to front, crowd surfing, crush. TheCopKicker is hanging from the arch, kicking at the officers. FleeceNazi is there. A mallet makes an appearance. Crowd is repeatedly chanting \"Pull the cops out!\".",
+    "suspectTags": [
+      "GreenNewsboy",
+      "TunnelCommander",
+      "BaldEagle",
+      "FleeceNazi",
+      "PippiLongScarf",
+      "BullhornLady",
+      "OrangeHoodieRedHat",
+      "TheCopKicker",
+      "LeatherHanesHisWay"
+    ],
+    "videoEndTimepoint": 538,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtu.be/NUoBiRXZs5Q",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "NUoBiRXZs5Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/NUoBiRXZs5Q/default.jpg"
     }
   },
   {
@@ -44777,7 +44814,7 @@
     "rationale": "BlackGlove805 is seen putting on his gas mask and entering the tunnel starting at 2:42 in this footage. This aligns with 2:00 in <https://youtu.be/koW5NYVlUz8> which has been timestamped to begin at 4:09:36 pm. There is a cut just before 2:42, which is estimated to be 2-3 minutes long.",
     "realTimeEnd": "2021-01-06T21:16:00.000Z",
     "realTimeStart": "2021-01-06T21:07:00.000Z",
-    "summary": "Political Trance Tribune. Video is likely by HarleyHatFilmer.  \n0:31 Close-up view of the Tunnel entrance from just in front of PippiLongScarf. BlackGlove805 is negotiating with officers.  \n0:37 Filmer is right next to GinaBisignano. He asks her what her name is. She gives her name, states where she's from, and gives her instagram. Claims she was doxxed and they shut down her business. FleeceNazi is to the left of the frame. Brief glimpse of BaldEagle.  \n1:29 BlueSquirtle says \"window\" and those around him, including GinaBisignano, start saying \"break the window!\" Camera spins. FrizzyGeezer, HarvardSweats, GreenDomeCreeper seen to the right of the filmer.   \n1:44 WindowBreaker is up on the window ledge. He bends down and can be seen pulling a small hatchet out of his bag. He strikes the window several times beginning at 2:02, and the crowd cheers. WindowBreaker says, \"well, do you want in or not?!\"   \nCut  \n2:42 BlackGlove805 up close. He puts on his gas mask and goes inside the Capitol via the lower portion of the Left of Tunnel window. Several people follow, although not many faces are seen.  \n3:27 BluePatch crawls into the windo, followed by SpiderNazi  \n4:24 View of hte crowd on the Lower West Terrace. Two men standing on the SeditionLadder toward the middle of the crowd, about 15-20 people deep behind NeonFilmer.  \n4:31 RyanNichols inside the building. He has a crowbar in his right hand. He says there is a report of the officers using lethal force, he wants people to check it out. SpiderNazi comes back out through the window.  \n5:07 ChinPatch comes out of the Capitol via the broken window, stands on the ledge. Someone passes him a bullhorn. He says \"Hey everyone, pipe down! They are considering using lethal force against us!\" WindowCheerleader climbs up on the window ledge next to ChinPatch.  \n5:49 Filmer turns camera to pan the crowd again. Brief glimpse of BullhornLady  \n6:28 RyanNichols comes out of the window, grabs a bullhorn and calls for the crowd's attention. Says \"They are labeling us as anarchists. They are talking about using lethal force against us if we storm the Capitol.\" Upper window behind him is visible. It is broken, but the glass is still in place. AlexHarkrider comes out of the window at 6:49 and is on the ledge next to RyanNichols.  \n7:19 Filmer aims camera niside the window. GinaBisignano seen hugging a man in a red sweatshirt. Brief glimpse of BlackGlove805 behind her breaking furniture. GinaBisignano peeks her head out calls for more Americans and Patriots to come in. WindowBreaker says \"where does that go?\" RyanNichols continues to incite the crowd via the bullhorn.  \n8:29 GinaBisignano exits the window. A man asks her if she has also heard that the police will use lethal force, and she says she has heard that, but that \"as Americans we need to stick together!\"  \n8:49 Filmer pans the crowd again. People are seen on the Tunnel Entrance Steps gathered around something low. BlackHandedRedHood at the bottom of the stairs. HighFiveCowboy, Slickback seen near the front of the crowd at the top of the stairs. GreenNewsboy standing up high on the other side of the steps.  \n9:04 Filmer turns back to RyanNichols who says via the bullhorn, \"Pedo Pence has turned on you!\"",
+    "summary": "Political Trance Tribune. Video by HarleyHatFilmer.  \n0:31 Close-up view of the Tunnel entrance from just in front of PippiLongScarf. BlackGlove805 is negotiating with officers.  \n0:37 Filmer is right next to GinaBisignano. He asks her what her name is. She gives her name, states where she's from, and gives her instagram. Claims she was doxxed and they shut down her business. FleeceNazi is to the left of the frame. Brief glimpse of BaldEagle.  \n1:29 BlueSquirtle says \"window\" and those around him, including GinaBisignano, start saying \"break the window!\" Camera spins. FrizzyGeezer, HarvardSweats, GreenDomeCreeper seen to the right of the filmer.   \n1:44 WindowBreaker is up on the window ledge. He bends down and can be seen pulling a small hatchet out of his bag. He strikes the window several times beginning at 2:02, and the crowd cheers. WindowBreaker says, \"well, do you want in or not?!\"   \nCut  \n2:42 BlackGlove805 up close. He puts on his gas mask and goes inside the Capitol via the lower portion of the Left of Tunnel window. Several people follow, although not many faces are seen.  \n3:27 BluePatch crawls into the windo, followed by SpiderNazi  \n4:24 View of hte crowd on the Lower West Terrace. Two men standing on the SeditionLadder toward the middle of the crowd, about 15-20 people deep behind NeonFilmer.  \n4:31 RyanNichols inside the building. He has a crowbar in his right hand. He says there is a report of the officers using lethal force, he wants people to check it out. SpiderNazi comes back out through the window.  \n5:07 ChinPatch comes out of the Capitol via the broken window, stands on the ledge. Someone passes him a bullhorn. He says \"Hey everyone, pipe down! They are considering using lethal force against us!\" WindowCheerleader climbs up on the window ledge next to ChinPatch.  \n5:49 Filmer turns camera to pan the crowd again. Brief glimpse of BullhornLady  \n6:28 RyanNichols comes out of the window, grabs a bullhorn and calls for the crowd's attention. Says \"They are labeling us as anarchists. They are talking about using lethal force against us if we storm the Capitol.\" Upper window behind him is visible. It is broken, but the glass is still in place. AlexHarkrider comes out of the window at 6:49 and is on the ledge next to RyanNichols.  \n7:19 Filmer aims camera niside the window. GinaBisignano seen hugging a man in a red sweatshirt. Brief glimpse of BlackGlove805 behind her breaking furniture. GinaBisignano peeks her head out calls for more Americans and Patriots to come in. WindowBreaker says \"where does that go?\" RyanNichols continues to incite the crowd via the bullhorn.  \n8:29 GinaBisignano exits the window. A man asks her if she has also heard that the police will use lethal force, and she says she has heard that, but that \"as Americans we need to stick together!\"  \n8:49 Filmer pans the crowd again. People are seen on the Tunnel Entrance Steps gathered around something low. BlackHandedRedHood at the bottom of the stairs. HighFiveCowboy, Slickback seen near the front of the crowd at the top of the stairs. GreenNewsboy standing up high on the other side of the steps.  \n9:04 Filmer turns back to RyanNichols who says via the bullhorn, \"Pedo Pence has turned on you!\"",
     "suspectTags": [
       "PippiLongScarf",
       "BlackGlove805",
@@ -55248,20 +55285,6 @@
     }
   },
   {
-    "_id": "53kwxIv1It3w",
-    "imageUrl": "https://beverlypress.com/wp-content/uploads/2021/01/CapitolRioting.GinaBisignano2.png",
-    "location": {
-      "lat": 38.889866,
-      "lng": -77.0098835
-    },
-    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
-    "otherTags": [],
-    "suspectTags": [
-      "SnubNoseRedHat",
-      "CommanderCamo"
-    ]
-  },
-  {
     "_id": "55-nToTL4iNU",
     "location": {
       "lat": 38.8898124,
@@ -58129,34 +58152,6 @@
     "videoEndTimepoint": 59,
     "videoStartTimepoint": 0,
     "videoUrl": "https://www.reddit.com/r/PublicFreakout/comments/kuok9f/crazy_video_shows_fire_extinguisher_thrown_at/"
-  },
-  {
-    "_id": "SAF6xaKEQpME",
-    "location": {
-      "lat": 38.8898088,
-      "lng": -77.0100205
-    },
-    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
-    "otherTags": [
-      "Violence"
-    ],
-    "summary": "A large flag is passed toward the arch entrance by the crowd. Violently bashing police with sticks, enormous flag and other sticks passed to front, crowd surfing, crush. TheCopKicker is hanging from the arch, kicking at the officers. FleeceNazi is there. A mallet makes an appearance. Crowd is repeatedly chanting \"Pull the cops out!\".",
-    "suspectTags": [
-      "BaldEagle",
-      "FleeceNazi",
-      "PippiLongScarf",
-      "BullhornLady",
-      "WhiteHoodie",
-      "TheCopKicker"
-    ],
-    "videoEndTimepoint": 538,
-    "videoStartTimepoint": 0,
-    "videoUrl": "https://youtu.be/NUoBiRXZs5Q",
-    "videoDetails": {
-      "type": "youtube",
-      "videoId": "NUoBiRXZs5Q",
-      "thumbnailUrl": "https://img.youtube.com/vi/NUoBiRXZs5Q/default.jpg"
-    }
   },
   {
     "_id": "SUTt4tTWMveg",
