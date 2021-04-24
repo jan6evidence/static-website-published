@@ -24281,6 +24281,20 @@
     }
   },
   {
+    "_id": "gbr84zk-goBY",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300405",
+    "location": {
+      "lat": 38.89004,
+      "lng": -77.01041
+    },
+    "locationName": "Capitol Exterior West:\n  NW Plaza",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:08:00.000Z",
+    "summary": "Aerial view. The NW Plaza / Lower West Plaza police line is holding, though the NW Steps have been breached.",
+    "suspectTags": []
+  },
+  {
     "_id": "vPpcpt384rIw",
     "location": {
       "lat": 38.8896,
@@ -27956,6 +27970,20 @@
     }
   },
   {
+    "_id": "M-YVaDNHYt-w",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300393",
+    "location": {
+      "lat": 38.88956,
+      "lng": -77.01043
+    },
+    "locationName": "Capitol Exterior West:\n  SW Plaza",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:28:00.000Z",
+    "summary": "Aerial view. The SW Plaza police line has just been breached. The mob swarms into the Upper West Plaza.",
+    "suspectTags": []
+  },
+  {
     "_id": "M0OMcvD3MgEo",
     "location": {
       "lat": 38.8903595,
@@ -28738,6 +28766,24 @@
       "type": "googleDrive",
       "driveFileId": "15peFBgpkV4LH4qeNEe4td4ILJzmTQwsC"
     }
+  },
+  {
+    "_id": "HVugPghXon8w",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300385",
+    "location": {
+      "lat": 38.8898126,
+      "lng": -77.0103012
+    },
+    "locationName": "Capitol Exterior West:\n  Upper West Plaza",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:30:00.000Z",
+    "summary": "Aerial view. The Upper West Plaza has been breached. The mob, including Bald Eagle, has reached the stage.",
+    "suspectTags": [
+      "BaldEagle",
+      "BullhornLady",
+      "IronworkerGuy"
+    ]
   },
   {
     "_id": "KW5ZTK27An6E",
@@ -30810,6 +30856,22 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/nUo6Jkrm2lXO_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "-rywrzs-QuDU",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300782",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:38:00.000Z",
+    "summary": "TunnelCommander enters the tunnel entrance in this telephoto shot.",
+    "suspectTags": [
+      "TunnelCommander"
+    ]
   },
   {
     "_id": "1iPdg4XXEiU8",
@@ -34442,6 +34504,22 @@
     }
   },
   {
+    "_id": "bedJ0gH-4oIg",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300379",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0100205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:50:00.000Z",
+    "summary": "A view of the #CapitolFlagCalledFreedom / #GiantFlag atop the NW Scaffold seating from the vantage of the north end of the Lower West Terrace. #Slickback in the distance.",
+    "suspectTags": [
+      "Slickback"
+    ]
+  },
+  {
     "_id": "fB3n9ZrFcnD0",
     "location": {
       "lat": 38.8904,
@@ -35624,6 +35702,22 @@
     }
   },
   {
+    "_id": "aFeZidTy8sEA",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300381",
+    "location": {
+      "lat": 38.8896989,
+      "lng": -77.0099675
+    },
+    "locationName": "Capitol Exterior West:\n  SW Riser",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:55:00.000Z",
+    "summary": "A view of the Lower West Terrace from the vantage of the SW Riser",
+    "suspectTags": [
+      "DreadedProudboy"
+    ]
+  },
+  {
     "_id": "noRHEFc_MlFw",
     "location": {
       "lat": 38.89,
@@ -35752,6 +35846,20 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/G7450BeenqR7_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "EXPX2aKUcp5E",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300380",
+    "location": {
+      "lat": 38.8895665,
+      "lng": -77.0101708
+    },
+    "locationName": "Capitol Exterior West:\n  SW Scaffold",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T19:56:00.000Z",
+    "summary": "A view of the SW Scaffold, West Plaza, Media Tower and West Lawn from the vantage of the SW Riser.",
+    "suspectTags": []
   },
   {
     "_id": "vkAQYE__Argg",
@@ -46274,6 +46382,24 @@
     }
   },
   {
+    "_id": "y_zYOMYFEq5A",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300264",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:19:00.000Z",
+    "summary": "Someone stands on the arch at the Tunnel Entrance",
+    "suspectTags": [
+      "PippiLongScarf",
+      "HighFiveCowboy",
+      "WindowBreaker"
+    ]
+  },
+  {
     "_id": "ADS7Bjpa8h3o",
     "location": {
       "lat": 38.889891,
@@ -46298,6 +46424,24 @@
       "videoId": "vTXOkcwYxvE",
       "thumbnailUrl": "https://img.youtube.com/vi/vTXOkcwYxvE/default.jpg"
     }
+  },
+  {
+    "_id": "Nh96byfSwreo",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300287",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:20:00.000Z",
+    "summary": "Mob crowds the Tunnel Entrance.",
+    "suspectTags": [
+      "YellowScarfYeti",
+      "Slickback",
+      "PippiLongScarf"
+    ]
   },
   {
     "_id": "nPShoVxxsvso",
@@ -46349,6 +46493,55 @@
     }
   },
   {
+    "_id": "RyjVaxctgmLk",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300763",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:21:00.000Z",
+    "summary": "The mob collapses in a heap on the Tunnel Entrance steps",
+    "suspectTags": [
+      "Slickback",
+      "WhiteDeathHoodie",
+      "HighFiveCowboy"
+    ]
+  },
+  {
+    "_id": "yIxoYWSUAmE0",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300285",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:21:00.000Z",
+    "summary": "Rioter in a cowboy hat yells and winces in the middle of the mob",
+    "suspectTags": []
+  },
+  {
+    "_id": "jWC9kRouUpVc",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300313",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:22:00.000Z",
+    "summary": "People appear to have fallen. Feet in the air.",
+    "suspectTags": [
+      "YellowScarfYeti",
+      "OrangeGoggleSpiker"
+    ]
+  },
+  {
     "_id": "-FSjhuiJErjA",
     "location": {
       "lat": 38.89004,
@@ -46371,6 +46564,71 @@
       "videoId": "e_NtkWM7OTU",
       "thumbnailUrl": "https://img.youtube.com/vi/e_NtkWM7OTU/default.jpg"
     }
+  },
+  {
+    "_id": "3Okq9sjdoiuQ",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300315",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:23:00.000Z",
+    "summary": "The mob presses up the Tunnel Entrance steps as others tumble out",
+    "suspectTags": [
+      "HighFiveCowboy",
+      "PippiLongScarf",
+      "OrangeGoggleSpiker",
+      "SwedishScarf",
+      "IronworkerGuy",
+      "Slickback",
+      "FrodoTheFash",
+      "Slickback",
+      "Caveman",
+      "ThreePercentSheriff",
+      "BullhornLady"
+    ]
+  },
+  {
+    "_id": "gDxKdWsDIs1g",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300314",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:23:00.000Z",
+    "summary": "The mob recollects itself after collapsing on the Tunnel entrance steps.",
+    "suspectTags": [
+      "HighFiveCowboy",
+      "PippiLongScarf",
+      "OrangeGoggleSpiker",
+      "SwedishScarf",
+      "WhitePowerPuff",
+      "GreyscaleScreamer"
+    ]
+  },
+  {
+    "_id": "uKASJsct8pCk",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300766",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:23:00.000Z",
+    "summary": "The mob moves back up the Tunnel Entrance Steps",
+    "suspectTags": [
+      "Caveman",
+      "PlaidLad",
+      "YellowScarfYeti"
+    ]
   },
   {
     "_id": "v3JAA7z4sqvg",
@@ -46476,6 +46734,52 @@
       "videoId": "zcRFEYnHWyM",
       "thumbnailUrl": "https://img.youtube.com/vi/zcRFEYnHWyM/default.jpg"
     }
+  },
+  {
+    "_id": "KDLESCyDAkHo",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300311",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:24:00.000Z",
+    "summary": "More people fall on the already fallen people on the Tunnel Entrance steps.",
+    "suspectTags": [
+      "Caveman",
+      "WhiteDeathHoodie",
+      "HighFiveCowboy",
+      "BaldEagle",
+      "ThreePercentSheriff",
+      "OuttaHereGrayHood",
+      "FullCamoKneePads",
+      "BullhornLady",
+      "SeattleUWGuy",
+      "FrodoTheFash",
+      "BearSkinThug",
+      "YellowScarfYeti"
+    ]
+  },
+  {
+    "_id": "L1I45-9z8pEY",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300317",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:24:00.000Z",
+    "summary": "A gap on the steps. OuttaHereGrayHood has fallen onto them.",
+    "suspectTags": [
+      "Caveman",
+      "HighFiveCowboy",
+      "YellowScarfYeti",
+      "OuttaHereGrayHood"
+    ]
   },
   {
     "_id": "uZyul2hZErKQ",
@@ -46670,6 +46974,53 @@
     }
   },
   {
+    "_id": "2Y7REiC1csMM",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300299",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "This timestamp seems off, even though it comes from the metadata.",
+    "suspectTags": [
+      "BullhornLady",
+      "Slickback",
+      "YellowScarfYeti",
+      "PlaidLad",
+      "ThreePercentSheriff"
+    ]
+  },
+  {
+    "_id": "7E3EcixTMk-M",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300304",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "Most of those who fell at the tunnel entrance are now standing, walking down the steps. #Fingerman brandishes a stick",
+    "suspectTags": [
+      "Fingerman",
+      "LittleBrownBeard",
+      "OrangeHoodieRedHat",
+      "Slickback",
+      "BigBadSamaritan",
+      "ViperCap",
+      "BaldEagle",
+      "YellowScarfYeti",
+      "Zionor",
+      "Caveman",
+      "ThreePercentSheriff",
+      "ShaggyProfessor"
+    ]
+  },
+  {
     "_id": "A9apq7ZlwoMs",
     "location": {
       "lat": 38.8898124,
@@ -46857,6 +47208,29 @@
     }
   },
   {
+    "_id": "TrZ0IDKWcoLs",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300306",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "The police have pressed to the tunnel entrance. People have fallen on the steps and others climb over them to get to the police line. A flagpole is across the entrance.",
+    "suspectTags": [
+      "BigBadSamaritan",
+      "Scallops",
+      "PlaidLad",
+      "YellowScarfYeti",
+      "BaldEagle",
+      "LittleBrownBeard",
+      "ViperCap",
+      "ThreePercentSheriff"
+    ]
+  },
+  {
     "_id": "TvtCXlBe4jDk",
     "location": {
       "lat": 38.8898151,
@@ -46963,6 +47337,29 @@
     }
   },
   {
+    "_id": "a4RKwNq6YrYM",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300301",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "BlueJacketTunnelRescue stands at the tunnel entrance arch. Justin Winchell is kneeling at the base of the arch where, presumably Roseanne lies.",
+    "suspectTags": [
+      "WhitePowerPuff",
+      "NeonFilmer",
+      "HighFiveCowboy",
+      "OrangeHoodieRedHat",
+      "BlueJacketTunnelRescue",
+      "Slickback",
+      "HockeyStickMan",
+      "ViperCap"
+    ]
+  },
+  {
     "_id": "bBZp3KDN4h0o",
     "location": {
       "lat": 38.8898151,
@@ -46999,6 +47396,55 @@
     "summary": "getting up after assaulting police and falling on Rosanne Boyland",
     "suspectTags": [
       "BadSamaritanGrey"
+    ]
+  },
+  {
+    "_id": "mooDsgTs0v5Y",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300305",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "As some of the mob falls on the top of the Tunnel Steps, others, including #fingerman attack the police line with sticks.",
+    "suspectTags": [
+      "LittleBrownBeard",
+      "BlueJacketTunnelRescue",
+      "Fingerman",
+      "OrangeHoodieRedHat",
+      "PlaidLad",
+      "Caveman",
+      "YellowScarfYeti",
+      "BaldEagle",
+      "ThreePercentSheriff",
+      "Slickback",
+      "BullhornLady"
+    ]
+  },
+  {
+    "_id": "rNJGeEE8kl08",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300761",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:26:00.000Z",
+    "summary": "Police release crowd control spray. Everyone winces.",
+    "suspectTags": [
+      "TunnelTanSpecs",
+      "Caveman",
+      "Slickback",
+      "PippiLongScarf",
+      "ThreePercentSheriff",
+      "SoloShield"
     ]
   },
   {
@@ -47180,6 +47626,32 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/kiBnNejo0JW0_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "iuCiyzpFgi3I",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300303",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Violence"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:27:00.000Z",
+    "summary": "HockeyStickMan and Scallops are attacking the police line, Fingerman is crouching at the entrance - possibly having just pulled down Officer A. Wayte. LittleBrownBeard braces against the Arch entrance as if looking for an opening. Slickback raises a hand. BaldEagle has lost his eagle head.",
+    "suspectTags": [
+      "HockeyStickMan",
+      "Scallops",
+      "LittleBrownBeard",
+      "Fingerman",
+      "Slickback",
+      "BaldEagle",
+      "ThreePercentSheriff",
+      "PlaidLad",
+      "TunnelTanSpecs"
+    ]
   },
   {
     "_id": "jL30aBTN0vyg",
@@ -47424,6 +47896,27 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/XCMfOk219rxY_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "xjM9wYrcotbk",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300273",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "Vandalism"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:28:00.000Z",
+    "summary": "Police spray the mob. PippiLongScarf covers his mouth with his hand. Others duck.  Someone from the mob in a maroon sweatshirt brandishes a can of what looks like spray.  To the left of the tunnel, someone is trying to break the upper window panel, even though the lower one is already broken.",
+    "suspectTags": [
+      "OrangeHoodieRedHat",
+      "Caveman",
+      "PippiLongScarf",
+      "Slickback"
+    ]
   },
   {
     "_id": "4fEoL67lgkdo",
@@ -48185,6 +48678,27 @@
     }
   },
   {
+    "_id": "-D0xoZUoEtC0",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300295",
+    "location": {
+      "lat": 38.889866,
+      "lng": -77.0098835
+    },
+    "locationName": "Capitol Exterior West:\n  Left of Tunnel Window",
+    "otherTags": [
+      "SeditionTheft"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:32:00.000Z",
+    "summary": "At the window to the left of the Tunnel BlackHatStripedBuff is filming again, with LittleBrownBeard immediately behind him, BuffLightYear helps another insurrectionist steal a chair from the office window that was broken into. Others look on, including BluePatch, who is inside the Capitol in the window to the left of the tunnel entrance.",
+    "suspectTags": [
+      "BlackHatStripedBuff",
+      "LittleBrownBeard",
+      "BuffLightYear",
+      "BluePatch"
+    ]
+  },
+  {
     "_id": "-Xv5mhkegjPY",
     "location": {
       "lat": 38.8901,
@@ -48558,6 +49072,27 @@
       "videoId": "qEz07OoWhhw",
       "thumbnailUrl": "https://img.youtube.com/vi/qEz07OoWhhw/default.jpg"
     }
+  },
+  {
+    "_id": "a5ivKwLBooaQ",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300292",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:34:00.000Z",
+    "summary": "Gina Bisignano is inside the Capitol, leaning out the window to the left of the tunnel entrance.",
+    "suspectTags": [
+      "BlackHatStripedBuff",
+      "GinaBisignano",
+      "WhitePowerPuff",
+      "OrangeHoodieRedHat",
+      "NeonFilmer",
+      "DJBrawnyBaton"
+    ]
   },
   {
     "_id": "k5oTztrE8lpM",
@@ -48957,6 +49492,30 @@
       "videoId": "WmV_7W4em5A",
       "thumbnailUrl": "https://img.youtube.com/vi/WmV_7W4em5A/default.jpg"
     }
+  },
+  {
+    "_id": "jdg8dMISohA8",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300297",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:37:00.000Z",
+    "summary": "People stand across the window to the left of the tunnel, and the mob begins to reform at the tunnel mouth - although sparser than it was.",
+    "suspectTags": [
+      "BlackHatStripedBuff",
+      "GinaBisignano",
+      "NeonFilmer",
+      "PippiLongScarf",
+      "GasMaskBatman",
+      "YellowScarfYeti",
+      "Slickback",
+      "BuffLightYear",
+      "TweedleDumb"
+    ]
   },
   {
     "_id": "juA88FbOIryM",
@@ -49564,6 +50123,27 @@
     }
   },
   {
+    "_id": "m6yyddbRkr4g",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300271",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "SeditionCommsUse"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:45:00.000Z",
+    "summary": "GreenNewsboy, standing to the right of the tunnel entrance appears to be talking into his phone like a comms device. A wide angle view showing the tunnel entrance and windows adjacent as well as the  Upper Terrace above and the Rotunda.",
+    "suspectTags": [
+      "GreenNewsboy",
+      "GinaBisignano",
+      "OrangeHoodieRedHat",
+      "PippiLongScarf"
+    ]
+  },
+  {
     "_id": "qc0vFWWXgh9U",
     "location": {
       "lat": 38.8902337,
@@ -49630,6 +50210,44 @@
       "videoUrl": "https://d2hxwnssq7ss7g.cloudfront.net/VSBG3TilomZ3_cvt.mp4",
       "contentType": "video/mp4"
     }
+  },
+  {
+    "_id": "H5LHFpVu0hvw",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300272",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [
+      "SeditionCommsUse"
+    ],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:46:00.000Z",
+    "summary": "A flashbang. The mob crowds entrance arch, but there are fewer people in the mob now. Someone in tactical gear at the far left side of the photo appears to be on comms or a phone.",
+    "suspectTags": [
+      "OrangeHoodieRedHat",
+      "PippiLongScarf",
+      "BuffLightYear"
+    ]
+  },
+  {
+    "_id": "Y5ND4vUYshQ0",
+    "imageUrl": "https://www.pacificpressagency.com/preview/1300270",
+    "location": {
+      "lat": 38.8898151,
+      "lng": -77.0098825
+    },
+    "locationName": "Capitol Exterior West:\n  Tunnel Entrance",
+    "otherTags": [],
+    "rationale": "Photo metadata",
+    "realTimeStart": "2021-01-06T21:46:00.000Z",
+    "summary": "Tear gas pouring out of the arch entrace tunnel. The mob (now a bit sparse) is ducking.",
+    "suspectTags": [
+      "ZipTieNYCGuy",
+      "OrangeHoodieRedHat",
+      "GasMaskBatman"
+    ]
   },
   {
     "_id": "bs3Db3YSIm2Q",
