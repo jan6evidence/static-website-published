@@ -35893,7 +35893,7 @@
       "GasHat",
       "HellishHansen",
       "MarineHatMask",
-      "OuttaHereGrayHood",
+      "OuttaHereGreyHood",
       "FullCamoKneePads"
     ],
     "videoEndTimepoint": 77,
@@ -46724,7 +46724,7 @@
       "OrangeHoodieRedHat",
       "AscendDad",
       "BlackHatStripedBuff",
-      "BlueJacketTunnelRescue"
+      "SleepyPB"
     ],
     "videoEndTimepoint": 711,
     "videoStartTimepoint": 580,
@@ -46753,7 +46753,7 @@
       "HighFiveCowboy",
       "BaldEagle",
       "ThreePercentSheriff",
-      "OuttaHereGrayHood",
+      "OuttaHereGreyHood",
       "FullCamoKneePads",
       "BullhornLady",
       "SeattleUWGuy",
@@ -46778,7 +46778,7 @@
       "Caveman",
       "HighFiveCowboy",
       "YellowScarfYeti",
-      "OuttaHereGrayHood"
+      "OuttaHereGreyHood"
     ]
   },
   {
@@ -47037,7 +47037,7 @@
     "suspectTags": [
       "BigBadSamaritan",
       "BadSamaritanGrey",
-      "BlueJacketTunnelRescue",
+      "SleepyPB",
       "LittleBrownBeard",
       "HarleyJacketBatonMan",
       "Fingerman",
@@ -47143,7 +47143,7 @@
       "CatSweat",
       "Fingerman",
       "ThreePercentSheriff",
-      "BlueJacketTunnelRescue",
+      "SleepyPB",
       "Caveman",
       "HighFiveCowboy",
       "WindowBreaker"
@@ -47353,7 +47353,7 @@
       "NeonFilmer",
       "HighFiveCowboy",
       "OrangeHoodieRedHat",
-      "BlueJacketTunnelRescue",
+      "SleepyPB",
       "Slickback",
       "HockeyStickMan",
       "ViperCap"
@@ -47377,7 +47377,7 @@
       "HighFiveCowboy",
       "BlackHatStripedBuff",
       "LittleBrownBeard",
-      "BlueJacketTunnelRescue"
+      "SleepyPB"
     ],
     "videoEndTimepoint": 91,
     "videoStartTimepoint": 23,
@@ -47414,7 +47414,7 @@
     "summary": "As some of the mob falls on the top of the Tunnel Steps, others, including #fingerman attack the police line with sticks.",
     "suspectTags": [
       "LittleBrownBeard",
-      "BlueJacketTunnelRescue",
+      "SleepyPB",
       "Fingerman",
       "OrangeHoodieRedHat",
       "PlaidLad",
@@ -55542,7 +55542,7 @@
     "otherTags": [],
     "summary": "BlueJacketTunnelRescue comes out of Tunnel; moves to between RedHairLoookerLady and BullhornLady where BrimmedHelmet tends to him",
     "suspectTags": [
-      "BlueJacketTunnelRescue",
+      "SleepyPB",
       "RedHairLookerLady",
       "BullhornLady",
       "BrimmedHelmet"
@@ -56565,7 +56565,7 @@
     "otherTags": [],
     "summary": "crouched in tunnel opening during rescue",
     "suspectTags": [
-      "BlueJacketTunnelRescue"
+      "SleepyPB"
     ]
   },
   {
