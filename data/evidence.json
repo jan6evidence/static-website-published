@@ -11240,10 +11240,11 @@
     ],
     "videoEndTimepoint": 525,
     "videoStartTimepoint": 0,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -11945,10 +11946,11 @@
     "suspectTags": [],
     "videoEndTimepoint": 571,
     "videoStartTimepoint": 525,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -12433,10 +12435,11 @@
     ],
     "videoEndTimepoint": 683,
     "videoStartTimepoint": 571,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -12892,10 +12895,11 @@
     ],
     "videoEndTimepoint": 788,
     "videoStartTimepoint": 683,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -13260,10 +13264,11 @@
     ],
     "videoEndTimepoint": 3823,
     "videoStartTimepoint": 788,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -20740,10 +20745,11 @@
     ],
     "videoEndTimepoint": 4540,
     "videoStartTimepoint": 3823,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -22378,10 +22384,11 @@
     ],
     "videoEndTimepoint": 5137,
     "videoStartTimepoint": 4540,
-    "videoUrl": "https://mega.nz/file/oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8",
+    "videoUrl": "https://youtube.com/watch?v=wUmomtBJg0U",
     "videoDetails": {
-      "type": "megavideo",
-      "videoId": "oFk1QQjKhisFQxy-hc-Meyq_G_nIhLqseBPCYNibVzCL1gkMJk8"
+      "type": "youtube",
+      "videoId": "wUmomtBJg0U",
+      "thumbnailUrl": "https://img.youtube.com/vi/wUmomtBJg0U/default.jpg"
     }
   },
   {
@@ -43284,6 +43291,40 @@
     }
   },
   {
+    "_id": "h4Z-mQAG4rh0",
+    "location": {
+      "lat": 38.8898088,
+      "lng": -77.0100205
+    },
+    "locationName": "Capitol Exterior West:\n  Lower West Terrace",
+    "otherTags": [],
+    "rationale": "The 17:19 mark of this footage ( <https://www.youtube.com/watch?v=oyVoqMsC0AM> ) aligns with this image from Lev Radin <https://www.pacificpressagency.com/preview/1300309> which has s timestamp of 16:08:08. As a point of reference, note the position of the American flag waving, the man leaning out of the arch to the left, the man wincing as he is struck with a riot shield in the back of the head at the tunnel entrance, and the hand of the man reaching up to the people standing on the ledge at the right of the tunnel.   \n  \nThis alignment would mean the start time of the video is 15:50:49. However an adjustment is needed. To align with official police bodycam footage I am adding 13 seconds to the time, as Lev's photos appear to be 13 seconds behind the timestamps given by Police bodycam footage here ( <https://videos.dailymail.co.uk/video/mol/2021/01/29/6324640436131377178/640x360_MP4_6324640436131377178.mp4> ) -- refer to notes on BCP Storm Part 9 for more details on why this is the case. Therefore the final timestamp is 15:51:04",
+    "realTimeEnd": "2021-01-06T21:22:00.000Z",
+    "realTimeStart": "2021-01-06T20:51:00.000Z",
+    "summary": "Title: Washington protest  \n  \nChannel: Alyssa Hartwell  \n  \nA long, continuous piece of footage showing the Lower West Terrace and Tunnel Entrance activity from a further, but straight on vantage.",
+    "suspectTags": [
+      "GreenNewsboy",
+      "GinaBisignano",
+      "OrangeHoodieRedHat",
+      "PippiLongScarf",
+      "BaldEagle",
+      "NeonFilmer",
+      "Slickback",
+      "BullhornLady",
+      "BuffLightYear",
+      "TunnelCommander",
+      "LeatherHanesHisWay"
+    ],
+    "videoEndTimepoint": 1861,
+    "videoStartTimepoint": 0,
+    "videoUrl": "https://youtube.com/watch?v=oyVoqMsC0AM",
+    "videoDetails": {
+      "type": "youtube",
+      "videoId": "oyVoqMsC0AM",
+      "thumbnailUrl": "https://img.youtube.com/vi/oyVoqMsC0AM/default.jpg"
+    }
+  },
+  {
     "_id": "mWFIne5x4pH4",
     "location": {
       "lat": 38.8898151,
@@ -56019,7 +56060,7 @@
     "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 71    \n- That kid walks a police motorcycle back under a tarp. OldFashNS walks past.",
     "suspectTags": [
       "OldFashNS",
-      "TowerGecko"
+      "YellowTipSprayer"
     ],
     "videoEndTimepoint": 1417,
     "videoStartTimepoint": 1389,
@@ -62708,7 +62749,7 @@
     "otherTags": [],
     "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 66    \n- Another quick cut and the scene continues.  \n- TowerGecko at bottom right at 22:12.",
     "suspectTags": [
-      "TowerGecko"
+      "YellowTipSprayer"
     ],
     "videoEndTimepoint": 1344,
     "videoStartTimepoint": 1319,
@@ -62791,7 +62832,7 @@
     "otherTags": [],
     "summary": "4K Footage of Trump Supporters Storm Capitol Building during January 6 Insurrection by SCNRbot  \nShot 69    \n- A man in red appears to be cleaning his eyes and face.   \n- We also get a good view of TowerGecko and what appears to be a teammate. They are wearing Ororo brand vests.",
     "suspectTags": [
-      "TowerGecko",
+      "YellowTipSprayer",
       "InGodITrustRioter"
     ],
     "videoEndTimepoint": 1370,
