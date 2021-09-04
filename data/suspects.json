@@ -881,29 +881,6 @@
     "_id": "0zNilq4Hwicc"
   },
   {
-    "actionsSummary": "Went to the Capitol with his mother.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Young male with long dark hair. Wearing dark colored coat and pants.",
-    "arrestDate": "2021-07-20T04:00:00.000Z",
-    "arrestState": "IN",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-530",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Antony%20Vo%20Statement%20of%20Facts.pdf",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "AnthonyVo",
-    "profileLeads": [],
-    "realName": "VO, Anthony",
-    "_id": "QbdqQRkg8hLA"
-  },
-  {
     "actionsSummary": "Took photos of himself inside the Capitol Rotunda.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo sweatshirt and neck gaiter. Army green backpack. Black beanie. Scruffy brown beard.",
@@ -984,6 +961,29 @@
     "profileLeads": [],
     "realName": "LUNYK, Anton",
     "_id": "UUFjMlMyEngs"
+  },
+  {
+    "actionsSummary": "Went to the Capitol with his mother.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Young male with long dark hair. Wearing dark colored coat and pants.",
+    "arrestDate": "2021-07-20T04:00:00.000Z",
+    "arrestState": "IN",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-530",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Antony%20Vo%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AntonyVo",
+    "profileLeads": [],
+    "realName": "VO, Antony",
+    "_id": "7zXuDYZ3EsUs"
   },
   {
     "actionsSummary": "Harasses a female Dutch reporter in the media pen on the SE lawn. Says that part of his job is \"gettin' in your face.\" Also participates in #MediaSmash in NE Media Pen.",
@@ -6733,29 +6733,6 @@
     "profileLeads": [],
     "realName": "PRIOLA, Christine",
     "_id": "539_L6YRUp2A"
-  },
-  {
-    "actionsSummary": "Entered NW Doors, exited through Columbus Doors. Smoked a cigarette inside the Capitol",
-    "alternateHashtags": [],
-    "appearanceSummary": "Red white and blue striped kint cap with pom-pom, glasses, short beard, blue button up shirt and blue fleece(?) vest",
-    "arrestDate": "2021-08-30T04:00:00.000Z",
-    "arrestState": "TN",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-00582-GMH",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Michael%20Cunningham%20Statement%20of%20Facts.pdf",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "ChristopherCunningham",
-    "profileLeads": [],
-    "realName": "CUNNINGHAM, Christopher Michael",
-    "_id": "rlMwd-zXov5U"
   },
   {
     "actionsSummary": "Confidential source provided law enforcement with screenshots of Facebook posts/messages of Jan. 6 and photos of Kelly apparently inside the Capitol building",
@@ -12949,10 +12926,17 @@
     "_id": "7P-rq_vTkonY"
   },
   {
-    "actionsSummary": "Seen inside Capitol when people are pushed out of Rotunda, shouts \"Good push!\" to officers",
-    "alternateHashtags": [],
-    "appearanceSummary": "Dark blue Trump knit hat. Under that is brown (?) hair with a receding hairline. Eyeglasses with black frames. Very short dark beard and mustache. Black vest with a high collar over a dark teal long-sleeve shirt.",
+    "actionsSummary": "Entered NW Doors, exited through Columbus Doors. Smoked a cigarette inside the Capitol\nSeen inside Capitol when people are pushed out of Rotunda, shouts \"Good push!\" to officers",
+    "alternateHashtags": [
+      "ChristopherCunningham"
+    ],
+    "appearanceSummary": "Dark blue Trump knit hat. Under that is brown (?) hair with a receding hairline. Eyeglasses with black frames. Very short dark beard and mustache. Black vest with a high collar over a dark teal long-sleeve shirt.\nRed white and blue striped kint cap with pom-pom, glasses, short beard, blue button up shirt and blue fleece(?) vest",
+    "arrestDate": "2021-08-30T04:00:00.000Z",
+    "arrestState": "TN",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00582-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Michael%20Cunningham%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -12963,6 +12947,7 @@
     ],
     "primaryHashtag": "GoodPushArthur",
     "profileLeads": [],
+    "realName": "CUNNINGHAM, Christopher Michael",
     "_id": "0BWWzjigkmdY"
   },
   {
@@ -16785,10 +16770,10 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "JacksonKostlosky",
+    "primaryHashtag": "JacksonKostolsky",
     "profileLeads": [],
     "realName": "KOSTOLSKY, Jackson",
-    "_id": "ypiZgBDMUoTo"
+    "_id": "J5DmYAMJgoOk"
   },
   {
     "actionsSummary": "Trips officer using barricade.",
@@ -26836,29 +26821,6 @@
     "_id": "2kZWVaakopEs"
   },
   {
-    "actionsSummary": "Entered Capitol and posted about it on Facebook.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Woman with a red KAG baseball cap. Arched eyebrows. Appears to wear a red and white stars and stripes scarf.",
-    "arrestDate": "2021-01-17T05:00:00.000Z",
-    "arrestState": "NJ",
-    "associates": [],
-    "caseIdentifier": "1:21-cr-43",
-    "caseStatus": "Indicted",
-    "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/abual-ragheb-rasha-n",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "RashaAbualRagheb",
-    "profileLeads": [],
-    "realName": "ABUAL-RAGHEB, Rasha N.",
-    "_id": "o12Yp4gJAmW0"
-  },
-  {
     "alternateHashtags": [],
     "appearanceSummary": "Poorly-lit picture, so the details are lacking. Black knit cap. Dark sunglasses. Brown or reddish brown beard (and mustache?). Brown (?) hoodie. Khaki backpack?",
     "associates": [],
@@ -29605,7 +29567,9 @@
     "_id": "rpMcROeqAkOo"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "DiscountTywin"
+    ],
     "appearanceSummary": "Older man with short, gray hair that has a receded hairline. Clean-shaven. Black hoodie.",
     "associates": [],
     "isLawEnforcement": false,
@@ -32972,14 +32936,23 @@
     "_id": "7JuqFL3b8l5s"
   },
   {
-    "alternateHashtags": [],
-    "appearanceSummary": "Middle-aged woman with hair that looks like it was dyed purple or dark red. Sometimes wears a red baseball cap. Red and white scarf around her head. Red (fleece?) jacket with white piping and a white logo on the left breast. It appears to include the Olympic rings. Around her neck and hanging in front of her is a blue lanyard with \"Trump\" repeated in white letters.",
+    "actionsSummary": "Entered Capitol and posted about it on Facebook.",
+    "alternateHashtags": [
+      "RashaAbualRagheb"
+    ],
+    "appearanceSummary": "Middle-aged woman with hair that looks like it was dyed purple or dark red. Sometimes wears a red baseball cap. Red and white scarf around her head. Red (fleece?) jacket with white piping and a white logo on the left breast. It appears to include the Olympic rings. Around her neck and hanging in front of her is a blue lanyard with \"Trump\" repeated in white letters. \n\nWoman with a red KAG baseball cap. Arched eyebrows. Appears to wear a red and white stars and stripes scarf.",
+    "arrestDate": "2021-01-17T05:00:00.000Z",
+    "arrestState": "NJ",
     "associates": [],
+    "caseIdentifier": "1:21-cr-43",
+    "caseStatus": "Plea Deal",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/abual-ragheb-rasha-n",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
     "primaryHashtag": "TilaMagila",
     "profileLeads": [],
+    "realName": "ABUAL-RAGHEB, Rasha N.",
     "_id": "4ow67kQs8gqs"
   },
   {
