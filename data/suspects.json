@@ -8730,7 +8730,9 @@
   },
   {
     "actionsSummary": "Posted photos from inside the Capitol which depict the officer inside the House Chamber aiming his firearm at rioters in the corridor just outside. Among the crowd who is stopped by police outside the House Chamber and who attempt to breach the doors to the House. She also climbs on top of one of the cars on the East side of the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "SeditionInsider0055 #SeditionInsider55"
+    ],
     "appearanceSummary": "Wearing a multi-colored jacket and a camouflage-style “beanie” hat. Dark colored shirt and jeans. Carries a cell phone in a purple case.",
     "arrestDate": "2021-08-05T04:00:00.000Z",
     "arrestState": "PA",
@@ -10983,7 +10985,7 @@
     "arrestState": "DC",
     "associates": [],
     "caseIdentifier": "1:21-cr-118",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov//usao-dc/defendants/duong-fi",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16813,7 +16815,7 @@
     "arrestState": "AZ",
     "associates": [],
     "caseIdentifier": "1:21-cr-3",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/chansley-jacob-anthony",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -21217,7 +21219,9 @@
     "_id": "KsfHGDBCkpTA"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "\"fightthefraud\" on Parler"
+    ],
     "arrestDate": "2021-09-02T04:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
