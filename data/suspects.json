@@ -920,9 +920,12 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Black or dark blue baseball cap with a \"Trump 2020\" logo on the front. Short, black beard and mustache. Black puffer jacket, possibly over a black t-shirt. Blue and red knitted \"Trump 2020\" scarf. Light blue jeans torn at the knees and at the bottom of both front pockets. Black shoes. Seen in a livestream video and in surveillance footage using a smartphone with a white or light gray case inside the Capitol Building.",
     "arrestDate": "2021-08-31T04:00:00.000Z",
     "arrestState": "NY",
-    "associates": [],
+    "associates": [
+      "FrancisConnor"
+    ],
     "caseIdentifier": "1:21-mj-00580-ZMF",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Francis%20Connor%20and%20Antonio%20Ferrigno%20Jr%20Criminal%20Complaint.pdf",
@@ -11725,9 +11728,12 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Blue knit cap with \"Trump\" in white near the front and a US flag beneath it. Short, black or navy blue jacket. Blue and red knitted \"Trump 2020\" scarf wrapped around his neck. Dark gray (?) pants. Light brown boots.",
     "arrestDate": "2021-08-31T04:00:00.000Z",
     "arrestState": "NY",
-    "associates": [],
+    "associates": [
+      "AntonioFerrigno"
+    ],
     "caseIdentifier": "1:21-mj-00580-ZMF",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Francis%20Connor%20and%20Antonio%20Ferrigno%20Jr%20Criminal%20Complaint.pdf",
@@ -21211,6 +21217,7 @@
     "alternateHashtags": [
       "\"fightthefraud\" on Parler"
     ],
+    "appearanceSummary": "The Affidavit for Removal Proceedings shows only blurry, black-and-white pictures, which don't help with appearance notes. The affidavit says he is \"attired in a gray or dark-colored beanie/skull cap and entered the [Capitol] building, in possession of a cellular telephone.... Additionally, the individual appeared to be in possession of a flag.\" A later frame of the surveillance video reveals a \"dark jacket, and dark pants. Additionally [the affiant] observed that the individual was carrying a flag stating 'TRUMP 2020 MAKE AMERICAN GREAT AGAIN.' The handle(s) of the flag(s) was bright orange... \"",
     "arrestDate": "2021-09-02T04:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
