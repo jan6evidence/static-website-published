@@ -3162,6 +3162,10 @@
     "otherTags": [
       {
         "type": "group",
+        "name": "DCBrigade"
+      },
+      {
+        "type": "group",
         "name": "TwistedTeaPosse"
       },
       {
@@ -3175,7 +3179,7 @@
     ],
     "primaryHashtag": "BlackHatSprayer",
     "profileLeads": [
-      "@domoarigato00"
+      "@domoarigato00 @DianthaSol"
     ],
     "realName": "BROWN, Jeffrey Scott",
     "_id": "qk4Qms2CUlbU"
