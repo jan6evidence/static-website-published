@@ -654,7 +654,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-42",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1355916/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -4004,17 +4004,28 @@
     "actionsSummary": "In on organizer discussion around tunnel fight. Spotted inside the Capitol (Sedition Insider #1394).",
     "alternateHashtags": [],
     "appearanceSummary": "Light gray baseball cap with an orange, rectangular logo on the front. Dark green gaiter around his neck. Blue \"Trump 2020\" hoodie. Gray gloves. Carries a shoulder bag that has a black strap.",
+    "arrestDate": "2021-09-08T04:00:00.000Z",
+    "arrestState": "SC",
     "associates": [
       "DerekGunby"
     ],
+    "caseIdentifier": "6:21-cr-00578-KFM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://htv-prod-media.s3.amazonaws.com/files/lollis-1631138323.pdf",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1NWvdzEfuWC9rsKa9fIIX6kdD7Rwibtw9izHmNhuclsI/edit?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BlueHoodieGreyHat",
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "LOLLIS, James Jr.",
     "_id": "otZ8JTqk0pZ0"
   },
   {
@@ -7101,7 +7112,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-cr-159",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353311/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9462,9 +9473,15 @@
     "actionsSummary": "Part of a group of people with 3P insignia who move together, seen at end of day on north side near police line. Enters Capitol through window, discusses something with others, and runs down the hallway.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo \"Trump\" baseball cap with part of a US flag along the right edge of the bill. Large eyebrows and a dark scruff for a beard and mustache. In one video still he appears to be wearing eyeglasses, and in one picture they look like clear plastic shop goggles or maybe sports glasses hooked to his vest. Gaiter usually kept under his chin, but otherwise worn to show black fabric over the face and a black and white stars and stripes design on the back of his head. Black hoodie with a camo logo on the front, sometimes with the hood up over the hat. Light brown tactical vest that covers the front and back. The vest has three patches on the top front: a black and white US flag with a single, horizontal red stripe in the middle; a red and black III% sign; and a yellow snake flag with the extra words \"1776 America\". Beneath the patches are the aforementioned glasses and a pair of crooked black scissors. Camo pants. Brown boots. Recorded using a smartphone inside the Capitol.",
+    "arrestDate": "2021-09-09T04:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
-    "isLawEnforcement": false,
+    "caseIdentifier": "Case 1:21-mj-00588-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235395/gov.uscourts.dcd.235395.1.1.pdf",
+    "isLawEnforcement": true,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "group",
@@ -9487,6 +9504,7 @@
     "profileLeads": [
       "@DianthaSol"
     ],
+    "realName": "BRANNAN, Cory Ray",
     "_id": "H857G1Yu4lIs"
   },
   {
@@ -10497,7 +10515,7 @@
     "arrestState": "UT",
     "associates": [],
     "caseIdentifier": "1:21-mj-370",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.documentcloud.org/documents/20616375-wilson-affidavit",
     "compositeURL": "https://drive.google.com/file/d/1kz_sYR821NwvdKbQ_vhJ25kj1nVzoyt8/view?usp=sharing",
     "fbiIdentifier": "87-AFO",
@@ -11267,7 +11285,7 @@
       "FlagFailure",
       "HoundstoothHookup"
     ],
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1428151/download",
     "compositeURL": "https://drive.google.com/file/d/168P5RQGPCIGSxnt0Pu4LTRca0tyFsNVC/view?usp=sharing",
     "fbiIdentifier": "399-AFO",
@@ -11383,12 +11401,14 @@
   },
   {
     "actionsSummary": "Strikes at officers on the West Plaza with a flag pole.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Green or tan colored hoodie. Crew cut and beard.",
+    "alternateHashtags": [
+      "TinyEarsTinyWhiskers"
+    ],
+    "appearanceSummary": "Green or tan colored hoodie. Crew cut and beard.\nRed baseball cap, probably with writing on the front. Faint beard and mustache. Light-colored shirt or jacket",
     "associates": [],
     "fbiIdentifier": "400-AFO",
     "isLawEnforcement": false,
-    "isMpdSuspect": false,
+    "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
@@ -11667,6 +11687,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Blurry picture. Red baseball cap, possibly with a logo on the front. Black mask over lower half of his face, possibly with a red design on the left side and a white design or word at the center. Black jacket over a black hoodie. Khaki pants. Dark footwear.",
     "associates": [],
+    "fbiIdentifier": "433-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -15802,7 +15823,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-254",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/scavo-frank-j",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
@@ -16882,7 +16903,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:21-cr-155",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356971/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17555,7 +17576,7 @@
       "ChrisSpencer"
     ],
     "caseIdentifier": "1:21-cr-147",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jenny%20Spencer%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19369,6 +19390,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black motorcycle helmet with a white, oval-shaped logo on the forehead. When the visor is up he appear to be an older, white man. Short brown coat over a gray hoodie. Beige or khaki-colored gloves. Blue jeans.",
     "associates": [],
+    "fbiIdentifier": "434-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -27944,7 +27966,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-309",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1367016/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -28431,8 +28453,10 @@
   },
   {
     "actionsSummary": "Seen shaking a tambourine in the Statuary Hall.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Red baseball cap. Long dark hair. Dark green coat with fur-lined hood. Black gloves and boots. Dark blue backpack. Dark pants. Carried a tambourine.",
+    "alternateHashtags": [
+      "TomatoKuato"
+    ],
+    "appearanceSummary": "Woman in red baseball cap with long, straight, brown hair. Dark green (brown tint) coat with fur-lined hood with black torso. Black gloves and boots. Dark blue backpack. Dark pants. Carried a tambourine.",
     "arrestDate": "2021-03-23T04:00:00.000Z",
     "arrestState": "NY",
     "associates": [],
@@ -30559,13 +30583,15 @@
     "_id": "KiOH6f2VQsUk"
   },
   {
-    "actionsSummary": "Violent based on AFO designation.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Stars and stripes Trump baseball cap with a red front and bill. Short, dark beard and mustache. Dull green hooded coat from Carhartt. Blue jeans.",
+    "actionsSummary": "Violent based on AFO designation and Known from MPD Wanted list",
+    "alternateHashtags": [
+      "WishIWasFishin"
+    ],
+    "appearanceSummary": "Stars and stripes Trump baseball cap, blue left side with white stars with a red front and bill. The front has \"Trump\" in black letters over smaller white letters. Dark, full short, beard and mustache. Dull green or grey hooded coat from Carhartt. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "152-AFO",
     "isLawEnforcement": false,
-    "isMpdSuspect": false,
+    "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
@@ -33037,18 +33063,6 @@
     "_id": "bXGjW1PIwlpU"
   },
   {
-    "actionsSummary": "Known only from MPD Wanted list",
-    "alternateHashtags": [],
-    "appearanceSummary": "Blurry picture. Red baseball cap, probably with writing on the front. Faint beard and mustache. Light-colored shirt or jacket.",
-    "associates": [],
-    "isLawEnforcement": false,
-    "isMpdSuspect": true,
-    "otherTags": [],
-    "primaryHashtag": "TinyEarsTinyWhiskers",
-    "profileLeads": [],
-    "_id": "I5dfT7n3gjn4"
-  },
-  {
     "alternateHashtags": [],
     "appearanceSummary": "Black baseball cap with red and white stripes on the right side of the bill. The front of the cap says \"God, Guns, Trump\" in white letters. Brown beard and mustache. Bright blue gaiter. One picture shows clear swim goggles (?) around his neck but sitting at the back. Dark blue short-sleeved t-shirt over a camo long-sleeved top. The right sleeve of the t-shirt has a US flag on it, and the front says \"Patriotism is not a ...\". Has a black backpack with a clear straw over the right shoulder. Light colored pants? Seen using a small red bullhorn.",
     "associates": [],
@@ -33081,17 +33095,6 @@
     "primaryHashtag": "TinyPercent",
     "profileLeads": [],
     "_id": "0q7sOdSLkh9w"
-  },
-  {
-    "alternateHashtags": [],
-    "appearanceSummary": "Woman with long, straight, brown hair. Dark brown coat with a black torso. Black gloves. Also recorded rattling a green tambourine just outside the Capitol Building.",
-    "associates": [],
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [],
-    "primaryHashtag": "TomatoKuato",
-    "profileLeads": [],
-    "_id": "jFrykq9iMtLk"
   },
   {
     "actionsSummary": "Climbed wall of Capitol grounds via a rope. Entered Senate Chamber, pictured next to Jacob Chansley at the Presiding Officer's Desk. Took flag from inside the Senate Chamber. (Was later returned by a CPD officer,) Allegedly removed documents from the Senate Chamber, destroyed them when he returned home.",
@@ -35744,18 +35747,6 @@
     "profileLeads": [],
     "realName": "ST CYR, Yvonne",
     "_id": "M0UgQE4lgm58"
-  },
-  {
-    "actionsSummary": "Known from MPD Wanted list",
-    "alternateHashtags": [],
-    "appearanceSummary": "Baseball cap with a red front and a blue left side with white stars. The front has \"Trump\" in black letters over smaller white letters. Dark, full beard and mustache. Gray hooded coat. Blue jeans.",
-    "associates": [],
-    "isLawEnforcement": false,
-    "isMpdSuspect": true,
-    "otherTags": [],
-    "primaryHashtag": "WishIWasFishin",
-    "profileLeads": [],
-    "_id": "xcEEh7YZUkXI"
   },
   {
     "actionsSummary": "Participates in meeting with police, #MaroonPB, #GnarleyParley, #EastSideStripes, and #KleenKutKen on East steps. Earlier enters with the latter three at the NE barrier breach. Known member of Vets for Trump.",
