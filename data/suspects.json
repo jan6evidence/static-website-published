@@ -10229,7 +10229,9 @@
     "appearanceSummary": "Red \"Trump 2020\" baseball cap. Stubble on chin. Green hooded jacket over a gray hooded sweatshirt.",
     "arrestDate": "2021-03-24T04:00:00.000Z",
     "arrestState": "VA",
-    "associates": [],
+    "associates": [
+      "PaulVonBernewitz"
+    ],
     "caseIdentifier": "1:21-cr-307",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download",
@@ -25162,7 +25164,9 @@
     "appearanceSummary": "Dark blue NYPD baseball cap. Five o'clock shadow. Black jacket over a brown hoodie that has a white fleece inner lining. On the right breast of the jacket is the logo of the Liberty Flames football team from Liberty University.",
     "arrestDate": "2021-03-24T04:00:00.000Z",
     "arrestState": "VA",
-    "associates": [],
+    "associates": [
+      "EricVonBernewitz"
+    ],
     "caseIdentifier": "1:21-mj-535",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download",
