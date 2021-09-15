@@ -608,7 +608,7 @@
     "arrestState": "SC",
     "associates": [],
     "caseIdentifier": "1:21-cr-98",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1360781/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29042,13 +29042,24 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Black baseball cap with a red and blue logo on the front. The center of the logo has a row of white stars and there is white writing below it. Receding hairline, dark hair. Large white t-shirt over a black puffer jacket, which is over a black or dark blue hoodie. The shirt has the words \"Give Me\" or \"Give My\" near the top, over a blue figure. Sometimes he wears the hood over his hat. Black backpack. Dark pants.",
+    "arrestDate": "2021-09-14T04:00:00.000Z",
+    "arrestState": "UT",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00596-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235413/gov.uscourts.dcd.235413.1.1_3.pdf",
     "fbiIdentifier": "423-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SenatePenguin",
     "profileLeads": [],
+    "realName": "WILSON, Gary",
     "_id": "zDM0AxRiclA4"
   },
   {
