@@ -4681,7 +4681,7 @@
       "AbramMarkofski"
     ],
     "caseIdentifier": "1:21-cr-328",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1391406/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -7228,7 +7228,7 @@
       "JenniferButeau"
     ],
     "caseIdentifier": "1:21-cr-181",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/buteau-jamie-n",
     "fbiIdentifier": "188-AFO",
     "idStatus": "ID sent to FBI",
@@ -30182,7 +30182,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-28",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1422696/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
