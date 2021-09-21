@@ -1194,7 +1194,7 @@
   {
     "actionsSummary": "On front line against police inside Capitol. Gives his self defense walking cane to #DavidKaufman who uses it to strike Officer Jeffrey Smith. Throws metal racks.",
     "alternateHashtags": [
-      "SpaceGoon #SeditionInsider1107"
+      "SpaceGoon #SeditionInsider1107 #MakeSpaceGA"
     ],
     "appearanceSummary": "Black baseball cap with \"Make Space Great Again\" embroidered in white. Glasses. Dark hair and beard. Carrying a KA-BAR 9406 TDI Self-Defense Walking Cane. Dark grey hoodie, khaki pants, black buff. Red and grey bag worn in front.",
     "associates": [],
@@ -7199,9 +7199,14 @@
     "actionsSummary": "Seen on the West Plaza and inside the Rotunda with ClingOnLady. She is always hanging onto his tactical vest.",
     "alternateHashtags": [],
     "appearanceSummary": "Black sweatshirt. Black pants with white running stripes. Red MAGA hat. Green tactical vest with an American flag patch on the left front strap. Facial hair. Bright yellow gloves.",
+    "arrestDate": "2021-09-20T04:00:00.000Z",
+    "arrestState": "KS",
     "associates": [
       "ClingOnLady"
     ],
+    "caseIdentifier": "1:21-mj-00602-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235610/gov.uscourts.dcd.235610.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -7210,12 +7215,17 @@
         "name": "EnteredCapitol"
       },
       {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
         "type": "equipment",
         "name": "HelmetOrArmor"
       }
     ],
     "primaryHashtag": "ClingOnMan",
     "profileLeads": [],
+    "realName": "ECKERMAN, Michael",
     "_id": "vJUNh6CkAnrk"
   },
   {
