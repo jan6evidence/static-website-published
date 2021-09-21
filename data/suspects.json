@@ -6298,6 +6298,29 @@
     "_id": "Q5gdlD-P0smU"
   },
   {
+    "alternateHashtags": [],
+    "arrestDate": "2021-09-14T04:00:00.000Z",
+    "arrestState": "CT",
+    "associates": [
+      "JeanLavin"
+    ],
+    "caseIdentifier": "1:21-mj-00594-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CarlyKrzywicki",
+    "profileLeads": [],
+    "realName": "KRZYWICKI, Carly",
+    "_id": "IldUWUzrgnGs"
+  },
+  {
     "actionsSummary": "At the front lines early in the standoff with police on the West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue hoodie with the words \"Carmel Rugby\" in yellow lettering on the front. Red and black work gloves. Dark face gaiter. Ball cap.",
@@ -17410,6 +17433,31 @@
     "_id": "NyqQyswyQulY"
   },
   {
+    "alternateHashtags": [
+      "SeditionInsider0318"
+    ],
+    "arrestDate": "2021-09-14T04:00:00.000Z",
+    "arrestState": "CT",
+    "associates": [
+      "CarlyKrzywicki"
+    ],
+    "caseIdentifier": "1:21-mj-00594-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JeanLavin",
+    "profileLeads": [],
+    "realName": "LAVIN, Jean",
+    "_id": "3OH5HCqWMp4w"
+  },
+  {
     "actionsSummary": "Seen in the Crypt in side the Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Shorter man. Dark coat. Ginger facial hair with grey. Army green ball cap with Gadsden flag patch on the front.",
@@ -21270,6 +21318,29 @@
     "profileLeads": [],
     "realName": "GLEFFE, Marcos",
     "_id": "T_pLwqMZompY"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2021-09-15T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [
+      "ThomasFassell"
+    ],
+    "caseIdentifier": "1:21-mj-00593-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MarilynFassell",
+    "profileLeads": [],
+    "realName": "FASSELL, Marilyn",
+    "_id": "-lAzVNkA0u1U"
   },
   {
     "actionsSummary": "Sprays LEO with chemicals in tunnel.",
@@ -28656,7 +28727,10 @@
       "RedCrowdSurfer"
     ],
     "appearanceSummary": "Red coat. Blue bandana on his neck. Ball cap with white back, blue brim with 3% logo on the front. Short clipped beard. Gray New Balance tennis shoes. Black tactical gloves with knuckle protection.",
-    "associates": [],
+    "associates": [
+      "ThreePercentSheriff",
+      "BlackCrowdSurfer"
+    ],
     "fbiIdentifier": "266-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -31631,7 +31705,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:21-cr-109",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357336/download",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
@@ -32798,6 +32872,31 @@
     "_id": "2debTdZlMqDs"
   },
   {
+    "alternateHashtags": [
+      "SeditionInsider0512"
+    ],
+    "arrestDate": "2021-09-15T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [
+      "MarilynFassell"
+    ],
+    "caseIdentifier": "1:21-mj-00593-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ThomasFassell",
+    "profileLeads": [],
+    "realName": "FASSELL, Thomas",
+    "_id": "btypUwkash8Q"
+  },
+  {
     "actionsSummary": "Took a selfie of himself inside the Capitol",
     "alternateHashtags": [],
     "appearanceSummary": "Grey shirt, ball cap",
@@ -32931,7 +33030,10 @@
     "appearanceSummary": "Large man, wearing a MAGA hat and yellow reflective tactical sunglasses. Wearing police issued Sherrif vest, with a \"3%er\" logo on the left and \"Sheriff\" on the right. Red face buff. Black metal-knuckled gloves.",
     "arrestDate": "2021-08-17T04:00:00.000Z",
     "arrestState": "TN",
-    "associates": [],
+    "associates": [
+      "ScaryCherry3P",
+      "BlackCrowdSurfer"
+    ],
     "caseIdentifier": "1:21-cr-35",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.tnmd.87375/gov.uscourts.tnmd.87375.6.0.pdf",
