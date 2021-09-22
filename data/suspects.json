@@ -2495,11 +2495,24 @@
     "actionsSummary": "Throws a brick at the North Door in same episode where #InGodITrustRioter is seen attacking door. Attempts to breach North door, attacks police",
     "alternateHashtags": [],
     "appearanceSummary": "Grey hoodie with decal on back with eagle and flag. Sometimes has greenish backpack, black buff w/ white design. Scraggly beard visible when buff is down. Stocky guy.",
+    "arrestDate": "2021-08-21T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00600-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21066374-anthony-sargent",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysFlorida"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -2511,6 +2524,7 @@
     ],
     "primaryHashtag": "BigBrickPitcher",
     "profileLeads": [],
+    "realName": "SARGENT, Anthony",
     "_id": "ln1-NZflYlWE"
   },
   {
@@ -2861,7 +2875,7 @@
     "_id": "y6lGeBwsMrBM"
   },
   {
-    "actionsSummary": "Carries baton and pepper spray, entered Capitol through NE (?) door, not purposefully, took photos. Gave interview the night of 1/5.",
+    "actionsSummary": "Carries baton and pepper spray, entered Capitol through NE (?) door, not purposefully, took photos. Gave interview the night of 1/5. Holds Capitol door open, hands out Fuck Antifa stickers and tells people to stick them up inside.",
     "alternateHashtags": [],
     "appearanceSummary": "Black tactical helmet with 3% and Punisher logos, black \"Fuck Antifa\" long-sleeved T-shirt, L sleeve has Gadsden flag R. Blue Live Matter & 2nd blue patch. Yellow Fuck Antifa stickers on helmet and sleeves. Olive green backpack, khaki pants. Goggles w/ yellow rims and grey/black gaiter cover face. Greying hair. Blue flag is 5.11 Tactical brand Virginia flag.",
     "associates": [],
@@ -2875,15 +2889,11 @@
       },
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
-      },
-      {
-        "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       },
       {
         "type": "equipment",
@@ -3131,6 +3141,7 @@
     "appearanceSummary": "Balding with reddish stubble, red MAGA hoodie over black turtleneck (or black neck gaiter) and fingerless black gloves.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1IYBNw50UMN4y4LCpPclUeMPorKZM2m4t",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -4379,8 +4390,10 @@
     "_id": "hNsDIzzeMmE8"
   },
   {
-    "actionsSummary": "As backpack that is outfitted for anything. Carries knife, duct tape, and wasp spray. Also carries a #SeditionPitchfork. Identified as violent because he is carrying weapons. He is seen at the rally and also on the West Plaza.",
-    "alternateHashtags": [],
+    "actionsSummary": "As backpack that is outfitted for anything. Carries knife, duct tape, and wasp spray. Also carries a #SeditionPitchfork. Identified as violent because he is carrying weapons. He is seen at the rally and also on the West Plaza. Caught on video repeatedly slamming a pedestrian barrier into the North Door",
+    "alternateHashtags": [
+      "NorthDoorSlammer"
+    ],
     "appearanceSummary": "Black pants. Grey hooded sweatshirt with blue lettering. Black wrist brace on his right hand. Flag gaiter. Black beanie and red MAGA ball cap. Scruffy facial hair. Orange and grey backpack with lots of gear clipped to it.",
     "associates": [],
     "isLawEnforcement": false,
@@ -6298,7 +6311,9 @@
     "_id": "Q5gdlD-P0smU"
   },
   {
+    "actionsSummary": "Entered Capitol twice. First time through Senate Wing Door where she walked through Crypt, Crypt Lobby and Visitor's Center Orientation Lobby. Spent approximately 30 minutes inside the building",
     "alternateHashtags": [],
+    "appearanceSummary": "White woman with long straight brown hair and no hat; Blue long sleeved sweatshirt with \"Trump\" on the front. Navy blue jacket tied around waist. Wears red knit cap that she takes off while inside",
     "arrestDate": "2021-09-14T04:00:00.000Z",
     "arrestState": "CT",
     "associates": [
@@ -17433,9 +17448,11 @@
     "_id": "NyqQyswyQulY"
   },
   {
+    "actionsSummary": "Entered Capitol twice. First time through Senate Wing Door where she walked through Crypt, Crypt Lobby and Visitor's Center Orientation Lobby. Spent approximately 30 minutes inside the building",
     "alternateHashtags": [
       "SeditionInsider0318"
     ],
+    "appearanceSummary": "White woman with gray hair wearing a red jacket, pink shirt, a pink hat that says “Trump” and a purple backpack. She carried a sign that had two American flags attached\nto it that read on one side, “Trump Won” and read on the opposite side, “Don’t allow 7 states of\ncheaters to hijack our election!”",
     "arrestDate": "2021-09-14T04:00:00.000Z",
     "arrestState": "CT",
     "associates": [
@@ -21320,7 +21337,9 @@
     "_id": "T_pLwqMZompY"
   },
   {
+    "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes. Took several videos and a selfie of herself smoking a cigarette inside the building.",
     "alternateHashtags": [],
+    "appearanceSummary": "White woman with long pink scarf, blue knit cap, stars and stripes jacket, white cloth mask, blue jeans and white sneakers.",
     "arrestDate": "2021-09-15T04:00:00.000Z",
     "arrestState": "FL",
     "associates": [
@@ -21594,7 +21613,7 @@
     "_id": "hrgzpoutQvE4"
   },
   {
-    "actionsSummary": "Smashed media equipment in #MediaSmash",
+    "actionsSummary": "Enters the Capitol and puts up Fuck Antifa stickers. Smashed media equipment in #MediaSmash",
     "alternateHashtags": [],
     "appearanceSummary": "Maroon hoodie, black pants, black neck gaiter, wearing binoculars around neck, black backpack.",
     "associates": [],
@@ -21602,6 +21621,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -27962,12 +27985,18 @@
     "_id": "bCgk0Fz8IqNg"
   },
   {
+    "actionsSummary": "Takes 3 jabs at Law enforcement with his flag pole. They use a police rail to try to block him. West Terrace.",
     "alternateHashtags": [],
     "appearanceSummary": "Older man. Brown coat, round sunglasses.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "RoundBrownSpecs",
     "profileLeads": [],
     "_id": "i5GKGixpQr1c"
@@ -32872,6 +32901,7 @@
     "_id": "2debTdZlMqDs"
   },
   {
+    "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes",
     "alternateHashtags": [
       "SeditionInsider0512"
     ],
