@@ -10272,31 +10272,6 @@
     "_id": "8rj_MJWmYiC8"
   },
   {
-    "actionsSummary": "Entered Capitol.",
-    "alternateHashtags": [
-      "SeditionInsider0368"
-    ],
-    "appearanceSummary": "White man wearing black coat, body armor with \"Press\" patch on it and pink respirator.",
-    "arrestDate": "2021-09-22T04:00:00.000Z",
-    "arrestState": "CA",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-00556-GMH",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "EricHerrera",
-    "profileLeads": [],
-    "realName": "HERRERA, Eric",
-    "_id": "WVoiAtuFMrrI"
-  },
-  {
     "actionsSummary": "Pictured inside the Capitol Rotunda.",
     "alternateHashtags": [],
     "appearanceSummary": "Red \"Trump 2020\" baseball cap. Stubble on chin. Green hooded jacket over a gray hooded sweatshirt.",
@@ -10320,6 +10295,31 @@
     "profileLeads": [],
     "realName": "VON BERNEWITZ, Eric",
     "_id": "Y_acBr1DImlw"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "SeditionInsider0368"
+    ],
+    "appearanceSummary": "White man wearing black coat, body armor with \"Press\" patch on it and pink respirator.",
+    "arrestDate": "2021-09-22T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00556-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ErikHerrera",
+    "profileLeads": [],
+    "realName": "HERRERA, Eric",
+    "_id": "67Q6WoLAcpaM"
   },
   {
     "actionsSummary": "Entered the Captiol with his friend, Derek Jancart.",
