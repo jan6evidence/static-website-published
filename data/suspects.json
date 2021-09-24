@@ -4710,6 +4710,29 @@
     "_id": "4AQ3vdJX8m_Y"
   },
   {
+    "alternateHashtags": [
+      "SeditionInsider640"
+    ],
+    "arrestDate": "2021-09-17T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00604-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21068083/9-17-21-us-v-brandon-prenzlin-complaint-affidavit.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BrandonPrenzlin",
+    "profileLeads": [],
+    "realName": "PREZLIN, Brandon",
+    "_id": "EQ6dyhZAUm74"
+  },
+  {
     "actionsSummary": "Engaged it the crowd outside, recorded video of himself including a selfie video. Attempted to incite others to take a police officer's shield",
     "alternateHashtags": [],
     "appearanceSummary": "Black plaid coat, blue surgical mask, black sunglasses, black winter hat.",
@@ -8745,6 +8768,29 @@
     "_id": "ySw8Z-XDcn-0"
   },
   {
+    "alternateHashtags": [
+      "SeditionInsider0920"
+    ],
+    "arrestDate": "2021-09-21T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00599-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DavidWiersma",
+    "profileLeads": [],
+    "realName": "WIERSMA, David",
+    "_id": "b_bAKdgYwnCk"
+  },
+  {
     "actionsSummary": "Took a selfie video of herself exiting the Capitol, says she climbed over a waist-high wall, went through scaffolding, entered through a broken window",
     "alternateHashtags": [],
     "appearanceSummary": "Red MAGA winter hat, grey turtle neck sweatshirt, black coat",
@@ -8768,6 +8814,29 @@
     "profileLeads": [],
     "realName": "BANCROFT, Dawn",
     "_id": "22xuSlic4t0Y"
+  },
+  {
+    "alternateHashtags": [
+      "SeditionInsider0938"
+    ],
+    "arrestDate": "2021-09-21T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00599-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DawnFrankowski",
+    "profileLeads": [],
+    "realName": "FRANKOWSKI, Dawn",
+    "_id": "00j6jFUuQvGI"
   },
   {
     "actionsSummary": "Entered the Capitol via a window near the NW Door. Went through the Capitol Crypt to the Visitor's Center, and also the Lower Small House Rotunda.  Wrote of the trespassing: \"We went in and stormed capital! ... We were in capital!! … I do mean IN the building!!....We stormed in....went in and out broken window!! They barricaded the door so they took out window...climbed in!!!”",
@@ -21843,6 +21912,29 @@
     "_id": "nsVa9N3LYrL4"
   },
   {
+    "alternateHashtags": [
+      "SeditionInsider0942"
+    ],
+    "arrestDate": "2021-09-17T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00592-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1434576/download",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MatthewBuckler",
+    "profileLeads": [],
+    "realName": "BUCKLER, Matthew Joseph",
+    "_id": "Yg6xmWfpQjtc"
+  },
+  {
     "actionsSummary": "Fought National Guardsmen outside of the Capitol",
     "alternateHashtags": [],
     "appearanceSummary": "Black hooded sweatshirt, red and white ball hat with blue brim, red facial hair; brown beaded necklace, tattoo under his right eye",
@@ -22548,6 +22640,27 @@
     "profileLeads": [],
     "realName": "TIMBROOK, Michael",
     "_id": "viMJWWldkvTs"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2021-09-17T04:00:00.000Z",
+    "arrestState": "NJ",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00591-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21067310-mick-chan",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MickChan",
+    "profileLeads": [],
+    "realName": "CHAN, Mick",
+    "_id": "zyAcgNfnwnhY"
   },
   {
     "alternateHashtags": [],
