@@ -8719,6 +8719,32 @@
     "_id": "hcKyD_9vUhM8"
   },
   {
+    "actionsSummary": "Entered Capitol through Senate Wing door. Walked through Crypt and then south through Hall of Columns before exiting the building.",
+    "alternateHashtags": [
+      "SeditionInsider1633"
+    ],
+    "appearanceSummary": "Black zip-up hoodie, jeans, tan and black baseball cap with a logo on the front. Two tone blue buff with red and white patches.",
+    "arrestDate": "2021-09-23T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00606-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Ticas%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DavidTicas",
+    "profileLeads": [],
+    "realName": "TICAS, David Antonio",
+    "_id": "ySw8Z-XDcn-0"
+  },
+  {
     "actionsSummary": "Took a selfie video of herself exiting the Capitol, says she climbed over a waist-high wall, went through scaffolding, entered through a broken window",
     "alternateHashtags": [],
     "appearanceSummary": "Red MAGA winter hat, grey turtle neck sweatshirt, black coat",
@@ -13543,10 +13569,15 @@
     "actionsSummary": "One of the #CapitolGreenTrio who moved together from the rally to the Senate floor. Rifled through Senate desks in a persistent and organized way after others had moved on.",
     "alternateHashtags": [],
     "appearanceSummary": "White female. Long red hair, blue and white headband, sunglasses, white scarf, black jacket with white stripes, dark jeans, brown shoes, yellow gloves, blue backpack, and red Trump flag hung over her right shoulder. Inside the Capitol wore a Green bike helmet.",
+    "arrestDate": "2021-09-22T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [
       "GreenPeaPitcher",
       "GreenSafetyFirst"
     ],
+    "caseIdentifier": "1:21-cr-00334-TJK",
+    "caseStatus": "Indicted",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dale%20Jeremiah%20Shalvey%20and%20Tara%20Aileen%20Stottlemyer%20Superseding%20Indictment.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -13567,6 +13598,7 @@
     "profileLeads": [
       "@rbc4l"
     ],
+    "realName": "STOTTLEMYER, Tara Aileen",
     "_id": "6SJTFri7gsM8"
   },
   {
@@ -13852,7 +13884,7 @@
     "_id": "g8BjxMNAcrlU"
   },
   {
-    "actionsSummary": "Enters the Capitol and is seen on the Senate floor. Rummages through papers on senators' desks. One member of the #CapitolGreenTrio.",
+    "actionsSummary": "Enters the Capitol and is seen on the Senate floor. Rummages through papers on senators' desks. Stole a letter from Mitt Romney to Mike Pence. Assaulted a police officer. One member of the #CapitolGreenTrio.",
     "alternateHashtags": [
       "CapitolGreenTrioShavley"
     ],
@@ -13876,6 +13908,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "equipment",
