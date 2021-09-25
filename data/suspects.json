@@ -4057,6 +4057,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black coat over a black or navy blue hoodie. May also wear a baseball cap. Gray camo backpack. Black gasmask, possibly full face. Photographed holding a meter-long, blue stick with two black ends.",
     "associates": [],
+    "fbiIdentifier": "469-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -8771,9 +8772,11 @@
     "_id": "ySw8Z-XDcn-0"
   },
   {
+    "actionsSummary": "Entered Capitol through Senate Wing door and walked around for 30 minutes. Seen in Crypt and Senate 'Wise Room'",
     "alternateHashtags": [
       "SeditionInsider0920"
     ],
+    "appearanceSummary": "Man wearing black jacket with hood, pink and teal baseball cap and vintage-style stars and stripes scarf",
     "arrestDate": "2021-09-21T04:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
@@ -8819,9 +8822,11 @@
     "_id": "22xuSlic4t0Y"
   },
   {
+    "actionsSummary": "Entered Capitol through Senate Wing door and walked around for 30 minutes. Seen in Crypt",
     "alternateHashtags": [
       "SeditionInsider0938"
     ],
+    "appearanceSummary": "Woman with long blond hair wearing light brown coat, sunglasses, white hat, fur-trimmed boots, vintage-style stars and stripes scarf",
     "arrestDate": "2021-09-21T04:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
@@ -15402,6 +15407,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black cowboy hat. Clear protective goggles. Respirator with two pink filters. Red short-sleeve shirt under black vest/jacket. Carries Trump flag with silver globe at top of pole. Backpack.",
     "associates": [],
+    "fbiIdentifier": "470-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -21916,9 +21922,11 @@
     "_id": "nsVa9N3LYrL4"
   },
   {
+    "actionsSummary": "Entered capitol through Senate Wing window, visited Crypt. Participates in chant of 'Stop The Steal'",
     "alternateHashtags": [
       "SeditionInsider0942"
     ],
+    "appearanceSummary": "Man wearing black jacket, white hood, black Trump baseball cap and blue jeans",
     "arrestDate": "2021-09-17T04:00:00.000Z",
     "arrestState": "MD",
     "associates": [],
@@ -26956,6 +26964,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Stocky. Salt and pepper mustache and beard. Wearing a radio and GoPro on his backpack chest strap.  Dark green helmet with a faded US flag on the left side and black patch on the back. The black patch looks like it has a white executioner's hood over two axes, skull-and-crossbones-style. Beneath the helmet is a gray knit cap. Sometimes wears a gray gasmask that has a round, gray canister. Other times photographed wearing black sunglasses and a black and white (?) keffiyeh over his face. When he's wearing the gasmask, the keffiyeh seems more tied to the top of his backpack than around his neck. Black long-sleeve sweatshirt with \"Carhartt\" in white along the left sleeve. Dark green backpack with a cross-strap that carries a radio on the right side and a GoPro camera on the left side. The pack has a patch on the back that features a black design that could be a crow, cat, or fox. Dark green and brown gloves. Army green cargo pants. Camo boots.",
     "associates": [],
+    "fbiIdentifier": "472-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1ZrxyctVg96U-sRK1LwqbsbXlweJ0hFFe?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27089,6 +27098,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Older white male. Black baseball cap over a do-rag, possibly in flag colors. Glasses. Blue-white gaiter. Black zip-up jacket over olive shirt. Blue jeans. Grey fanny pack.",
     "associates": [],
+    "fbiIdentifier": "471-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -34680,7 +34690,9 @@
   },
   {
     "actionsSummary": "Sprayed police during West Plaza fight, making sure to point it up under their helmets",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Also AFO 466"
+    ],
     "appearanceSummary": "Olive green knit cap. Khaki gaiter. Gray hooded puffer jacket with a bright orange inner lining. Sometimes wears a gray baseball cap.",
     "associates": [],
     "fbiIdentifier": "14C-AFO",
