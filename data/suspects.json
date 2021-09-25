@@ -1864,10 +1864,11 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-215",
-    "caseStatus": "Indicted",
+    "caseStatus": "Deceased Before Trial",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/anderson-john-steven",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -4710,9 +4711,11 @@
     "_id": "4AQ3vdJX8m_Y"
   },
   {
+    "actionsSummary": "Entered Capitol through the Upper House Door which are the second floor doors on the SE corner of the Capitol building. Remained in building for 3 minutes 35 seconds, then left. Was nearby when Ashli Babbit was loaded into an ambulance.",
     "alternateHashtags": [
       "SeditionInsider640"
     ],
+    "appearanceSummary": "White man with short black hair and beard and black-rimmed glasses wearing black overcoat over maroon polo over black tshirt, blue jeans and navy-blue shoes with dark tan\nthick gum soles.",
     "arrestDate": "2021-09-17T04:00:00.000Z",
     "arrestState": "VA",
     "associates": [],
@@ -12567,6 +12570,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black helmet. Black jacket over grey hoodie with plaid shirt at base. Tan goggled gas mask. Camouflage body armor. Brown pants.",
     "associates": [],
+    "fbiIdentifier": "468-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -22642,7 +22646,9 @@
     "_id": "viMJWWldkvTs"
   },
   {
+    "actionsSummary": "Climbed up bleachers/scaffolding on West side of Capitol. Entered Capitol through Upper West Terrace doors around 2:45pm. Walked around Rotunda until forced to leave.",
     "alternateHashtags": [],
+    "appearanceSummary": "Asian man wearing black shirt, white jacket, a red baseball cap worn backwards, black jeans and goggles.",
     "arrestDate": "2021-09-17T04:00:00.000Z",
     "arrestState": "NJ",
     "associates": [],
