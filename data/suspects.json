@@ -9105,6 +9105,7 @@
     "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Air Force",
     "otherTags": [
       {
         "type": "behavior",
@@ -17001,6 +17002,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black jacket and beanie, which may have \"TRUMP\" on brim. Yellow gaiter.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
