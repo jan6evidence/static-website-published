@@ -9519,7 +9519,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-115",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/gonzalez-eduardo-nicolas-alvear",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16999,7 +16999,9 @@
   },
   {
     "actionsSummary": "Trips officer using barricade.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "SeditionInsider1889"
+    ],
     "appearanceSummary": "Black jacket and beanie, which may have \"TRUMP\" on brim. Yellow gaiter.",
     "associates": [],
     "idStatus": "ID sent to FBI",
