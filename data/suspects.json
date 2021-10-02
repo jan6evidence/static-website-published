@@ -13013,7 +13013,9 @@
   },
   {
     "actionsSummary": "Per his own testimony, provided security for VIPs at rally. Was on restricted ground outside Capitol. Had to be physically pushed backwards by police.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "JeremyBrown"
+    ],
     "appearanceSummary": "White man with greying brown hair and beard. Wearing tan cap, protective glasses, camouflage outfit, armored vest with flag patch, comms at throat, multiple pouches and scissors strapped to the front, tan and brown gloves, black wristwatch on left wrist.",
     "arrestDate": "2021-10-01T04:00:00.000Z",
     "arrestState": "FL",
@@ -22056,7 +22058,7 @@
     "arrestState": "MO",
     "associates": [],
     "caseIdentifier": "1:21-mj-311",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
