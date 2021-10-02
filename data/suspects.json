@@ -208,9 +208,14 @@
     "actionsSummary": "Stole escape hood, safety equipment for evacuating lawmakers",
     "alternateHashtags": [],
     "appearanceSummary": "Full head of dark hair, but not terribly long. Dark mustache and thin beard that follows the whole jawline (more than AirHeadBoyTwin's does). Red, black, and gray plaid hoodie with black cuffs and black lining. Beneath that is a gray t-shirt with a large picture on it in pastel colors. (Might be a 50's diner.) In one picture he has a different red and black plaid jacket over the aforementioned hoodie which has its hood up. Backpack with bright red straps. Dark pants (black jeans?). Recorded leaving the Capitol Building wearing a clear plastic helmet used by Congress Members in emergencies, which is how he got his name. Always seen in the company of AirheadLady. Not to be confused with AirheadBoyTwin.",
+    "arrestDate": "2021-10-01T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [
       "AirHeadLady"
     ],
+    "caseIdentifier": "1:21-mj-00586-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21074229/mooney-rondon.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -225,6 +230,7 @@
     ],
     "primaryHashtag": "AirHeadBoy",
     "profileLeads": [],
+    "realName": "RONDON, Rafael",
     "_id": "itp7bl4_8i0I"
   },
   {
@@ -242,9 +248,14 @@
     "actionsSummary": "Stole escape hood, safety equipment for evacuating lawmakers",
     "alternateHashtags": [],
     "appearanceSummary": "Female. Long brown curly hair. Black & white patterned shirt. Black puffer coat. Black pants.",
+    "arrestDate": "2021-10-01T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [
       "AirHeadBoy"
     ],
+    "caseIdentifier": "1:21-mj-00586-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21074229/mooney-rondon.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -259,6 +270,7 @@
     ],
     "primaryHashtag": "AirHeadLady",
     "profileLeads": [],
+    "realName": "MOONEY-RONDON, Maryann",
     "_id": "NloaGCFM8qrY"
   },
   {
@@ -12998,6 +13010,44 @@
     "primaryHashtag": "GoateeBabyThor",
     "profileLeads": [],
     "_id": "AdtROgpnMm0c"
+  },
+  {
+    "actionsSummary": "Per his own testimony, provided security for VIPs at rally. Was on restricted ground outside Capitol. Had to be physically pushed backwards by police.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with greying brown hair and beard. Wearing tan cap, protective glasses, camouflage outfit, armored vest with flag patch, comms at throat, multiple pouches and scissors strapped to the front, tan and brown gloves, black wristwatch on left wrist.",
+    "arrestDate": "2021-10-01T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00619-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Statement%20of%20Facts.pdf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "OathKeepers"
+      },
+      {
+        "type": "group",
+        "name": "RallySecurity"
+      },
+      {
+        "type": "equipment",
+        "name": "EarpieceOrRadio"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "GoatOK",
+    "profileLeads": [
+      "@CTExposers"
+    ],
+    "realName": "BROWN, Jeremy",
+    "_id": "WPJWZk_pwli0"
   },
   {
     "actionsSummary": "Observed near tunnel fight. Frequent white power gestures.",
