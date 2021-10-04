@@ -33774,6 +33774,10 @@
         "name": "OrangeTapeGroup"
       },
       {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
         "type": "equipment",
         "name": "HelmetOrArmor"
       }
@@ -33829,6 +33833,10 @@
       {
         "type": "group",
         "name": "ProudBoysNew York"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "equipment",
