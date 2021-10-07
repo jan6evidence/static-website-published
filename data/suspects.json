@@ -20569,7 +20569,12 @@
     "actionsSummary": "Throws liquid at police at NE corner. Hit by police projectile.",
     "alternateHashtags": [],
     "appearanceSummary": "White male with brown hair. Red MAGA beanie. Grey sweater with a three-leaf clover. At the center of the clover is the word \"Sean\" in purple letters. The clover's leaves have the words \"Grays Ferry,\" \"Schuylkill,\" and \"Devil's Pocket,\" which refer to neighborhoods in Philadelphia. Black jeans and Nike shoes. Sometimes carries American flag. Sweater later bloody from lip injury.",
+    "arrestDate": "2021-10-06T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00621-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21079445/michaeldickinson.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -20580,6 +20585,7 @@
     ],
     "primaryHashtag": "LipADelphia",
     "profileLeads": [],
+    "realName": "DICKINSON, Michael",
     "_id": "EV4q595f8t08"
   },
   {
@@ -32020,9 +32026,7 @@
   },
   {
     "actionsSummary": "Arrives and moves with GingerJuggernot and FullCamoKneePads. Approaches Capitol from West. Engaged with officers on the Lower West Terrace. Aids FullCamoKneePads in removing a shield from an LEO. Has zip ties and chemical spray on his belt. Sprays officers during the tunnel fight.",
-    "alternateHashtags": [
-      "ParacordGuy"
-    ],
+    "alternateHashtags": [],
     "appearanceSummary": "Green baseball cap with a patch on the front of a camo US flag with they Punisher skull. Short brown beard. Tan corduroy coat with a fleece lining. Carries a cylindrical black device on a shoulder strap.",
     "arrestDate": "2021-06-30T04:00:00.000Z",
     "arrestState": "FL",
