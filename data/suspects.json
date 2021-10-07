@@ -4756,7 +4756,7 @@
     "arrestState": "NE",
     "associates": [],
     "caseIdentifier": "1:21-mj-134",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1360091/download",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
@@ -17011,7 +17011,7 @@
       "JoshuaWagner"
     ],
     "caseIdentifier": "1:21-cr-310",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1360941/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
