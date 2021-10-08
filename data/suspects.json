@@ -6293,6 +6293,32 @@
     "_id": "k4cO_5bW0q44"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing red, white and blue knit cap with \"45\" at the front.",
+    "arrestDate": "2021-10-06T04:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [
+      "#MahailyaPryer"
+    ],
+    "caseIdentifier": "1:21-mj-00610-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1U9IvrjjnYKJJP_dgh-x0lLPfpdmTh6F6?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CaraHentschel",
+    "profileLeads": [],
+    "realName": "HENTSCHEL, Cara Maureen",
+    "_id": "vah1SI9OIqIQ"
+  },
+  {
     "actionsSummary": "In the crowd on the West side of the building. Entered the Capitol via a window off the NW Corridor. Claims he stayed in the building no more than 5 minutes.",
     "alternateHashtags": [],
     "appearanceSummary": "Red knit cap with the white arrowhead logo of the Kansas City Chiefs on it. Reddish-brown beard and mustache. One photo shows him wearing a blue respirator. Black or dark gray shirt. Backpack with olive drab straps.",
@@ -10023,6 +10049,30 @@
     "_id": "bX-nxl-eoqG0"
   },
   {
+    "actionsSummary": "Inside Capitol building in Rotunda.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and long grey beard wearing a dark jacket over a turquose and white splotched zip front top and a dark baseball cap with a star and \"US Army\" on the front and brim.",
+    "arrestDate": "2021-10-06T04:00:00.000Z",
+    "arrestState": "OK",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00624-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Criminal%20Complaint.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1-TZklu7FJnkV1T3EluD0ANJM3JXNS7vk?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "EdwardSpain",
+    "profileLeads": [],
+    "realName": "SPAIN, Edward Thomas, Jr.",
+    "_id": "IZQPZIZFgm78"
+  },
+  {
     "actionsSummary": "Broke windows and doors to force entry into the Capitol. Entered Capitol through a broken window. Seen in front of crowd who pursued CPO Goodman. Entered Senate floor. AFO designation implies violence.",
     "alternateHashtags": [],
     "appearanceSummary": "Red winter hat, grey hooded sweatshirt, long beard, glasses",
@@ -10422,7 +10472,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00556-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19743,9 +19793,14 @@
     "actionsSummary": "Fought police during initial breach. Helped tunnel fighter down Capitol steps. Seen texting.",
     "alternateHashtags": [],
     "appearanceSummary": "Long hair, \"Kingston Ash Recovery Project\" on front of jacket, \"Geo Con\" on back with colorful image of \"long-stick excavator\".",
+    "arrestDate": "2021-10-07T04:00:00.000Z",
+    "arrestState": "MS",
     "associates": [
       "MississippiFlagGuy"
     ],
+    "caseIdentifier": "4:21-mj-01029-JMV",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21080455-donnie-wren-tommy-smith",
     "compositeURL": "https://drive.google.com/file/d/1JFauqLar3kxwgyVBrk4TdIqksf_HWkGS/view?usp=sharing",
     "fbiIdentifier": "219-AFO",
     "idStatus": "ID sent to FBI",
@@ -19761,6 +19816,7 @@
     "profileLeads": [
       "@chris_sigurdson"
     ],
+    "realName": "WREN, Donnie Duane",
     "_id": "M0UcrHwxornA"
   },
   {
@@ -20146,6 +20202,30 @@
     "profileLeads": [],
     "realName": "STEELE, Laura",
     "_id": "I7fFXuWl4nHo"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark hair and facial hair wearing red cap, dark jacket and khaki pants.",
+    "arrestDate": "2021-10-05T04:00:00.000Z",
+    "arrestState": "NJ",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00601-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235552/gov.uscourts.dcd.235552.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1gKU9sJ2O_CLA9mAjBL2_OAUOCidHf3rJ?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LawrenceDropkin",
+    "profileLeads": [],
+    "realName": "DROPKIN, Lawrence \"Larry\", Jr.",
+    "_id": "sNDq-LIRYgrM"
   },
   {
     "actionsSummary": "Carries metal pipe as weapon. Steals an officer's shield. Throws pipe at police in Phase 3 tunnel assault. Pictured in the crowd on the West Terrace, standing on the ledge next to #WindowCheerleader",
@@ -21484,6 +21564,32 @@
     "_id": "wPDrsSpbYmgY"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing red, white and blue knit cap with \"45\" at the front.",
+    "arrestDate": "2021-10-06T04:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [
+      "#CaraHentschel"
+    ],
+    "caseIdentifier": "1:21-mj-00610-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1FiaVRENUf8pDF3sj9ljiHz2CE1fVvYef?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MahailyaPryer",
+    "profileLeads": [],
+    "realName": "PRYER, Mahailya",
+    "_id": "_5d_L1t3ApPY"
+  },
+  {
     "actionsSummary": "Poses next to a broken window.",
     "alternateHashtags": [],
     "appearanceSummary": "Thin guy wearing a jacket with the logo for Mainstay Landscape on it. Dark facial hair. Winter hat and gloves. Note: Mainstay Landscape company confirms he is no longer an employee, reported him.",
@@ -22299,7 +22405,7 @@
     "_id": "BzOCGHaFAlNo"
   },
   {
-    "actionsSummary": "Known only from MPD Wanted list",
+    "actionsSummary": "Early sprayer on MPD on west plaza line. Also throws can and grabs an MPD officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Blurry picture. Facemask, possibly a gas mask, with a large curved window in front and vents beneath it. Black jacket. Backpack with khaki straps. Khaki gloves.",
     "associates": [],
@@ -22888,9 +22994,14 @@
     "actionsSummary": "Stands with #KingstonAsh, then fights police alongside him. Kicks a police officer, NW Courtyard outside Capitol entrance.",
     "alternateHashtags": [],
     "appearanceSummary": "Black beanie, grey hoodie under khaki colored coat, carries Mississippi flag, receding hairline when beanie is off.",
+    "arrestDate": "2021-10-07T04:00:00.000Z",
+    "arrestState": "MS",
     "associates": [
       "KingstonAsh"
     ],
+    "caseIdentifier": "4:21-mj-01029-JMV",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21080455-donnie-wren-tommy-smith",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22902,6 +23013,7 @@
     ],
     "primaryHashtag": "MississippiFlagGuy",
     "profileLeads": [],
+    "realName": "Smith, Thomas \"Tommy\" Harlen",
     "_id": "QOKtPBkE4nOQ"
   },
   {
@@ -22990,6 +23102,30 @@
     "primaryHashtag": "MohawkPB",
     "profileLeads": [],
     "_id": "cCp3VggGEgvw"
+  },
+  {
+    "actionsSummary": "At front of crowd pushing against police at doors on the Senate side of the building Entered the Capitol Building at approximately 2:47 p.m.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Bald man with dark facial hair wearing a black hoodie, a gray and black backpack, a respirator,\nand fingerless gloves",
+    "arrestDate": "2021-10-07T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00612-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235886/gov.uscourts.dcd.235886.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1yDSDyKKqWqF5_mKs8YmTcXkSxxdwmSpz?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MoisesRomero",
+    "profileLeads": [],
+    "realName": "ROMERO, Moises",
+    "_id": "4f275hobwllA"
   },
   {
     "actionsSummary": "Engages with police near the Upper West Plaza with the Media Tower behind him.",
@@ -28116,6 +28252,29 @@
   },
   {
     "alternateHashtags": [],
+    "arrestDate": "2021-10-05T04:00:00.000Z",
+    "arrestState": "MN",
+    "associates": [
+      "#TanTunnelSpecs #SoloShield"
+    ],
+    "caseIdentifier": "1:21-cr-00605-RC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RobertWestbury",
+    "profileLeads": [],
+    "realName": "WESTBURY, Robert",
+    "_id": "WmBH7RvzMgtg"
+  },
+  {
+    "alternateHashtags": [],
     "appearanceSummary": "Black tactical vest. Grey hooded sweatshirt with an orange head covering underneath. Black gaiter. Glasses. Brown facial hair.",
     "associates": [],
     "isLawEnforcement": false,
@@ -30524,9 +30683,14 @@
     "actionsSummary": "A West-East-West traveler. Waits on the NW side with other important perps, jumps down from wall at moment of NW stairs breach, then appears to lead out the PB \"train\" with FashProShop. Once around the NE corner he doubles back, ends up at tunnel where he hangs out on S. side of entrance. Photographed holding a police riot shield at tunnel.",
     "alternateHashtags": [],
     "appearanceSummary": "Red Trump baseball cap. Dark hair. Dark, very short beard and mustache. Gray or dull green hooded jacket over a black hoodie that has a US flag on the chest. (There may be more there, but the only available image of the front of the hoodie is blurry.) Blue jeans.",
+    "arrestDate": "2021-10-05T04:00:00.000Z",
+    "arrestState": "MN",
     "associates": [],
+    "caseIdentifier": "1:21-cr-00605-RC",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Navy",
     "otherTags": [
       {
         "type": "behavior",
@@ -30535,6 +30699,7 @@
     ],
     "primaryHashtag": "SoloShield",
     "profileLeads": [],
+    "realName": "JAMES, Aaron",
     "_id": "92QU6vmR4qeI"
   },
   {
@@ -34326,7 +34491,12 @@
     "actionsSummary": "Tunnel fighter. Spends several minutes around 4:27PM just S. of the Tunnel; grabs a shield, vanishes and reappears later without hat or glasses.",
     "alternateHashtags": [],
     "appearanceSummary": "Youngish man with a receded hairline and light brown hair. Stubbly chin where a beard would be. Brown hooded jacket. Sometimes wears a black MAGA knit cap and eyeglasses with black frames.",
+    "arrestDate": "2021-10-05T04:00:00.000Z",
+    "arrestState": "MN",
     "associates": [],
+    "caseIdentifier": "1:21-cr-00605-RC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download",
     "fbiIdentifier": "323-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -34338,6 +34508,7 @@
     ],
     "primaryHashtag": "TunnelTanSpecs",
     "profileLeads": [],
+    "realName": "WESTBURY, Isaac",
     "_id": "0B04jJ7e0rpo"
   },
   {
