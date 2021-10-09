@@ -22184,7 +22184,7 @@
     "_id": "PkOZdyAK4s-8"
   },
   {
-    "actionsSummary": "Entered the Capitol and is seen among the crowd in the Rotunda. Turned himself in, and provided photo/video evidence of his involvement.",
+    "actionsSummary": "Struggled with an officer over a Capitol door. Entered the Capitol and is seen among the crowd in the Rotunda. Turned himself in, and provided photo/video evidence of his involvement.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo baseball cap with \"USA\" in large gold letters on the front. Eyeglasses with brown frames. Short, graying hair. Red \"Trump\" earloop mask. Black (?) jacket over a black or dark gray hoodie (?). Dark pants. Gray or brown shoes. Recorded using a smartphone inside the Capitol Building.",
     "arrestDate": "2021-04-22T04:00:00.000Z",
@@ -26829,15 +26829,21 @@
     "alternateHashtags": [
       "BeardedGuy"
     ],
-    "appearanceSummary": "Currently we only have one picture and it's from behind. Red baseball cap with \"Trump 2020\" in white on the back, and what looks like a US flag on the left side. Shaggy brown hair. Black puffer jacket.",
+    "appearanceSummary": "Shaggy greying brown hair and beard.  Black puffer jacket. Red baseball cap with \"Keep America Great\" on the front, \"Trump 2020\" on the back, and a US flag on the left side.",
     "arrestDate": "2021-09-02T04:00:00.000Z",
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-mj-555",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1430511/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "Puffalumper",
     "profileLeads": [],
     "realName": "MARTIN, Benjamin",
