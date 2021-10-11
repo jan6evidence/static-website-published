@@ -34935,9 +34935,9 @@
     "_id": "YnApotQM0pjA"
   },
   {
-    "actionsSummary": "Sprayed police during West Plaza fight, making sure to point it up under their helmets",
+    "actionsSummary": "Sprayed police during West Plaza fight, making sure to point it up under their helmets. Inside Capitol.",
     "alternateHashtags": [
-      "Also AFO 466"
+      "Also AFO 466 & MPD suspect"
     ],
     "appearanceSummary": "Olive green knit cap. Khaki gaiter. Gray hooded puffer jacket with a bright orange inner lining. Sometimes wears a gray baseball cap.",
     "associates": [],
@@ -34945,6 +34945,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
