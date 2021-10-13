@@ -11156,9 +11156,13 @@
       "CodyfromRochester"
     ],
     "appearanceSummary": "Black jacket. Grey hoodie. Shot clipped hair, mustache and facial hair. Wears a grey helmet and ballistic goggles during the fight on the Lower West Terrace.",
+    "arrestDate": "2021-10-09T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [
       "IronworkerGuy"
     ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b",
     "fbiIdentifier": "284-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -11176,6 +11180,7 @@
     "profileLeads": [
       "@h_Sanatorium"
     ],
+    "realName": "MATTICE, Cody",
     "_id": "Vuvkha2cEuYM"
   },
   {
@@ -17010,9 +17015,13 @@
     "actionsSummary": "Involved in tunnel melee. Leads crowd in \"God Bless America\" on Lower W. Terrace",
     "alternateHashtags": [],
     "appearanceSummary": "Member of Ironworkers Local 33 (back of hat) Rochester NY. (Outed by Local 6 Buffalo, \"not ours\"). Travels with his Rochester buddy #fencesnatcher.",
+    "arrestDate": "2021-10-11T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [
       "FenceSnatcher"
     ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b",
     "compositeURL": "https://drive.google.com/file/d/1dTAjzjRjB7oN9pGTBDRQA-UMZCFXwY2X/view?usp=sharing",
     "fbiIdentifier": "142-AFO",
     "idStatus": "ID sent to FBI",
@@ -17026,6 +17035,7 @@
     ],
     "primaryHashtag": "IronworkerGuy",
     "profileLeads": [],
+    "realName": "MAULT, James",
     "_id": "s5-cdcBhUp6c"
   },
   {
