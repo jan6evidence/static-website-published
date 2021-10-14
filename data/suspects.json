@@ -5562,6 +5562,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Close cut hair and face hair. Black shirt, black tactical vest with flag in the center. Sunglasses. Has a butterfinger bar peeking out of his pocket. Flag neck gaiter.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -11156,13 +11157,14 @@
       "CodyfromRochester"
     ],
     "appearanceSummary": "Black jacket. Grey hoodie. Shot clipped hair, mustache and facial hair. Wears a grey helmet and ballistic goggles during the fight on the Lower West Terrace.",
-    "arrestDate": "2021-10-09T04:00:00.000Z",
+    "arrestDate": "2021-10-07T04:00:00.000Z",
     "arrestState": "NY",
     "associates": [
       "IronworkerGuy"
     ],
+    "caseIdentifier": "1:21-mj-00622-AMF",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download",
     "fbiIdentifier": "284-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17015,13 +17017,14 @@
     "actionsSummary": "Involved in tunnel melee. Leads crowd in \"God Bless America\" on Lower W. Terrace",
     "alternateHashtags": [],
     "appearanceSummary": "Member of Ironworkers Local 33 (back of hat) Rochester NY. (Outed by Local 6 Buffalo, \"not ours\"). Travels with his Rochester buddy #fencesnatcher.",
-    "arrestDate": "2021-10-11T04:00:00.000Z",
+    "arrestDate": "2021-10-07T04:00:00.000Z",
     "arrestState": "NY",
     "associates": [
       "FenceSnatcher"
     ],
+    "caseIdentifier": "1:21-mj-00622-AMF",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download",
     "compositeURL": "https://drive.google.com/file/d/1dTAjzjRjB7oN9pGTBDRQA-UMZCFXwY2X/view?usp=sharing",
     "fbiIdentifier": "142-AFO",
     "idStatus": "ID sent to FBI",
@@ -17035,7 +17038,7 @@
     ],
     "primaryHashtag": "IronworkerGuy",
     "profileLeads": [],
-    "realName": "MAULT, James",
+    "realName": "MAULT, James Phillip",
     "_id": "s5-cdcBhUp6c"
   },
   {
@@ -17884,7 +17887,7 @@
       "ElielRosa"
     ],
     "caseIdentifier": "1:21-cr-68",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353436/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
