@@ -9729,7 +9729,7 @@
     "_id": "gSIHRZvuQl9o"
   },
   {
-    "actionsSummary": "Observed in march leading up to capitol with #FacePaintBlowHard and #SgtPepperSprayer. Seen on W. Plaza.",
+    "actionsSummary": "Throws a pylon at police. Moves a barricade. Observed in march leading up to capitol with #FacePaintBlowHard and #SgtPepperSprayer. Seen on W. Plaza. No hard evidence that he is a Proud Boy.",
     "alternateHashtags": [],
     "appearanceSummary": "Black coat. Long blondish brown dreadlocks. Long pointy beard. Tattoos on his face, neck, and hands.",
     "associates": [
@@ -9740,8 +9740,8 @@
     "isMpdSuspect": false,
     "otherTags": [
       {
-        "type": "group",
-        "name": "ProudBoys"
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "DreadedProudboy",
