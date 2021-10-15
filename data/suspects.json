@@ -17030,6 +17030,7 @@
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -17594,6 +17595,33 @@
     "profileLeads": [],
     "realName": "ADAMS, Jared Hunter",
     "_id": "vHDATpKK0mnw"
+  },
+  {
+    "actionsSummary": "Inside Capitol building for approx 20 minutes. Moved from an entrance to Statuary Hall.",
+    "alternateHashtags": [
+      "SeditionInsider0279"
+    ],
+    "appearanceSummary": "White man with brown hair and mustache wearing a dark/black backpack, gray baseball cap, and a jacket with a light-colored horizontal stripe across the chest.",
+    "arrestDate": "2021-10-14T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00627-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236468/gov.uscourts.dcd.236468.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1bGPXxVD83NW5G20fVvz5Bd5LFffRgKWs?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JasonComeau",
+    "profileLeads": [],
+    "realName": "COMEAU, Jason Michael",
+    "_id": "9T564_BJkrgc"
   },
   {
     "actionsSummary": "Entered Capitol & Posted about it on social media",
@@ -22347,6 +22375,32 @@
     "primaryHashtag": "MediaCartWheelerAOM",
     "profileLeads": [],
     "_id": "O8-23ND24g9s"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with long dark hair wearing a red mask with white writing on it and a black North Face jacket. Appears to have a backpack concealed under her coat.",
+    "arrestDate": "2021-10-14T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [
+      "#TomBostic"
+    ],
+    "caseIdentifier": "1:21-mj-00625-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236268/gov.uscourts.dcd.236268.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1MVhspe-AJV1xFqFoTlOKB0Qs1LUR6039?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MeghanRutledge",
+    "profileLeads": [],
+    "realName": "RUTLEDGE, Meghan Elizabeth Bostic",
+    "_id": "qymTb6dEsn2U"
   },
   {
     "actionsSummary": "Pictured in Nancy Pelosi's office",
@@ -33687,6 +33741,32 @@
     "primaryHashtag": "TinyPercent",
     "profileLeads": [],
     "_id": "0q7sOdSLkh9w"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Tall white man wearing dark blue plaid flannel shirt, black knit cap, and a light blue face mask.",
+    "arrestDate": "2021-10-14T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [
+      "#MeghanRutledge"
+    ],
+    "caseIdentifier": "1:21-mj-00625-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236268/gov.uscourts.dcd.236268.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/17dn4CdKDcFLekOG5DhdWYBr2dYSjfnNB?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TomBostic",
+    "profileLeads": [],
+    "realName": "BOSTIC, Willard Thomas \"Tom\", Jr.",
+    "_id": "WHsG4YhGAhQA"
   },
   {
     "actionsSummary": "Climbed wall of Capitol grounds via a rope. Entered Senate Chamber, pictured next to Jacob Chansley at the Presiding Officer's Desk. Took flag from inside the Senate Chamber. (Was later returned by a CPD officer,) Allegedly removed documents from the Senate Chamber, destroyed them when he returned home.",
