@@ -25107,7 +25107,10 @@
     "actionsSummary": "Fights at tunnel. Believed to be part of the security detail for Amanda Chase.",
     "alternateHashtags": [],
     "appearanceSummary": "Green helmet with a small camera mounted on the front. Large scuba goggles with bright orange frames and strap. Dark beard and mustache. Blue gaiter around his neck? Black hoodie. Army green tactical vest. Brown and green gloves with reinforced knuckles.",
-    "associates": [],
+    "associates": [
+      "#TactiCoolFool",
+      "#ChaseNeon"
+    ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -32160,6 +32163,26 @@
     "primaryHashtag": "TacPipeThrower",
     "profileLeads": [],
     "_id": "2Pprr_JR8jn4"
+  },
+  {
+    "actionsSummary": "Believed to be part of the security detail for Amanda Chase. On Lower West Terrace.",
+    "alternateHashtags": [
+      "Chase4"
+    ],
+    "appearanceSummary": "White man with grey mustache and beard. Maroon/purple jacket over green long sleeve shirt and black gloves. Black armored vest with flag patch on the front. Black buff, black baseball cap, clear protective goggles held on with a black elastic strap. Quite a bit of gear strapped to his waist.",
+    "associates": [
+      "#OrangeScubaSteve",
+      "#ChaseNeon"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/12r4_JwQjOE-6PxGBQ7TmpVdCzUJwixxE?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "TactiCoolFool",
+    "profileLeads": [
+      "@jakobravner @PhoenixOnWheels"
+    ],
+    "_id": "qNpUbXHTkkXE"
   },
   {
     "alternateHashtags": [],
