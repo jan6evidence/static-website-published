@@ -2749,6 +2749,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Dark gray hooded jacket with a with patch on the right shoulder. Part of the patch has the word \"big.\"",
     "associates": [],
+    "fbiIdentifier": "478-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -8223,6 +8224,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "White hoodie with religious quotes on it, red beanie hat",
     "associates": [],
+    "fbiIdentifier": "479-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -9789,6 +9791,7 @@
     ],
     "appearanceSummary": "Jeans that are falling down. Striped boxer shorts underneath. Dark colored coat or hooded sweatshirt. Red hat.",
     "associates": [],
+    "fbiIdentifier": "481-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -12528,7 +12531,9 @@
     "appearanceSummary": "Blue MAGA knit cap with red and white horizontal stripes on the top half. Blue gaiter around his neck. Black leather jacket over a blue and white checked button-down shirt. There may be a white t-shirt beneath that. Backpack with black straps. Dark pants. Photographed using a smartphone with a black case inside the Capitol Building.",
     "arrestDate": "2021-05-05T04:00:00.000Z",
     "arrestState": "PA",
-    "associates": [],
+    "associates": [
+      "#YoungSkullMan"
+    ],
     "caseIdentifier": "1:21-mj-526",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1391671/download",
@@ -14480,6 +14485,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Gray hoodie with a gray baseball cap. Sunglasses or goggles with orange lenses. Gray respirator. Backpack has black straps. Tan gloves.",
     "associates": [],
+    "fbiIdentifier": "477-AFO",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1seLW0xtLRjyk4zN8Vyqf3wtfoIFejTVZ8jQorCvaJyU/edit?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14826,6 +14832,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Heavyset man. Gray hoodie with a dark blue t-shirt over it. The shirt says \"Stop the Steal\" on the front with a red stop sign where the \"O\" would be. May be wearing a hat under the hood. Blue jeans. (Only available picture is blurry.)",
     "associates": [],
+    "fbiIdentifier": "483-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -34893,6 +34900,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "White male; black nylon jacket with hood; red baseball cap; sunglasses; long brown hair; black backpack with tan bottom; caramel pants and lace-up shoes; camo and black fleece gloves",
     "associates": [],
+    "fbiIdentifier": "485-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -36856,7 +36864,15 @@
       "FBI50AFO"
     ],
     "appearanceSummary": "Baseball hat, white front black rear, face mask/gaiter w/ skull, \"Low Country\" hat appears to have yellow NC state logo.  Under Armour brand clothing.",
-    "associates": [],
+    "arrestDate": "2021-10-15T04:00:00.000Z",
+    "arrestState": "NC",
+    "associates": [
+      "#GaryEdwards",
+      "#WhiteHoodie"
+    ],
+    "caseIdentifier": "5:21-mj-01992-RN",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant_Statement%20of%20Facts.pdf",
     "compositeURL": "https://drive.google.com/file/d/1gButWieZAHA1aPuOlLjyAdhM5UGGiQQb/view?usp=sharing",
     "fbiIdentifier": "50-AFO",
     "isLawEnforcement": false,
@@ -36879,6 +36895,7 @@
     "profileLeads": [
       "@SeditionHunters and Discord group"
     ],
+    "realName": "GRANT, James Tate",
     "_id": "qq2oQjrQsiF4"
   },
   {
