@@ -14423,6 +14423,29 @@
     "_id": "S9WnyeJMYqgk"
   },
   {
+    "actionsSummary": "Sprays police at the North door.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White male with red Make America Great Again beanie, glasses, disposable mask, and grey hoodie.",
+    "associates": [],
+    "fbiIdentifier": "486-AFO",
+    "filesUrl": "https://drive.google.com/file/d/1ZUevvVtFIhY4fyv3vLZi1Ym6G4NC1CRI/view?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
+      }
+    ],
+    "primaryHashtag": "GreyDoorSprayer",
+    "profileLeads": [],
+    "_id": "t6zb_vvgcjf8"
+  },
+  {
     "actionsSummary": "Seen under NW scaffolding, then one of the first to go through NW door.  Always travels with #BetaKappaMaga and appears in same Wanted photo. Seen with America First group in the morning. Took police equipment.",
     "alternateHashtags": [],
     "appearanceSummary": "Red ball cap, grey fleece, surgical mask. Carries yellow Gadsden flag, sometimes rolled up. Often seen carrying a backpack, likely belonging to #BetaKappaMaga",
@@ -14946,6 +14969,22 @@
     ],
     "realName": "REGISTER, Jeffrey",
     "_id": "lUQ8u4cP8pyk"
+  },
+  {
+    "actionsSummary": "Tunnel attacker.",
+    "alternateHashtags": [
+      "PlaidVendetta"
+    ],
+    "appearanceSummary": "White man with stubble and shaved sides of head, brown hair. Guy Fawkes mask worn on back of head. Grey plaid coat.",
+    "associates": [],
+    "fbiIdentifier": "480-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1YsomIAu4kTqULfGW8BFe1gs_M7S-nvYg?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "GuyFawkesMohawk",
+    "profileLeads": [],
+    "_id": "6EQO7R41AuNk"
   },
   {
     "actionsSummary": "On NW Stairs at front of attacking group, urging people on and mixing it up with police. Seen flushing his eyes with water, suggesting he was sprayed with pepper spray. Minor children reported being threatened by their father if they reported him.",
@@ -23718,6 +23757,20 @@
     "profileLeads": [],
     "realName": "REIMLER, Nicholas",
     "_id": "gjYbtkPzsgkk"
+  },
+  {
+    "actionsSummary": "On lower west terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Older white male with salt and pepper mustache and medium length hair. \"Boaters for Trump\" hoodie. Long Trump 2020 scarf. Red baseball cap.",
+    "associates": [],
+    "fbiIdentifier": "482-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1PVfuRKbES5y-Q4QFf6jXeYnOTrtnRG3z?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "NautiTrumper",
+    "profileLeads": [],
+    "_id": "F1WKn6Dk8p4o"
   },
   {
     "actionsSummary": "On the West Plaza shortly before the breach of the police line.",
@@ -34991,7 +35044,7 @@
     "_id": "tu4MwcAy0r_U"
   },
   {
-    "actionsSummary": "Throws a blue bag, a folded chair, a piece of fence and a long black metal object at police on the Upper West Plaza. Present on the West Terrace near the Tunnel entrance.",
+    "actionsSummary": "Assaults police at the Tunnel with a pipe and a flag. Throws a blue bag, a folded chair, a piece of fence and a long black metal object at police on the Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue tattoo on right side of neck and back of left hand. Scar under left eye. Camo baseball cap; short brown hair (butch); black coat; black and white plaid casual button down shirt; denim jeans; backpack with camo straps.",
     "associates": [],
@@ -36379,7 +36432,7 @@
     "_id": "DervX71Qok5E"
   },
   {
-    "actionsSummary": "Used pickaxe (from his backpack) to smash window to L of tunnel.  Tool is a close-quarters combat weapon, \"Tactical Tomahawk\". Will penetrate a police riot helmet. Likely among a group of organizers. Accused of breaking a window and hurling furniture and a flag pole at police.",
+    "actionsSummary": "Used pickaxe (from his backpack) to smash window to L of tunnel.  Tool is a close-quarters combat weapon, \"Tactical Tomahawk\". Will penetrate a police riot helmet. Likely among a group of organizers. Throws furniture and a flag pole at police.",
     "alternateHashtags": [
       "HatchetNautica"
     ],
