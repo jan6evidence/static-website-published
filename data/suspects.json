@@ -4178,10 +4178,15 @@
     "_id": "HKy8SUNxcmRs"
   },
   {
-    "actionsSummary": "Involved in the tunnel melee. Exits the tunnel and waves for others to join the fight.",
+    "actionsSummary": "Involved in the tunnel melee. Sprays police, then throws the canister at them - twice. Throws metal pole at police. Shoves door into police. Exits the tunnel and waves for others to join the fight.",
     "alternateHashtags": [],
     "appearanceSummary": "Black tactical vest with tan-colored ballistic pouches on the front. Black hat and sunglasses. Grey long-sleeve shirt and khaki cargo pants. Tattoo on Right arm. Wears a light blue rubber bracelet on right wrist. Very large tan backpack.",
+    "arrestDate": "2021-10-15T04:00:00.000Z",
+    "arrestState": "AL",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00629",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.akd.67758/gov.uscourts.akd.67758.1.1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1oXvr7fhPpHL-wlz_2yDxa1PLeNlVo5x_/view?usp=sharing",
     "fbiIdentifier": "81-AFO",
     "isLawEnforcement": false,
@@ -4204,6 +4209,7 @@
     "profileLeads": [
       "@NwBart"
     ],
+    "realName": "MANLEY, Christian Matthew",
     "_id": "SnzrlXFTgpps"
   },
   {
@@ -27680,7 +27686,7 @@
     "arrestState": "MA",
     "associates": [],
     "caseIdentifier": "1:21-cr-125",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20McCreary%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
