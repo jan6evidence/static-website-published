@@ -14856,7 +14856,12 @@
     "fbiIdentifier": "446-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "GreyReacher",
     "profileLeads": [],
     "_id": "z1oykpZzshQM"
@@ -22670,7 +22675,12 @@
     "fbiIdentifier": "444-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "MessyGuessy",
     "profileLeads": [],
     "_id": "mlpxrAqDopYM"
