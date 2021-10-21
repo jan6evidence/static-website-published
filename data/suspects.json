@@ -17976,11 +17976,14 @@
     "appearanceSummary": "Shorter man. Dark coat. Ginger facial hair with grey. Army green ball cap with Gadsden flag patch on the front.",
     "arrestDate": "2021-03-03T05:00:00.000Z",
     "arrestState": "TX",
-    "associates": [],
+    "associates": [
+      "#RichardBarnard"
+    ],
     "caseIdentifier": "1:21-cr-235",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -20826,6 +20829,7 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1401796/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -21292,7 +21296,9 @@
     "appearanceSummary": "Dark hair. Olive green jacket over black shirt. Camo buff. Jeans.",
     "arrestDate": "2021-07-29T04:00:00.000Z",
     "arrestState": "VA",
-    "associates": [],
+    "associates": [
+      "#LandonMitchell"
+    ],
     "caseIdentifier": "1:21-mj-542",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf",
@@ -28300,13 +28306,14 @@
     "arrestDate": "2021-02-24T05:00:00.000Z",
     "arrestState": "TX",
     "associates": [
-      "JefferyWitcher"
+      "#JefferyWitcher"
     ],
     "caseIdentifier": "1:21-cr-235",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/barnard-richard-franklin",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -35442,14 +35449,26 @@
     "_id": "VO8lLXUKosrg"
   },
   {
+    "actionsSummary": "Assaulted police on the Upper West Terrace. Arrested on site and details taken but not held.",
     "alternateHashtags": [],
     "appearanceSummary": "Black and grey plaid shirt. Black coat. with a  hood. Dark sunglasses. White hockey goalie's mask.",
+    "arrestDate": "2021-10-20T04:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00623-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236617/gov.uscourts.dcd.236617.1.1_1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "UnholyGoalie",
     "profileLeads": [],
+    "realName": "DENNIS, Robert Wayne",
     "_id": "mAgM9zTJslQg"
   },
   {
