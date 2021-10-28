@@ -5838,14 +5838,14 @@
     "_id": "bnWSL0eAsnwM"
   },
   {
-    "actionsSummary": "Involved in MediaSmash. Violent based on AOM designation. Self-doxxed in interview and says he is from Oklahoma.",
+    "actionsSummary": "Involved in MediaSmash. Assaulted AP photographer and DC police officer. Self-doxxed in interview and says he is from Oklahoma.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo jacket. Blue plaid neck gaiter. Big receding hairline. Scruffy beard. Carrying a backpack.",
     "arrestDate": "2021-08-19T04:00:00.000Z",
     "arrestState": "OK",
     "associates": [],
     "caseIdentifier": "1:21-mj-501",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1426786/download",
     "fbiIdentifier": "195-AOM",
     "isLawEnforcement": false,
@@ -32187,13 +32187,21 @@
       "RightHandPB"
     ],
     "appearanceSummary": "Large, African American man. Medium length beard. Black hoodie with red ball cap. Glasses.",
+    "arrestDate": "2021-10-26T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:21-mj-04099-CMM",
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysFlorida"
       }
     ],
     "primaryHashtag": "SumoPB",
