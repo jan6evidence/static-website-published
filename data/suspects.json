@@ -11472,7 +11472,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/114o-0rYJpgilGwOu6WC2FyRRWc9ZeLvq",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "FingerlessFawkes",
     "profileLeads": [
       "@PhoenixOnWheels"
@@ -18964,7 +18969,7 @@
     "arrestDate": "2021-05-14T04:00:00.000Z",
     "arrestState": "IN",
     "associates": [],
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Ace%20Sanders%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -26479,6 +26484,30 @@
     "profileLeads": [],
     "realName": "VOGEL II, Philip C.",
     "_id": "ow_EvZgRQq-I"
+  },
+  {
+    "actionsSummary": "Inside Capitol building",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with long, narrow face and blonde bob haircut wearing a black coat or jacket with a red and white collar (possibly from shirt underneath) over a black tshirt.",
+    "arrestDate": "2021-10-25T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00628-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Weisbecker%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Ho-uhSFPCg0e77ajm_TShAmvp9ugkQGf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PhilipWeisbecker",
+    "profileLeads": [],
+    "realName": "WEISBECKER, Philip James",
+    "_id": "_FB4ITj-AjAQ"
   },
   {
     "actionsSummary": "Entered Capitol grounds from the West. Observed individuals cutting signage from Capital property, and took one of these signs home with him. Entered the Capitol building.",
