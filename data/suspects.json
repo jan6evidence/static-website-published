@@ -6034,6 +6034,26 @@
     "_id": "Rm7HMFldkre4"
   },
   {
+    "actionsSummary": "Directing people around inside the Capitol. Claims he used to be a Capitol Tour Guide.",
+    "alternateHashtags": [
+      "CandyCaneBoss"
+    ],
+    "appearanceSummary": "Long black overcoat over a blue Trump tshirt. Long red and white candy cane striped scarf. Seen with two masks, a red and white striped one and a red one with white writing \"CNN Fake News\". Knit cap with a navy brim that says \"Make America Great Again\" and flat print top. Blue jeans. Dark tennis shoes with white sole edge. Dark gloves.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1VTsFmldwFKC90RhYekN_Czu1XAWsriT-",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CandyCaneTourGuide",
+    "profileLeads": [],
+    "_id": "Jr1wxYthcp_4"
+  },
+  {
     "actionsSummary": "Designated violent based on AFO. Seen at top of NW Stairs near police line.",
     "alternateHashtags": [],
     "appearanceSummary": "Older white male with camo \"Trump 2020\" baseball cap. Black bandana and black coat.",
@@ -26578,6 +26598,30 @@
     "primaryHashtag": "PicklesPB",
     "profileLeads": [],
     "_id": "ddfodgL4skB0"
+  },
+  {
+    "actionsSummary": "Shoves a bench into a police officer inside the Capitol",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with short dark hair and facial hair. Orange blue and white striped blanket scarf. Red knit Trump hat with red and blue pom pom. Colorful patterned cloth backpack.",
+    "associates": [
+      "#PurplePantherPunk"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1uPcFShyIAlGUZ9EyvjdFqDiL9zgyACOP",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PicnicOnTheBreach",
+    "profileLeads": [],
+    "_id": "VhIECnywMgX0"
   },
   {
     "alternateHashtags": [],
