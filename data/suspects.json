@@ -11606,7 +11606,7 @@
     "_id": "vSeJmvPqYvlU"
   },
   {
-    "actionsSummary": "Active in fight under the NW scaffolding, seen with some in the OrangeTapeGroup. Seemed to play leadership role in deciding when to move forward. Ends up with a police shield.",
+    "actionsSummary": "Active in fight under the NW scaffolding, seen with some in the OrangeTapeGroup. Bear sprays police. Seemed to play leadership role in deciding when to move forward. Ends up with a police shield.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue coat with grey collar, black beanie, brown facial hair. American flag buff, worn with stars in the front. Visible neck tattoo. III% flag.",
     "associates": [
@@ -14225,7 +14225,9 @@
   },
   {
     "actionsSummary": "Fights on W. Plaza",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "GreenPoolPlayer"
+    ],
     "appearanceSummary": "Black knit cap with a brown rectangle on the side. Medium-length bland/gray beard and mustache. Gray or green gaiter (?) around his neck. Green hooded jacket over a brown plaid hoodie. Tan zip-up top beneath that. Camo and black gloves.",
     "associates": [],
     "fbiIdentifier": "333-AFO",
@@ -14354,18 +14356,6 @@
       "@domoarigato00"
     ],
     "_id": "z7GrJjNUgqXw"
-  },
-  {
-    "actionsSummary": "Must have been violent since made the MPD Wanted list",
-    "alternateHashtags": [],
-    "appearanceSummary": "Black knit cap with a brown rectangle on the side. Gray or black gaiter. Green hooded jacket. Black gloves (?).",
-    "associates": [],
-    "isLawEnforcement": false,
-    "isMpdSuspect": true,
-    "otherTags": [],
-    "primaryHashtag": "GreenPoolPlayer",
-    "profileLeads": [],
-    "_id": "pc_Ljg-_ks3s"
   },
   {
     "actionsSummary": "Seen in the crowd near the West Tunnel Entrance. On West Plaza is typically right at the front of lines in front of police up with other seeming org. members",
@@ -36233,6 +36223,26 @@
     "_id": "_40e3xcVUoZg"
   },
   {
+    "actionsSummary": "Shoves against police barrier on Upper West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with grey facial hair wearing a tan baseball cap from Whitefish Mountain Resort in Whitefish, Montana and a blue jacket with a grey lining from Catalina Island, CA. Blue jeans, white tshirt, black and white patterned gloves. Carrying a flagpole with a US flag and a Florida for Trump flag. Possibly missing a tooth.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1rb_BxPKixuqhLaxCHvMF0PMwpU23nnQr",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "WhiteFishGuy",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "gKnxDiJH4nnc"
+  },
+  {
     "actionsSummary": "Hands on police shield at LEO line pushing as part of a breach attempt with multiple perps. Carries a large poker he later uses to try to grab a police shield with.",
     "alternateHashtags": [],
     "appearanceSummary": "Gray hoodie with dark jacket overtop, white/light blue medical mask, white gloves, light denim jeans, work boots. Carries a long poker (may be fence piece).",
@@ -37363,6 +37373,35 @@
     "primaryHashtag": "YodaPepePB",
     "profileLeads": [],
     "_id": "7IWjbwFZksX8"
+  },
+  {
+    "actionsSummary": "Shoves against police barriers on Upper West Plaza and gets sprayed by police. Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider0576"
+    ],
+    "appearanceSummary": "White man with reddish brown facial hair. Tattoo on left wrist. Yellow knit cap, safety goggles with black elastic strap, black buff, black top over yellow top, black fingerless gloves, black wristwatch on left wrist. Small tan pack on back. Waist chain for keys.",
+    "associates": [
+      "#PuffTopPusher",
+      "#LTConfessor"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1FOQF_99-VQuNmFuC2P8xzWtyjxQPWBcK",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "YokeHead",
+    "profileLeads": [
+      "@PhoenixOnWheels @JusticeCat6"
+    ],
+    "_id": "2bSeeCabomq0"
   },
   {
     "actionsSummary": "Seen throwing what looks like tear gas canister at police, assisted crowd attempts to push through police barriers, carries a radio in earlier footage.",
