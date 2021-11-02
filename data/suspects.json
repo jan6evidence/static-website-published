@@ -11621,6 +11621,7 @@
       "Individual4"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/14ppE2ZsnsgWVtsY4r3jur3Xsb8lwB0Hb",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -21521,7 +21522,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:21-mj-534",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1415156/download",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
