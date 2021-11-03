@@ -662,7 +662,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-45",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1354851/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -18119,7 +18119,7 @@
       "KennethGrayson"
     ],
     "caseIdentifier": "1:21-cr-370",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Heinl%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
