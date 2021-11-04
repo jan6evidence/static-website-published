@@ -27289,7 +27289,11 @@
     "actionsSummary": "Often near forefront of violence (on W. Plaza and at tunnel). On W. Plaza is key figure in fight, and confronts or negotiates with police when they are pushed into retreating up interior stairway. Enters tunnel early in fight, later is outside. May function as a Middle Manager. Did not march in with Proud Boys, designated based on hat.",
     "alternateHashtags": [],
     "appearanceSummary": "Red bandana around neck. Dark coat. First wears cowboy hat, then loses it and appears only in a grey beanie.",
+    "arrestDate": "2021-11-03T04:00:00.000Z",
+    "arrestState": "TN",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1446266/download",
     "compositeURL": "https://drive.google.com/file/d/1LqvubRyAo6KnDmMO4kjFA64p50s4URtD/view?usp=sharing",
     "fbiIdentifier": "97-AFO",
     "isLawEnforcement": false,
@@ -27300,12 +27304,17 @@
         "name": "ProudBoys"
       },
       {
+        "type": "group",
+        "name": "ProudBoysOther"
+      },
+      {
         "type": "behavior",
         "name": "Violence"
       }
     ],
     "primaryHashtag": "ProudboyCowboy",
     "profileLeads": [],
+    "realName": "PORTLOCK, Joshua John \"Josh\"",
     "_id": "yfFAMOF3gkR4"
   },
   {
@@ -34431,7 +34440,7 @@
     "arrestState": "SC",
     "associates": [],
     "caseIdentifier": "1:21-cr-81",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1388821/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
