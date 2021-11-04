@@ -12998,11 +12998,14 @@
     "_id": "ipXYbUopcniI"
   },
   {
-    "actionsSummary": "Recorded harassing police leaving the area of the NW lawn. Seems to make contact.",
+    "actionsSummary": "Shoves police leaving the area of the NW lawn. (MPDC 4935)",
     "alternateHashtags": [],
     "appearanceSummary": "Two hats - white MAGA cap over knit hat. Black sunglasses. Light brown full beard and mustache. Black or navy blue baseball jacket with \"USA\" in large white letters on the left breast and a US flag on the left shoulder. Dark shirt underneath. Red shirt peeking out from under the jacket. Black backpack. Blue jeans. Dark shoes.",
-    "associates": [],
+    "associates": [
+      "#WhiteCapBuddie"
+    ],
     "fbiIdentifier": "378-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1GSmimio8FxhE6tW2QkBq4h5NdUUClMsg",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -31499,6 +31502,28 @@
     "_id": "mtHIXmF20vZs"
   },
   {
+    "actionsSummary": "Inside East Foyer and Rotunda of Capitol building. Was at rally in Dallas, Texas in Sept 2020.",
+    "alternateHashtags": [
+      "StorkDork #SeditionInsider215 #Insider0215"
+    ],
+    "appearanceSummary": "White man with short light brown hair. Red MAGA hat with \"GOD\" written in sharpie above the MAGA. Dark grey jacket with tan sleeves and a plaid lining over dark grey hoodie. Dark grey pants. Black tennis shoes with white edge to sole. Green buff. Something large and square stuffed inside his jacket.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/131JRWL1joPzbHQ5CqBs_JHLKWAsPXUPy",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "SpongeBobMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "ZLGBI-yEsgAg"
+  },
+  {
     "actionsSummary": "Sprays police officers",
     "alternateHashtags": [],
     "appearanceSummary": "Long blonde/light brown ponytail, mustache and beard Grey cap with ear flaps, black \"We the People\" buff and red and white striped buff, dark grey coat, light grey pants, black and grey/tan Bear Grylls backpack.",
@@ -36234,6 +36259,20 @@
     "primaryHashtag": "WhiteBeanieGingerQ",
     "profileLeads": [],
     "_id": "_wyCW85WMu3Y"
+  },
+  {
+    "actionsSummary": "Assaults police on the NW Lawn.",
+    "alternateHashtags": [],
+    "associates": [
+      "#GingerChinPelt"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1r13zqakVGYiSArSaJmLU9HMyXKKR3bUw?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "WhiteCapBuddy",
+    "profileLeads": [],
+    "_id": "odAxrZLJwsGM"
   },
   {
     "actionsSummary": "Strikes police with police shield inside Tunnel during Phase 1. One of 3 pulled out of tunnel after failed attack (1st out), the only plausible 'go' man. Professional, slides through crowds. At one point may carry a 5-gal orange bucket. Skips W. Plaza fight, waits on SW side along where other TunnelTeam members also wait, re-enters Plaza and waves grey \"Gun Owners for Trump\" flag when it is secured. After tunnel rescue makes very rapid exit from Lower W Terrace, wearing a black vest.",

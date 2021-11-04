@@ -11933,7 +11933,28 @@
       "thumbnailUrl": "https://archive.org/download/vba8hATb9tW4JhhLb/vba8hATb9tW4JhhLb.200px.jpg"
     }
   ],
-  "DayGloMilkMaid": [],
+  "DayGloMilkMaid": [
+    {
+      "mediaItemId": "8AmdEiytYt8GEFJtL",
+      "archiveUrl": "https://archive.org/download/8AmdEiytYt8GEFJtL/8AmdEiytYt8GEFJtL.png",
+      "thumbnailUrl": "https://archive.org/download/8AmdEiytYt8GEFJtL/8AmdEiytYt8GEFJtL.200px.png"
+    },
+    {
+      "mediaItemId": "9Mmi3AWfkcubjsgwm",
+      "archiveUrl": "https://archive.org/download/9Mmi3AWfkcubjsgwm/9Mmi3AWfkcubjsgwm.png",
+      "thumbnailUrl": "https://archive.org/download/9Mmi3AWfkcubjsgwm/9Mmi3AWfkcubjsgwm.200px.png"
+    },
+    {
+      "mediaItemId": "BE8gsjr9RpPL9tL9w",
+      "archiveUrl": "https://archive.org/download/BE8gsjr9RpPL9tL9w/BE8gsjr9RpPL9tL9w.jpeg",
+      "thumbnailUrl": "https://archive.org/download/BE8gsjr9RpPL9tL9w/BE8gsjr9RpPL9tL9w.200px.jpeg"
+    },
+    {
+      "mediaItemId": "GPZ7PsoyYrzctdPux",
+      "archiveUrl": "https://archive.org/download/GPZ7PsoyYrzctdPux/GPZ7PsoyYrzctdPux.png",
+      "thumbnailUrl": "https://archive.org/download/GPZ7PsoyYrzctdPux/GPZ7PsoyYrzctdPux.200px.png"
+    }
+  ],
   "DebThePlon": [
     {
       "mediaItemId": "6bconyguNRzja8ujn",
@@ -42613,6 +42634,7 @@
       "archiveUrl": "https://archive.org/download/wxCq4b9JE3duqPnY7/wxCq4b9JE3duqPnY7.jpg"
     }
   ],
+  "SpongeBobMAGA": [],
   "SprayMeSprayYou": [
     {
       "mediaItemId": "6TYm7tjaBMFp3chKN",
@@ -49542,6 +49564,7 @@
       "thumbnailUrl": "https://archive.org/download/trtDkQz4xrgSsPAZG/trtDkQz4xrgSsPAZG.200px.png"
     }
   ],
+  "WhiteCapBuddy": [],
   "WhiteDeathHoodie": [
     {
       "mediaItemId": "2cjkxoJf9kZQHb2fu",
