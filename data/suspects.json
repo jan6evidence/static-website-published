@@ -2135,7 +2135,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BareSpare",
     "profileLeads": [],
     "_id": "C5WAWfHAgu3o"
@@ -2184,6 +2189,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -2354,7 +2363,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "Beardvana",
     "profileLeads": [],
     "_id": "Nem4Kvl0AsbI"
@@ -2566,6 +2580,10 @@
       {
         "type": "group",
         "name": "CapitolAF"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "behavior",
@@ -2918,6 +2936,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       },
       {
@@ -3094,7 +3116,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BlackBedHead",
     "profileLeads": [],
     "_id": "Cf1YxcAN0rAg"
@@ -3205,7 +3232,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BlackFlagBandit",
     "profileLeads": [],
     "_id": "h6RB67ocUnTU"
@@ -3222,6 +3254,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -3939,7 +3975,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BloatedCuomo",
     "profileLeads": [],
     "_id": "8eAdqd1lcr9Q"
@@ -3987,6 +4028,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -4355,6 +4400,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -4583,7 +4632,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BlueSteelWorker",
     "profileLeads": [],
     "_id": "TIpxigE8ol9k"
@@ -4620,6 +4674,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -4638,6 +4696,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -5048,7 +5110,12 @@
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BrianStenz",
     "profileLeads": [],
     "realName": "STENZ, Brian",
@@ -5109,7 +5176,12 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412371/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BrittianyDillon",
     "profileLeads": [],
     "realName": "DILLON, Brittiany Angelina",
@@ -5438,7 +5510,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BuffaloCheckMate",
     "profileLeads": [],
     "_id": "w3Ck6LVvIhXs"
@@ -5629,6 +5706,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -5971,6 +6052,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -6353,7 +6438,12 @@
     ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "CapitolCapLadyCompanion",
     "profileLeads": [],
     "_id": "FTalXLvLcpFk"
@@ -6623,7 +6713,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2027"
+    ],
     "appearanceSummary": "White woman with dark hair wearing red, white and blue knit cap with \"45\" at the front.",
     "arrestDate": "2021-10-06T04:00:00.000Z",
     "arrestState": "MO",
@@ -6728,7 +6820,9 @@
   },
   {
     "actionsSummary": "Entered Capitol twice. First time through Senate Wing Door where she walked through Crypt, Crypt Lobby and Visitor's Center Orientation Lobby. Spent approximately 30 minutes inside the building",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0512"
+    ],
     "appearanceSummary": "White woman with long straight brown hair and no hat; Blue long sleeved sweatshirt with \"Trump\" on the front. Navy blue jacket tied around waist. Wears red knit cap that she takes off while inside",
     "arrestDate": "2021-09-14T04:00:00.000Z",
     "arrestState": "CT",
@@ -6746,10 +6840,10 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "CarlyKrzywicki",
+    "primaryHashtag": "CarlaKrzywicki",
     "profileLeads": [],
     "realName": "KRZYWICKI, Carly",
-    "_id": "IldUWUzrgnGs"
+    "_id": "xwnhLfHxYruY"
   },
   {
     "actionsSummary": "At the front lines early in the standoff with police on the West Plaza.",
@@ -6999,6 +7093,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "ChinBeardPB",
@@ -8478,7 +8576,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1029"
+    ],
     "appearanceSummary": "Man with a dark complexion and very short dark hair. Bags under his eyes. White collared jogging top with a black lining. Backpack with red straps.",
     "associates": [],
     "isLawEnforcement": false,
@@ -8540,7 +8640,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "CrossBeanie",
     "profileLeads": [],
     "_id": "LYFa9sl0kpUU"
@@ -9404,7 +9509,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1MuORgQ43dSllG0L0tHAQhjfktMFHDWZh",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "DayGloMilkMaid",
     "profileLeads": [],
     "_id": "11_ZN3sxEr4E"
@@ -9515,13 +9625,19 @@
   },
   {
     "actionsSummary": "Violent based on AFO",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2162"
+    ],
     "appearanceSummary": "Blue knit cap with \"Trump\" in white letters at the bottom front and a yellow signature closer to the top. Brown (?) beard and mustache. Black earloop mask, sometimes worn under the chin. Black or dark blue hoodie. Wears a blue Trump flag around his neck like a cape or over his shoulder like a toga. Blue pants. Black shoes. Photographed recording the scene with a smartphone in a black case on the west side of the Capitol and inside the building.",
     "associates": [],
     "fbiIdentifier": "376-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -9554,6 +9670,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -10332,7 +10452,12 @@
     "fbiIdentifier": "481-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Sprayer"
+      }
+    ],
     "primaryHashtag": "DroopyDrizzles",
     "profileLeads": [],
     "_id": "jTAQmrq5wrcw"
@@ -10448,7 +10573,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "DukeFlukem",
     "profileLeads": [],
     "_id": "cwe94i3oMjQU"
@@ -11378,6 +11508,10 @@
       },
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Sprayer"
       },
       {
@@ -11398,7 +11532,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "FascistFieldTrip",
     "profileLeads": [],
     "_id": "DHUPKLR2MkYE"
@@ -11676,7 +11815,12 @@
     ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "FBI5GreenHat",
     "profileLeads": [],
     "_id": "Hs3Oq7dKcvtk"
@@ -12231,7 +12375,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "FlagLadderClimber",
     "profileLeads": [],
     "_id": "84NEFeZbUhs0"
@@ -12951,6 +13100,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       },
       {
@@ -13032,7 +13185,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "GadsdenGaiterSaintMichael",
     "profileLeads": [],
     "_id": "82I5yG9J8nbc"
@@ -14438,6 +14596,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -14545,6 +14707,10 @@
       },
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       },
       {
@@ -14575,12 +14741,18 @@
   },
   {
     "actionsSummary": "In the group at the Left of Tunnel window when LeatherHainesHisWay is breaking the window. Pulls away a woman who is trying to break out the window.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2168"
+    ],
     "appearanceSummary": "Brown hooded sweatshirt. Camo pants. Black gloves. Green face mask with a red one underneath. Glasses. Army green helmet with patches or stickers on the top. (Red Trump sticker on the front, large white sticker across the top, white sticker with blue letters that read Trump across the back.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "equipment",
         "name": "HelmetOrArmor"
@@ -15124,6 +15296,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Vandalism"
       }
     ],
@@ -15476,6 +15652,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -15512,7 +15692,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "GreyScaredZombie",
     "profileLeads": [],
     "_id": "GvlRk5fBorMA"
@@ -15954,6 +16139,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Sprayer"
@@ -16463,6 +16652,10 @@
       {
         "type": "group",
         "name": "ProudBoysFlorida"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "HorizontalBlackPB",
@@ -16577,10 +16770,6 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -17165,7 +17354,12 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Air Force",
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "IAmKeithLee",
     "profileLeads": [],
     "_id": "qskP5sII4r-A"
@@ -17758,6 +17952,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       },
       {
@@ -17989,6 +18187,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -18262,7 +18464,8 @@
   {
     "actionsSummary": "Violent based on AOM designation.",
     "alternateHashtags": [
-      "FBI177AOM"
+      "FBI177AOM",
+      "Insider1016"
     ],
     "appearanceSummary": "Young man with light brown hair, buzzed very short on the sides and back. Black leather jacket.",
     "associates": [],
@@ -19126,7 +19329,8 @@
   {
     "actionsSummary": "Seen striking police officer with flagpole with \"Jesus Saves\" flag",
     "alternateHashtags": [
-      "DualStriker"
+      "DualStriker",
+      "Insider1216"
     ],
     "appearanceSummary": "Trump baseball cap with a red bill (that has a logo or something on it) a black front, and white back and sides. Dark hair, beard, and mustache. Black sweatshirt over a white collarless shirt. Black backpack with red features. Carries a white pole with a flag that shows a distressed US flag and the words \"Jesus is my savior, Trump is my president.\"",
     "associates": [],
@@ -19134,6 +19338,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -20397,7 +20605,9 @@
   },
   {
     "actionsSummary": "Entered Capitol building, and posted about it on Facebook. Traveled to DC and entered the Capitol with his friend, Jeremy Sorvisto.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1168"
+    ],
     "appearanceSummary": "dark-colored pants or jeans, black gloves, and reflective sunglasses",
     "arrestDate": "2021-01-20T05:00:00.000Z",
     "arrestState": "MI",
@@ -20691,7 +20901,9 @@
   },
   {
     "actionsSummary": "Enters the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0840"
+    ],
     "appearanceSummary": "Green quilted jacket, jeans. Red MAGA hat. Brown hair and trimmed beard. Dark sunglasses.",
     "arrestDate": "2021-05-18T04:00:00.000Z",
     "arrestState": "TX",
@@ -20910,7 +21122,9 @@
     "_id": "iLzs5dFyYnmA"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0549"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Dark hair. Clean Shaven. Black jacket over a black hoodie? Or black, zip-up hoodie over a black shirt?",
     "associates": [],
     "isLawEnforcement": false,
@@ -21012,7 +21226,9 @@
   },
   {
     "actionsSummary": "Carries a knife in his back pocket. Shows off pictures from inside the Capitol building to a YouTube interviewer.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1299"
+    ],
     "appearanceSummary": "Black leather jacket, black turtleneck shirt.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1BqzXoRSfKPxQjgNl6GQt8oqxXYYJ0xit/view?usp=sharing",
@@ -21380,7 +21596,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0057"
+    ],
     "appearanceSummary": "White man with dark hair and facial hair wearing red cap, dark jacket and khaki pants.",
     "arrestDate": "2021-10-05T04:00:00.000Z",
     "arrestState": "NJ",
@@ -21404,7 +21622,9 @@
   },
   {
     "actionsSummary": "Carries metal pipe as weapon. Steals an officer's shield. Throws pipe at police in Phase 3 tunnel assault. Pictured in the crowd on the West Terrace, standing on the ledge next to #WindowCheerleader",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0833"
+    ],
     "appearanceSummary": "Blue parka jacket with grey hood. Goatee. Blue backpack.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/13w37P5kZpm_mgsXaAU4QHPe5lyFhkhSf/view?usp=sharing",
@@ -21413,6 +21633,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -21642,13 +21866,19 @@
   },
   {
     "actionsSummary": "At front of NW Scaffolding breach, fought with police. Works with #MasterSarge and #GasMaskTwins to break police line.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0767"
+    ],
     "appearanceSummary": "African American man with a roundish face. Black hair and a full, black beard and mustache. Sometimes wears a yellow gaiter with some black writing on it. White or light gray hoodie with a black zipper down the center. The hoodie is worn over a long-sleeve black shirt that may have a white logo on the left cuff. Inside the Capitol Building, he isn't wearing the hoodie and you can see the shirt. Gray backpack with black straps. White pants.",
     "associates": [],
     "fbiIdentifier": "391-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -21818,7 +22048,9 @@
   },
   {
     "actionsSummary": "Observed in Capitol. May have chatted with #RedPlaidPylonThrower, but interaction unclear. Recorded climbing out of a Capitol window and into the NW Courtyard area. Recorded using a cell phone (possibly twice) inside the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1566"
+    ],
     "appearanceSummary": "Long white hair swept back from his forehead. Stubbly upper lip. Black gaiter with some white features. Black jacket, possibly over a blue or black shirt with white lines on the front. Black Nike backpack. Blue jeans. Dark shoes or boots. Recorded using a cell phone inside the Capitol.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/103yPjYhmxNAxpBHnZOXKvnKyxuLLmCTx/view?usp=sharing",
@@ -22000,7 +22232,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol, presumably violent since made the MPD Wanted list",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1562"
+    ],
     "appearanceSummary": "Red MAGA baseball cap over a black knit cap with \"Trump\" on the front. Eyeglasses with light frames. Gray jacket.",
     "associates": [],
     "isLawEnforcement": false,
@@ -22042,7 +22276,9 @@
   },
   {
     "actionsSummary": "Enters the Senate Chamber and takes photos of documents left on Senator's desks. He \"stages\" for a long time on the NW side, enters through NW breach, is expelled by police through NE doors, then entered through E. Main Doors shortly after #MaroonPB. Likely acting purposefully and with a plan.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0903"
+    ],
     "appearanceSummary": "Orange beanie, green sweatshirt, red backpack, blue face buff. Carries an American flag.",
     "associates": [],
     "filesUrl": "https://docs.google.com/spreadsheets/d/1QLFXkiaQOY5fCn2emAfvYVnk2uK0tP873pYU77ist5U/edit?usp=sharing",
@@ -22145,7 +22381,9 @@
   },
   {
     "actionsSummary": "Pictured inside the Capitol. Violent based on AFO designation.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1269"
+    ],
     "appearanceSummary": "Navy jacket, black hat. Red scarf with stars. Shoulder-length hair.",
     "associates": [],
     "fbiIdentifier": "244-AFO",
@@ -22295,13 +22533,19 @@
     "_id": "M5NnuxLKwvzo"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0056"
+    ],
     "appearanceSummary": "Black jacket. Red baseball cap, often backwards. Long brown hair and short brown beard.",
     "associates": [],
     "fbiIdentifier": "384-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -22313,7 +22557,9 @@
   },
   {
     "actionsSummary": "In lead group on NW Steps, throws a mace canister at a police officer's head, then brandishes a hammer. On the Upper W. Terrace, helps in breaking a window, enters Capitol, leaves fairly quickly. Likely part of team for this breach.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1565"
+    ],
     "appearanceSummary": "Orange and black gloves. Black coat. Grey helmet. Glasses. Clean shaven.",
     "associates": [],
     "fbiIdentifier": "268-AFO",
@@ -22378,13 +22624,18 @@
   {
     "actionsSummary": "Carried backpack full of mace or bear spray canisters. Seen on East side of Capitol",
     "alternateHashtags": [
-      "MaceStach"
+      "MaceStach",
+      "Insider0849"
     ],
     "appearanceSummary": "Heavyset man. Grey hooded sweatshirt. Black beanie hat with grey swim style goggles. Long dark brown beard. Carries a tan colored backpack full of spray canisters.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -22469,7 +22720,9 @@
   },
   {
     "actionsSummary": "Eighth person inside the Capitol via NW door. Seen throughout Senate wing & the Crypt.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0354"
+    ],
     "appearanceSummary": "Olive green knit cap, yellow and black \"Don't Tread on Me\" gaiter, black jacket, black backpack, tan pants. Bald.",
     "associates": [],
     "isLawEnforcement": false,
@@ -22486,12 +22739,19 @@
   },
   {
     "actionsSummary": "Seen under NW scaffolding, must have been violent since on the MPD wanted list",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1227"
+    ],
     "appearanceSummary": "Wavy brown hair behind a receding hairline. Sometimes wears a Trump baseball cap with a red front and bill and a blue back half with white stars. Pinned to the front of the hat is a large button with a picture of Trump. Eyeglasses with black frames. Stars and stripes earloop mask. Brown coat over a red t-shirt. Little orange backpack on black strings. Light blue jeans. Dark shoes. Do you know the button man?",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MagaButtonMan",
     "profileLeads": [],
     "_id": "flgiQAUtwqq8"
@@ -22612,13 +22872,19 @@
   },
   {
     "actionsSummary": "Rips a helmet/face shield off of an officer at the Central East Door.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1460"
+    ],
     "appearanceSummary": "Short hair, trim brown beard & mustache. White and navy ball cap with white stripes across front. Navy hooded jacket. Gray hooded sweatshirt. Royal blue & orange buff. Khaki pants. Gray tennis shoes.",
     "associates": [],
     "fbiIdentifier": "350-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -22676,7 +22942,9 @@
   },
   {
     "actionsSummary": "Seen in prominent photos sitting at a desk in the Capitol while smoking a cigarette and using a smartphone.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1297"
+    ],
     "appearanceSummary": "Woman with long, dark brown hair. Red KAG baseball cap. Black cloth coat over a black hoodie. White necklace. Black bracelet on right wrist. Seen carrying a US flag on a white pole, and red and white bullhorn. Round, brown, leather purse or bag at her right hip. Dark pants.",
     "associates": [],
     "idStatus": "ID sent to FBI",
@@ -22769,7 +23037,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0437"
+    ],
     "appearanceSummary": "White woman with dark hair wearing red, white and blue knit cap with \"45\" at the front.",
     "arrestDate": "2021-10-06T04:00:00.000Z",
     "arrestState": "MO",
@@ -22851,7 +23121,9 @@
   },
   {
     "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes. Took several videos and a selfie of herself smoking a cigarette inside the building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0173"
+    ],
     "appearanceSummary": "White woman with long pink scarf, blue knit cap, stars and stripes jacket, white cloth mask, blue jeans and white sneakers.",
     "arrestDate": "2021-09-15T04:00:00.000Z",
     "arrestState": "FL",
@@ -23139,7 +23411,9 @@
   },
   {
     "actionsSummary": "Enters the Capitol and puts up Fuck Antifa stickers. Smashed media equipment in #MediaSmash",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1908"
+    ],
     "appearanceSummary": "Maroon hoodie, black pants, black neck gaiter, wearing binoculars around neck, black backpack.",
     "associates": [],
     "fbiIdentifier": "207-AOM",
@@ -23184,7 +23458,9 @@
   },
   {
     "actionsSummary": "Acts as an organizer, arranging troops, communicates to many PBs and others. He does the W side breach, then moves to the E. side to help with the E. breach, moving barricades and directing. Has a meeting on the E. Capitol main steps, including talking with officers. Goes into Capitol in 2:38 PM breach: at the East doors, hands ZZTopPB a can of mace/bear spray used to spray officers. Inside Capitol poses holding Trump flag.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0794"
+    ],
     "appearanceSummary": "Plaid button down coat covering a plate carrier. Maroon red hoodie pulled up over a baseball hat. Trucker hat, red \"Cummins Engine Oil\" logo on the front with yellow lettering. Khaki pants. Dark stars and stripes face buff and large sunglasses. Reddish colored mustache.",
     "associates": [
       "#ZZTopPB"
@@ -23485,7 +23761,9 @@
   },
   {
     "actionsSummary": "One of first through scaffolding and through NW window breach. Gave interview describing actions.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1955"
+    ],
     "appearanceSummary": "White male, Softshell Tactical Hooded Jacket (brown/green camo) with Texas State Flag Tactical Morale Patch on right arm and III%er and III American Flag patches on left arm, tan tactical pants with adjustable hook and loop at the knees and ankles, thigh side and calf pockets, black lace-up shoes, camo baseball cap white/black broken snake “JOIN or DIE” morale patch, camera attached to lid, black gaiter with green/white flag and stars, white goggles with black strap, black leather gloves, gas mask, black foam grip baton.",
     "associates": [],
     "isLawEnforcement": false,
@@ -23525,7 +23803,9 @@
   },
   {
     "actionsSummary": "Enters Capitol as #58 through NW Courtyard breach",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1134"
+    ],
     "appearanceSummary": "Black knit cap. Short dark beard and mustache. Black coat over an orange t-shirt. Dark pants.",
     "associates": [],
     "isLawEnforcement": false,
@@ -23650,12 +23930,18 @@
     "_id": "w-OG0uyasn_8"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1589"
+    ],
     "associates": [],
     "fbiIdentifier": "444-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -23708,7 +23994,9 @@
   },
   {
     "actionsSummary": "At the front of the breaches on the PA Walkway, pulls down some barriers to the left of the walkway but otherwise seems to supervise. Very calm and unruffled amid chaos, walks front lines crosswise to the crowd. Seen on W. Plaza exhibiting same behavior, then climbs the scaffolding. Seen inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1098"
+    ],
     "appearanceSummary": "Silvery hair. Clean shaven. Green coat with gold/beige logo and writing, \"NJ State Police Task Force\" on chest, also \"Class of 17\", likely a K9 unit. \"MFIC\" on L. sleeve. Grey plaid shirt. Brown work boots.",
     "associates": [],
     "isLawEnforcement": false,
@@ -23904,7 +24192,9 @@
   },
   {
     "actionsSummary": "Pictured inside the Capitol with his brother (William Pope).",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1648"
+    ],
     "appearanceSummary": "Dark colored coat and beanie. Light green backpack with light-colored stripe in the center.",
     "arrestDate": "2021-02-10T05:00:00.000Z",
     "arrestState": "IA",
@@ -24118,7 +24408,9 @@
   },
   {
     "actionsSummary": "Climbed up bleachers/scaffolding on West side of Capitol. Entered Capitol through Upper West Terrace doors around 2:45pm. Walked around Rotunda until forced to leave.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0523"
+    ],
     "appearanceSummary": "Asian man wearing black shirt, white jacket, a red baseball cap worn backwards, black jeans and goggles.",
     "arrestDate": "2021-09-17T04:00:00.000Z",
     "arrestState": "NJ",
@@ -24402,7 +24694,9 @@
   },
   {
     "actionsSummary": "At front of crowd pushing against police at doors on the Senate side of the building Entered the Capitol Building at approximately 2:47 p.m.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2040"
+    ],
     "appearanceSummary": "Bald man with dark facial hair wearing a black hoodie, a gray and black backpack, a respirator,\nand fingerless gloves",
     "arrestDate": "2021-10-07T04:00:00.000Z",
     "arrestState": "FL",
@@ -24438,7 +24732,9 @@
   },
   {
     "actionsSummary": "Goes inside the Capitol and is on the frontline when the Columbus doors are opened from the inside. Attempts to tackle and manages to touch the camera of a cameraman who's trying to flee the NE press pen. Kicks a tripod in the NE press pen. Throws a beanie on the top of the abandoned equipment.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0859"
+    ],
     "appearanceSummary": "Carries a handwritten sign to the Capitol with the text: \"No Lockdown. No Mask\" and with CCP crossed out on one side. \"America First. Never Give up Never surrender\" on the other side. An eagle is attached on the top. Wears a grey hoodie with the text \"Molon Labe\" in greek letters on front. Red MAGA cap",
     "associates": [],
     "isLawEnforcement": false,
@@ -24459,13 +24755,19 @@
   },
   {
     "actionsSummary": "Attacks police line on the West plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1110"
+    ],
     "appearanceSummary": "Black knit cap. Transition lens. Long, white beard. Tan coat. Black \"Monster\" branded hoodie. Black t-shirt with \"Gun-Toting Trump Supporter\" in white letters. Blue jeans. Black shoulder bag. Carries Gadsden flag.",
     "associates": [],
     "fbiIdentifier": "420-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -24535,12 +24837,19 @@
   },
   {
     "actionsSummary": "Strikes at window to the right of the tunnel with a club.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1159"
+    ],
     "appearanceSummary": "Black hooded coat. Camo face covering with eyes cut out. Blonde hair. Female.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MortalWombat",
     "profileLeads": [],
     "_id": "E-rqhGdcwkIg"
@@ -24590,12 +24899,19 @@
     "_id": "UNoZQ1unYmLw"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1063"
+    ],
     "appearanceSummary": "Short dark (black?) hair. Dark mustache and scruff under the lip. Sometimes wears a black motorcycle helmet with a clear visor that flips up. Stars and stripes scarf tied around his neck. Black jacket and black pants. Might have a backpack?",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MotoMusketeer",
     "profileLeads": [],
     "_id": "A9-IlPCJYkBY"
@@ -24654,6 +24970,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -24664,7 +24984,9 @@
   },
   {
     "actionsSummary": "Appears to be livestreaming on Instagram while inside the Capitol Building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0843"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Close-fitting black sunglasses. Black mustache and goatee. Stars and stripes gaiter. Dark gray jacket. Black backpack. Seen carrying a cell phone.",
     "associates": [],
     "isLawEnforcement": false,
@@ -24738,7 +25060,9 @@
   },
   {
     "actionsSummary": "Wanders halls of the Capitol building. Enters an office and makes a telephone call.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1096"
+    ],
     "appearanceSummary": "White sweater with black and grey stripes. Blue trump scarf tied around his neck. Red MAGA visor. Crazy hair sticking out on top. Black gloves",
     "associates": [
       "#BabyBlueHorn"
@@ -24866,10 +25190,6 @@
     "otherTags": [
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Violence"
       },
       {
@@ -24883,12 +25203,19 @@
   },
   {
     "actionsSummary": "Seen inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0615"
+    ],
     "appearanceSummary": "White female; light brown hair; American Flag gaiter; glasses; lanyard; light gray shirt with Trump logo; navy blue jacket with zipper and hood, white lining, navy and white striped elastic cuffs and hemline, and embroidered New England Patriots logo; wearing a scarf in one photo?",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "NappyPatty",
     "profileLeads": [],
     "_id": "N9q5W9vhIqug"
@@ -24984,7 +25311,8 @@
   {
     "actionsSummary": "On the Lower West Plaza throws a metal rod at the police. Also gives a Nazi salute.",
     "alternateHashtags": [
-      "SoggyKidInsider"
+      "SoggyKidInsider",
+      "Insider1486"
     ],
     "appearanceSummary": "Gray knit cap. Dark hair. Sides of the head are very short. Black chinstrap beard. Wears a hooded jacket that has a silver body and black arms. Red or maroon shirt. Gray pants. Carries US flag.",
     "associates": [],
@@ -24992,6 +25320,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -25003,7 +25335,9 @@
   },
   {
     "actionsSummary": "Assaulted media before reaching Capitol. Entered Capitol, seen at House Speaker's Lobby door where Ashli Babbit was shot.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1007"
+    ],
     "appearanceSummary": "Woman with shoulder-length brown hair. Black jacket over a white t-shirt that may say something about Christmas. Sometimes hooks eyeglasses into the neck of the shirt. Light gray pants.",
     "associates": [],
     "fbiIdentifier": "318-AOM",
@@ -25078,7 +25412,9 @@
   },
   {
     "actionsSummary": "Under the NW scaffolding with some others in the OrangeTapeGroup. Seemed to be directing, ordering others including #Individual4. Seen inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1045"
+    ],
     "appearanceSummary": "Bright yellow face covering, black beanie, reflective sunglasses. Black coat with hood, black and red gloves. Ginger mustache and beard.",
     "associates": [
       "#FlagBuffNS",
@@ -25171,7 +25507,9 @@
   },
   {
     "actionsSummary": "Inside Capitol confronts police face to face, then breaks through line.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0103"
+    ],
     "appearanceSummary": "White hair. Crooked front teeth. Black shirt that says \"Nesco All-Around Sportsman\" on the back in white. Camo cap that says \"Bass Pro Shops\" embroidered in an oval on the front.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/17xO189oLq8eOEiu0V-7OI0xjGrLpsH_7",
@@ -25543,7 +25881,9 @@
   },
   {
     "actionsSummary": "Recorded near the door to the Speaker's Lobby.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0934"
+    ],
     "appearanceSummary": "Black helmet with a Gopro camera on top. Black knit cap under that. Large black scarf. Black coat. Black backpack. Dull blue jeans. Light brown shoes.",
     "associates": [],
     "isLawEnforcement": false,
@@ -25618,19 +25958,28 @@
   },
   {
     "actionsSummary": "Smashes glass panel of door. Enters Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0506"
+    ],
     "appearanceSummary": "Red Keep America Great baseball cap. Plaid jacket over black hoodie. Possible black gaiter. Black pants with blue stripe down leg. Trump flags on pole.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "NoseStrings",
     "profileLeads": [],
     "_id": "GQsrF6zX4vNo"
   },
   {
     "actionsSummary": "Inside the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0298"
+    ],
     "appearanceSummary": "Raccoon / coonskin cap. Short, reddish-brown beard and mustache. Reddish-brown hair long enough to tie in a ponytail. Khaki and olive keffiyeh around his neck. Khaki, long-sleeve t-shirt (or maybe a sweatshirt since in one video it looks like there is a big pocket at the belly). Leather vest with wide, fur lapels. A white and a light blue bracelet on his right wrist. May have a tattoo just under his right thumb. Brown and white sash around his waist. Army green cargo pants. Photographed using a smartphone near the base of the NW steps after the large flag had been hung.",
     "associates": [],
     "fbiIdentifier": "412-AFO",
@@ -25652,13 +26001,20 @@
   },
   {
     "actionsSummary": "Fights on W. Plaza",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0904",
+      "TwistHatAttck"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Short, black coat with a high collar. Gray or light blue pants. Light brown footwear.",
     "associates": [],
     "fbiIdentifier": "379-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -25747,7 +26103,9 @@
   },
   {
     "actionsSummary": "Steps behind a barricade and keeps a lookout so her boyfriend can climb the wall by the NW Stairs. Moves up the NW Stairs and enters Capitol via broken window in NW Courtyard.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0948"
+    ],
     "appearanceSummary": "Petite female. White and pink baseball hat. Glasses. Black coat and pants. Carrying an American flag.",
     "associates": [
       "#NWStairsPinkBoo"
@@ -25770,7 +26128,9 @@
   },
   {
     "actionsSummary": "Climbs the wall that borders the NW Stairs. Incites others to follow him. Moves up the NW Stairs and enters Capitol via the broken NW Courtyard window.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0949"
+    ],
     "appearanceSummary": "Red Trump 2020 hat. Flag scarf. Grey sweatshirt and pants.",
     "associates": [
       "#NWStairsPink"
@@ -25877,7 +26237,9 @@
   },
   {
     "actionsSummary": "Observed inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1254"
+    ],
     "appearanceSummary": "Brown hair, beard, and mustache. Stars and stripes gaiter around his neck. Black or dark blue long-sleeve shirt with a Carhartt logo on the breast pocket. Black backpack.",
     "associates": [],
     "isLawEnforcement": false,
@@ -25906,7 +26268,9 @@
   },
   {
     "actionsSummary": "Enters Capitol. Previously marched with Proud Boys.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1401"
+    ],
     "appearanceSummary": "Dark hair swept back from the forehead, on top and back of head. Buzzcut on the sides. Dark beard and mustache. Gray hoodie over a black long-sleeve shirt or possibly over a black hoodie. There appear to be at least two large black letters on the front of the gray hoodie. Flame tattoo on the inside of his right wrist. Black backpack. Blue jeans.",
     "associates": [],
     "isLawEnforcement": false,
@@ -26007,7 +26371,9 @@
   },
   {
     "actionsSummary": "Seen on Upper W. Terrace peering down to look at the action below.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1528"
+    ],
     "appearanceSummary": "Orange knit cap with a large patch on the front of the kanji 悟 used by Goku in the cartoon Dragonball Z. (Ironically, in Japanese this kanji means \"enlightenment\" or \"to become aware\".) Long graying beard. Gray camo jacket over a black hoodie. Wears a blue Trump \"Fuck Your Feelings\" flag as a cape. Dark pants and dark shoes with a light gray feature.",
     "associates": [],
     "isLawEnforcement": false,
@@ -26024,7 +26390,9 @@
   },
   {
     "actionsSummary": "On the frontline at the scaffolding. Uses \"I'm an old fool\" tactics to get the barriers away from police. Also seen playing this game inside the Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0505"
+    ],
     "appearanceSummary": "Older guy. Thinning, light colored hair. Dark jacket with no hood. No face covering or hat. Clean shaven.",
     "associates": [],
     "isLawEnforcement": false,
@@ -26156,12 +26524,19 @@
     "_id": "n999AQ2sEnsQ"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0558"
+    ],
     "appearanceSummary": "Medium length gray or white hair. Stubbly upper lip. Square face. Blue hoodie.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "OnlyOneTime",
     "profileLeads": [],
     "_id": "pbd7z9FY0ulA"
@@ -26281,7 +26656,9 @@
   },
   {
     "actionsSummary": "On front line at NW corner of West Plaza yelling and inciting, seems to be playing a role. Later enters Capitol and is seen inside. Marches in with Proud Boys in morning.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1293"
+    ],
     "appearanceSummary": "Black hooded sweatshirt. Tactical vest with a radio clipped to the front. Black embroidered Trump hat. Sunglasses with orange reflective lenses. Face buff worn during march.",
     "associates": [],
     "compositeURL": "https://twitter.com/LsquaredRE/status/1374622086803562496",
@@ -26417,10 +26794,6 @@
       {
         "type": "group",
         "name": "ProudBoysArizona"
-      },
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "OrangeSkiMask",
@@ -26569,7 +26942,9 @@
   },
   {
     "actionsSummary": "He's been seen in multiple locations within feet of #Individual4. Confronts police inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1119"
+    ],
     "appearanceSummary": "Pacifier/Dummy/Binky in his mouth. Carries American Flag, navy blue hoodie, camo cloth covered helmet, tan goggles with strap, salt and pepper long beard.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1DnEJc4fl32WolPBvT1u2z1vSfRv8Px3r/view?usp=sharing",
@@ -26675,10 +27050,6 @@
     "otherTags": [
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Vandalism"
       }
     ],
@@ -26736,7 +27107,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0974"
+    ],
     "appearanceSummary": "A group of perps in the same FBI image.",
     "associates": [],
     "isLawEnforcement": false,
@@ -26782,7 +27155,9 @@
   },
   {
     "actionsSummary": "Shows up in fairly early photo (Imago image) as crowd had surged onto West Plaza so is likely with the main surge at that time. Is seen pulling at barricades and later chanting at barricades, mostly in front of media tower or towards NW Scaffolding. Enters NW Scaffolding 2.5 minutes after the NW Scaffolding breach begins, just ahead of #MasterSarge. Extremely violent under NW Scaffolding, fights with police, one of first through NW Courtyard breach and seen striking doors within Capitol. Is last seen walking away from the Capitol steps on the other side of the building, later in the day.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0810"
+    ],
     "appearanceSummary": "Dark green helmet. Possible red shirt underneath. Black goggles. Blue and gray respirator. Black hoodie, which says TPACC (short for The Church At Planned Parenthood see other group affiliations). Black gloves with white writing on the back and yellow markings near the wrists. Light brown backpack. Khaki pants.\n\nThere is some sort of round object, maybe a sticker or a political button on the front of his sweatshirt in the lower right area. There is some sort of round? shiny? object that can be seen near his left pocket when he goes in the window.",
     "associates": [],
     "isLawEnforcement": false,
@@ -26807,7 +27182,10 @@
   },
   {
     "actionsSummary": "Entered the Capitol and took video of Ashli Babbett shooting. Claims to have attempted aid to Ashli Babbit after shooting. Owns media company and has given interviews to media organizations.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1937",
+      "WilliamGlynnKeen"
+    ],
     "appearanceSummary": "Short brown hair behind a very receded hairline. Dark brown handlebar mustache and a U-shaped beard that is starting to gray. Black gaiter around his neck. Black nylon jacket with little epaulettes. Dark blue plastic shirt. Recorded using a smartphone just outside the Capitol Building.",
     "associates": [],
     "idStatus": "ID sent to FBI",
@@ -26840,7 +27218,8 @@
   {
     "actionsSummary": "Played a role in Penn. Walkway breach, entered Capitol and photographed in Rotunda.",
     "alternateHashtags": [
-      "PastorKeffiyeh"
+      "PastorKeffiyeh",
+      "Insider1744"
     ],
     "appearanceSummary": "Man with longish brown hair. Very short beard and mustache. Brown and cream scarf (possibly in a chequered keffiyeh pattern). Silver ring on left ring finger. Black puffer jacket. Blue jeans. Brown shoes or boots.",
     "associates": [],
@@ -26935,7 +27314,9 @@
   },
   {
     "actionsSummary": "Entered the Capitol building through the\nSenate Fire Door at approximately 2:42 PM.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1366"
+    ],
     "appearanceSummary": "White man with white hair wearing grey collared shirt and white undershirt. Sometimes wears black ear band.",
     "arrestDate": "2021-10-20T04:00:00.000Z",
     "arrestState": "SC",
@@ -27213,6 +27594,14 @@
       {
         "type": "group",
         "name": "ProudBoysPacific Northwest"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "PDXPB",
@@ -27244,6 +27633,18 @@
       {
         "type": "group",
         "name": "ProudBoysPacific Northwest"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "PDXPBCompletesMe",
@@ -27253,7 +27654,9 @@
   },
   {
     "actionsSummary": "Part of a group of people with 3P insignia who move together, seen at end of day on north side near police line",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0332"
+    ],
     "appearanceSummary": "Clean-shaven white male. Camo \"USA\" baseball cap. Black puffer jacket and backpack. Wears hood, so may have another black sweater on.",
     "associates": [
       "#TwistedTeaPosse"
@@ -27268,6 +27671,10 @@
       {
         "type": "group",
         "name": "TwistedTeaPosse"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "PeeWee3P",
@@ -27290,6 +27697,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -27298,7 +27709,9 @@
     "_id": "eQj-NRUHkj9s"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0007"
+    ],
     "appearanceSummary": "Man with very short-shaved black hair, prominent eyebrows, a thin mustache that drops down to each side of his mouth, and a chinstrap beard with a small soul patch for good measure. Black puffer jacket (possibly from Columbia) over a black hoodie. One picture shows a blue layer at the collar, between the jacket and the hoodie. Another picture shows him sitting while holding a gray and black backpack on the ground in front of him. Black gloves. Blue jeans.",
     "associates": [],
     "isLawEnforcement": false,
@@ -27331,7 +27744,9 @@
   },
   {
     "actionsSummary": "He can be seen in the #CryptAnnex armed with a baseball bat. Appears to be one of the main aggressors pursuing members of the Capitol Police.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1292"
+    ],
     "appearanceSummary": "Long haired male with glasses. wearing a Pittsburgh Penguins hoodie under a black jacket. Armed with a baseball bat. Seen with two companions. One with a white cap and grey jacket and the other with grey knit cap, light grey hoodie and black vest. It is unclear if they entered the building.",
     "associates": [],
     "isLawEnforcement": false,
@@ -27634,7 +28049,9 @@
     "_id": "pf-3qHkREvv4"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1677"
+    ],
     "appearanceSummary": "Young woman wearing a backwards, pink baseball cap. Long, dark hair tied in braids down each side of her head. Black jacket with a high collar. Form-fitting blue pants. Black shoes.",
     "associates": [],
     "isLawEnforcement": false,
@@ -27651,7 +28068,9 @@
   },
   {
     "actionsSummary": "Observed near the #MediaSmash event and steals black camera duffel. Ubiquitous at Capitol and roams widely through the day. Enters Capitol grounds on lawn next to Penn. Walkway during first breaches, seen directing traffic outside Capitol doors; inside Capitol in Crypt where she hands out small water bottles to rioters. May actually play org. role",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0729"
+    ],
     "appearanceSummary": "Petite woman. White coat (Guess), orange skirt, black tights, colorblock heels. Pink beret. Shoulder length dark hair, bright pink eye makeup. Carries D&G messenger bag.",
     "associates": [],
     "compositeURL": "https://imgur.com/zJRq9X7",
@@ -27668,19 +28087,29 @@
     "_id": "LvlNxcD9Yg-0"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1086"
+    ],
     "appearanceSummary": "Pink knit cap with a large, black \"Under Armour\" symbol on it. In some pictures the hat looks redder or orange. Short, light brown hair. Pointy chin. Wears glasses with lenses that are halfway between sunglasses and eyeglasses. Five o'clock shadow on his chin. Black earpiece in right ear. White gaiter around his neck. Gray and orange nylon jacket over a more insulated, hooded, gray Eddie Bauer jacket that has a bright orange interior lining. Beneath that is a gray t-shirt that has a white diamond logo on the left breast and a large black circle on the back over a word that ends in \"M\". Sometimes photographed without one or both jackets. Black and gray backpack, has a logo on the right strap that looks like a capital A and a different patch or logo on the left strap above his shoulder. Green belt. Black cargo pants. Gray or brown shoes. Photographed carrying a smartphone in the Rotunda.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "PinkMunchkin",
     "profileLeads": [],
     "_id": "DI6kOX8gQsCs"
   },
   {
     "actionsSummary": "A couple always seen together. Visible in footage by #BakedAlaska. Entered the Capitol and posted about it on social media.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1425",
+      "Insider1426"
+    ],
     "appearanceSummary": "Male: Dressed in all black, camo knit hat, gold chain, gold teeth, goatee, pimp tattoo on the right side of his neck.\nFemale: Bob style haircut dyed pink, black coat, camo neck gaiter.",
     "associates": [],
     "isLawEnforcement": false,
@@ -27697,7 +28126,9 @@
   },
   {
     "actionsSummary": "Threw pylon at police, at forefront of  tunnel attack, repeatedly strikes officers with club. Waiting to enter Capitol at 15:44;  back outside by 17:05. Often up front, unclear if plays org role",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0886"
+    ],
     "appearanceSummary": "Wearing a Jack Skellington union suit, like this one. Red ball cap. Quite visible.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1w4yeIC5DweGE8aBTdewf0mgTVOLP85Li/view?usp=sharing",
@@ -27727,7 +28158,9 @@
   },
   {
     "actionsSummary": "Helps with breach of the Penn. Walkway, possible member of CryptTeam. Takes a smartphone video of the front line on the west plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1991"
+    ],
     "appearanceSummary": "Female. Wearing hair in pigtails. Dark sweatshirt. Tan tactical vest with a Gopro clipped to the front. Tan knit hat. Brown buff. Tan work gloves with black knuckles.",
     "associates": [
       "#DiagonalCamoPB"
@@ -27738,6 +28171,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "equipment",
@@ -27857,7 +28294,9 @@
   },
   {
     "actionsSummary": "Seems to meet up with #RedPlaidPylonThrower. Observed inside the Capitol with #RedPlaidPylonThrower.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0979"
+    ],
     "appearanceSummary": "Black tactical vest, flag neck gaiter, black gloves, jeans, boots; reddish hair and goatee.",
     "associates": [
       "#RedPlaidPylonThrower"
@@ -27942,7 +28381,9 @@
     "_id": "041hZt9iUgg8"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1291"
+    ],
     "appearanceSummary": "Green coat with orange \"Guns Save Lives\" sticker. American flag scarf. Trump cowboy hat. Green backpack. Greying facial hair.",
     "associates": [],
     "isLawEnforcement": false,
@@ -28039,7 +28480,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol, made the MPD Wanted list",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0769"
+    ],
     "appearanceSummary": "Hooded poncho with red and light blue stripes and black and white images. It looks like a Southwestern design or something. Man with longish dark hair. Large black sunglasses. Stars and stripes gaiter. Black gloves. Dark pants. May have a dark shirt under the poncho. Carries a US flag on a white pole.",
     "associates": [],
     "isLawEnforcement": false,
@@ -28341,7 +28784,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol, made the MPD Wanted list",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1015"
+    ],
     "appearanceSummary": "Younger man with dark hair, long on the temples and part of the forehead. White earloop mask. Gray coat or jacket with a standing collar.",
     "associates": [],
     "isLawEnforcement": false,
@@ -28438,10 +28883,6 @@
       {
         "type": "group",
         "name": "TunnelTeam"
-      },
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "PurpleCamoKid",
@@ -28452,7 +28893,9 @@
   },
   {
     "actionsSummary": "Hollers and incites the crowd on the NW Courtyard. Enters the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0702"
+    ],
     "appearanceSummary": "Short brown hair. Black Triumph motorcycle jacket over a maroon t-shirt. The jacket has a Purple Heart medal on the left breast, above two other patches. On the right breast is an oval-shaped yellow patch, which is above a POW-MIA patch and a cross next to that. There is a red and yellow circular patch on the outside of the right shoulder. Black gloves. Purple or dark brown backpack. Camo pants. Light brown boots.",
     "associates": [],
     "isLawEnforcement": false,
@@ -28469,7 +28912,9 @@
   },
   {
     "actionsSummary": "The first person across lines in NE Capitol breach, leads crowd toward E. Capitol Steps and waves others on. Climbs on top of government vehicle, then is seen waiting at top of E. steps above and separate from crowd. Later pictured with Eric Munchel (#ZipTieGuy) in Getty photo in Senate Chamber",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1527"
+    ],
     "appearanceSummary": "The first person across lines in NE Capitol breach, leads crowd toward E. Capitol Steps and waves others on. Climbs on top of government vehicle, then is seen waiting at top of E. steps above and separate from crowd. Later pictured with Eric Munchel (#ZipTieGuy) in Getty photo in Senate Chamber",
     "associates": [],
     "isLawEnforcement": false,
@@ -28543,12 +28988,19 @@
     "_id": "AqEhoVjyYl0I"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0778"
+    ],
     "appearanceSummary": "Dark green baseball cap. May be bald beneath that. Black coat or jacket. May have a black scarf around his neck. Recorded using a brown bullhorn that has several stickers of Pepe the Frog on it.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "PutridPepe",
     "profileLeads": [],
     "_id": "RPc0soJ5Mkrk"
@@ -28679,7 +29131,9 @@
   },
   {
     "actionsSummary": "Threw a chair at police on the NW Lawn. Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1822"
+    ],
     "appearanceSummary": "Stocky. Salt and pepper mustache and beard. Wearing a radio and GoPro on his backpack chest strap.  Dark green helmet with a faded US flag on the left side and black patch on the back. The black patch looks like it has a white executioner's hood over two axes, skull-and-crossbones-style. Beneath the helmet is a gray knit cap. Sometimes wears a gray gasmask that has a round, gray canister. Other times photographed wearing black sunglasses and a black and white (?) keffiyeh over his face. When he's wearing the gasmask, the keffiyeh seems more tied to the top of his backpack than around his neck. Black long-sleeve sweatshirt with \"Carhartt\" in white along the left sleeve. Dark green backpack with a cross-strap that carries a radio on the right side and a GoPro camera on the left side. The pack has a patch on the back that features a black design that could be a crow, cat, or fox. Dark green and brown gloves. Army green cargo pants. Camo boots.",
     "associates": [],
     "fbiIdentifier": "472-AFO",
@@ -28963,7 +29417,9 @@
   },
   {
     "actionsSummary": "Appeared on W. side on Lower and Upper W. Terrace, enters Capitol as #78 through NW Courtyard breach.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1873"
+    ],
     "appearanceSummary": "Red Trump bucket hat. Black, full beard and mustache. Thick eyebrows. Blue Trump short-sleeve t-shirt over a gray long-sleeve hoodie. Blue jeans. White sneakers. Photographed carrying a red Trump flag in some pictures, which he sometimes wears around his neck like a scarf. Inside the Capitol he uses a smartphone with a blue case.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/14gdU2h5CnTdzafhn64mSlEl0D6lNSGQP/view?usp=sharing",
@@ -29080,7 +29536,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol. Assists RedOnRedGlasses with breaking a window during the breach at the NW Courtyard. Recorded holding a plank he picked up off the ground after entering the building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1248"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Stubble where a beard and mustache would be. Olive green gaiter. Black long-sleeve shirt or jacket. Dark green tactical vest with a camouflage Confederate flag on the front. Large black gloves with reinforced knuckles. Dark pants.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29149,7 +29607,9 @@
   },
   {
     "actionsSummary": "Always in front: at front of NW Stairs mob, then breaches window w/ Spazzo, negotiates with police, speaks to mob in Senate bldg, attempts breach of Speaker's Lobby door when Babbitt shot. Possible org role.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0735"
+    ],
     "appearanceSummary": "Dark-skinned male w/ light framed glasses, red Trump hat, red sweatshirt w red/white/blue collar, blue jeans, black gloves with white inscription, and (sometimes) medical style mask.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29171,7 +29631,8 @@
   {
     "actionsSummary": "Outside: Throws pylon into police, passed by #CapitolCousinIt, maybe after receiving signal (raised skateboard). Inside: leaves fire extinguisher on floor of Rotunda, glances around, waits for man in flag gaiter, then moves on leaving it. Guy in Rotunda may be #PlaidsDadMaybe.",
     "alternateHashtags": [
-      "PylonThrower"
+      "PylonThrower",
+      "Insider0884"
     ],
     "appearanceSummary": "Red plaid, tactical vest and helmet. Photographed in this gear on lawn before riot with #PlaidsDadMaybe, 'Janet Casserly' of Sarasota FL, younger boy on skateboard (different skateboard).",
     "associates": [
@@ -29235,7 +29696,9 @@
   },
   {
     "actionsSummary": "One of first-minute breachers from NW Courtyard, recorded by security camera entering the Capitol through a broken window.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1548"
+    ],
     "appearanceSummary": "Large red knit cap with a red pom-pom on the top. It has the words \"Trump\" and \"America\" on the main part and \"2020\" on the flipped-up bottom. Short but full reddish beard. Red and white 2020 scarf. Dark jacket.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29252,7 +29715,9 @@
   },
   {
     "actionsSummary": "Shown inside capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0203"
+    ],
     "appearanceSummary": "Red hoodie with \"REX\" outlined, possibly a logo on the left breast. Possibly a black long-sleeved shirt underneath. Beard.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29539,7 +30004,9 @@
     "_id": "GCCblyAE8hck"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0805"
+    ],
     "appearanceSummary": "Red knit cap for the Detroit Red Wings Winter Classic. Dark hair underneath. Large white mask wrapping around their head and covering their lower face. In one picture reveals a dark mustache under the mask. Gray scarf around the neck. Black (?) jacket, possibly over a white long-sleeve top. May have a backpack with Army green straps.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29925,7 +30392,9 @@
     "_id": "f8fTm2rZQn54"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1624"
+    ],
     "appearanceSummary": "Man with short brown hair. Eyeglasses with thin black frames. Graying beard and light brown mustache. Black puffer jacket with a standing collar, over a dark gray hoodie. White or cream gloves. Khaki pants. Black New Balance sneakers with white \"N's.\" Recorded using a smartphone on the Mall.",
     "associates": [],
     "isLawEnforcement": false,
@@ -29941,12 +30410,19 @@
     "_id": "SgbkmwDP0rxs"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1031"
+    ],
     "appearanceSummary": "Trump flag worn like cape. Grey flat-brimmed baseball cap. Black short-sleeved shirt. Grey jacket. Black backpack.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "RotundaRoundFace",
     "profileLeads": [],
     "_id": "bCgk0Fz8IqNg"
@@ -30002,13 +30478,19 @@
     "_id": "sfxADwHZ4kes"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1529"
+    ],
     "appearanceSummary": "Messy, dark hair. White face mask or gaiter. Brown or maroon hoodie. Not what Miss Jackson was asking for.",
     "associates": [],
     "fbiIdentifier": "453-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -30342,10 +30824,6 @@
     "otherTags": [
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Vandalism"
       }
     ],
@@ -30496,7 +30974,9 @@
   },
   {
     "actionsSummary": "Starts near the NW Steps, and enters the Capitol. Suspected to be among those that help open the East Door from the inside.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0606"
+    ],
     "appearanceSummary": "Beige henley style hoodie with orange and brown stripes. Dark wash jeans. Scruffy facial hair.",
     "associates": [],
     "isLawEnforcement": false,
@@ -30559,7 +31039,8 @@
   {
     "actionsSummary": "Seen shaking a tambourine in the Statuary Hall.",
     "alternateHashtags": [
-      "TomatoKuato"
+      "TomatoKuato",
+      "Insider1445"
     ],
     "appearanceSummary": "Woman in red baseball cap with long, straight, brown hair. Dark green (brown tint) coat with fur-lined hood with black torso. Black gloves and boots. Dark blue backpack. Dark pants. Carried a tambourine.",
     "arrestDate": "2021-03-23T04:00:00.000Z",
@@ -30619,7 +31100,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0835"
+    ],
     "appearanceSummary": "Black baseball cap with a round logo and white words on the front. Gray hair. White dust mask. Black or dark gray jacket. May be over a black hoodie with white stripes at the front of the collar area.",
     "associates": [],
     "isLawEnforcement": false,
@@ -30705,7 +31188,9 @@
   },
   {
     "actionsSummary": "On W. Plaza pulls barricades at police line. Breaches Capitol from NW courtyard side door. Seen carrying furniture leg in NW Capitol hallway. Marches with Proud Boys on morning 1/6 with woman (dreads in bun/wearing yellow scarf).",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0608"
+    ],
     "appearanceSummary": "Scar/Mark/Wound near right eyebrow on forehead. Black military/tactical full finger gloves. Black and white patterned face mask. Camel colored cargo shorts. Black hooded sweatshirt & baseball cap.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1DbTDn4I2YBYwHvomafT151yB_A2D5snZ/view?usp=sharing",
@@ -30772,12 +31257,18 @@
   },
   {
     "actionsSummary": "On the West side of the Capitol, with another individual who is similarly dressed.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1983"
+    ],
     "appearanceSummary": "Thin featherweight guy. Brown coat with black \"Vace is the Place\" tactical gaming patch on left sleeve. Brown work gloves. Khaki cargo pants. Dark hoodie and baseball cap. Oversized flag print bandana around his face.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "equipment",
         "name": "EarpieceOrRadio"
@@ -30789,7 +31280,9 @@
   },
   {
     "actionsSummary": "Assaulted a MPD officer on the W Terrace, picks up a police baton. Standing on the scaffolding. Enters the Capitol via the NW Courtyard doorway.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2167"
+    ],
     "appearanceSummary": "Camo jacket and jeans, black skull cap; bald head and long beard",
     "arrestDate": "2021-01-21T05:00:00.000Z",
     "arrestState": "NJ",
@@ -31105,21 +31598,29 @@
   {
     "actionsSummary": "Photographed inside the Capitol building.",
     "alternateHashtags": [
-      "UnloveablePanda"
+      "UnloveablePanda",
+      "Insider0744"
     ],
     "appearanceSummary": "White male with medium-length brown hair and full beard. Wears a panda suit.",
     "associates": [],
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SeditionPanda",
     "profileLeads": [],
     "_id": "bZlQYyGWMsGw"
   },
   {
     "actionsSummary": "Comes up the NW Stairs in first wave, enters Capitol within a minute of the NW Courtyard breach (54th person to enter), seen inside",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1180"
+    ],
     "appearanceSummary": "Older man. White Trump baseball cap with a red bill. Seems to have very short, gray hair. Eyeglasses with metal frames. White mustache. Dark green Carhartt coat with a black collar and white inner lining. Gray t-shirt.",
     "associates": [],
     "isLawEnforcement": false,
@@ -31136,7 +31637,9 @@
   },
   {
     "actionsSummary": "Observed exiting Capitol interior carrying flag.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1181"
+    ],
     "appearanceSummary": "Blue puffy coat with black fur trimmed hood, backpack.",
     "associates": [],
     "isLawEnforcement": false,
@@ -31152,7 +31655,10 @@
     "_id": "N7LJbzN3Us4A"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "GaryWilson",
+      "Insider0741"
+    ],
     "appearanceSummary": "Black baseball cap with a red and blue logo on the front. The center of the logo has a row of white stars and there is white writing below it. Receding hairline, dark hair. Large white t-shirt over a black puffer jacket, which is over a black or dark blue hoodie. The shirt has the words \"Give Me\" or \"Give My\" near the top, over a blue figure. Sometimes he wears the hood over his hat. Black backpack. Dark pants.",
     "arrestDate": "2021-09-14T04:00:00.000Z",
     "arrestState": "UT",
@@ -31395,7 +31901,9 @@
   },
   {
     "actionsSummary": "Assaulted police at barriers. Inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0136"
+    ],
     "appearanceSummary": "Brown hair, mustache and strange little soul patch beard. Light brown jacket over dark brown hoodie. Blue jeans. Rectangular glasses.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1XQuW12RYXbEGaB74PlmDvbkpFVdFh7U1",
@@ -31501,13 +32009,20 @@
   },
   {
     "actionsSummary": "Recorded at the West Tunnel. Seen wielding a telescoping black stick, and other times a blue stick. A police body camera also recorded him holding a riot shield.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1533"
+    ],
     "appearanceSummary": "Red Trump baseball cap with an extra patch on the bill. It looks light it might be a diagonally divided US flag with something else. Short, gray hair. His ears stick out a bit. Sometimes wears clear plastic shop goggles with a black strap. Sometimes wears a light blue surgical mask (and not always correctly). Forest camo jacket over a forest camo shirt. Dull green backpack with army green straps. Black gloves.",
     "associates": [],
     "fbiIdentifier": "397-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "ShieldGrampy",
     "profileLeads": [],
     "_id": "c1oLxQhxEnP8"
@@ -31589,10 +32104,6 @@
       },
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -31619,7 +32130,9 @@
   },
   {
     "actionsSummary": "Climbed through hall window, stood on sill and smashed shutter with fist and backpack, eventually breaking it.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0040"
+    ],
     "appearanceSummary": "Short dark hair. Sunglasses with blue lenses. Mustache. Gray gaiter. Black jacket over a black hoodie. Green gloves. Blue jeans. Sometimes wears a gray backpack (in front of himself).",
     "associates": [],
     "fbiIdentifier": "40-AOM",
@@ -31677,7 +32190,9 @@
   },
   {
     "actionsSummary": "Attacks the police line, and pictured inside the Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1674"
+    ],
     "appearanceSummary": "Blue jeans and a light colored blue (possibly denim) coat. Trump cowboy hat. Red and black plaid scarf. Dark hair and goatee.",
     "associates": [],
     "isLawEnforcement": false,
@@ -31737,13 +32252,19 @@
   },
   {
     "alternateHashtags": [
-      "DiscountTywin"
+      "DiscountTywin",
+      "Insider0004"
     ],
     "appearanceSummary": "Older man with short, gray hair that has a receded hairline. Clean-shaven. Black hoodie.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SilverSleazy",
     "profileLeads": [],
     "_id": "xf2eDK7XQpa4"
@@ -31782,7 +32303,9 @@
   },
   {
     "actionsSummary": "Assumed violent because of \"AFO\"",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1758"
+    ],
     "appearanceSummary": "Blue baseball cap with a white, circular logo on the front. The cap is obscured by the hood of a light gray hooded sweatshirt. On the top left part of the hood is a yellow patch or logo. Black or navy blue mask covering the lower half of his face. There is white lettering on the left side that includes \"CO\" or \"OU\" depending on its direction. Light-colored pants?",
     "associates": [],
     "fbiIdentifier": "367-AFO",
@@ -31804,7 +32327,9 @@
   },
   {
     "actionsSummary": "Climbs inside one of the rooms next to the Arched Tunnel. Sprays chemical at the police in the tunnel.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1538"
+    ],
     "appearanceSummary": "Dark coat with light grey colored fur along hood. Green backpack with yellow zippers. Blue ball cap with red and white stripes on brim, stars and a gold eagle on the front. Pink respirator.",
     "associates": [],
     "fbiIdentifier": "330-AFO",
@@ -32022,13 +32547,19 @@
     "_id": "NdIDXUbH0o90"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1067"
+    ],
     "appearanceSummary": "Red \"Trump\" baseball cap with blue lettering, over a black and white striped knit cap. Eyeglasses with narrow, black frames. Black gaiter with white features sometimes worn over his lower face. Scruff on chin and upper lip.",
     "associates": [],
     "fbiIdentifier": "354-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -32145,7 +32676,9 @@
   },
   {
     "actionsSummary": "Observed inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1289"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Man with longish, red-brown hair. Full beard and mustache. Red and black plaid overshirt over a blue button-down shirt. May be carrying a yellow snake flag.",
     "associates": [],
     "isLawEnforcement": false,
@@ -32194,7 +32727,9 @@
   },
   {
     "actionsSummary": "Shown on video on the Lower West Plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2019"
+    ],
     "appearanceSummary": "Grey coat with red \"Snap On\" logo on the front. Black hooded sweatshirt. Tan-colored tactical vest. Brown Carhartt ball cap with sunglasses. Very light facial hair.",
     "associates": [],
     "isLawEnforcement": false,
@@ -32203,6 +32738,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "equipment",
@@ -32215,19 +32754,28 @@
   },
   {
     "actionsSummary": "Seen leaving Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1404"
+    ],
     "appearanceSummary": "Gray baseball cap with a red logo on the front. Appears to have very short hair or a buzz cut underneath. Gray jacket with a black collar, two large pockets on the front belly, and two black zippers on the chest. There is black writing on the back of the jacket. Dark gray or dark blue (cargo?) pants. Brown footwear. May be carrying a smartphone just outside the Capitol.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SnapOnStork",
     "profileLeads": [],
     "_id": "Jj9rrteYsihE"
   },
   {
     "actionsSummary": "Involved in skirmish against riot cops on the NW Terrace.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1316"
+    ],
     "appearanceSummary": "Dark blue golf cap over a bald head. Red mask around face, and a blue surgical mask over that. Blue \"Socialism Sucks\" short-sleeve t-shirt over a long-sleeve blue and gray plaid flannel shirt. Black pants. Black and white New Balance sneakers.",
     "associates": [
       "#SeniorSnowPatrol",
@@ -32236,18 +32784,30 @@
     "fbiIdentifier": "398-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SneakyBlinders",
     "profileLeads": [],
     "_id": "GH2nTiH1IuDw"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0983"
+    ],
     "appearanceSummary": "Light gray dome helmet. Dark ski goggles with a white frame. White gaiter or balaclava covering the rest of their face. Black and white scarf or something around their neck? Gray jacket with black cuffs. Black tactical vest. Either the vest or a black front-pack has a white logo near the top of a winged helmet above some writing. Backpack with black straps, including a strap around the wearer's belly. Dark gray (?) pants.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "SnowJobInsider",
     "profileLeads": [],
     "_id": "_7W844YXwtes"
@@ -32268,7 +32828,9 @@
   },
   {
     "actionsSummary": "Attempts to break Capitol window.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1560"
+    ],
     "appearanceSummary": "Black helmet with US flags on the sides and back. Dark, angular sunglasses or goggles. Gray respirator with pink filter cartridges over a stars and stripes gaiter. Blue sleeveless shirt with stars and the word \"America 1\" on the back and \"USA\" and an eagle on the front. Under that a black short-sleeved shirt. Tattoo on right upper arm. Fabric covering most of his arms, dirty white on the right and stars and stripes on the left. Black armor on the forearms. Black gloves with small white features. Blue jeans. Brown boots. Carries a black \"SoCal for Trump\" flag, and has a smaller US flag and blue Trump flag sticking out of his backpack.",
     "associates": [],
     "isLawEnforcement": false,
@@ -32510,10 +33072,12 @@
   {
     "actionsSummary": "Tries to remove a helmet from an injured officer, climbs through broken window at Left of tunnel.",
     "alternateHashtags": [
-      "SpideyNazi"
+      "SpideyNazi",
+      "Insider1497"
     ],
     "appearanceSummary": "Black skull cap hat, face gaiter pulled up over mouth, hoodie with a spider web print, gloves, Nike sneakers and leg gaiters",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -32796,13 +33360,19 @@
   },
   {
     "actionsSummary": "Wrestles with police officer on NW Stairs",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1195"
+    ],
     "appearanceSummary": "Black or dark brown knit cap. Silver goggles with a black strap. Black gaiter with white block letters on it. Black leather jacket. Black gloves. Might have a black hoodie under the jacket. Might be wearing blue jeans with a black belt.",
     "associates": [],
     "fbiIdentifier": "425-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -33011,10 +33581,6 @@
     "otherTags": [
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Vandalism"
       }
     ],
@@ -33137,7 +33703,9 @@
   },
   {
     "actionsSummary": "One of first-minute breachers from NW Courtyard, recorded by security camera entering the Capitol through a broken window.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0610"
+    ],
     "appearanceSummary": "Stars and stripes cowboy hat. Black sunglasses. Short, black beard and mustache. Camo jacket over a collarless green shirt. Black backpack with a brown truncheon sticking out of the top.",
     "associates": [],
     "isLawEnforcement": false,
@@ -33158,7 +33726,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol, then smashed media equipment in the #MediaSmash.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1247"
+    ],
     "appearanceSummary": "Brown/black plaid jacket, bright green shirt, camo pants, brown work boots, goggles on his head. Long blonde hair.",
     "associates": [],
     "fbiIdentifier": "202-AOM",
@@ -33212,7 +33782,9 @@
   },
   {
     "actionsSummary": "17th person to enter the Capitol. On police lines on the Upper West Plaza. Kicks an interior door.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0047"
+    ],
     "appearanceSummary": "Blue/grey hoodie with wide white stripes.",
     "associates": [],
     "isLawEnforcement": false,
@@ -33232,12 +33804,19 @@
     "_id": "SZC9EN28Ek68"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1163"
+    ],
     "appearanceSummary": "Blurry picture. Red baseball cap with a white, circular (?) logo on the front. Brown, full beard and mustache. Black hoodie with a white logo on the left breast (North Face?). Blue jeans. Gray Nike (?) sneakers.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "StubbleTrouble",
     "profileLeads": [],
     "_id": "fqu1ZokWEt2A"
@@ -33335,7 +33914,9 @@
   },
   {
     "actionsSummary": "Travels with 3 associates, entered Capitol, involved in melee at North Door and was tear gassed, may also have participated in violence. Seen with America First group earlier and seems to be associated.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1036"
+    ],
     "appearanceSummary": "Dark buzzcut. Dark beard and mustache. Stars and stripes gaiter. Black or dark gray business suit. White shirt. Blue and silver striped tie.",
     "associates": [
       "#SuitGuysFlock"
@@ -33346,6 +33927,10 @@
       {
         "type": "group",
         "name": "CapitolAF"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "SuitGuy",
@@ -33458,7 +34043,9 @@
   },
   {
     "actionsSummary": "See on W. Plaza helping scavenge a bag of police crowd-control sprayers, along with #NelsonPostThrower",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1745"
+    ],
     "appearanceSummary": "Black and white Buffalo plaid shirt. Black hoodie. Glasses or sunglasses.",
     "associates": [],
     "isLawEnforcement": false,
@@ -33467,6 +34054,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "SuperPlaidPB",
@@ -33551,7 +34142,8 @@
     "actionsSummary": "Exhorts often to urge crowd forward, esp. on West Plaza, where gets up on wall. At one point wears a stolen police helmet. Goofball but seems to play clear org role. On Lower W. Terrace first waves a flag at the edge, then enters tunnel later in Phase I and tangles with police, seen on bodycam footage beyond the glass doors. Then exits and stands with tunnel organizers around tunnel entrance, later enters Capitol through broken window to L of tunnel.\nSeen at anti-mask rallies in Beverly Hills.  He topples a big loudspeaker.",
     "alternateHashtags": [
       "Skellefteåmannen",
-      "Skellefteaamannen"
+      "skellefteaamannen",
+      "Insider1330"
     ],
     "appearanceSummary": "Scarf is made in Sweden. Drops the Swedish scarf, acquires another.   Speaks English with a very slight but unmistakably non-native foreign accent. Well-known figure from anti-vax rallies in Los Angeles area.",
     "associates": [
@@ -33567,6 +34159,10 @@
       {
         "type": "group",
         "name": "AntiVaxxers"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "behavior",
@@ -33636,7 +34232,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0862"
+    ],
     "appearanceSummary": "Black knit cap from Carhartt. Clear swim goggles with a blue bridge between the lenses. Dark camo gaiter. Dark clothing.",
     "associates": [],
     "isLawEnforcement": false,
@@ -33700,7 +34298,9 @@
   },
   {
     "actionsSummary": "Violent based on AFO designation. Seen inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1699"
+    ],
     "appearanceSummary": "Brown camo cap over a mostly bald head. Short brown beard and mustache. Dark blue or gray jacket over a shirt with a red collar peeking out. Desert camo tactical vest with a large pouch in front. Brown (?) gloves. Khaki pants. Also recorded carrying a black helmet in his hand.",
     "associates": [],
     "fbiIdentifier": "267-AFO",
@@ -33722,12 +34322,19 @@
   },
   {
     "actionsSummary": "One of the first to arrive on west side of Capitol, where he stands on wall and shouts, then pushes crowd toward police while yelling at them to hold the line. Similar actions on north side. Enters Capitol. Seen speaking near #MediaSmash.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0864"
+    ],
     "appearanceSummary": "Red MAGA baseball cap with various buttons attached to it. Dark sunglasses with stars and stripes frames. Bushy brown mustache and goatee. Red hoodie with \"Trump\" over a shield on the front. Black backpack. Black or navy blue pants with white piping. Black sneakers with white soles. Carries a smartphone that has a black or gray case.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TackyTrumpGlasses",
     "profileLeads": [],
     "_id": "9C2H-jw6ou5Q"
@@ -33771,12 +34378,19 @@
     "_id": "qNpUbXHTkkXE"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1964"
+    ],
     "appearanceSummary": "Black airsoft helmet with an ATAIRSOFT patch on the left side. (The patch is black with a white mask at the center and the product name at the top.) Clear plastic goggles. A white gaiter with some kind of black pattern on it. Black jacket with shiny sleeves and a matte torso, and one red and one green horizontal stripe on the back. (This is apparently a jacket from Michael Jackson's \"Bad\" tour, and if it is \"Bad\" should be written in red on the left breast and one blurry photo might already show this.) The jacket is worn over a purple hoodie with a white zipper. Dark pants. May also be wearing big rubber boots. \"Gonna lock you up / Before too long.\"",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TailOK",
     "profileLeads": [],
     "_id": "Okq-h2h-Mo78"
@@ -33909,7 +34523,9 @@
   },
   {
     "actionsSummary": "Pictured inside the Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1311"
+    ],
     "appearanceSummary": "Younger male. Dark hair and clean shaven. Cranberry colored hoodie. Tan coat with a hood.",
     "associates": [],
     "isLawEnforcement": false,
@@ -33926,7 +34542,8 @@
   },
   {
     "alternateHashtags": [
-      "FullCoveragePB"
+      "FullCoveragePB",
+      "Insider2020"
     ],
     "appearanceSummary": "Oversized tan/brown button up coat or shirt. Yellow gloves. Black neck gaiter pulled up high on his face.",
     "associates": [],
@@ -33936,6 +34553,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "TandelionPB",
@@ -34096,7 +34717,9 @@
   },
   {
     "actionsSummary": "FBI Wanted but possibly only for entering the Capitol; was flagged in early photos",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1286"
+    ],
     "appearanceSummary": "Red MAGA baseball cap. Dark eyebrows and gray sideburns. Light brown overshirt over a darker brown hoodie that has writing on the chest. In one picture you can see a letter \"S\". The inner lining of the hood is light brown. Wears a blue Trump flag like a cape.",
     "associates": [],
     "isLawEnforcement": false,
@@ -34218,6 +34841,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -34269,6 +34896,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -34377,19 +35008,28 @@
     "_id": "VPR8VlKh0v44"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0701"
+    ],
     "appearanceSummary": "Red Trump knit cap with a yellow signature near the top. Dark, deep-set eyes. Black beard and mustache graying near the chin. Gray or dark blue jacket with a distinct collar and breast pockets. This is worn over a brown hoodie. Beneath that is a purple (?) short with a zipper near his neck.",
     "associates": [],
     "fbiIdentifier": "401-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TeddyHead",
     "profileLeads": [],
     "_id": "MxxpaWu2ojtE"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0930"
+    ],
     "appearanceSummary": "Black knit cap with a blue stripe along the bottom. Brown mustache and long, shaggy beard. Brown and green long-sleeve shirt with the logo of the Washington Capitals hockey team on the front. The shirt is black around the collar. Brown and black backpack. Dark gray pants. Black sneakers with white soles.",
     "associates": [],
     "isLawEnforcement": false,
@@ -34398,6 +35038,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "TeenWolfPB",
@@ -34576,7 +35220,9 @@
   },
   {
     "actionsSummary": "Seen in NW areas for a long time, assists others over wall, seen inside Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1285"
+    ],
     "appearanceSummary": "Black helmet with a dull US flag patch on the front and k velcro on the left side. Large goggles with a desert camo outline. Short beard that is brown and graying. Stars and stripes gaiter. Orange leather (?) jacket over a black (bulletproof?) vest with a dull Texas flag patch on the chest. White long-sleeve shirt beneath that? Black backpack. Square brown pack hanging from left hip, has a dull cross patch on it. Black or dark brown gloves. Blue jeans. Heavy brown shoes.",
     "associates": [],
     "isLawEnforcement": false,
@@ -34821,7 +35467,9 @@
     "_id": "-B7ac5am4iI4"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1284"
+    ],
     "appearanceSummary": "Shaggy, dark brown hair. Light brown jacket over a black hoodie. He was recorded in the Rotunda with the jacket zipped all the way to his neck. The jacket also looked wet.",
     "associates": [],
     "idStatus": "Self Doxxed",
@@ -34985,7 +35633,12 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/adams-jr-thomas-b",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "ThomasAdams",
     "profileLeads": [],
     "realName": "ADAMS Jr., Thomas B.",
@@ -35046,7 +35699,7 @@
   {
     "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes",
     "alternateHashtags": [
-      "Insider0512"
+      "Insider0174"
     ],
     "appearanceSummary": "Older man with sharp cheekbones. Blue knit (?) \"Trump\" cap with a stars and stripes patter on top. This is worn over a stars and stripes hood. Dark clothing beneath that, in the one picture we have so far. Might be carrying a blue Trump flag on a wooden pole.",
     "arrestDate": "2021-09-15T04:00:00.000Z",
@@ -35298,7 +35951,12 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/abual-ragheb-rasha-n",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TilaMagila",
     "profileLeads": [],
     "realName": "ABUAL-RAGHEB, Rasha N.",
@@ -35400,12 +36058,19 @@
     "_id": "bXGjW1PIwlpU"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1132"
+    ],
     "appearanceSummary": "Black baseball cap with red and white stripes on the right side of the bill. The front of the cap says \"God, Guns, Trump\" in white letters. Brown beard and mustache. Bright blue gaiter. One picture shows clear swim goggles (?) around his neck but sitting at the back. Dark blue short-sleeved t-shirt over a camo long-sleeved top. The right sleeve of the t-shirt has a US flag on it, and the front says \"Patriotism is not a ...\". Has a black backpack with a clear straw over the right shoulder. Light colored pants? Seen using a small red bullhorn.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TinyHornEnergy",
     "profileLeads": [],
     "_id": "5DfoWVFesmfw"
@@ -35518,7 +36183,9 @@
   },
   {
     "actionsSummary": "Went inside. Entered Senate Gallery",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1081"
+    ],
     "appearanceSummary": "White male. Full beard. Red MAGA baseball cap.",
     "associates": [],
     "isLawEnforcement": false,
@@ -35543,7 +36210,9 @@
   },
   {
     "actionsSummary": "Observed inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1697"
+    ],
     "appearanceSummary": "Stars and stripes baseball cap with a yellow V-shaped logo on the front. Dark chinstrap beard. Toothy resting face. Blue Adidas (?) hooded jacket with gray sleeves.",
     "associates": [],
     "isLawEnforcement": false,
@@ -35587,7 +36256,9 @@
   },
   {
     "actionsSummary": "Pushes fence at NW walkway breach attempt and strikes with billboard. Later enters the Crypt, where a photo shows him holding a phone up with the touchscreen facing away from him.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0604"
+    ],
     "appearanceSummary": "Older white male with shaggy brown hair and grey-brown mustache. Red and white hat with \"Nevada\" in a diamond logo; covers a man bun. Black hoodie with Tow Boat US logo down sleeves. Blue jeans. Black Nike backpack. Sheathed knife with red handle on right hip, as are watch and a green rectangular object. Phone with red case connected to black power brick in right back pocket.",
     "associates": [],
     "idStatus": "ID sent to FBI",
@@ -35647,7 +36318,9 @@
   },
   {
     "actionsSummary": "Attempts to climb the tower, but comes immediately back down.  At front of police line in Plaza, stationed up at NW corner. Seen in Capitol with #BaldBadFlag and swaps a medical bag with him. Leaves E side with #MaroonPB, wearing a gas mask. At end of day walks away from Capitol with #WildDog, (seems friend) carrying stolen police shield.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0869"
+    ],
     "appearanceSummary": "Camo shirt. Black tactical vest with orange tape on shoulder. Black motorcycle helmet with stickers on back from Tennessee \"Building-Construction Trades Dept.\",  on front yellow \"F-- Antifa\". Sunglasses. Face buff often down on chin.",
     "associates": [
       "#WildDog",
@@ -35726,7 +36399,9 @@
   },
   {
     "actionsSummary": "Shown on video on the Lower West Plaza and inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1934"
+    ],
     "appearanceSummary": "Black Adidas tracksuit. Camo tactical vest. Black helmet with grey stripes. Orange tape on back and sides. Black lacrosse gloves. Black gaiter with skull face. Black and silver sunglasses. Red MAGA hat.",
     "associates": [],
     "isLawEnforcement": false,
@@ -35783,7 +36458,9 @@
   },
   {
     "actionsSummary": "Seen with the Proud Boy on West Plaza and on N. side of Capitol. Instigator, carries bullhorn, often at front lines, harasses police and incites crowd.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2018"
+    ],
     "appearanceSummary": "Blue hooded sweatshirt, black helmet and tactical vest. Lots of patches on his vest incl. III% logo. One of the patches is Patriot Patch Co.'s \"Taxation is Theft.\" Black shades and neck gaiter. Blue bullhorn.",
     "associates": [],
     "isLawEnforcement": false,
@@ -35816,7 +36493,9 @@
   },
   {
     "actionsSummary": "Seen at foot of NW Scaffolding.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0753"
+    ],
     "appearanceSummary": "Woman with long dark hair. Eyeglasses with dark frames. Black coat over a white top or hoodie. Bracelet on right wrist. Gray and black backpack. Blue and white leggings. Seen using a smartphone near the NW Scaffolding.",
     "associates": [],
     "isLawEnforcement": false,
@@ -35914,10 +36593,6 @@
     "otherTags": [
       {
         "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -36011,7 +36686,9 @@
   },
   {
     "actionsSummary": "Incites crowd via bullhorn. Masks voice. Fight breaks out just after she incites the crowd.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0605"
+    ],
     "appearanceSummary": "Black coat with fleece lining. Red shirt. Black Trump hat. Face gaiter covering all but her eyes.",
     "associates": [],
     "isLawEnforcement": false,
@@ -36127,7 +36804,9 @@
     "_id": "0uxRZpoYouUI"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0923"
+    ],
     "appearanceSummary": "Woman with shoulder-length blonde hair. Red Trump knit cap with a circular \"45\" patch on the front and pom-pom on top. Red scarf around her neck. Red (fleece?) jacket with a black zipper. Gray backpack with a cross-strap. Black gloves?",
     "associates": [],
     "fbiIdentifier": "405-AFO",
@@ -36282,7 +36961,9 @@
   },
   {
     "actionsSummary": "Tunnel fighter. Spends several minutes around 4:27PM just S. of the Tunnel; grabs a shield, vanishes and reappears later without hat or glasses.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1935"
+    ],
     "appearanceSummary": "Youngish man with a receded hairline and light brown hair. Stubbly chin where a beard would be. Brown hooded jacket. Sometimes wears a black MAGA knit cap and eyeglasses with black frames.",
     "arrestDate": "2021-10-05T04:00:00.000Z",
     "arrestState": "MN",
@@ -36294,6 +36975,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -36453,7 +37138,9 @@
   },
   {
     "actionsSummary": "Observed at door of Speaker's Lobby when shot fired. May have some association with #HelmetBoy.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0965"
+    ],
     "appearanceSummary": "[check - this thumbnail might not be him]",
     "associates": [
       "#HelmetBoy"
@@ -36699,24 +37386,37 @@
     "_id": "_kDUSF3dAnOE"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0520"
+    ],
     "appearanceSummary": "Red baseball cap with a dark gray Under Armour logo on the front left. Eyeglasses with dark frames. Very short, light-brown, graying beard and mustache. Black scarf or gaiter around his neck (but it could be a black hoodie worn under the gray one). Dark gray hoodie with a large, black Under Armour logo on the front. Backpack with blue straps. Dull green (?) pants. Recorded in the Statuary Hall carrying a smartphone that is either black or has a black case.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "UnderClamour",
     "profileLeads": [],
     "_id": "8sEbHkkWYnAA"
   },
   {
     "actionsSummary": "Seen inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1311"
+    ],
     "appearanceSummary": "White male; tan, sky blue and white tie dyed sweatshirt with hood; azure blue puffy coat; fur aviator/ ushanka hat; tan full face 1 hole balaclava; black backpack; light gray sweatpants",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -36728,7 +37428,9 @@
   },
   {
     "actionsSummary": "Sprayed police during West Plaza fight, making sure to point it up under their helmets. Inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1563"
+    ],
     "appearanceSummary": "Olive green knit cap. Khaki gaiter. Gray hooded puffer jacket with a bright orange inner lining. Sometimes wears a gray baseball cap.",
     "associates": [],
     "fbiIdentifier": "466-AFO",
@@ -36974,7 +37676,9 @@
   },
   {
     "actionsSummary": "Seen on W. Plaza near base of NW Scaffolding. FBI pictures show him inside the Capitol",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1053"
+    ],
     "appearanceSummary": "Grey camo print cap. Tan pants, grey hooded shirt, vest. Black face mask. Large tactical style backpack.",
     "associates": [],
     "isLawEnforcement": false,
@@ -37003,7 +37707,12 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1385541/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "VictoriaWhite",
     "profileLeads": [],
     "realName": "WHITE, Victoria",
@@ -37036,13 +37745,19 @@
   },
   {
     "actionsSummary": "Assumed violent based on AFO designation.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1102"
+    ],
     "appearanceSummary": "Black and grey coat. Red baseball hat.",
     "associates": [],
     "fbiIdentifier": "234-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -37280,13 +37995,19 @@
   },
   {
     "actionsSummary": "Violent based on AFO designation.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1500"
+    ],
     "appearanceSummary": "Grey coat with white stripes on sleeves, black elbow patches, green backpack, black knit hat.",
     "associates": [],
     "fbiIdentifier": "223-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -37473,18 +38194,27 @@
     "_id": "kKsxvQgKIuz0"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2066"
+    ],
     "appearanceSummary": "White hard hat. May be worn over a black knit cap with a white square on the side. Stars and stripes gaiter. Black zip-up jacket. Red backpack (or something?) on his back.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "WhiteHelmStarsMask",
     "profileLeads": [],
     "_id": "1wu8539PMlv8"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1020"
+    ],
     "appearanceSummary": "Camo Trump baseball cap. Dark hair. Slight beard and mustache, dark but graying. Purple and blue gaiter usually around his neck. White hooded sweatshirt with a blue inner lining inside the hood and red ties. The front of the hoodie says \"USA\" in large red and blue block letters. The back says \"Trump 45\" in blue. The right sleeve is blue with large white stars. Gold (?) ring on right ring finger. Dark pants and dark shoes. Photographed carrying a red Trump flag.",
     "associates": [],
     "isLawEnforcement": false,
@@ -37612,7 +38342,8 @@
   {
     "actionsSummary": "Observed in the Statuary Hall and the Speaker's Lobby hallway.",
     "alternateHashtags": [
-      "MaskedGreyLobbyist"
+      "MaskedGreyLobbyist",
+      "Insider0636"
     ],
     "appearanceSummary": "Gray knit cap. Black face mask with a circular white logo on the front left side. Black and gray North Face coat. Black backpack. Black gloves with a white logos on each. Blue jeans.",
     "associates": [],
@@ -37645,10 +38376,6 @@
       {
         "type": "group",
         "name": "TwistedTeaPosse"
-      },
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
       },
       {
         "type": "equipment",
@@ -38177,7 +38904,9 @@
   },
   {
     "actionsSummary": "Hangs in window to the left of tunnel looking out over crowd, filming (live streaming?), leans down to consult with people, can get #CommanderBlueHoodie's undivided attention. Climbs thru window in late PM.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2166"
+    ],
     "appearanceSummary": "Red MAGA hat. Red hooded sweatshirt with Trump 45 on the front. Black hooded pea coat. Medium length beard.",
     "associates": [
       "#CommanderBlueHoodie"
@@ -38199,12 +38928,19 @@
   },
   {
     "actionsSummary": "Seen at Capitol window, unclear if went inside",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1729"
+    ],
     "appearanceSummary": "Older man, black sweatshirt, glasses, blue Trump hat.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "WindowPeeper",
     "profileLeads": [],
     "_id": "xvH1qrMs8jxM"
@@ -38288,19 +39024,28 @@
     "_id": "I-vKzkStYj48"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0056"
+    ],
     "appearanceSummary": "Camo baseball cap. Eyeglasses. Wide, dark brown, chinstrap beard. Dark blue hoodie. Appears to wear a blue Trump flag like a cape. May be carrying a red and white flag.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "WoolyPusher",
     "profileLeads": [],
     "_id": "X6HNET3BQjF0"
   },
   {
     "actionsSummary": "Often seen with JolietPipeFitter and another man in a grey puffer jacket. On the West Side of the Capitol, and enters the building. Assumed violent based on AFO.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0855"
+    ],
     "appearanceSummary": "Blue long-sleeve shirt with Wrigley Field in white lettering on the chest. Red visor. Seen also without the blue shirt wearing a black T-shirt with white lettering and a spade on the front.",
     "associates": [
       "#JolietPipeFitter"
@@ -38366,7 +39111,9 @@
   },
   {
     "actionsSummary": "Seen inside Capitol in East Foyer. Participates in #MediaSmash in NE Media Pen. Films inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0222"
+    ],
     "appearanceSummary": "Brown hooded coat, yellow tinted glasses, baseball cap with red, white, and blue rim, blue jeans. Yellow, black, and green backpack. Gray beanie in the morning.",
     "associates": [],
     "isLawEnforcement": false,
@@ -38540,6 +39287,10 @@
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Marines",
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -38920,7 +39671,8 @@
   {
     "actionsSummary": "Used bullhorn to incite crowd. Among first through NW scaffolding during early breach. Seen carrying flexi-cuffs, radio with chest mic/speaker, large fixed-blade knife.  Seen inside Capitol, then sitting at steps by tunnel on Lower W. Terrace at end of day.",
     "alternateHashtags": [
-      "SkullFace"
+      "SkullFace",
+      "Insider0170"
     ],
     "appearanceSummary": "Black sweatshirt with flag on his sleeve, backwards baseball hat, goggles, skull face mask. In argument, WhitePufferLady calls him \"Chris\".",
     "associates": [
@@ -38930,6 +39682,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -38968,7 +39724,9 @@
   },
   {
     "actionsSummary": "Crossed from West to East sides, then helped with NE barrier breaches, along with #MaroonPB. At E. Capitol Main doors, sprays police, then enters just behind MaroonPB and is seen on video inside the Capitol alone and moving differently from the crowd.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1954"
+    ],
     "appearanceSummary": "Long grey beard. Black hooded sweatshirt and khaki pants. Red MAGA hat and sunglasses.",
     "associates": [
       "#MaroonPB"
