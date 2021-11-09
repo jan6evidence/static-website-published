@@ -448,7 +448,9 @@
   },
   {
     "actionsSummary": "Attacks an officer and a media reporter in the #MediaSmash on the East side of the Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2169"
+    ],
     "appearanceSummary": "Black pants and hooded coat with white emblem on the left front. Hood pulled up over a Trump ball hat. Black gloves with white stripes on hands.",
     "arrestDate": "2021-06-24T04:00:00.000Z",
     "arrestState": "IL",
@@ -460,6 +462,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -13595,7 +13601,7 @@
       "#SwedishScarf"
     ],
     "caseIdentifier": "1:21-cr-36",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bisignano-gina-michelle",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -20029,7 +20035,7 @@
     "arrestState": "MN",
     "associates": [],
     "caseIdentifier": "1:21-cr-272",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1377866/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -23281,14 +23287,17 @@
   },
   {
     "actionsSummary": "Struck a Capitol police officer with his fist multiple times. Arrested on scene.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1317"
+    ],
     "appearanceSummary": "Arrested inside the Capitol Building at approximately 2:30pm on January 6. The Statement of Facts for this case does not have any images of Leffingwell.",
-    "arrestDate": "2021-01-07T05:00:00.000Z",
+    "arrestDate": "2021-01-06T05:00:00.000Z",
     "arrestState": "WA",
     "associates": [],
     "caseIdentifier": "1:21-cr-5",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/press-release/file/1351676/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1jx18Unm6g8t7OhOTO_NyY7xvwrb9DHpx?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "National Guard",
@@ -37512,7 +37521,7 @@
     "_id": "mAgM9zTJslQg"
   },
   {
-    "actionsSummary": "Involved in tunnel fight near the front of the melee. Pretended to \"bear hug\" Officer Fanone before pulling him toward the crowd.",
+    "actionsSummary": "Involved in tunnel fight near the front of the melee. Pretended to \"bear hug\" Officer Fanone before pulling him toward the crowd. Carrying a sheathed knife with a wooden handle at his waist.",
     "alternateHashtags": [],
     "appearanceSummary": "Short brown hair and mustache. May also have a beard. Gray and white gaiter. Dark gray short-sleeve shirt over a black long-sleeve shirt. The gray shirt has a logo on the left breast with a red object inside a white circle. The back of the shirt says something like \"The Original Lucky Thirteen.\" Dark blue pants and light brown work boots. Sometimes wears a gray Trump baseball cap.",
     "arrestDate": "2021-04-16T04:00:00.000Z",
@@ -37523,6 +37532,7 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/head-albuquerque-cosper",
     "compositeURL": "https://drive.google.com/file/d/1BR5LAyDP8EEqZ5rVmLxrVdrwYb9KB3zT/view?usp=sharing",
     "fbiIdentifier": "111-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1whZlMW8ZlWZES0KZaxsWWc73fNM2e7w7?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
