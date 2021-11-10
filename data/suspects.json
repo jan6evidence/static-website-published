@@ -9372,6 +9372,31 @@
     "_id": "hcKyD_9vUhM8"
   },
   {
+    "actionsSummary": "Entered Capitol carrying two knives and chemical spray.",
+    "alternateHashtags": [
+      "Insider0976"
+    ],
+    "appearanceSummary": "Older white male with red \"USA\" baseball cap, black jacket, black backpack, and black pants. Carries a blue flag with white stars.",
+    "arrestState": "WA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00646",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237174/gov.uscourts.dcd.237174.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1sLiZPpJSM8c0qtjN5NBva8xpmNKfCNMW?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DavidRhine",
+    "profileLeads": [],
+    "realName": "RHINE, David Charles",
+    "_id": "l26loZDMQt5A"
+  },
+  {
     "actionsSummary": "Entered Capitol through Senate Wing door. Walked through Crypt and then south through Hall of Columns before exiting the building.",
     "alternateHashtags": [
       "Insider1633"
@@ -19100,7 +19125,7 @@
     "arrestDate": "2021-04-06T04:00:00.000Z",
     "arrestState": "MI",
     "associates": [],
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1384121/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19371,7 +19396,7 @@
     "caseIdentifier": "1:21-mj-00632",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21095831/liu-jia-statement-of-facts-oct-2021_redacted.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1sLiZPpJSM8c0qtjN5NBva8xpmNKfCNMW?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1RbltNI4cPnK7xbcZHNH9N92-4xUUKdlg?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Marines",
@@ -30883,7 +30908,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-435",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -37233,7 +37258,12 @@
     "actionsSummary": "One of first to arrive at W. Capitol near Peace Monument. Involved in pushing down lawn fences, breach of police barricades, fighting on W. Plaza. May have org. role. In barricade breach is with #AllGreenGuy, #MAGAFlagshirt, #RedPoloRising.",
     "alternateHashtags": [],
     "appearanceSummary": "White letters on L side of helmet say \"CULT\", small stars & crescent moon.",
+    "arrestDate": "2021-11-09T05:00:00.000Z",
+    "arrestState": "CO",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00186-SKC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Patrick%20Hamner%20Arrest%20Warrant%20and%20Statement%20of%20Facts.pdf",
     "compositeURL": "https://drive.google.com/file/d/1KkLfqvGZjWQph3MIj_ngn3RpnEtbnEOY/view?usp=sharing",
     "fbiIdentifier": "61-AFO",
     "idStatus": "ID sent to FBI",
@@ -37243,10 +37273,15 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
       }
     ],
     "primaryHashtag": "UglyGunSweater",
     "profileLeads": [],
+    "realName": "HAMNER, Thomas Patrick",
     "_id": "R5BZqcz_wkNg"
   },
   {
@@ -39365,7 +39400,7 @@
   {
     "actionsSummary": "Shoves against police barriers on Upper West Plaza and gets sprayed by police. Inside Capitol building.",
     "alternateHashtags": [
-      "Insider576",
+      "Insider0576",
       "YolkHead"
     ],
     "appearanceSummary": "White man with reddish brown facial hair. Tattoo on left wrist. Yellow knit cap, safety goggles with black elastic strap, black buff, black top over yellow top, black fingerless gloves, black wristwatch on left wrist. Small tan pack on back. Waist chain for keys.",
