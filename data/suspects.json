@@ -2424,6 +2424,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Tall man. Black knit cap with a small white star logo on the bottom edge. Long, light brown beard tending toward medium brown at the sideburns. Long medium brown hair parted at the center, swept back and tied (?) behind the head. Khaki jacket with a large breast pocket. Olive green shirt under the jacket. White earpiece in right ear. Camo cargo pants. Brown shoes.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -3138,6 +3139,7 @@
     "appearanceSummary": "Dark gray Giro MIPS bicycle helmet, black face buff, black coat, black backpack, blue jeans, red/black gloves, no facial hair, down-tipped nose",
     "associates": [],
     "fbiIdentifier": "199-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -4145,6 +4147,7 @@
     ],
     "appearanceSummary": "Red MAGA baseball cap. Blue-tinted sunglasses. Black leather jacket over a gray hoodie. Appears to have a backpack with black straps.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -8232,6 +8235,7 @@
     ],
     "appearanceSummary": "Short, dark hair. Black nylon quilted jacket over a black button-down shirt. May have a teal shirt under that, peeking out around the collar. Dark green backpack. Black ring on his left ring finger.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -14240,6 +14244,7 @@
     "appearanceSummary": "Brown hair. Brown coat with leather collar. Camo neck gaiter. Suspected to be a public figure, an actor, but not confirmed.",
     "associates": [],
     "fbiIdentifier": "247-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -15651,6 +15656,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Gray knit cap. Older man with gray hair. Black, hooded jacket over a light blue shirt. Dark gloves. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "446-AFO",
     "isLawEnforcement": false,
@@ -16197,6 +16203,7 @@
     ],
     "compositeURL": "https://drive.google.com/file/d/1ehgYKorQ5DfPt3hPf7TEKfQ4da0-UlcZ/view?usp=sharing",
     "fbiIdentifier": "60-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -22088,6 +22095,7 @@
     "appearanceSummary": "Long white hair swept back from his forehead. Stubbly upper lip. Black gaiter with some white features. Black jacket, possibly over a blue or black shirt with white lines on the front. Black Nike backpack. Blue jeans. Dark shoes or boots. Recorded using a cell phone inside the Capitol.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/103yPjYhmxNAxpBHnZOXKvnKyxuLLmCTx/view?usp=sharing",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -23970,6 +23978,7 @@
     "alternateHashtags": [
       "Insider1589"
     ],
+    "appearanceSummary": "Young man with long, dark hair. Faint mustache. Sometimes wears a black or dark gray gaiter that has lighter colors here and there on it. Black jacket over a black hoodie from Champion. Beneath that is a red t-shirt that can be seen around the collar or hanging down from the hoodie in some pictures. Blue jeans. Black shoes.",
     "associates": [],
     "fbiIdentifier": "444-AFO",
     "isLawEnforcement": false,
@@ -26279,6 +26288,7 @@
     ],
     "appearanceSummary": "Brown hair, beard, and mustache. Stars and stripes gaiter around his neck. Black or dark blue long-sleeve shirt with a Carhartt logo on the breast pocket. Black backpack.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -27729,6 +27739,7 @@
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/103ss9IQkFBozsUBi8Uw8Ea2L5Ucs7nZx/view?usp=sharing",
     "fbiIdentifier": "85-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -34082,18 +34093,23 @@
     "_id": "Zgx7BB1B8jYQ"
   },
   {
-    "actionsSummary": "See on W. Plaza helping scavenge a bag of police crowd-control sprayers, along with #NelsonPostThrower",
+    "actionsSummary": "Seen on W. Plaza helping scavenge a bag of police crowd-control sprayers, along with #NelsonPostThrower. Also inside the Capitol.",
     "alternateHashtags": [
       "Insider1745"
     ],
     "appearanceSummary": "Black and white Buffalo plaid shirt. Black hoodie. Glasses or sunglasses.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1lPIf4pNd4cORiOVvjNudC0B8ywEVwWim?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysNew York"
       },
       {
         "type": "behavior",
@@ -38150,6 +38166,7 @@
   {
     "actionsSummary": "Assaults police on the NW Lawn.",
     "alternateHashtags": [],
+    "appearanceSummary": "White baseball cap with writing on the front. Man with longish, light brown hair. Black jacket with a high collar. The jacket appears to be worn over a red sweatshirt. Black and gray backpack.",
     "associates": [
       "#GingerChinPelt"
     ],
@@ -38353,6 +38370,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Blue knit cap with red and white horizontal stripes and \"Trump\" in large white letters. Stubbly chin and jaw. Red jacket with a black hood and inner lining. In some pictures he has the jacket draped over his arm. White hoodie with \"Trump 2021\" on the front. There may be a black t-shirt underneath the hoodie and peaking out from the neck. Blue jeans. Black or dark gray sneakers with white soles. Some pictures show him carrying a white bullhorn with red accents.",
     "associates": [],
     "fbiIdentifier": "447-AFO",
     "isLawEnforcement": false,
@@ -39170,6 +39188,7 @@
     ],
     "appearanceSummary": "Brown hooded coat, yellow tinted glasses, baseball cap with red, white, and blue rim, blue jeans. Yellow, black, and green backpack. Gray beanie in the morning.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -39785,6 +39804,7 @@
     "associates": [
       "#MaroonPB"
     ],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
