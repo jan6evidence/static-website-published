@@ -9850,6 +9850,30 @@
     "_id": "Jls7xbJOcsjc"
   },
   {
+    "actionsSummary": "Tries to wrestle barrier away from police on Upper West Plaza. Carries police barricade away. Cuts open tarp on NW scaffold with a sawzall.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair, pinkish hooded jacket with grey cuffs and grey and white plaid lining, brown pants and shoes, large watch on left wrist, tan backpack, red MAGA cap with 45 on right side. Radio mounted on backpack strap.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1AQgEcjrOPmHTQZdDlc1SAD8yTlJML_iX?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "DeWALTingDeTarp",
+    "profileLeads": [
+      "@LSquaredRE @PhoenixOnWheels"
+    ],
+    "_id": "X1r4hJKLwqRo"
+  },
+  {
     "actionsSummary": "Shown on video at W. Plaza and inside Capitol. Gives his helmet to PintSizePB at one point.",
     "alternateHashtags": [
       "Insider1160"
@@ -15233,6 +15257,39 @@
     "primaryHashtag": "GreenSprayGuy",
     "profileLeads": [],
     "_id": "U7DEF5q3oha0"
+  },
+  {
+    "actionsSummary": "Attempted to smash the East House Doors’ glass panes with a flagpole and a baton. Physically assaulted a U.S. Capitol Police Officer with a flagpole.",
+    "alternateHashtags": [
+      "Insider0651"
+    ],
+    "appearanceSummary": "Older white male with gray facial hair wearing a black and neon yellow hooded sweatshirt.  Small “USA” logo or design on the right side of the chest of the sweatshirt.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "AL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00637",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1447631/download",
+    "filesUrl": "https://drive.google.com/drive/folders/10HmAPnKcZPpzB_CKD6m9xJYcF4sEFXmt?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "GregoryNix",
+    "profileLeads": [],
+    "realName": "NIX, Gregory Lamar",
+    "_id": "B5W-ZEnnQiKM"
   },
   {
     "actionsSummary": "Posted video of himself inside the Capitol on Snapchat, including video of himself smoking a joint.",
@@ -34150,11 +34207,11 @@
     "_id": "Zgx7BB1B8jYQ"
   },
   {
-    "actionsSummary": "Seen on W. Plaza helping scavenge a bag of police crowd-control sprayers, along with #NelsonPostThrower. Also inside the Capitol.",
+    "actionsSummary": "Marched in with PBs. Inside the Capitol.",
     "alternateHashtags": [
       "Insider1745"
     ],
-    "appearanceSummary": "Black and white Buffalo plaid shirt. Black hoodie. Glasses or sunglasses.",
+    "appearanceSummary": "White man wearing black and white Buffalo plaid shirt over a black hoodie, light colored jeans, white shoes, black gloves and glasses.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1lPIf4pNd4cORiOVvjNudC0B8ywEVwWim?usp=sharing",
     "idStatus": "ID sent to FBI",
