@@ -9382,6 +9382,7 @@
       "Insider0976"
     ],
     "appearanceSummary": "Older white male with red \"USA\" baseball cap, black jacket, black backpack, and black pants. Carries a blue flag with white stars.",
+    "arrestDate": "2021-11-09T05:00:00.000Z",
     "arrestState": "WA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00646",
@@ -20506,6 +20507,33 @@
     "_id": "-wRLRzN_kpTg"
   },
   {
+    "actionsSummary": "Resisted officers attempting to clear the rioters out of the Rotunda. Grabbed an officer's hand. After being forced out, rushed at officers and attempted to push one of the Rotunda doors open.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White male wearing a dark blue and white windbreaker with green striped hood, and\na Trump flag tied around his neck.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00639-ZMF",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1nImwIVGBj036ifvsebibuWUiRiSZm30l?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "JulioBaquero",
+    "profileLeads": [],
+    "realName": "BAQUERO, Julio",
+    "_id": "dgWaW96OAh_E"
+  },
+  {
     "actionsSummary": "Entered the Capitol Building at approximately 3:03\np.m. on January 6, 2021, through the Rotunda doors on the east side of the building. In the Rotunda.",
     "alternateHashtags": [
       "Insider1189"
@@ -22490,6 +22518,29 @@
     "primaryHashtag": "LoudMajorityScarfy",
     "profileLeads": [],
     "_id": "ngqdwJMBEo4k"
+  },
+  {
+    "actionsSummary": "Entered the Capitol in the area of the Upper West Terrace at about 2:45 p.m. and walked to the Rotunda.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White male wearing a red hat, flag mask, and a Jacksonville Jaguars jacket.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00639-ZMF",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1ABPvEIApd4TzuB_No_x_oH9NVT7yWJWX?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LouisValentin",
+    "profileLeads": [],
+    "realName": "VALENTIN, Louis",
+    "_id": "mVGH3H8QMi8o"
   },
   {
     "actionsSummary": "Violent based on AFO designation.",
@@ -26498,7 +26549,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "OldWackyTobaccy",
     "profileLeads": [],
     "_id": "2aIAVpne0mds"
@@ -32783,6 +32839,7 @@
     ],
     "appearanceSummary": "Grey coat with red \"Snap On\" logo on the front. Black hooded sweatshirt. Tan-colored tactical vest. Brown Carhartt ball cap with sunglasses. Very light facial hair.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -34100,6 +34157,7 @@
     "appearanceSummary": "Black and white Buffalo plaid shirt. Black hoodie. Glasses or sunglasses.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1lPIf4pNd4cORiOVvjNudC0B8ywEVwWim?usp=sharing",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -34117,7 +34175,9 @@
       }
     ],
     "primaryHashtag": "SuperPlaidPB",
-    "profileLeads": [],
+    "profileLeads": [
+      "@SeditionTrack @PhoenixOnWheels"
+    ],
     "_id": "nFRi_BxDkpKM"
   },
   {
@@ -35026,7 +35086,6 @@
     ],
     "compositeURL": "https://drive.google.com/file/d/1ZWR5Zax40ay7MnhekyvaR1xcKgpPaF7B/view?usp=sharing",
     "fbiIdentifier": "90-AFO",
-    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -36520,6 +36579,7 @@
     ],
     "appearanceSummary": "Blue hooded sweatshirt, black helmet and tactical vest. Lots of patches on his vest incl. III% logo. One of the patches is Patriot Patch Co.'s \"Taxation is Theft.\" Black shades and neck gaiter. Blue bullhorn.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
