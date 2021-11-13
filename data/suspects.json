@@ -9928,14 +9928,16 @@
     "_id": "nIieyoLiEsv0"
   },
   {
-    "actionsSummary": "Seen in Capitol",
+    "actionsSummary": "Seen in Capitol. Works for Defense Department contractor and has a secret security clearance.",
     "alternateHashtags": [
       "Insider1938"
     ],
     "appearanceSummary": "Yellow t-shirt, black leather jacket. Crew cut and clean shaven. Aviator style glasses.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "CT",
-    "associates": [],
+    "associates": [
+      "#LeoRidge4"
+    ],
     "caseIdentifier": "1:21-mj-00643",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21103437/baouche-jeremy-statement-of-facts.pdf",
@@ -15515,7 +15517,7 @@
     "appearanceSummary": "Gray hoodie with a gray baseball cap. Sunglasses or goggles with orange lenses. Gray respirator. Backpack has black straps. Tan gloves.",
     "associates": [],
     "fbiIdentifier": "477-AFO",
-    "filesUrl": "https://docs.google.com/spreadsheets/d/1seLW0xtLRjyk4zN8Vyqf3wtfoIFejTVZ8jQorCvaJyU/edit?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1EuIu97XoM9S2xYFFbA37GAMfTzy25E2_?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -15526,7 +15528,7 @@
     ],
     "primaryHashtag": "GreyGasmask",
     "profileLeads": [
-      "@PhoenixOnWheels"
+      "@PhoenixOnWheels @CMominator"
     ],
     "_id": "66XXB1xGEsOw"
   },
@@ -20554,7 +20556,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "2:21-mj-01796-CRE",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1430506/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22143,7 +22145,9 @@
     "appearanceSummary": "Dirty blond hair swept back from his forehead. Brown jacket with a white fleece inner lining. The jacket has a gray hood built in. This is over a black shirt. Blue jeans. White shoes",
     "arrestDate": "2021-05-21T04:00:00.000Z",
     "arrestState": "PA",
-    "associates": [],
+    "associates": [
+      "#DickRobin"
+    ],
     "caseIdentifier": "1:21-cr-134",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1396541/download",
