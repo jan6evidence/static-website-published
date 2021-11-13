@@ -9933,7 +9933,12 @@
       "Insider1938"
     ],
     "appearanceSummary": "Yellow t-shirt, black leather jacket. Crew cut and clean shaven. Aviator style glasses.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "CT",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00643",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21103437/baouche-jeremy-statement-of-facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -9944,6 +9949,7 @@
     ],
     "primaryHashtag": "DickRobin",
     "profileLeads": [],
+    "realName": "BAOUCHE, Jeremy Karim",
     "_id": "hwdVD-7TgllY"
   },
   {
