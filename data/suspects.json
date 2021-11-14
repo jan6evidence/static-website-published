@@ -5690,7 +5690,7 @@
     "_id": "sPKxqfIJYonA"
   },
   {
-    "actionsSummary": "At the forefront of action in W Terrace and tunnel. Entered tunnel in Phase I possibly as Go Team. Directed action near tunnel entrance, used bullhorn. Late in day used battering ram on window to the Left of the Tunnel.",
+    "actionsSummary": "Fought over police barricades on the Upper West Plaza. At the forefront of action in W Terrace and tunnel. Entered tunnel in Phase I possibly as Go Team. Directed action near tunnel entrance, used bullhorn. Late in day used battering ram on window to the Left of the Tunnel.",
     "alternateHashtags": [
       "pinkhat",
       "pinkhatlady",
@@ -6195,6 +6195,7 @@
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/13DCTAm9sViWBY4htl68lItDi47KWnSDC/view?usp=sharing",
     "fbiIdentifier": "262-AFO",
+    "filesUrl": "https://docs.google.com/spreadsheets/d/1NGQhxAMsvWwh6JD9SSFqmrdgo0GzvU_PJE-SafPYy-E/edit?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -21857,6 +21858,26 @@
     "_id": "zFmkiAblIgXY"
   },
   {
+    "actionsSummary": "Shoving police barricades into police line on Upper West Plaza. Police spray him in the face.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a shaved head (bald) wearing a black leather jacket with MARINES written across the back over a navy Trump 2020 shirt, tan pants, black gloves and a yellow buff.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1zhkQfZMMSZG9SRgadCprXZGVwvnHjq9d?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "LeatherMarine",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "gT7QWf_Mkukw"
+  },
+  {
     "actionsSummary": "Part of a group of 12-14 Oath Keepers filmed entering the Capitol building in a stack formation.",
     "alternateHashtags": [
       "Insider1858"
@@ -28620,6 +28641,7 @@
     "appearanceSummary": "Black helmet. Sometimes wears a black baseball cap with the 3% logo on the front. Black gaiter with a cartoon image of a toothy smile on a white face (resembles the Joker). He sometimes wears this over his face and other times around his neck. Camo jacket with a black, circular 3% patch on the left sleeve. Tan tactical vest. Black gloves with reinforced knuckles.",
     "associates": [],
     "fbiIdentifier": "258-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
