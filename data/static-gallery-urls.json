@@ -19907,6 +19907,11 @@
   ],
   "GreyGasMask": [
     {
+      "mediaItemId": "CcoKxNpaB5ZnyhWey",
+      "archiveUrl": "https://archive.org/download/CcoKxNpaB5ZnyhWey/CcoKxNpaB5ZnyhWey.png",
+      "thumbnailUrl": "https://archive.org/download/CcoKxNpaB5ZnyhWey/CcoKxNpaB5ZnyhWey.200px.png"
+    },
+    {
       "mediaItemId": "fCNnf8u9FXc3h6ssx",
       "archiveUrl": "https://archive.org/download/fCNnf8u9FXc3h6ssx/fCNnf8u9FXc3h6ssx.jpg",
       "thumbnailUrl": "https://archive.org/download/fCNnf8u9FXc3h6ssx/fCNnf8u9FXc3h6ssx.200px.jpg"
@@ -27493,6 +27498,7 @@
       "thumbnailUrl": "https://archive.org/download/uF9PmweTvs4WHSp8c/uF9PmweTvs4WHSp8c.200px.png"
     }
   ],
+  "LeatherMarine": [],
   "LeatherOK": [
     {
       "mediaItemId": "6sfxngE3KFpLeXKBW",
