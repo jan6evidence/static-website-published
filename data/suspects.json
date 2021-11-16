@@ -993,6 +993,36 @@
     "_id": "0zNilq4Hwicc"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider0133"
+    ],
+    "appearanceSummary": "White man with gray hair wearing navy blue hoodie",
+    "arrestDate": "2021-09-20T04:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00616",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236275/gov.uscourts.dcd.236275.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1MaEnWMZgCSeEvGBSVWAOpmQ81Z3NFzfx?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "AnthonyVuksanaj",
+    "profileLeads": [],
+    "realName": "VUKSANAJ, Anthony",
+    "_id": "r8-0IYtwEl50"
+  },
+  {
     "actionsSummary": "Took photos of himself inside the Capitol Rotunda.",
     "alternateHashtags": [
       "Insider1581"
@@ -1157,6 +1187,25 @@
       "@PhoenixOnWheels"
     ],
     "_id": "ItrQGDqukkBw"
+  },
+  {
+    "alternateHashtags": [
+      "Insider0504"
+    ],
+    "appearanceSummary": "White man with brown hair and beard wearing green gaiter and blue Trump ballcap",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1KQUpRY_gPxfUN1OD97o54cU4ACzM1ckl?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ApricotGreenie",
+    "profileLeads": [],
+    "_id": "_n3YcNosUst4"
   },
   {
     "actionsSummary": "Near tunnel, appeared to be in it and then exit. This is Rosanne Boyland's friend who was with her when she was trampled. Has given interviews, name is public.",
@@ -4920,6 +4969,21 @@
     "primaryHashtag": "BradleyWeeks",
     "profileLeads": [],
     "_id": "RLoW8uhTcoyg"
+  },
+  {
+    "actionsSummary": "Part of the assault on the West plaza.",
+    "alternateHashtags": [],
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1dTgH7wWhBT7pw8r-FLntIglQRXjtt0A-?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BradSmith",
+    "profileLeads": [],
+    "realName": "SMITH, Charles Bradley",
+    "_id": "lIXwDETYsiqk"
   },
   {
     "actionsSummary": "Recorded inside the Senate Chamber.",
@@ -15277,6 +15341,7 @@
     "arrestState": "AL",
     "associates": [],
     "caseIdentifier": "1:21-mj-00637",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1447631/download",
     "filesUrl": "https://drive.google.com/drive/folders/10HmAPnKcZPpzB_CKD6m9xJYcF4sEFXmt?usp=sharing",
     "isLawEnforcement": false,
@@ -16626,6 +16691,21 @@
       "@PhoenixOnWheels"
     ],
     "_id": "YW5PXuZ44nns"
+  },
+  {
+    "actionsSummary": "Part of the assault on the West plaza. Enters the NW Coutyard Side Door.",
+    "alternateHashtags": [
+      "Insider0879"
+    ],
+    "appearanceSummary": "White or Hispanic man with brown hair and goatee, light outerwear, and glasses",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1A0agDqjURZVJ_o1cAYR_ejwYAhCgzcVE?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "HighTightSlouch",
+    "profileLeads": [],
+    "_id": "OCOVcnsRQodU"
   },
   {
     "actionsSummary": "Swings flagpole at officers.",
@@ -20574,12 +20654,15 @@
   },
   {
     "actionsSummary": "Resisted officers attempting to clear the rioters out of the Rotunda. Grabbed an officer's hand. After being forced out, rushed at officers and attempted to push one of the Rotunda doors open.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2171"
+    ],
     "appearanceSummary": "White male wearing a dark blue and white windbreaker with green striped hood, and\na Trump flag tied around his neck.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-mj-00639-ZMF",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1nImwIVGBj036ifvsebibuWUiRiSZm30l?usp=sharing",
     "isLawEnforcement": false,
@@ -22609,12 +22692,15 @@
   },
   {
     "actionsSummary": "Entered the Capitol in the area of the Upper West Terrace at about 2:45 p.m. and walked to the Rotunda.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2084"
+    ],
     "appearanceSummary": "White male wearing a red hat, flag mask, and a Jacksonville Jaguars jacket.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-mj-00639-ZMF",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1ABPvEIApd4TzuB_No_x_oH9NVT7yWJWX?usp=sharing",
     "isLawEnforcement": false,
@@ -23680,6 +23766,29 @@
     "primaryHashtag": "MaroonPB",
     "profileLeads": [],
     "_id": "GLFHsZTGUnRw"
+  },
+  {
+    "actionsSummary": "Part of the assault on the West plaza. Assisted with #SeditionBillboard assault.",
+    "alternateHashtags": [
+      "Insider0653"
+    ],
+    "arrestState": "PA",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/18UsXz8mFCdEIb8S_ykhpxlwb7z1SS7pp?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MarshallNeefe",
+    "profileLeads": [],
+    "realName": "NEEFE, Marshall",
+    "_id": "boO7GM9TQuvA"
   },
   {
     "actionsSummary": "In the background of the riot on the lower West plaza with other New Jersey Proud Boys.",
@@ -37529,7 +37638,9 @@
     "_id": "LQCwbdYrQsUc"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0680"
+    ],
     "appearanceSummary": "Dark blue Trump knit cap. Eyeglasses with brown frames, and down his nose far enough that he can look over them. May have a blue surgical mask hung under his chin. Blue denim coat with a white fleece collar. Brown (?) button-down shirt over a white t-shirt.",
     "associates": [],
     "isLawEnforcement": false,
