@@ -1746,7 +1746,12 @@
       "Insider1051"
     ],
     "appearanceSummary": "Red/white/blue puffer jacket, bareheaded, blonde hair.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00644",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
     "compositeURL": "https://drive.google.com/file/d/161_e0XRFQnQ1kloQLwWzaQejBdELKd7C/view?usp=sharing",
     "fbiIdentifier": "66-AFO",
     "idStatus": "ID sent to FBI",
@@ -1764,6 +1769,7 @@
     ],
     "primaryHashtag": "BabyFaceInsider",
     "profileLeads": [],
+    "realName": "PURDY, Gregory Richard",
     "_id": "HYAUlby6cqYg"
   },
   {
@@ -4973,6 +4979,7 @@
   {
     "actionsSummary": "Part of the assault on the West plaza.",
     "alternateHashtags": [],
+    "arrestState": "PA",
     "associates": [],
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
@@ -8875,6 +8882,25 @@
   },
   {
     "alternateHashtags": [
+      "Insider0440"
+    ],
+    "associates": [],
+    "fbiIdentifier": "487-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/19ztZiXeigI7ZZNmnvsMpV5ieIj1tkGM8?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CurlyPlaid",
+    "profileLeads": [],
+    "_id": "P0OK_R0-cowY"
+  },
+  {
+    "alternateHashtags": [
       "MoranisPB"
     ],
     "appearanceSummary": "Army green coat and black gloves. Blue knit hat with MAGA around the bottom. Glasses with clip on sunglasses.",
@@ -9731,7 +9757,12 @@
       "Insider2162"
     ],
     "appearanceSummary": "Blue knit cap with \"Trump\" in white letters at the bottom front and a yellow signature closer to the top. Brown (?) beard and mustache. Black earloop mask, sometimes worn under the chin. Black or dark blue hoodie. Wears a blue Trump flag around his neck like a cape or over his shoulder like a toga. Blue pants. Black shoes. Photographed recording the scene with a smartphone in a black case on the west side of the Capitol and inside the building.",
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00644",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
     "fbiIdentifier": "376-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9747,6 +9778,7 @@
     ],
     "primaryHashtag": "DeepBlueSquander",
     "profileLeads": [],
+    "realName": "TURNER, Robert",
     "_id": "DRA-gKN5Ek6o"
   },
   {
@@ -16693,7 +16725,7 @@
     "_id": "YW5PXuZ44nns"
   },
   {
-    "actionsSummary": "Part of the assault on the West plaza. Enters the NW Coutyard Side Door.",
+    "actionsSummary": "Part of the assault on the West plaza. Enters the NW Courtyard Side Door.",
     "alternateHashtags": [
       "Insider0879"
     ],
@@ -16702,7 +16734,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1A0agDqjURZVJ_o1cAYR_ejwYAhCgzcVE?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "HighTightSlouch",
     "profileLeads": [],
     "_id": "OCOVcnsRQodU"
@@ -24051,6 +24088,28 @@
     "profileLeads": [],
     "realName": "PERNA, Matthew",
     "_id": "-0-LsczUYn2c"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2021-11-10T05:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00644",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/10rH5A37tLM9ZG8kDyVykCmrf0L_P-MfE?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MatthewPurdy",
+    "profileLeads": [],
+    "realName": "PURDY, Matthew",
+    "_id": "boz1W-xkIqag"
   },
   {
     "actionsSummary": "One of first through scaffolding and through NW window breach. Gave interview describing actions.",
