@@ -1087,7 +1087,18 @@
       "archiveUrl": "https://archive.org/download/gzHse3BtpLeqMaXzm/gzHse3BtpLeqMaXzm.png"
     }
   ],
-  "AnthonyVuksanaj": [],
+  "AnthonyVuksanaj": [
+    {
+      "mediaItemId": "Mde4mhtRcWYCNrJu5",
+      "archiveUrl": "https://archive.org/download/Mde4mhtRcWYCNrJu5/Mde4mhtRcWYCNrJu5.JPG",
+      "thumbnailUrl": "https://archive.org/download/Mde4mhtRcWYCNrJu5/Mde4mhtRcWYCNrJu5.200px.JPG"
+    },
+    {
+      "mediaItemId": "qthDio7HzLiYHRALa",
+      "archiveUrl": "https://archive.org/download/qthDio7HzLiYHRALa/qthDio7HzLiYHRALa.JPG",
+      "thumbnailUrl": "https://archive.org/download/qthDio7HzLiYHRALa/qthDio7HzLiYHRALa.200px.JPG"
+    }
+  ],
   "AnthonyWilliams": [
     {
       "mediaItemId": "HNWb4z72gYdMy7a3h",
@@ -1188,7 +1199,23 @@
       "thumbnailUrl": "https://archive.org/download/uMCv5Ja99Dxke658y/uMCv5Ja99Dxke658y.200px.jpg"
     }
   ],
-  "ApricotGreenie": [],
+  "ApricotGreenie": [
+    {
+      "mediaItemId": "Bkgb5sjNGiy7nivmh",
+      "archiveUrl": "https://archive.org/download/Bkgb5sjNGiy7nivmh/Bkgb5sjNGiy7nivmh.JPG",
+      "thumbnailUrl": "https://archive.org/download/Bkgb5sjNGiy7nivmh/Bkgb5sjNGiy7nivmh.200px.JPG"
+    },
+    {
+      "mediaItemId": "D7YbJFtXfHmQyEG5z",
+      "archiveUrl": "https://archive.org/download/D7YbJFtXfHmQyEG5z/D7YbJFtXfHmQyEG5z.JPG",
+      "thumbnailUrl": "https://archive.org/download/D7YbJFtXfHmQyEG5z/D7YbJFtXfHmQyEG5z.200px.JPG"
+    },
+    {
+      "mediaItemId": "ZXWt22QZ2ZZ37tPc4",
+      "archiveUrl": "https://archive.org/download/ZXWt22QZ2ZZ37tPc4/ZXWt22QZ2ZZ37tPc4.JPG",
+      "thumbnailUrl": "https://archive.org/download/ZXWt22QZ2ZZ37tPc4/ZXWt22QZ2ZZ37tPc4.200px.JPG"
+    }
+  ],
   "AquaDrawStrings": [
     {
       "mediaItemId": "C9kABpZErNuiERJ9N",
@@ -6329,7 +6356,18 @@
       "thumbnailUrl": "https://archive.org/download/A2urz2nwpqC49MEKP/A2urz2nwpqC49MEKP.200px.jpg"
     }
   ],
-  "BradSmith": [],
+  "BradSmith": [
+    {
+      "mediaItemId": "7qKu43dsHoJw3Ftg9",
+      "archiveUrl": "https://archive.org/download/7qKu43dsHoJw3Ftg9/7qKu43dsHoJw3Ftg9.JPG",
+      "thumbnailUrl": "https://archive.org/download/7qKu43dsHoJw3Ftg9/7qKu43dsHoJw3Ftg9.200px.JPG"
+    },
+    {
+      "mediaItemId": "yRmtsvmEdZ4xpZQpN",
+      "archiveUrl": "https://archive.org/download/yRmtsvmEdZ4xpZQpN/yRmtsvmEdZ4xpZQpN.JPG",
+      "thumbnailUrl": "https://archive.org/download/yRmtsvmEdZ4xpZQpN/yRmtsvmEdZ4xpZQpN.200px.JPG"
+    }
+  ],
   "BradleyBennett": [
     {
       "mediaItemId": "6HpoFF6LrxkQcC2Yo",
@@ -11219,7 +11257,23 @@
       "thumbnailUrl": "https://archive.org/download/wfsCsoikRkL4uxXTH/wfsCsoikRkL4uxXTH.200px.jpg"
     }
   ],
-  "CurlyPlaid": [],
+  "CurlyPlaid": [
+    {
+      "mediaItemId": "C5HmEi26oEyNKt66d",
+      "archiveUrl": "https://archive.org/download/C5HmEi26oEyNKt66d/C5HmEi26oEyNKt66d.JPG",
+      "thumbnailUrl": "https://archive.org/download/C5HmEi26oEyNKt66d/C5HmEi26oEyNKt66d.200px.JPG"
+    },
+    {
+      "mediaItemId": "FEcdg67N3zg4Bo6tF",
+      "archiveUrl": "https://archive.org/download/FEcdg67N3zg4Bo6tF/FEcdg67N3zg4Bo6tF.jpg",
+      "thumbnailUrl": "https://archive.org/download/FEcdg67N3zg4Bo6tF/FEcdg67N3zg4Bo6tF.200px.jpg"
+    },
+    {
+      "mediaItemId": "pYWCyCSyzmamZeW88",
+      "archiveUrl": "https://archive.org/download/pYWCyCSyzmamZeW88/pYWCyCSyzmamZeW88.jpg",
+      "thumbnailUrl": "https://archive.org/download/pYWCyCSyzmamZeW88/pYWCyCSyzmamZeW88.200px.jpg"
+    }
+  ],
   "CyclopsPB": [
     {
       "mediaItemId": "6uZzjjJsY4e4YRMXW",
@@ -21363,7 +21417,28 @@
       "thumbnailUrl": "https://archive.org/download/xX7MjgmBATbYePbFn/xX7MjgmBATbYePbFn.200px.png"
     }
   ],
-  "HighTightSlouch": [],
+  "HighTightSlouch": [
+    {
+      "mediaItemId": "2qcdfKBWGo88cR994",
+      "archiveUrl": "https://archive.org/download/2qcdfKBWGo88cR994/2qcdfKBWGo88cR994.JPG",
+      "thumbnailUrl": "https://archive.org/download/2qcdfKBWGo88cR994/2qcdfKBWGo88cR994.200px.JPG"
+    },
+    {
+      "mediaItemId": "JvogBLFb5DkkGKyNM",
+      "archiveUrl": "https://archive.org/download/JvogBLFb5DkkGKyNM/JvogBLFb5DkkGKyNM.JPG",
+      "thumbnailUrl": "https://archive.org/download/JvogBLFb5DkkGKyNM/JvogBLFb5DkkGKyNM.200px.JPG"
+    },
+    {
+      "mediaItemId": "chyWeG5zW9EKwfYWK",
+      "archiveUrl": "https://archive.org/download/chyWeG5zW9EKwfYWK/chyWeG5zW9EKwfYWK.JPG",
+      "thumbnailUrl": "https://archive.org/download/chyWeG5zW9EKwfYWK/chyWeG5zW9EKwfYWK.200px.JPG"
+    },
+    {
+      "mediaItemId": "gMr3p2X4sRBYXNGK6",
+      "archiveUrl": "https://archive.org/download/gMr3p2X4sRBYXNGK6/gMr3p2X4sRBYXNGK6.JPG",
+      "thumbnailUrl": "https://archive.org/download/gMr3p2X4sRBYXNGK6/gMr3p2X4sRBYXNGK6.200px.JPG"
+    }
+  ],
   "HitlerStalinMaoTshirt": [
     {
       "mediaItemId": "2stuejZMXgteigZ5n",
@@ -30110,7 +30185,18 @@
       "thumbnailUrl": "https://archive.org/download/ysg7ny2vqudtu5ejT/ysg7ny2vqudtu5ejT.200px.JPG"
     }
   ],
-  "MarshallNeefe": [],
+  "MarshallNeefe": [
+    {
+      "mediaItemId": "PBzpqvpWvr6QGPvvN",
+      "archiveUrl": "https://archive.org/download/PBzpqvpWvr6QGPvvN/PBzpqvpWvr6QGPvvN.JPG",
+      "thumbnailUrl": "https://archive.org/download/PBzpqvpWvr6QGPvvN/PBzpqvpWvr6QGPvvN.200px.JPG"
+    },
+    {
+      "mediaItemId": "qoX2SF3ZxtepHWNiq",
+      "archiveUrl": "https://archive.org/download/qoX2SF3ZxtepHWNiq/qoX2SF3ZxtepHWNiq.JPG",
+      "thumbnailUrl": "https://archive.org/download/qoX2SF3ZxtepHWNiq/qoX2SF3ZxtepHWNiq.200px.JPG"
+    }
+  ],
   "MaskOnMaskPB": [
     {
       "mediaItemId": "77rADT2C8TNScK8FK",
@@ -30298,7 +30384,18 @@
       "thumbnailUrl": "https://archive.org/download/LyAyTJbMogvk8bpr5/LyAyTJbMogvk8bpr5.200px.jpg"
     }
   ],
-  "MatthewPurdy": [],
+  "MatthewPurdy": [
+    {
+      "mediaItemId": "F22QYFdKZqS5oTi7u",
+      "archiveUrl": "https://archive.org/download/F22QYFdKZqS5oTi7u/F22QYFdKZqS5oTi7u.jpg",
+      "thumbnailUrl": "https://archive.org/download/F22QYFdKZqS5oTi7u/F22QYFdKZqS5oTi7u.200px.jpg"
+    },
+    {
+      "mediaItemId": "KNHsNhXhbn4EKdjf2",
+      "archiveUrl": "https://archive.org/download/KNHsNhXhbn4EKdjf2/KNHsNhXhbn4EKdjf2.JPG",
+      "thumbnailUrl": "https://archive.org/download/KNHsNhXhbn4EKdjf2/KNHsNhXhbn4EKdjf2.200px.JPG"
+    }
+  ],
   "MeanMrClean": [
     {
       "mediaItemId": "4peN3A6c4gRCyA5E2",

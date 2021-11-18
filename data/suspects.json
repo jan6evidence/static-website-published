@@ -2210,7 +2210,10 @@
     "actionsSummary": "Uses police barrier to try to smash Capitol doors. Throws object at doors.",
     "alternateHashtags": [],
     "appearanceSummary": "Long Gray jacket, black hat and gaiter, retro red white and blue scarf; almost always seen holding a paper coffee cup",
-    "associates": [],
+    "associates": [
+      "#MyPIllowFace",
+      "#PlaidBatteringRam"
+    ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -18746,7 +18749,7 @@
     "arrestState": "DC",
     "associates": [],
     "caseIdentifier": "1:21-cr-315",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -25538,8 +25541,10 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black clothes, dark blue jeans, orange and brown backpack, black hat with black US flag patch and oval-shaped sticker on brim, large bright white cloth tied to face. Carries flag on white PVC pole with image of bald eagle, two pistols and large text: \"God, Guns and Guts Made AMERICA Let's Keep All Three\"",
     "associates": [
-      "#BarrierCarrier"
+      "#BarrierCarrier",
+      "#PlaidBatteringRam"
     ],
+    "filesUrl": "https://docs.google.com/spreadsheets/d/1w896UQOeZKZjIybWVE-kkkk73SrvAbUoYvRNfeNq-40/edit#gid=631728522",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -36757,7 +36762,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-310",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1395326/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
