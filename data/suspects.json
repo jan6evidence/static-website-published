@@ -19015,7 +19015,7 @@
     "arrestState": "NH",
     "associates": [],
     "caseIdentifier": "1:21-cr-304",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Riddle%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24073,7 +24073,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-156",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356831/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -28605,6 +28605,29 @@
     "_id": "OqUX1CsYMoSg"
   },
   {
+    "actionsSummary": "Along with #BarrierCarrier, made two assaults in a row on the #NorthDoors with a bike rack. After the second one, the police cracked the door open and sprayed them.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with greying red facial hair wearing a red plaid shirt over a grey hoodie, blue jeans, a brown leather belt, a black knit cap, glasses and a wedding band.",
+    "associates": [
+      "#BarrierCarrier",
+      "#MyPillowFace"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1T8isTWJClpstDdGOuDwA6rdb_aPeNxe0?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PlaidBatteringRam",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "jxIbEhAfIpuY"
+  },
+  {
     "actionsSummary": "Sprays unknown orange substance at officers on the W Terrace. Maces officers on a separate occasion. Observed carrying a wooden baton in the crowd near the tunnel arch. Enters the tunnel, involved in the melee inside.",
     "alternateHashtags": [
       "BluePlaidMaceGuy",
@@ -29584,6 +29607,31 @@
       "@AnonSpinosa"
     ],
     "_id": "osEaVvFPUo40"
+  },
+  {
+    "actionsSummary": "Entered the U.S. Capitol through the northwest Senate Wing door.",
+    "alternateHashtags": [
+      "Insider1666"
+    ],
+    "appearanceSummary": "Dark jacket, pants and shoes and red baseball cap. Dark facial hair.",
+    "arrestDate": "2021-11-15T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00648-ZMF",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237340/gov.uscourts.dcd.237340.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1zGXywhZqTb87pp3VU5W_ae9RrmF-ejU-?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RafaelValadez",
+    "profileLeads": [],
+    "realName": "VALADEZ, Rafael Jr.",
+    "_id": "7l5Shob_8sog"
   },
   {
     "alternateHashtags": [],
