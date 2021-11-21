@@ -23618,6 +23618,29 @@
     "_id": "nA6zrSOmsivg"
   },
   {
+    "actionsSummary": "Part of tunnel assault. Brought a gun onto Capitol grounds.",
+    "alternateHashtags": [],
+    "arrestDate": "2021-11-19T05:00:00.000Z",
+    "arrestState": "IN",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00655-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1449771/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1jwD9vxC9yy0hQO9-KP39lazZJEgtYsWh?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MarkMazza",
+    "profileLeads": [],
+    "realName": "MAZZA, Mark",
+    "_id": "VyMtaYocUl7M"
+  },
+  {
     "actionsSummary": "Pushes against the barricades and the police line on the Western side of the Capitol with his body",
     "alternateHashtags": [],
     "appearanceSummary": "Red and blue Trump knit cap with a pom-pom on top and a circular \"45\" patch at the bottom. Very short beard and mustache, graying at the chin. Red and white Trump scarf around his neck. Dark blue gaiter around his neck. Dark green or gray jacket with a dark green US flag on the left breast. Red (?) gloves.",
@@ -31436,6 +31459,20 @@
     "primaryHashtag": "SanMarcosPonytail",
     "profileLeads": [],
     "_id": "yMQPLQZfEi_E"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [],
+    "appearanceSummary": "Green vest with \"PATRIOT\" in white letters. Black jacket. Khaki pants. Helmet, goggles, and gaiter.",
+    "associates": [],
+    "fbiIdentifier": "488-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1PNFhq5UwAEWLKcrCVZ2Eb2qKxgpjgm8v?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "SansPatriot",
+    "profileLeads": [],
+    "_id": "CiK5iQjVkl68"
   },
   {
     "actionsSummary": "Observed with a headset at the West Plaza wall, could be coordinating but not confirmed.",
