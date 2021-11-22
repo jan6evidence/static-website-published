@@ -2128,6 +2128,25 @@
     "_id": "W6QygYze0kiw"
   },
   {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [],
+    "appearanceSummary": "Dirty baseball cap with a dark red front and bill and white back. Gray hair underneath? Brown work coat over a red hoodie that has white writing on the front. Blue jeans.",
+    "associates": [],
+    "fbiIdentifier": "492-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1jnTftURZCpsGR2aArnk-FwCfnK3QP0kC?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BamaRammer",
+    "profileLeads": [],
+    "_id": "InstRYLrokdc"
+  },
+  {
     "actionsSummary": "Seen inside the Capitol.",
     "alternateHashtags": [
       "Insider1390"
@@ -4982,8 +5001,11 @@
   {
     "actionsSummary": "Part of the assault on the West plaza.",
     "alternateHashtags": [],
+    "appearanceSummary": "Gray knit cap, with a small black and white tag along the bottom edge over his right eye. Five o'clock shadow. Black and white plaid scarf around his neck. Black and dark red plaid flannel overshirt. Black (?) backpack with black straps. Long black dress coat over a purple hoodie. Backpack with gray straps. Two (?) yellow (?) wrist-bands around his right wrist. White pants.",
     "arrestState": "PA",
-    "associates": [],
+    "associates": [
+      "#MarshallNeefe"
+    ],
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1dTgH7wWhBT7pw8r-FLntIglQRXjtt0A-?usp=sharing",
@@ -5837,6 +5859,25 @@
     "primaryHashtag": "BumbleGoggles",
     "profileLeads": [],
     "_id": "WmG0xOc7YnSM"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [],
+    "appearanceSummary": "Red MAGA baseball cap. Black balaklava? Light brown coat over a gray hoodie with a white inner lining, There might be a black and gray plaid shirt under that since in one picture we can see it peeking out from below the coat. Black backpack with black straps. Dark gray gloves with black thumbs and white piping. The wrist end of the left glove has a white logo with a large letter X. Blue jeans. Gray footwear?",
+    "associates": [],
+    "fbiIdentifier": "489-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1tyfErwfburaysTvNbucuTGtpGXmkAdsa?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BundledBrawler",
+    "profileLeads": [],
+    "_id": "5N7Ti_7corjc"
   },
   {
     "alternateHashtags": [],
@@ -8887,6 +8928,7 @@
     "alternateHashtags": [
       "Insider0440"
     ],
+    "appearanceSummary": "Camo “Trump” baseball cap. Sitting on the bill are black-framed sunglasses with bluish lenses. Man with a short, brown beard and mustache, and long, curly hair in the back (tied and not free-flowing). Has a small gap between his two front teeth. Faded monochrome stars-and-stripes gaiter, usually worn around his neck. Light gray hoodie that has a white logo on the front. (One picture not at the Capitol shows that part of the logo has a boomerang shape over a word that has the letters “...MUNT…” or “...HUNT...”.) Black, red, and white plaid jacket. Some pictures show a white piece of paper sticking out of the left breast pocket of the jacket. Yellowish-brown gloves with reinforced knuckles. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "487-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/19ztZiXeigI7ZZNmnvsMpV5ieIj1tkGM8?usp=sharing",
@@ -19717,18 +19759,19 @@
     "_id": "TFyViCakYhzk"
   },
   {
-    "actionsSummary": "Seen on BGOnTheScene footage. Among the front of the rioters at the police barricades. Enters Capitol via broken window.",
+    "actionsSummary": "Seen on BGOnTheScene footage. Among the front of the rioters at the police barricades. Enters Capitol via broken window. Also seen in the Capitol crypt.",
     "alternateHashtags": [
       "TrifectaTraitor",
       "Insider1166"
     ],
-    "appearanceSummary": "Light brown hair, full beard, khaki color jacket, black shirt, backpack.",
+    "appearanceSummary": "Brown knit cap with a square logo at the bottom front. Man with long brown hair. Long, full, brown beard and mustache. Brown jacket. This may be over a black shirt or hoodie. Black backpack with white piping and a white logo on back. Blue jeans. Dark footwear?",
     "arrestDate": "2021-01-28T05:00:00.000Z",
     "arrestState": "MD",
     "associates": [],
     "caseIdentifier": "1:21-cr-93",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/andries-john-d",
+    "fbiIdentifier": "491-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Marines",
@@ -23402,6 +23445,47 @@
     "_id": "KsfHGDBCkpTA"
   },
   {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [],
+    "appearanceSummary": "Black knit cap. Man with long brown hair tied in a ponytail in the back. Black gaiter with white features. Blue hooded sweatshirt.",
+    "associates": [],
+    "fbiIdentifier": "493-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1DSM5aNLoCsrEhmRodd0LltExTKQ6D9Ig?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MangledUpInBlue",
+    "profileLeads": [],
+    "_id": "kvuBMkeT8jDc"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [
+      "Insider0628",
+      "InsideBagman"
+    ],
+    "appearanceSummary": "Red MAGA baseball cap, sometimes worn on top of the hood of a black sweatshirt. Man with short brown hair, light brown mustache. Black leather jacket over a black (or dark blue?) and white plaid shirt. Carries a large, olive drab satchel at his right hip, with the strap over his left shoulder. Blue jeans? Light-colored footwear?",
+    "associates": [],
+    "fbiIdentifier": "495-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1-MTUSCzpB_MQphTJB0XE6cEGHzvYfWvr?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "ManPurseMan",
+    "profileLeads": [],
+    "_id": "cDZjDidtEphY"
+  },
+  {
     "alternateHashtags": [
       "fightthefraud on Parler",
       "Insider1833"
@@ -23836,8 +23920,11 @@
     "alternateHashtags": [
       "Insider0653"
     ],
+    "appearanceSummary": "Black knit cap, possibly with white writing on the front. Black crewcut hairstyle under that. Black to brown full beard and mustache. Black and white plaid scarf around his neck. Black and dark red plaid flannel overshirt. Black (?) backpack with black straps.",
     "arrestState": "PA",
-    "associates": [],
+    "associates": [
+      "#BradSmith"
+    ],
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/18UsXz8mFCdEIb8S_ykhpxlwb7z1SS7pp?usp=sharing",
@@ -24120,6 +24207,7 @@
     "alternateHashtags": [
       "Insider2188"
     ],
+    "appearanceSummary": "Young man with long, shaggy, dark hair. Sometimes wears a mottled gray knit cap. Light blue surgical mask. Appears to have an incipient beard under that. Gray knitted scarf just around his neck. Light brown, hooded jacket (from Carhartt?) over a yellow hoodie. There may be a black or gray hoodie beneath this. Backpack with black straps that have bright yellow parts at the left shoulder and a logo at the right shoulder. Dark pants. Photographed carrying a smartphone just outside the Capitol Building.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "NY",
     "associates": [],
@@ -26847,6 +26935,28 @@
     "_id": "2aIAVpne0mds"
   },
   {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [
+      "Insider2202",
+      "YellerFeller"
+    ],
+    "appearanceSummary": "Yellow baseball cap with the snake logo on the front. Man with short gray hair. Eyeglasses with dark frames. Wears a black mask with earloops inside the Capitol Building, but isn’t wearing it in some pictures from outside. Black, collarless (leather?) jacket over a button-down shirt that has a light-colored plaid pattern. One picture appears to show a round orange sticker on the left shoulder of the jacket. Black or dark blue pants. Dark gray sneakers or hiking boots.",
+    "associates": [],
+    "fbiIdentifier": "496-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1SQJ80FYF80NL0gx2855NlbBAangxBJT9?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "OldYellerFeller",
+    "profileLeads": [],
+    "_id": "0VNJOIVyohug"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "White male, gray hair (overgrown butch); gray very bushy Horseshoe; khaki green backpack; red t-shirt, black leather jacket with zipper; black tactical gloves with leather padding on dorsal and fingers; tan pants with white/red/blue scarf(?) around upper right thigh",
     "associates": [],
@@ -28614,6 +28724,25 @@
     "primaryHashtag": "PippiSprayer",
     "profileLeads": [],
     "_id": "wqlz6PDsoqIA"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [],
+    "appearanceSummary": "Pictures are blurry. Black knit cap. Clean-shaven, middle-aged man? Dark, hooded jacket or windbreaker.",
+    "associates": [],
+    "fbiIdentifier": "490-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/14g18G90Bfl274K6b9tAngGfxk8A1sx6D?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PlagueMouth",
+    "profileLeads": [],
+    "_id": "fTFS3WOdckuM"
   },
   {
     "actionsSummary": "Part of a push group pressing on LEO shield. Incites/invites with waving hands. Flees into the scaffolding after being maced by LEOs.",
@@ -30711,6 +30840,7 @@
     "alternateHashtags": [
       "Insider2053"
     ],
+    "appearanceSummary": "Man with longish, curly white hair. Cleanshaven. Black or dark gray hoodie.",
     "arrestDate": "2021-10-05T04:00:00.000Z",
     "arrestState": "MN",
     "associates": [
@@ -31464,13 +31594,18 @@
   {
     "actionsSummary": "Designated violent based on AFO",
     "alternateHashtags": [],
-    "appearanceSummary": "Green vest with \"PATRIOT\" in white letters. Black jacket. Khaki pants. Helmet, goggles, and gaiter.",
+    "appearanceSummary": "Baseball cap with a camo front and bill and a white back. It has the MAGA slogan in bright orange letters on the front. Short red beard and mustache. Wears black earmuffs that wrap around the back of his head. Faded stars and stripes gaiter. Also sometimes wears dark ski goggles with a gray strap and frames, and an olive drab helmet. Black, hooded, nylon jacket. This is worn over a large, olive drab bullet-proof vest that has the word “Patriot” on the front in white, sans-serif letters. This may be over a white t-shirt. Sometimes wears black gloves with red features. Black and gray backpack. Photographed carried a flag on a pole. Tan or beige pants. Light-colored footwear.",
     "associates": [],
     "fbiIdentifier": "488-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1PNFhq5UwAEWLKcrCVZ2Eb2qKxgpjgm8v?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "SansPatriot",
     "profileLeads": [],
     "_id": "CiK5iQjVkl68"
@@ -32323,6 +32458,28 @@
     "primaryHashtag": "ShaggyExterminator",
     "profileLeads": [],
     "_id": "XwglMGhWsuRU"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [
+      "Insider0581",
+      "ShaggyMAGA"
+    ],
+    "appearanceSummary": "Man with long, shaggy brown hair. Sometimes wears a MAGA knit cap with a blue lower part and above that is a blue square with a few stars in it (on one side) and horizontal red and white stripes (for the rest of it). Brown mustache. Short brown beard on a pointy chin. Green, fleece, zip-up jacket. This may be worn over a black hoodie or turtleneck. Green pants.",
+    "associates": [],
+    "fbiIdentifier": "497-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1BRVGLNxo5Hkuy_qJkXpBSWyraaugnxg9?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "ShaggyMAGAElf",
+    "profileLeads": [],
+    "_id": "YwJMLs-ykq30"
   },
   {
     "actionsSummary": "Fought in tunnel at W Terrace door. Pushed at officers using one of their shields at the front of the tunnel fight.",
@@ -36893,6 +37050,27 @@
     "primaryHashtag": "TrackSuitPB",
     "profileLeads": [],
     "_id": "BfsIoNoQYsrY"
+  },
+  {
+    "actionsSummary": "Designated violent based on AFO",
+    "alternateHashtags": [
+      "WestWanderer"
+    ],
+    "appearanceSummary": "Middle-aged man with short, curly, brown hair. In one picture he wears a gray baseball cap with a white logo on the front. Clean-shaven face. Brown jacket with two large breast pockets, zipped up pretty high. Beneath this is a black shirt (and maybe a gray t-shirt under that). Black (or gray?) and white gloves. Pale blue jeans. Black and white footwear? Does not move like Jagger.",
+    "associates": [],
+    "fbiIdentifier": "494-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1NYCd7h31tD7vhlNlnbWfTmpCfi1JefYg?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "TragicDanceMoves",
+    "profileLeads": [],
+    "_id": "cZuOJ3icEm7c"
   },
   {
     "actionsSummary": "Carries a #SeditionBat.",
