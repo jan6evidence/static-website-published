@@ -23611,7 +23611,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-299",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/castro-mariposa",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -35013,10 +35013,19 @@
       "Insider1964"
     ],
     "appearanceSummary": "Black airsoft helmet with an ATAIRSOFT patch on the left side. (The patch is black with a white mask at the center and the product name at the top.) Clear plastic goggles. A white gaiter with some kind of black pattern on it. Black jacket with shiny sleeves and a matte torso, and one red and one green horizontal stripe on the back. (This is apparently a jacket from Michael Jackson's \"Bad\" tour, and if it is \"Bad\" should be written in red on the left breast and one blurry photo might already show this.) The jacket is worn over a purple hoodie with a white zipper. Dark pants. May also be wearing big rubber boots. \"Gonna lock you up / Before too long.\"",
+    "arrestDate": "2021-11-24T05:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00660",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1451311/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "group",
+        "name": "OathKeepers"
+      },
       {
         "type": "behavior",
         "name": "EnteredCapitol"
@@ -35024,6 +35033,7 @@
     ],
     "primaryHashtag": "TailOK",
     "profileLeads": [],
+    "realName": "BEEKS, James Delisco",
     "_id": "Okq-h2h-Mo78"
   },
   {
