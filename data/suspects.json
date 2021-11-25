@@ -16374,17 +16374,23 @@
     "_id": "IDYEFqTB8vYI"
   },
   {
-    "actionsSummary": "Attempted to break window near L of tunnel entrance with baseball bat.",
+    "actionsSummary": "Broke window near L of tunnel entrance with baseball bat. Sprayed cops with bear spray.",
     "alternateHashtags": [
       "Insider1062"
     ],
     "appearanceSummary": "Harvard logo sweatshirt under black jacket, blonde hair in man-bun.",
+    "arrestDate": "2021-11-23T05:00:00.000Z",
+    "arrestState": "NC",
     "associates": [
       "#BlueCamoBoy"
     ],
+    "caseIdentifier": "1:21-mj-00656-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21116772/harvardsweats.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Air Force",
     "otherTags": [
       {
         "type": "behavior",
@@ -16397,6 +16403,7 @@
     ],
     "primaryHashtag": "HarvardSweats",
     "profileLeads": [],
+    "realName": "BILYARD, Aiden Henry",
     "_id": "VA0hX8kJIvHw"
   },
   {
