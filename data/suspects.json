@@ -1269,6 +1269,7 @@
     ],
     "appearanceSummary": "Older man, clean shaven. Black leather A-10 vest over black leather Harley Davidson jacket. Patch on vest reads \"Arctic Hawg\"",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -12315,6 +12316,7 @@
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1BMAAzuSjGLCpGTNRWOITEhbsZDsQRVU0/view?usp=sharing",
     "fbiIdentifier": "106-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -26079,31 +26081,6 @@
     "_id": "2pWV5nLowstA"
   },
   {
-    "actionsSummary": "Officers at the NY Fashion Institute of Technology reported that he had been at the Capitol",
-    "alternateHashtags": [
-      "Insider0937"
-    ],
-    "appearanceSummary": "Long brown hair, black jacket, bright green scarf",
-    "arrestDate": "2021-01-16T05:00:00.000Z",
-    "arrestState": "NY",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-84",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.justice.gov/opa/page/file/1361471/download",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "NicholasMoncada",
-    "profileLeads": [],
-    "realName": "MONCADA, Nicolas Anthony",
-    "_id": "jPTuEQUDcizI"
-  },
-  {
     "actionsSummary": "Entered capitol",
     "alternateHashtags": [
       "Insider1244"
@@ -26126,10 +26103,10 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "NicholasPeretta",
+    "primaryHashtag": "NicholasPerretta",
     "profileLeads": [],
-    "realName": "PERETTA, Nicholas J.",
-    "_id": "SbCw2wOIcg_0"
+    "realName": "PERRETTA, Nicholas J.",
+    "_id": "8DT8jYcvEslg"
   },
   {
     "actionsSummary": "Entered Capitol and pictured with Jacob Chansley",
@@ -26220,6 +26197,31 @@
     "profileLeads": [],
     "realName": "OCHS, Nicholas",
     "_id": "CDzs7rFMsm44"
+  },
+  {
+    "actionsSummary": "Officers at the NY Fashion Institute of Technology reported that he had been at the Capitol",
+    "alternateHashtags": [
+      "Insider0937"
+    ],
+    "appearanceSummary": "Long brown hair, black jacket, bright green scarf",
+    "arrestDate": "2021-01-16T05:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-84",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/opa/page/file/1361471/download",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "NicolasMoncada",
+    "profileLeads": [],
+    "realName": "MONCADA, Nicolas Anthony",
+    "_id": "6j9Gv0cMQjJU"
   },
   {
     "actionsSummary": "Posted several Instagram pictures from inside the Capitol, including in the Rotunda and Statutory Hall.",
@@ -27996,6 +27998,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Blue/gray knit cap. Black, full beard and mustache. Might have a black mask around his neck. Gray hoodie that says \"Washington State\" in red letters on the front above the WSU Cougars logo.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -37047,10 +37050,10 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "TraciSunstrom",
+    "primaryHashtag": "TraciSunstrum",
     "profileLeads": [],
     "realName": "SUNSTRUM, Traci J.",
-    "_id": "pRllp_c9gv7A"
+    "_id": "un8vPo00MvNc"
   },
   {
     "actionsSummary": "Shown on video on the Lower West Plaza and inside Capitol.",
