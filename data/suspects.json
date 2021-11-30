@@ -28689,9 +28689,14 @@
       "Insider1991"
     ],
     "appearanceSummary": "Female. Wearing hair in pigtails. Dark sweatshirt. Tan tactical vest with a Gopro clipped to the front. Tan knit hat. Brown buff. Tan work gloves with black knuckles.",
+    "arrestDate": "2021-11-26T05:00:00.000Z",
+    "arrestState": "CO",
     "associates": [
       "#DiagonalCamoPB"
     ],
+    "caseIdentifier": "1:21-mj-00657-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lisa%20Anne%20Homer%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -28710,6 +28715,7 @@
     ],
     "primaryHashtag": "PintSizePB",
     "profileLeads": [],
+    "realName": "HOMER, Lisa Anne",
     "_id": "00_6zdhAwlWQ"
   },
   {
