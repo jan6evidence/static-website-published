@@ -12751,9 +12751,16 @@
   },
   {
     "actionsSummary": "Repeatedly swings a wooden table leg at police in the tunnel on the Lower West Terrace.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "BundledBlueFlatCap"
+    ],
     "appearanceSummary": "Green plaid newsboy hat. Short black hair. Dark coat with a hood. Camo backpack. Blue surgical mask. Black fingerless gloves. Jeans.",
+    "arrestDate": "2021-11-30T05:00:00.000Z",
+    "arrestState": "RI",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00663-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21119839-timothy-desjardins",
     "fbiIdentifier": "348-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -12765,6 +12772,7 @@
     ],
     "primaryHashtag": "FlatCapAttacker",
     "profileLeads": [],
+    "realName": "DESJARDINS, Timothy J.",
     "_id": "c2MiARJeAiL0"
   },
   {
@@ -38160,6 +38168,7 @@
     "appearanceSummary": "Loose-fitting, black, hooded jacket. The left breast of the jacket appears to have white writing on it. Stars and stripes gaiter. Light brown (?) gloves. Backpack with blue straps. May have a cell phone hanging from the right side of his waist. Light blue jeans. Photographed holding up a silver or white spray can.",
     "associates": [],
     "fbiIdentifier": "431-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
