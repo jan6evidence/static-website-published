@@ -23083,7 +23083,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-cr-107",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1402941/download",
     "fbiIdentifier": "296-AFO",
     "isLawEnforcement": false,
@@ -26695,7 +26695,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-cr-321",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -28767,7 +28767,9 @@
   },
   {
     "actionsSummary": "Designated violent based on AFO",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "BlurredBlue"
+    ],
     "appearanceSummary": "Pictures are blurry. Black knit cap. Clean-shaven, middle-aged man? Dark, hooded jacket or windbreaker.",
     "associates": [],
     "fbiIdentifier": "490-AFO",
@@ -34916,7 +34918,12 @@
     "actionsSummary": "Pictured swinging a metal object of some kind. Attacks officers with SeditionBillboard",
     "alternateHashtags": [],
     "appearanceSummary": "Black and royal blue windbreaker, red MAGA hat. Older man.",
+    "arrestDate": "2021-11-22T05:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00662-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237821/gov.uscourts.dcd.237821.1.1.pdf",
     "fbiIdentifier": "362-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -34928,6 +34935,7 @@
     ],
     "primaryHashtag": "SwingerGramps",
     "profileLeads": [],
+    "realName": "RICHARDSON, Howard Charles",
     "_id": "iadD24A1kvw8"
   },
   {
@@ -38872,7 +38880,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Gray hoodie with dark jacket overtop, white/light blue medical mask, white gloves, light denim jeans, work boots. Carries a long poker (may be fence piece).",
     "associates": [],
-    "fbiIdentifier": "440-AFO",
+    "fbiIdentifier": "498-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
