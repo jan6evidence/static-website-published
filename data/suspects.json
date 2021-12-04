@@ -23570,6 +23570,25 @@
     "_id": "T_pLwqMZompY"
   },
   {
+    "alternateHashtags": [
+      "Insider0312"
+    ],
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00671-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238069/gov.uscourts.dcd.238069.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MarcosPanayiotou",
+    "profileLeads": [],
+    "realName": "PANAYIOTOU, Marcos",
+    "_id": "xKnPZZ6CIr64"
+  },
+  {
     "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes. Took several videos and a selfie of herself smoking a cigarette inside the building.",
     "alternateHashtags": [
       "Insider0173"
@@ -23939,11 +23958,17 @@
       "Insider0794"
     ],
     "appearanceSummary": "Plaid button down coat covering a plate carrier. Maroon red hoodie pulled up over a baseball hat. Trucker hat, red \"Cummins Engine Oil\" logo on the front with yellow lettering. Khaki pants. Dark stars and stripes face buff and large sunglasses. Reddish colored mustache.",
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "GA",
     "associates": [
       "#ZZTopPB"
     ],
+    "caseIdentifier": "1:21-mj-00675",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1453226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "group",
@@ -23972,6 +23997,7 @@
     ],
     "primaryHashtag": "MaroonPB",
     "profileLeads": [],
+    "realName": "LOEHRKE, Ronald",
     "_id": "GLFHsZTGUnRw"
   },
   {
@@ -28653,6 +28679,7 @@
     ],
     "appearanceSummary": "Pink knit cap with a large, black \"Under Armour\" symbol on it. In some pictures the hat looks redder or orange. Short, light brown hair. Pointy chin. Wears glasses with lenses that are halfway between sunglasses and eyeglasses. Five o'clock shadow on his chin. Black earpiece in right ear. White gaiter around his neck. Gray and orange nylon jacket over a more insulated, hooded, gray Eddie Bauer jacket that has a bright orange interior lining. Beneath that is a gray t-shirt that has a white diamond logo on the left breast and a large black circle on the back over a word that ends in \"M\". Sometimes photographed without one or both jackets. Black and gray backpack, has a logo on the right strap that looks like a capital A and a different patch or logo on the left strap above his shoulder. Green belt. Black cargo pants. Gray or brown shoes. Photographed carrying a smartphone in the Rotunda.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -28691,7 +28718,12 @@
       "Insider0886"
     ],
     "appearanceSummary": "Wearing a Jack Skellington union suit, like this one. Red ball cap. Quite visible.",
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "AZ",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00666-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1453156/download",
     "compositeURL": "https://drive.google.com/file/d/1w4yeIC5DweGE8aBTdewf0mgTVOLP85Li/view?usp=sharing",
     "fbiIdentifier": "94-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1JSAoOg5UYhbCm8RBwxfH4KBqYgQxY1xc",
@@ -28715,6 +28747,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "KENYON, Josiah",
     "_id": "8fmL9Ea1EqNE"
   },
   {
@@ -40513,9 +40546,14 @@
       "Insider1954"
     ],
     "appearanceSummary": "Long grey beard. Black hooded sweatshirt and khaki pants. Red MAGA hat and sunglasses.",
+    "arrestDate": "2321-12-03T05:00:00.000Z",
+    "arrestState": "SD",
     "associates": [
       "#MaroonPB"
     ],
+    "caseIdentifier": "1:21-mj-00675",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1453226/download",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -40539,6 +40577,7 @@
     ],
     "primaryHashtag": "ZZTopPB",
     "profileLeads": [],
+    "realName": "HAFFNER, James",
     "_id": "CTtBgKDBMkHM"
   }
 ]
