@@ -9122,6 +9122,7 @@
     "alternateHashtags": [
       "Insider2262"
     ],
+    "appearanceSummary": "Older woman with a red MAGA baseball cap. Red scarf around her neck? Not much else visible from the Statement of Facts.",
     "arrestDate": "2021-12-02T05:00:00.000Z",
     "arrestState": "CA",
     "associates": [],
@@ -9131,7 +9132,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "DaneanMacAndrew",
     "profileLeads": [],
     "realName": "MACANDREW, Danean Kimberly",
@@ -10897,16 +10903,27 @@
     "_id": "E5Fcj9nuwlDc"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "EdwardBadalian"
+    ],
+    "appearanceSummary": "Red baseball cap that says \"Trump 2020\" in the Armenian alphabet (\"Թրամփ 2020\"). Dark sunglasses. Stars and stripes gaiter. Dull brown puffer jacket with a round pin on the left breast. Beneath the jacket is a black hoodie. Black gloves.",
     "arrestDate": "2021-11-24T05:00:00.000Z",
     "arrestState": "CA",
-    "associates": [],
+    "associates": [
+      "#GinaBisignano",
+      "#SwedishScarf"
+    ],
     "caseIdentifier": "2:21-mj-05270-DUTY",
     "caseStatus": "Arrested",
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "EdBadalian",
     "profileLeads": [],
     "_id": "CbIvp85RotFU"
@@ -23573,6 +23590,7 @@
     "alternateHashtags": [
       "Insider0312"
     ],
+    "appearanceSummary": "Red baseball cap that says \"Make Politicians Afraid Again\" in white letters on the front. Sometimes photographed wearing dark sunglasses. Black hoodie with a circular white logo on the left breast. The back of the hoodie has a large white logo that says \"Reparable Management Company\" around a skull and crossed crescent wrenches. This represents the 1st Maintenance Battalion at  U.S. Marine Corps Base Camp Pendleton in California. The hoodie appears to be over a dark shirt. Blue jeans. Dark footwear.",
     "arrestDate": "2021-12-03T05:00:00.000Z",
     "arrestState": "CA",
     "associates": [],
@@ -23582,7 +23600,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MarcosPanayiotou",
     "profileLeads": [],
     "realName": "PANAYIOTOU, Marcos",
@@ -29833,6 +29856,7 @@
     "alternateHashtags": [
       "Insider0228"
     ],
+    "appearanceSummary": "Her arrest warrant says she \"has platinum blond hair and is wearing a black headband/ear muffs, and American flag scarf and dark jacket and pants\". One surveillance still appears to show her wearing a gray backpack that has two white stripes on the back that look like an inverted V.",
     "arrestDate": "2021-12-02T05:00:00.000Z",
     "associates": [],
     "caseIdentifier": "1:21-mj-00665-ZMF",
@@ -29841,7 +29865,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "RachelMyers",
     "profileLeads": [],
     "realName": "MYERS, Rachel",
@@ -31135,9 +31164,11 @@
     "_id": "i5GKGixpQr1c"
   },
   {
+    "actionsSummary": "Enters the Senate chamber.",
     "alternateHashtags": [
       "Insider2123"
     ],
+    "appearanceSummary": "Older man with a black baseball cap that says a few words and \"America\" on the front. Sometimes wears eyeglasses. Light blue surgical mask, sometimes worn beneath his chin. Black jacket over a green (or gray) and black plaid button-down shirt. Blue jeans. Carries a blue Trump flag that does not have a pole. Dark Nike sneakers with white soles.",
     "arrestDate": "2021-12-02T05:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
@@ -31147,7 +31178,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "RoyFranklin",
     "profileLeads": [],
     "realName": "FRANKLIN, Roy Nelson",
@@ -35883,7 +35919,9 @@
   },
   {
     "actionsSummary": "Arrested on scene",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0851"
+    ],
     "appearanceSummary": "Arrested inside the Capitol Building during the afternoon of January 6, apparently on the Upper Level of the United States Capitol Visitors Center near the door to the House Atrium. Named in the Fitchett Statement of Facts and the matching Indictment, neither of which have any images of the six people arrested.",
     "arrestDate": "2021-01-07T05:00:00.000Z",
     "arrestState": "PA",
