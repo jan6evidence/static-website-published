@@ -9310,6 +9310,30 @@
     "_id": "SQcbfMkysgjI"
   },
   {
+    "actionsSummary": "Inside Capitol. Entered Rotunda at 3:02pm. Exited via Rotunda doors at 3:16. Brought teenage son with him.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with greying hair and beard, black rimmed glasses, green or grey jacket and blue jeans.",
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00668-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237940/gov.uscourts.dcd.237940.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1wuMf945Lp2mjbF-nExIi8ztwUZDq5vFf?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DanielShaw",
+    "profileLeads": [],
+    "realName": "SHAW, Daniel",
+    "_id": "V8_RTOwzouCA"
+  },
+  {
     "actionsSummary": "Entered Capitol via the Crypt. Was seen placing an object on one of the statues in Statuary Hall. Took photos/video with his phone inside the Rotunda and throughout the Capitol.",
     "alternateHashtags": [
       "Insider1703"
@@ -12356,7 +12380,7 @@
     "associates": [],
     "caseIdentifier": "1:21-mj-30569-PTM",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.mied.358496/gov.uscourts.mied.358496.1.0.pdf",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1452861/download",
     "compositeURL": "https://drive.google.com/file/d/1BMAAzuSjGLCpGTNRWOITEhbsZDsQRVU0/view?usp=sharing",
     "fbiIdentifier": "106-AFO",
     "idStatus": "ID sent to FBI",
