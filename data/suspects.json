@@ -5178,6 +5178,32 @@
     "_id": "MQqsFwBSgvqA"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1511"
+    ],
+    "appearanceSummary": "White man with long graying hair, gray facial hair and dark eyebrows wearing a dark coat, blue jeans and a bright yellow buff, carrying a flag (possibly a thin blue line flag).",
+    "arrestDate": "2021-12-02T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "3:21-mj-71919-MAG",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.cand.388812/gov.uscourts.cand.388812.1.0.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/103jy3OdgQiJFcljtcSnfluD0YKfndTBB?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BrentHoldridge",
+    "profileLeads": [],
+    "realName": "HOLDRIDGE, Brent John",
+    "_id": "uMRx3ZzOsvDU"
+  },
+  {
     "actionsSummary": "Seen entering the Capitol building and identified by his varsity jacket.",
     "alternateHashtags": [
       "Insider1491"
@@ -9311,7 +9337,9 @@
   },
   {
     "actionsSummary": "Inside Capitol. Entered Rotunda at 3:02pm. Exited via Rotunda doors at 3:16. Brought teenage son with him.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0400"
+    ],
     "appearanceSummary": "White man with greying hair and beard, black rimmed glasses, green or grey jacket and blue jeans.",
     "arrestDate": "2021-12-03T05:00:00.000Z",
     "arrestState": "CA",
@@ -10928,6 +10956,7 @@
   },
   {
     "alternateHashtags": [
+      "Insider1265",
       "EdwardBadalian"
     ],
     "appearanceSummary": "Red baseball cap that says \"Trump 2020\" in the Armenian alphabet (\"Թրամփ 2020\"). Dark sunglasses. Stars and stripes gaiter. Dull brown puffer jacket with a round pin on the left breast. Beneath the jacket is a black hoodie. Black gloves.",
@@ -10939,6 +10968,7 @@
     ],
     "caseIdentifier": "2:21-mj-05270-DUTY",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21117606-rodriguez-badalian-indictment",
     "filesUrl": "https://drive.google.com/drive/folders/1HTE4W6lRNthX5-PxKnI4FaFNzSl1ticS?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -10950,6 +10980,7 @@
     ],
     "primaryHashtag": "EdBadalian",
     "profileLeads": [],
+    "realName": "BADALIAN, Edward \"Ed\"",
     "_id": "CbIvp85RotFU"
   },
   {
@@ -21941,7 +21972,10 @@
     "appearanceSummary": "Black coat or sweatshirt with red and white striped letters on the front left. American flag bandana. Blue Trump beanie. Dark wash jeans.",
     "arrestDate": "2021-03-02T05:00:00.000Z",
     "arrestState": "NJ",
-    "associates": [],
+    "associates": [
+      "#RachelMyers",
+      "#MichaelGianos"
+    ],
     "caseIdentifier": "1:21-cr-240",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Stackhouse%20Statement%20of%20Facts_Redacted.pdf",
@@ -24361,6 +24395,32 @@
     "_id": "boz1W-xkIqag"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2261"
+    ],
+    "appearanceSummary": "White man with a dark mustache and grey beard wearing a yellow and black jacket, dark pants, work boots, a tan floppy brimmed hat and a Q flag like a cape.",
+    "arrestDate": "2021-11-24T05:00:00.000Z",
+    "arrestState": "GA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00667-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237879/gov.uscourts.dcd.237879.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/117yRk2pYH3aPsfQ_kWTiAjz1fj1CaYq-?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MatthewWebler",
+    "profileLeads": [],
+    "realName": "WEBLER, Matthew Jay",
+    "_id": "rYVjYeJiAhr0"
+  },
+  {
     "actionsSummary": "One of first through scaffolding and through NW window breach. Gave interview describing actions.",
     "alternateHashtags": [
       "Insider1955"
@@ -24715,6 +24775,34 @@
     "_id": "rQtiFkZJkjLw"
   },
   {
+    "alternateHashtags": [
+      "Insider2263"
+    ],
+    "appearanceSummary": "White man with dark brown hair and beard wearing a black \"Don't Tread on Me\" sweatshirt and red \"MAGA\" hat.",
+    "arrestDate": "2021-12-02T05:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [
+      "#RachelMyers",
+      "#LarryStackhouse"
+    ],
+    "caseIdentifier": "1:21-mj-00665-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237824/gov.uscourts.dcd.237824.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Na0ZyIey-k--KRlRNUSxFUcK9-vzgmkR?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MichaelGianos",
+    "profileLeads": [],
+    "realName": "GIANOS, Michael",
+    "_id": "addXnuWHklpE"
+  },
+  {
     "actionsSummary": "Recorded in the Capitol Crypt and posed for a picture near a bust of Lincoln.",
     "alternateHashtags": [
       "Insider0779"
@@ -24738,6 +24826,30 @@
     "profileLeads": [],
     "realName": "HARDIN, Michael Lee",
     "_id": "oH2Qklg3UhfU"
+  },
+  {
+    "actionsSummary": "Inside Capitol. Entered Rotunda at 3:02pm. Exited through Senate wing door.",
+    "alternateHashtags": [
+      "Insider2235"
+    ],
+    "appearanceSummary": "White man with dark hair and mustache wearing blue puffer jacket and blue \"Trump 45\" winter hat.",
+    "arrestDate": "2021-11-29T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00658-GMH",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1BwSopveOtCkRT53ZxotGNnhTcGIJCHah?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MichaelMcCormick",
+    "profileLeads": [],
+    "_id": "qIBo5n35chJo"
   },
   {
     "actionsSummary": "Entered the Capitol on the West Side doors",
@@ -29882,7 +29994,11 @@
     ],
     "appearanceSummary": "Her arrest warrant says she \"has platinum blond hair and is wearing a black headband/ear muffs, and American flag scarf and dark jacket and pants\". One surveillance still appears to show her wearing a gray backpack that has two white stripes on the back that look like an inverted V.",
     "arrestDate": "2021-12-02T05:00:00.000Z",
-    "associates": [],
+    "arrestState": "PA",
+    "associates": [
+      "#MichaelGianos",
+      "#LarryStackhouse"
+    ],
     "caseIdentifier": "1:21-mj-00665-ZMF",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237824/gov.uscourts.dcd.237824.1.1.pdf",
@@ -34780,7 +34896,8 @@
   },
   {
     "alternateHashtags": [
-      "RightHandPB"
+      "RightHandPB",
+      "Insider1927"
     ],
     "appearanceSummary": "Large, African American man. Medium length beard. Black hoodie with red ball cap. Glasses.",
     "arrestDate": "2021-10-26T04:00:00.000Z",
@@ -40295,7 +40412,8 @@
   {
     "actionsSummary": "Helped with initial breach of police lines, pushing barriers and fighting with police.  First at barrier along with #WhiteHoodie.",
     "alternateHashtags": [
-      "FBI50AFO"
+      "FBI50AFO",
+      "Insider1696"
     ],
     "appearanceSummary": "Baseball hat, white front black rear, face mask/gaiter w/ skull, \"Low Country\" hat appears to have yellow NC state logo.  Under Armour brand clothing.",
     "arrestDate": "2021-10-15T04:00:00.000Z",
