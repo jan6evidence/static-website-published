@@ -375,6 +375,33 @@
     "_id": "7V2ZOMg0snNI"
   },
   {
+    "actionsSummary": "Entered Capitol through the Columbus Door on the eastern side of the building then walked to the Rotunda.",
+    "alternateHashtags": [
+      "Insider0245"
+    ],
+    "appearanceSummary": "Balding hispanic man with a shaved head (hairline visible) and dark mustache and goatee wearing blue Trump beanie, black puffer jacket over a black tshirt, dark pants and white shoes.",
+    "arrestDate": "2021-11-23T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [
+      "#BryanBustos"
+    ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.presstelegram.com/2021/11/30/2-long-beach-men-charged-in-connection-to-capitol-insurrection/",
+    "filesUrl": "https://drive.google.com/drive/folders/1JoMx3Y0LelWd42EH1-4SsExiVYeQs5pv?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AlexisBustos",
+    "profileLeads": [],
+    "realName": "BUSTOS, Alexis",
+    "_id": "985kleK3Mvbg"
+  },
+  {
     "actionsSummary": "Among the Proud Boys \"Elite 8.\" Associate of JoeBiggs and part of the group that escorts FashProShop inside the Capitol.",
     "alternateHashtags": [
       "Insider2149"
@@ -5583,6 +5610,33 @@
     "_id": "ajjpqurogtVg"
   },
   {
+    "actionsSummary": "Entered Capitol through the Columbus Door on the eastern side of the building then walked to the Rotunda.",
+    "alternateHashtags": [
+      "Insider1747"
+    ],
+    "appearanceSummary": "Hispanic man with dark hair & beard wearing a black coat over a blue plaid shirt over a black tshirt, a red MAGA baseball cap, a black and orange buff and a blue backpack.",
+    "arrestDate": "2021-11-23T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [
+      "#AlexisBustos"
+    ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://lbpost.com/news/two-long-beach-men-charged-with-entering-u-s-capitol-on-jan-6",
+    "filesUrl": "https://drive.google.com/drive/folders/1EJUafvFmzI5KQCBZ_3sZLqz_RsbV0VGK?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BryanBustos",
+    "profileLeads": [],
+    "realName": "BUSTOS, Bryan",
+    "_id": "qP5xbLJWsi6k"
+  },
+  {
     "actionsSummary": "Entered the Capitol via the NW Courtyard window. (Pictured right behind Spazzo when he breaks the window). Pictured inside the Rotunda.",
     "alternateHashtags": [
       "Insider1277"
@@ -6082,7 +6136,9 @@
   },
   {
     "actionsSummary": "Seen on NW side with son (CranberryOaf aka Grady Owens), struck a police officer and also arrested",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2144"
+    ],
     "appearanceSummary": "Gray baseball cap with a black patch on the front that says \"Cactus Ropes, Texas.\" Dark green (brown in some lighting) balaclava covering most of his face. Sometimes recorded wearing black sunglasses. Camo fleece jacket from Cabela's. Gray backpack with a big handle on top. Gray gloves that are black on the back. May have a watch with a large, gold band on his left wrist. Gray pants. Gray footwear.",
     "arrestDate": "2021-04-23T04:00:00.000Z",
     "arrestState": "TX",
@@ -7618,7 +7674,7 @@
   {
     "actionsSummary": "Entered Capitol from the East side. Posted pictures from inside the Rotunda on social media.",
     "alternateHashtags": [
-      "Insider1865"
+      "Insider1700"
     ],
     "appearanceSummary": "Camo jacket with a black hooded sweatshirt underneath.",
     "arrestDate": "2021-02-08T05:00:00.000Z",
@@ -11979,7 +12035,7 @@
     "actionsSummary": "Came in on W. side, then moved E. with other Proud Boys, and enters Capitol with Joe Biggs. Seen leading or following #JoeBiggs. Photographed with JoeBiggs and 5 other in AM, likely all associated.",
     "alternateHashtags": [
       "FashProShopPB",
-      "Insider2466"
+      "Insider1466"
     ],
     "appearanceSummary": "Black and red plaid flannel shirt, short clipped hair and beard. Sometimes wears face mask with skull design.",
     "arrestDate": "2021-03-30T04:00:00.000Z",
@@ -32562,7 +32618,7 @@
   {
     "alternateHashtags": [
       "GaryWilson",
-      "Insider0741"
+      "Insider0740"
     ],
     "appearanceSummary": "Black baseball cap with a red and blue logo on the front. The center of the logo has a row of white stars and there is white writing below it. Receding hairline, dark hair. Large white t-shirt over a black puffer jacket, which is over a black or dark blue hoodie. The shirt has the words \"Give Me\" or \"Give My\" near the top, over a blue figure. Sometimes he wears the hood over his hat. Black backpack. Dark pants.",
     "arrestDate": "2021-09-14T04:00:00.000Z",
@@ -34817,7 +34873,7 @@
   {
     "actionsSummary": "Lead organizer of 11 buses from MA to DC. Attended/traveled with Mark Sahady",
     "alternateHashtags": [
-      "Insider1609"
+      "Insider1732"
     ],
     "appearanceSummary": "Short dark hair, blue jacket.",
     "arrestDate": "2021-01-19T05:00:00.000Z",
