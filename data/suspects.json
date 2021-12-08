@@ -385,8 +385,9 @@
     "associates": [
       "#BryanBustos"
     ],
+    "caseIdentifier": "1:21-mj-00617",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.presstelegram.com/2021/11/30/2-long-beach-men-charged-in-connection-to-capitol-insurrection/",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236053/gov.uscourts.dcd.236053.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1JoMx3Y0LelWd42EH1-4SsExiVYeQs5pv?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -398,7 +399,7 @@
     ],
     "primaryHashtag": "AlexisBustos",
     "profileLeads": [],
-    "realName": "BUSTOS, Alexis",
+    "realName": "BUSTOS-OCAMPO, Alexis Ivan",
     "_id": "985kleK3Mvbg"
   },
   {
@@ -5614,14 +5615,15 @@
     "alternateHashtags": [
       "Insider1747"
     ],
-    "appearanceSummary": "Hispanic man with dark hair & beard wearing a black coat over a blue plaid shirt over a black tshirt, a red MAGA baseball cap, a black and orange buff and a blue backpack.",
+    "appearanceSummary": "Hispanic man with dark hair & beard wearing a black coat over a blue plaid shirt over a black tshirt, a red MAGA baseball cap, a black and orange buff and a blue backpack and carrying an American flag on a pole.",
     "arrestDate": "2021-11-23T05:00:00.000Z",
     "arrestState": "CA",
     "associates": [
       "#AlexisBustos"
     ],
+    "caseIdentifier": "1:21-mj-00617",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://lbpost.com/news/two-long-beach-men-charged-with-entering-u-s-capitol-on-jan-6",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236053/gov.uscourts.dcd.236053.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1EJUafvFmzI5KQCBZ_3sZLqz_RsbV0VGK?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -5633,7 +5635,7 @@
     ],
     "primaryHashtag": "BryanBustos",
     "profileLeads": [],
-    "realName": "BUSTOS, Bryan",
+    "realName": "BUSTOS, Bryan Emmanuel",
     "_id": "qP5xbLJWsi6k"
   },
   {
@@ -7443,9 +7445,11 @@
     "appearanceSummary": "Dark camo baseball cap with \"Keep America Great\" in orange on the front and a US flag on the left. Man with long brown hair, a slight mustache, and a brown chinstrap beard. Big, black, hooded puffer coat with large lapels that reveal a black-and-white plaid inner lining. The upper left sleeve has a white logo. Under the coat is a dark blue shirt and a bright blue lanyard with some kind of card on the end. Dark blue pants. Dark brown shoes.",
     "arrestDate": "2021-06-08T04:00:00.000Z",
     "arrestState": "IL",
-    "associates": [],
+    "associates": [
+      "#MarkKulas"
+    ],
     "caseIdentifier": "1:21-cr-397",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1418426/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9359,6 +9363,29 @@
     "primaryHashtag": "DanielleDoyle",
     "profileLeads": [],
     "_id": "rQNxT9gbAqRg"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider0635"
+    ],
+    "appearanceSummary": "White man with dark hair wearing a black coat and scarf, sunglasses and a black baseball cap with an American flag patch on the front with \"Santa Monica\" written under it.",
+    "arrestDate": "2021-11-04T04:00:00.000Z",
+    "arrestState": "CO",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1ATYN0fR8Iz79abp7pF5yXfjh-82IQl9I?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DanielMorrissey",
+    "profileLeads": [],
+    "_id": "cbI3dkqH8nog"
   },
   {
     "actionsSummary": "Pushes back police lines, assaults an officer, enters from Western side of building",
@@ -22111,6 +22138,32 @@
     "_id": "sNDq-LIRYgrM"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2004"
+    ],
+    "appearanceSummary": "White man with greying facial hair wearing a blue coat, a blue scarf with white stars. a red MAGA baseball cap, a blue surgical mask and beige and black hiking-style shoes.",
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00669-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lawrence%20Ligas%20Criminal%20Complaint.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1vr6QZtXWbYu5qBOshKeDf92s862V2K_M?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LawrenceLigas",
+    "profileLeads": [],
+    "realName": "LIGAS, Lawrence",
+    "_id": "RC-AS3rbUue8"
+  },
+  {
     "actionsSummary": "Carries metal pipe as weapon. Steals an officer's shield. Throws pipe at police in Phase 3 tunnel assault. Pictured in the crowd on the West Terrace, standing on the ledge next to #WindowCheerleader",
     "alternateHashtags": [
       "Insider0833"
@@ -23884,6 +23937,34 @@
     "profileLeads": [],
     "realName": "AUNGST, Mark Roderick",
     "_id": "5voNbc4iEqfw"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1356"
+    ],
+    "appearanceSummary": "White man with dark hair wearing a black overcoat and gloves and a red MAGA baseball cap.",
+    "arrestDate": "2021-11-23T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#ChristianKulas"
+    ],
+    "caseIdentifier": "1:21-cr-00692-TFH",
+    "caseStatus": "Plea Deal",
+    "chargingDocUrl": "https://patch.com/illinois/lakeforest/second-son-kulas-maids-owners-charged-over-jan-6-capitol-riot",
+    "filesUrl": "https://drive.google.com/drive/folders/1UAcC7gZypzMVB_N9cvTwmITfQc2u8FHj?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MarkKulas",
+    "profileLeads": [],
+    "realName": "KULAS, Mark Jr.",
+    "_id": "6-qvO7YbYuFI"
   },
   {
     "actionsSummary": "Struck a Capitol police officer with his fist multiple times. Arrested on scene.",
