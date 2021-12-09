@@ -9383,7 +9383,9 @@
     "arrestDate": "2021-11-04T04:00:00.000Z",
     "arrestState": "CO",
     "associates": [],
+    "caseIdentifier": "1:21-cr-00660-RBW",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237295/gov.uscourts.dcd.237295.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1ATYN0fR8Iz79abp7pF5yXfjh-82IQl9I?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9395,6 +9397,7 @@
     ],
     "primaryHashtag": "DanielMorrissey",
     "profileLeads": [],
+    "realName": "MORRISSEY, Daniel",
     "_id": "cbI3dkqH8nog"
   },
   {
@@ -21320,6 +21323,32 @@
     "_id": "BWULJmTfYrNw"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1765"
+    ],
+    "appearanceSummary": "White woman with blonde hair wearing white thigh-length coat with a hood and a grey backpack.",
+    "arrestDate": "2021-09-09T04:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00561-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kelly%20O%27Brien%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1DFDQiNxKhDQPUgL-pfU45pWe0o8fLC1D?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KellyOBrien",
+    "profileLeads": [],
+    "realName": "O'BRIEN, Kelly McFadden",
+    "_id": "pb2c3gmY4h4o"
+  },
+  {
     "actionsSummary": "Entered the Captiol with her husband, Zachary Wilson. Seen inside the Rotunda.",
     "alternateHashtags": [
       "Insider0582"
@@ -23961,7 +23990,7 @@
     ],
     "caseIdentifier": "1:21-cr-00692-TFH",
     "caseStatus": "Plea Deal",
-    "chargingDocUrl": "https://patch.com/illinois/lakeforest/second-son-kulas-maids-owners-charged-over-jan-6-capitol-riot",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237766/gov.uscourts.dcd.237766.10.0.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1UAcC7gZypzMVB_N9cvTwmITfQc2u8FHj?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -31009,6 +31038,32 @@
     "_id": "GCCblyAE8hck"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2012"
+    ],
+    "appearanceSummary": "White man wearing wearing a red “Trump” baseball cap, a blue bandana as a facemask and a blue coat with tan patches on the elbows.",
+    "arrestDate": "2021-09-28T04:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00607-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235770/gov.uscourts.dcd.235770.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/15Y7RonJ2OuUx510gQGNDXxMqmE1q2atL?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RichardWatrous",
+    "profileLeads": [],
+    "realName": "WATROUS, Richard Bryan",
+    "_id": "K0qfcssHIkpg"
+  },
+  {
     "alternateHashtags": [
       "Insider0805"
     ],
@@ -31654,8 +31709,9 @@
     "arrestDate": "2021-08-18T04:00:00.000Z",
     "arrestState": "MO",
     "associates": [],
+    "caseIdentifier": "1:21-cr-00487-CKK",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.semissourian.com/story/2897632.html",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Kennedy%20Indictment.pdf",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1TM_LuYh8rk8sTvP3N1QJOcu9Vida9sPosS8jsFc6Qgk",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -38324,6 +38380,32 @@
     "profileLeads": [],
     "realName": "SLAEKER, Tyler Welsh",
     "_id": "x9mb2eG-wsb0"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2256"
+    ],
+    "appearanceSummary": "White man wearing wearing a khaki coat over a black hooded sweater over a shirt with a gray collar under, a red hat with the words “KEEP AMERICA GREAT”, a disposable blue mask and a gold wedding ring.",
+    "arrestDate": "2021-12-03T05:00:00.000Z",
+    "arrestState": "ID",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00650-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Tew%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TylerTew",
+    "profileLeads": [],
+    "realName": "TEW, Tyler John",
+    "_id": "bZFgLwpiIpr4"
   },
   {
     "actionsSummary": "Shown on video on the Lower West Plaza.",
