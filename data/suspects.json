@@ -3735,11 +3735,20 @@
     "actionsSummary": "Recorded carrying a spraying device on the Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Red hat with two horizontal white stripes and a black top and bottom. Sometimes wears a black (?) earloop mask that may have white writing on it. Also wears a white scarf. Black puffer jacket. Dark blue shirt. Blue jeans. Tattoos on his right wrist and the back of his left hand. Carries a spraying device.",
+    "arrestDate": "2021-12-08T05:00:00.000Z",
+    "arrestState": "MI",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00649-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1454291/download",
     "fbiIdentifier": "337-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -3751,6 +3760,7 @@
     ],
     "primaryHashtag": "BlackPufferWhiteScarf",
     "profileLeads": [],
+    "realName": "BOUGHNER, Tim Levon",
     "_id": "j2sQ1qHMco8Q"
   },
   {
