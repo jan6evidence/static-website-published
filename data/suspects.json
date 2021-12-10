@@ -13895,7 +13895,7 @@
     ],
     "primaryHashtag": "GasMaskBatman",
     "profileLeads": [],
-    "realName": "LANG, Edward Jacob (aka Jake Lang)",
+    "realName": "LANG, Edward Jacob \"Jake\"",
     "_id": "xEFCzDzmkrAI"
   },
   {
@@ -19154,7 +19154,7 @@
       "#MichaelHardin"
     ],
     "caseIdentifier": "1:21-mj-546",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/buhler-janet-west",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19193,6 +19193,22 @@
     "profileLeads": [],
     "realName": "ADAMS, Jared Hunter",
     "_id": "vHDATpKK0mnw"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2021-12-09T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238210/gov.uscourts.dcd.238210.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "JaredKastner",
+    "profileLeads": [],
+    "realName": "KASTNER, Jared",
+    "_id": "Q9kM_QRFksIc"
   },
   {
     "actionsSummary": "Inside Capitol building for approx 20 minutes. Moved from an entrance to Statuary Hall.",
@@ -19418,6 +19434,20 @@
     "profileLeads": [],
     "realName": "SMITH, Jeffrey Alexander (aka Alex Smith)",
     "_id": "bTfBgDTzspYQ"
+  },
+  {
+    "alternateHashtags": [],
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21150565-hubbard",
+    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "JeffreyHubbard",
+    "profileLeads": [],
+    "realName": "HUBBARD, Jeffrey William Hubbard",
+    "_id": "WX3QragwQukw"
   },
   {
     "actionsSummary": "Entered Capitol via Senate Wing Door. Proceds through the Crypt and VIsitors Center Lobby. Exits via the South Door.",
@@ -23128,6 +23158,20 @@
     "_id": "vsWF7BcY0gKA"
   },
   {
+    "alternateHashtags": [],
+    "arrestDate": "2021-12-09T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "LukeFaulkner",
+    "profileLeads": [],
+    "_id": "1POAhYeFUocs"
+  },
+  {
     "actionsSummary": "Involved in fighting with police on West Plaza. Wields a piece of lumber at officers on the front line.",
     "alternateHashtags": [
       "TwoByTwelveBeard"
@@ -25026,6 +25070,23 @@
     "primaryHashtag": "MichaelMcCormick",
     "profileLeads": [],
     "_id": "qIBo5n35chJo"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2021-12-09T05:00:00.000Z",
+    "arrestState": "NJ",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00688-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21151447/12-8-21-us-v-michael-oliveras-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MichaelOliveras",
+    "profileLeads": [],
+    "realName": "OLIVERAS, Michael",
+    "_id": "gu4E44Sioqz8"
   },
   {
     "actionsSummary": "Entered the Capitol on the West Side doors",
@@ -28838,7 +28899,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-413",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393626/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -36854,6 +36915,30 @@
     "profileLeads": [],
     "realName": "CALDWELL, Thomas Edward",
     "_id": "2debTdZlMqDs"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with grey hair & beard wearing a grey knit cap, a tan buff, jeans and a blue hoodie with \"1776 Forever Free\" in white on the front and \"Freedom\" on the back.",
+    "arrestDate": "2021-12-08T05:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00677-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21150528/12-3-21-us-v-thomas-conover-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1cM9IRKCWqLrdJnW2WS8zgB756oEYSPHF?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ThomasConover",
+    "profileLeads": [],
+    "realName": "CONOVER, Thomas Paul",
+    "_id": "4u_ODAVwMv-s"
   },
   {
     "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes",
