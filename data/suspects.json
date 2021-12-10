@@ -19195,16 +19195,26 @@
     "_id": "vHDATpKK0mnw"
   },
   {
-    "alternateHashtags": [],
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider552"
+    ],
+    "appearanceSummary": "White man with red hair and a Hulihee beard wearing a dark hoodie and khaki pants.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00685-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238210/gov.uscourts.dcd.238210.1.1.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1pyCLaNaH42U85PfMgGJBSC6yB3Ohh3ph?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "JaredKastner",
     "profileLeads": [],
     "realName": "KASTNER, Jared",
@@ -19436,17 +19446,29 @@
     "_id": "bTfBgDTzspYQ"
   },
   {
-    "alternateHashtags": [],
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider218"
+    ],
+    "appearanceSummary": "Bald white man wearing a mid-length black coat with a snall white stripe on the upper right arm, blue jeans and a dark hat with fur trim which he takes off after entering the Capitol.",
+    "arrestDate": "2021-12-09T05:00:00.000Z",
+    "arrestState": "OR",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00680-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.documentcloud.org/documents/21150565-hubbard",
-    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1Z6CcEu1Ggd8ipJR0KLAGggupeOoE16NV?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "JeffreyHubbard",
     "profileLeads": [],
-    "realName": "HUBBARD, Jeffrey William Hubbard",
+    "realName": "HUBBARD, Jeffrey William",
     "_id": "WX3QragwQukw"
   },
   {
@@ -23158,17 +23180,27 @@
     "_id": "vsWF7BcY0gKA"
   },
   {
+    "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [],
+    "appearanceSummary": "White man with long grey hair and beard wearing a black top with a white logo on the top, blue jeans, brown shoes and black gloves.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00685-RMM",
     "caseStatus": "Arrested",
-    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238210/gov.uscourts.dcd.238210.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1sdwLSXzj8_GaZlfYz7j03Cvz-E8MM6Pm?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "LukeFaulkner",
     "profileLeads": [],
+    "realName": "FAULKNER, Luke",
     "_id": "1POAhYeFUocs"
   },
   {
@@ -25070,23 +25102,6 @@
     "primaryHashtag": "MichaelMcCormick",
     "profileLeads": [],
     "_id": "qIBo5n35chJo"
-  },
-  {
-    "alternateHashtags": [],
-    "arrestDate": "2021-12-09T05:00:00.000Z",
-    "arrestState": "NJ",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-00688-RMM",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://s3.documentcloud.org/documents/21151447/12-8-21-us-v-michael-oliveras-complaint-affidavit.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1SL-2ZwTIuAd-_6HGO_gd3QrpHJDjEEf4?usp=sharing",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [],
-    "primaryHashtag": "MichaelOliveras",
-    "profileLeads": [],
-    "realName": "OLIVERAS, Michael",
-    "_id": "gu4E44Sioqz8"
   },
   {
     "actionsSummary": "Entered the Capitol on the West Side doors",
@@ -30574,6 +30589,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Red KAG baseball cap. Sunglasses. Face is painted red. Red hooded jacket. Black gloves with red stripes. Sometimes photographed holding ear protection or headphones in his hand.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -35534,7 +35550,12 @@
       "Insider0864"
     ],
     "appearanceSummary": "Red MAGA baseball cap with various buttons attached to it. Dark sunglasses with stars and stripes frames. Bushy brown mustache and goatee. Red hoodie with \"Trump\" over a shield on the front. Black backpack. Black or navy blue pants with white piping. Black sneakers with white soles. Carries a smartphone that has a black or gray case.",
+    "arrestDate": "2021-12-09T05:00:00.000Z",
+    "arrestState": "NJ",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00688-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21151447/12-8-21-us-v-michael-oliveras-complaint-affidavit.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -35545,6 +35566,7 @@
     ],
     "primaryHashtag": "TackyTrumpGlasses",
     "profileLeads": [],
+    "realName": "OLIVERAS, Michael",
     "_id": "9C2H-jw6ou5Q"
   },
   {
@@ -36918,7 +36940,9 @@
   },
   {
     "actionsSummary": "Entered Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider95"
+    ],
     "appearanceSummary": "White man with grey hair & beard wearing a grey knit cap, a tan buff, jeans and a blue hoodie with \"1776 Forever Free\" in white on the front and \"Freedom\" on the back.",
     "arrestDate": "2021-12-08T05:00:00.000Z",
     "arrestState": "TX",
