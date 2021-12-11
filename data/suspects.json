@@ -16151,11 +16151,19 @@
     "_id": "jG26SQja8srQ"
   },
   {
+    "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider0095"
+      "Insider0095",
+      "ThomasConover"
     ],
-    "appearanceSummary": "Gray hair with a short fringe. Bags under his eyes. Brown beard and mustache, beginning to gray.",
+    "appearanceSummary": "White man with grey hair & beard wearing a grey knit cap, a tan buff, jeans and a blue hoodie with \"1776 Forever Free\" in white on the front and \"Freedom\" on the back.",
+    "arrestDate": "2021-12-08T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00677-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21150528/12-3-21-us-v-thomas-conover-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1cM9IRKCWqLrdJnW2WS8zgB756oEYSPHF?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16166,6 +16174,7 @@
     ],
     "primaryHashtag": "GreyScaredZombie",
     "profileLeads": [],
+    "realName": "CONOVER, Thomas Paul",
     "_id": "GvlRk5fBorMA"
   },
   {
@@ -19197,7 +19206,7 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider552"
+      "Insider0552"
     ],
     "appearanceSummary": "White man with red hair and a Hulihee beard wearing a dark hoodie and khaki pants.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
@@ -19448,7 +19457,7 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider218"
+      "Insider0218"
     ],
     "appearanceSummary": "Bald white man wearing a mid-length black coat with a snall white stripe on the upper right arm, blue jeans and a dark hat with fur trim which he takes off after entering the Capitol.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
@@ -20431,6 +20440,30 @@
     "primaryHashtag": "JonahWestbury",
     "profileLeads": [],
     "_id": "lsYUA64FEpAM"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black gas mask, black jacket with hood, brown tactical vest with a patch in the center of the chest, red neck gaiter, brown pants and tan boots and carrying a yellow flag.",
+    "arrestDate": "2021-12-10T05:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00687-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238256/gov.uscourts.dcd.238256.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1ZR7eLvNtdE_wiIHG9d5gFj2fQRzO_hYc?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JonasBuxton",
+    "profileLeads": [],
+    "realName": "BUXTON, Jonas",
+    "_id": "WZAD8uD-AhL0"
   },
   {
     "actionsSummary": "Posted a photo of the crowd in the Capitol Crypt to his Facebook page. Part of the crowd that proceded through Statutory Hall and the corridors that lead to the House Chamber. Among the crowd that attempted to breach the House Chamber Doors.",
@@ -29483,22 +29516,6 @@
     "_id": "PJ75nAwwEtlg"
   },
   {
-    "alternateHashtags": [],
-    "appearanceSummary": "Red knit cap over a red baseball cap. Brown hair? Dark green gaiter around his neck. Gray, hooded jacket with the Under Armour logo on the left sleeve. Black tactical vest (?) with a large vertical white rectangle on the chest. Brown camo backpack. Photographed using a smartphone in the Rotunda. Carries a Trumpified US flag on a white pole.",
-    "associates": [],
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "PoleChoker",
-    "profileLeads": [],
-    "_id": "JyJb12rLwm9c"
-  },
-  {
     "actionsSummary": "On Plaza, is part of scuffle with police and pulls #CapitolCousinIt back from police. Punches a cop in the face shield. Then near NW Scaffolding, throws a pole that is later used by #BullhornLady to break a window in the Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Black helmet. Sometimes wears a black baseball cap with the 3% logo on the front. Black gaiter with a cartoon image of a toothy smile on a white face (resembles the Joker). He sometimes wears this over his face and other times around his neck. Camo jacket with a black, circular 3% patch on the left sleeve. Tan tactical vest. Black gloves with reinforced knuckles.",
@@ -36939,32 +36956,6 @@
     "_id": "2debTdZlMqDs"
   },
   {
-    "actionsSummary": "Entered Capitol.",
-    "alternateHashtags": [
-      "Insider95"
-    ],
-    "appearanceSummary": "White man with grey hair & beard wearing a grey knit cap, a tan buff, jeans and a blue hoodie with \"1776 Forever Free\" in white on the front and \"Freedom\" on the back.",
-    "arrestDate": "2021-12-08T05:00:00.000Z",
-    "arrestState": "TX",
-    "associates": [],
-    "caseIdentifier": "1:21-mj-00677-GMH",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://s3.documentcloud.org/documents/21150528/12-3-21-us-v-thomas-conover-complaint-affidavit.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1cM9IRKCWqLrdJnW2WS8zgB756oEYSPHF?usp=sharing",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "ThomasConover",
-    "profileLeads": [],
-    "realName": "CONOVER, Thomas Paul",
-    "_id": "4u_ODAVwMv-s"
-  },
-  {
     "actionsSummary": "Entered Capitol Rotunda and stayed for 40 minutes",
     "alternateHashtags": [
       "Insider0174"
@@ -39077,9 +39068,10 @@
   {
     "actionsSummary": "Assumed violent based on AFO designation.",
     "alternateHashtags": [
-      "Insider1102"
+      "Insider1102",
+      "PoleChoker"
     ],
-    "appearanceSummary": "Black and grey coat. Red baseball hat.",
+    "appearanceSummary": "Red knit cap over a red baseball cap. Brown hair? Dark green gaiter around his neck. Gray, hooded jacket with the Under Armour logo on the left sleeve. Black tactical vest (?) with a large vertical white rectangle on the chest. Brown camo backpack. Photographed using a smartphone in the Rotunda. Carries a Trumpified US flag on a white pole..",
     "associates": [],
     "fbiIdentifier": "234-AFO",
     "isLawEnforcement": false,
