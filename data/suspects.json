@@ -14052,7 +14052,9 @@
     "actionsSummary": "Shoves police leaving the area of the NW lawn. (MPDC 4935)",
     "alternateHashtags": [],
     "appearanceSummary": "Two hats - white MAGA cap over knit hat. Black sunglasses. Light brown full beard and mustache. Black or navy blue baseball jacket with \"USA\" in large white letters on the left breast and a US flag on the left shoulder. Dark shirt underneath. Red shirt peeking out from under the jacket. Black backpack. Blue jeans. Dark shoes.",
-    "associates": [],
+    "associates": [
+      "#WhiteCapBuddy"
+    ],
     "fbiIdentifier": "378-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1GSmimio8FxhE6tW2QkBq4h5NdUUClMsg",
     "isLawEnforcement": false,
@@ -28600,7 +28602,7 @@
     "_id": "JccExqtZojJY"
   },
   {
-    "actionsSummary": "Seen flashing the white power sign. Enters the Capitol and is seen in Rotunda.",
+    "actionsSummary": "Throws large object onto the head of police on the NW Lawn. Seen flashing the white power sign. Enters the Capitol and is seen in Rotunda.",
     "alternateHashtags": [
       "FBI127",
       "Insider1230"
@@ -28614,6 +28616,7 @@
     "caseIdentifier": "1:21-cr-237",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1382871/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1O8Ofax9D_ZMBxqS4rf9JD3jS2eUfF-Bw?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
