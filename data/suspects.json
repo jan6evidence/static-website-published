@@ -2874,6 +2874,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Dark green helmet with velcro fuzz on the top and sides but no patches. Goggles with black frames and black strap with two white stripes. Dark brown beard and mustache, with the beard graying. Black gaiter with what might be red and white stripes or writing. Light brown hoodie over a dark blue shirt. (One picture suggests he might also be wearing a black tactical vest under the hoodie.) In one photo of him walking in the road, he has a radio hooked into the collar of the hoodie and is holding aloft what appears to be the flag of South Carolina. Dark green fingerless gloves with reinforced knuckles. Large, gray camo fanny pack in front of him. Gray camo cargo pants. Light brown footwear.",
     "associates": [],
+    "fbiIdentifier": "500-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -22089,6 +22090,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Red, white, and blue \"USA\" knit cap with a red pom-pom on top. Short brown beard and mustache. Black and gray jacket with write writing near the right cuff. Under that is a white shirt. Backpack with gray straps and a bright yellow cross-strap. Might also have a water pack with a blue straw. Black gloves with the Under Armour logo on the back. Photographed carrying a small black speaker with large white plus and minus signs on its side.",
     "associates": [],
+    "fbiIdentifier": "506-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
@@ -32886,6 +32888,32 @@
     "_id": "zDM0AxRiclA4"
   },
   {
+    "actionsSummary": "Entered the Capitol Building. Went into the Senate Gallery after punching a guard.",
+    "alternateHashtags": [
+      "Insider0176"
+    ],
+    "appearanceSummary": "Camo baseball cap with a camo US flag on the front. Short hair, gray at the sides and darker in back. Dark sunglasses. Short, white beard and mustache. Stars and stripes gaiter, usually around his neck. Olive green hoodie with black inner lining in the hood. The back of the hoodie has a black stencil of a vertical US flag over the word \"Majority.\" In the front pocket is something red or orange. Sometimes wears a blue Trump flag around his neck, and sometimes carries it in his pants pocket. Camo pants with a metal chain hanging on the left side. Dark (maybe black) shoes or boots. Uses a cell phone in the Capitol Building, including in the Senate Gallery.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1ldEP6ThkOY0aTmbQQIQAetFSSU5Ve6WW?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "SenateSocker",
+    "profileLeads": [
+      "@Other63517090"
+    ],
+    "_id": "VvTmxve2ckN4"
+  },
+  {
     "actionsSummary": "Involved in skirmish against riot cops on the NW Terrace.",
     "alternateHashtags": [],
     "appearanceSummary": "Black knit cap. Sunglasses with orange reflective lenses. Gray goatee. Dark gray jacket. Black gloves. Blue jeans. Khaki boots.",
@@ -36280,6 +36308,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "TeddyHead",
@@ -38883,6 +38915,28 @@
     "primaryHashtag": "USAPB",
     "profileLeads": [],
     "_id": "unT_Js6kEgfY"
+  },
+  {
+    "actionsSummary": "Entered the Capitol Building. Appears to have screamed at a Senate guard and may have touched him. Also appears to have blocked a door to the Senate Gallery to keep guards from locking it. When they left, she held the door open for numerous intruders and then went in herself. Stood next to another intruder who was doing something at a locked door from inside the gallery.",
+    "alternateHashtags": [
+      "Insider1718"
+    ],
+    "appearanceSummary": "Woman with long brown hair tied up behind her head. Appears to have had it down before entering the Capitol Building. Light blue surgical mask, worn mostly inside. Long red scarf (sometimes looks more pink) hanging from her shoulders. Black, hooded, nylon coat. Black backpack. Dark, close-fitting pants or leggings. White sneakers. Used a cellphone in the Senate Gallery.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1dys8_5gZVMMXO16Tsk6lipSwOnV_baWN?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "UsherContempt",
+    "profileLeads": [
+      "@SometimesUsefu2"
+    ],
+    "_id": "7Iodu-lJkoGM"
   },
   {
     "actionsSummary": "Attended rally, went back to hotel, saw coverage of protests at Capitol on TV and returned to the scene",
