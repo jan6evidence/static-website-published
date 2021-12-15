@@ -7924,7 +7924,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-cr-159",
-    "caseStatus": "Plea Deal",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353311/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -8607,9 +8607,16 @@
     "_id": "G0zAXAVT8o4Q"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "CoveredDraggin"
+    ],
     "appearanceSummary": "Red MAGA baseball cap with a flattened crown. Appears to have small buttons pinned above the front logo and along the sides. May have white hair. Black sunglasses. Black gaiter. Prominent cheekbones. Dark blue bomber jacket with a bright orange inner lining. There is a white logo on the left breast and writing on the back that says \"Trump government, your nanny, sugar daddy\". Appears to wear an untucked, dark gray, button-down shirt under the jacket. White knee-length shorts with a black stripe down the left side. Blue socks that say \"great\" in large white letters on the left side and have white stars on the front. Shorter gray socks over that. Brown shoes.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "CO",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00691-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238374/gov.uscourts.dcd.238374.1.1.pdf",
     "fbiIdentifier": "387-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -8619,9 +8626,10 @@
         "name": "Violence"
       }
     ],
-    "primaryHashtag": "CoveredDraggin",
+    "primaryHashtag": "CoveredDragon",
     "profileLeads": [],
-    "_id": "85c84wOLstK8"
+    "realName": "MACCRACKEN, Avery",
+    "_id": "GrkDrRmGwsjA"
   },
   {
     "alternateHashtags": [],
@@ -21174,7 +21182,12 @@
     "actionsSummary": "Shown on video on the upper W. terrace with Rehl and several others.",
     "alternateHashtags": [],
     "appearanceSummary": "Asian man. Blue sweatshirt. Tactical vest with comms clipped to the front. Red MAGA hat. Dark sunglasses. Flag gaiter. Black gloves.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00689-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238262/gov.uscourts.dcd.238262.1.1_2.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -21193,6 +21206,7 @@
     ],
     "primaryHashtag": "KamikazePB",
     "profileLeads": [],
+    "realName": "VY, Freedom",
     "_id": "P9AbyCmWgiiI"
   },
   {
@@ -22102,7 +22116,12 @@
     "actionsSummary": "Shown on video on the upper terrace with Rehl and several others.",
     "alternateHashtags": [],
     "appearanceSummary": "Grey coat or sweatshirt. Black gaiter and oversized black goggles. Red ball cap.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00689-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238262/gov.uscourts.dcd.238262.1.1_2.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -22117,6 +22136,7 @@
     ],
     "primaryHashtag": "LanyardPB",
     "profileLeads": [],
+    "realName": "HEALION, Brian",
     "_id": "5XSwpoOkIgZI"
   },
   {
@@ -26799,7 +26819,12 @@
     "actionsSummary": "Shown on video on the upper terrace with Rehl and several others. Photographed with Rehl inside Sen Jeff Merkley's office.",
     "alternateHashtags": [],
     "appearanceSummary": "Black and grey plaid coat. Black shirt. Camo hat. Black face buff.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:21-mj-00689-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238262/gov.uscourts.dcd.238262.1.1_2.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -26816,6 +26841,7 @@
     "profileLeads": [
       "@KarsiCarsi2"
     ],
+    "realName": "GIDDINGS, Isaiah",
     "_id": "iUrV6Y7ZUhmM"
   },
   {
@@ -29524,7 +29550,11 @@
     "actionsSummary": "On Plaza, is part of scuffle with police and pulls #CapitolCousinIt back from police. Punches a cop in the face shield. Then near NW Scaffolding, throws a pole that is later used by #BullhornLady to break a window in the Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Black helmet. Sometimes wears a black baseball cap with the 3% logo on the front. Black gaiter with a cartoon image of a toothy smile on a white face (resembles the Joker). He sometimes wears this over his face and other times around his neck. Camo jacket with a black, circular 3% patch on the left sleeve. Tan tactical vest. Black gloves with reinforced knuckles.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1456571/download",
     "fbiIdentifier": "258-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -29541,6 +29571,7 @@
     ],
     "primaryHashtag": "PoleTosser",
     "profileLeads": [],
+    "realName": "DENNEY, Lucas",
     "_id": "NeZiRG0_0jYQ"
   },
   {
@@ -35575,7 +35606,11 @@
       "Insider1699"
     ],
     "appearanceSummary": "Brown camo cap over a mostly bald head. Short brown beard and mustache. Dark blue or gray jacket over a shirt with a red collar peeking out. Desert camo tactical vest with a large pouch in front. Brown (?) gloves. Khaki pants. Also recorded carrying a black helmet in his hand.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1456571/download",
     "fbiIdentifier": "267-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -35591,6 +35626,7 @@
     ],
     "primaryHashtag": "TacklingDummy",
     "profileLeads": [],
+    "realName": "HAZARD, Donald",
     "_id": "S_Utw73gAk6I"
   },
   {
@@ -38419,11 +38455,16 @@
     "actionsSummary": "Tunnel fighter, seen in  tunnel pushing and shoving officers. Helps pull an officer down the stairs and then grabs the officer's baton. Seems friendly with Beverly Hills group.",
     "alternateHashtags": [],
     "appearanceSummary": "Gray Oakley jacket, RayBan glasses, Red Trump 2020 winter hat, blue striped gaiter, High and tight haircut, Short trimmed facial hair.",
+    "arrestDate": "2021-12-14T05:00:00.000Z",
+    "arrestState": "FL",
     "associates": [
       "#TweedleDee",
       "#SwedishScarf",
       "#GinaBisignano"
     ],
+    "caseIdentifier": "1:21-cr-00035-EGS",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237625/gov.uscourts.dcd.237625.145.0.pdf",
     "compositeURL": "https://drive.google.com/file/d/1WprUWtyw_25NtF-WHQVfcxqrsKBCFd4T/view?usp=sharing",
     "fbiIdentifier": "129-AFO",
     "isLawEnforcement": false,
@@ -38440,6 +38481,7 @@
     ],
     "primaryHashtag": "TweedleDumb",
     "profileLeads": [],
+    "realName": "COURSON, Mason Joel",
     "_id": "L1ARRpQIonIQ"
   },
   {
