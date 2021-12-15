@@ -29559,6 +29559,7 @@
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "group",
