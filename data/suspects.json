@@ -1777,7 +1777,10 @@
     "appearanceSummary": "Red/white/blue puffer jacket, bareheaded, blonde hair.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "NY",
-    "associates": [],
+    "associates": [
+      "#MatthewPurdy",
+      "#DeepBlueSquander"
+    ],
     "caseIdentifier": "1:21-mj-00644",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
@@ -9987,7 +9990,10 @@
     "appearanceSummary": "Blue knit cap with \"Trump\" in white letters at the bottom front and a yellow signature closer to the top. Brown (?) beard and mustache. Black earloop mask, sometimes worn under the chin. Black or dark blue hoodie. Wears a blue Trump flag around his neck like a cape or over his shoulder like a toga. Blue pants. Black shoes. Photographed recording the scene with a smartphone in a black case on the west side of the Capitol and inside the building.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "NY",
-    "associates": [],
+    "associates": [
+      "#BabyFaceInsider",
+      "#MatthewPurdy"
+    ],
     "caseIdentifier": "1:21-mj-00644",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
@@ -24679,27 +24685,37 @@
     "_id": "-0-LsczUYn2c"
   },
   {
+    "actionsSummary": "Tangles with cops on NW Lawn. Inside Capitol building.",
     "alternateHashtags": [
       "Insider2188"
     ],
     "appearanceSummary": "Young man with long, shaggy, dark hair. Sometimes wears a mottled gray knit cap. Light blue surgical mask. Appears to have an incipient beard under that. Gray knitted scarf just around his neck. Light brown, hooded jacket (from Carhartt?) over a yellow hoodie. There may be a black or gray hoodie beneath this. Backpack with black straps that have bright yellow parts at the left shoulder and a logo at the right shoulder. Dark pants. Photographed carrying a smartphone just outside the Capitol Building.",
     "arrestDate": "2021-11-10T05:00:00.000Z",
     "arrestState": "NY",
-    "associates": [],
+    "associates": [
+      "#BabyFaceInsider",
+      "#DeepBlueSquander"
+    ],
     "caseIdentifier": "1:21-mj-00644",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/10rH5A37tLM9ZG8kDyVykCmrf0L_P-MfE?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1e698X7VsJdBAU7yW8TmyGhl6e8-7hoFM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "MatthewPurdy",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "realName": "PURDY, Matthew",
     "_id": "boz1W-xkIqag"
   },
@@ -29944,6 +29960,26 @@
     "_id": "wxPqV8q04tlU"
   },
   {
+    "actionsSummary": "Shoves LEO across NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with light brown hair wearing a white coat with a brown fur ruff over an olive green button shirt, a chunky fleece-lined flag scarf, blue jeans, a black backpack and gloves that are red on the back and black on the palms and carrying a handmade sign on a stick that says \"CItizens Arrest 4 Traitors in Govt\".",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1-qNbvHiBb4Zpj71Xzx9glqrEmeNqBtYa",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PuffNeck",
+    "profileLeads": [
+      "@sally_sleuth @PhoenixOnWheels"
+    ],
+    "_id": "G7eXkW_-Mnl0"
+  },
+  {
     "actionsSummary": "Designated violent based on AOM.",
     "alternateHashtags": [],
     "appearanceSummary": "White male wearing orange hoodie with camo lining. Grey baseball cap with \"Smoke\" in white lettering and drawing of a deer.",
@@ -32833,6 +32869,24 @@
     "primaryHashtag": "SeditionBomber",
     "profileLeads": [],
     "_id": "KiH0DDULcpSM"
+  },
+  {
+    "actionsSummary": "Assaulted police on the NW Lawn",
+    "alternateHashtags": [],
+    "appearanceSummary": "Brown jacket, grey knit cap with black patch with a skull, crossed swords and \"Liberty or Death - Don't Tread On Me\", black buff, sunglasses, camo backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1Oj9QxcJJQo88QTw-v9-3A7Q7vrtZvN_F",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "SeditionOrDeath",
+    "profileLeads": [],
+    "_id": "bRk-GfnIQlBw"
   },
   {
     "actionsSummary": "Photographed inside the Capitol building.",
