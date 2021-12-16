@@ -27532,6 +27532,7 @@
     "_id": "0VNJOIVyohug"
   },
   {
+    "actionsSummary": "Assaults police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White male, gray hair (overgrown butch); gray very bushy Horseshoe; khaki green backpack; red t-shirt, black leather jacket with zipper; black tactical gloves with leather padding on dorsal and fingers; tan pants with white/red/blue scarf(?) around upper right thigh",
     "associates": [],
@@ -32885,7 +32886,9 @@
       }
     ],
     "primaryHashtag": "SeditionOrDeath",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "bRk-GfnIQlBw"
   },
   {
@@ -34069,12 +34072,15 @@
     "_id": "AG5h1-RvQtVo"
   },
   {
-    "actionsSummary": "Shown on video on the Lower West Plaza.",
+    "actionsSummary": "Assaults police on NW Lawn. Enters Capitol. Shown on video on the Lower West Plaza.",
     "alternateHashtags": [
       "Insider2019"
     ],
     "appearanceSummary": "Grey coat with red \"Snap On\" logo on the front. Black hooded sweatshirt. Tan-colored tactical vest. Brown Carhartt ball cap with sunglasses. Very light facial hair.",
-    "associates": [],
+    "associates": [
+      "#TreasonEagleScout"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1XMGYG9I_U-vSfH8ZNUGZQ7YglXmDdKdt",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34086,6 +34092,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "equipment",
