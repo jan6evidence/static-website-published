@@ -6335,6 +6335,32 @@
     "_id": "bnWSL0eAsnwM"
   },
   {
+    "actionsSummary": "Tangles with police on NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "insider0515"
+    ],
+    "appearanceSummary": "White man with red hair, a woven grey striped hoodie with glasses hooked in the neckline and a baseball cap that is desert camo in the front with a Chevrolet logo and the word \"Chevrolet\" on it and white mesh in the back.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/13xKmP1LbhlkHbgivWXvA1pTVAeqsV8OA",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CamoChevrolet",
+    "profileLeads": [
+      "@PhoenisOnWheels"
+    ],
+    "_id": "ShT-DNqwovAI"
+  },
+  {
     "actionsSummary": "Involved in MediaSmash. Assaulted AP photographer and DC police officer. Self-doxxed in interview and says he is from Oklahoma.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo jacket. Blue plaid neck gaiter. Big receding hairline. Scruffy beard. Carrying a backpack.",
@@ -27303,10 +27329,13 @@
     "_id": "QmmAS11wIugk"
   },
   {
-    "actionsSummary": "Known only from MPD Wanted list",
-    "alternateHashtags": [],
+    "actionsSummary": "Assaults police on the NW Lawn.",
+    "alternateHashtags": [
+      "MPD83"
+    ],
     "appearanceSummary": "Very blurry picture. Gas mask with a large visor. The facepiece comes up to a triangular point over the nose. Blue/gray yoke. Bright pink filter cartridges that are round. Dark clothing. Photographed holding a dark blue shield with red and white stripes. Not to be confused with at least one other person who wore a different gasmask design with pink rectangular filters.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1UN6qiZ7sqpSOyLVhCmN9CLjqMwSXEhYr",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
@@ -30142,7 +30171,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1NIJGvUVP42MapnaB5qN8MZVp3LNWzboD",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "PushyCamo",
     "profileLeads": [
       "@PhoenixOnWheels @OSINTyeti"
@@ -35857,9 +35891,13 @@
     "_id": "W8nVHKrrMp-o"
   },
   {
-    "alternateHashtags": [],
+    "actionsSummary": "Assaults police on NW Lawn.",
+    "alternateHashtags": [
+      "MPD83"
+    ],
     "appearanceSummary": "Camo baseball cap with a US flag on the front. Sometimes wears a black MAGA knit cap over that. Dark hair. Stubbly chin and upper lip. Jacket with a khaki torso and hunting camo sleeves. Brown backpack. Blue jeans. Dark shoes or boots.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1lkJpRrzi0CPgf0A9tqA0yKcRICJfOXcx",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
