@@ -38064,7 +38064,28 @@
       "thumbnailUrl": "https://archive.org/download/yhDn2CNMduLuayBwe/yhDn2CNMduLuayBwe.200px.png"
     }
   ],
-  "PushyCamo": [],
+  "PushyCamo": [
+    {
+      "mediaItemId": "Kar9SgSoBp5xZPNGQ",
+      "archiveUrl": "https://archive.org/download/Kar9SgSoBp5xZPNGQ/Kar9SgSoBp5xZPNGQ.png",
+      "thumbnailUrl": "https://archive.org/download/Kar9SgSoBp5xZPNGQ/Kar9SgSoBp5xZPNGQ.200px.png"
+    },
+    {
+      "mediaItemId": "W9AZkYp57FBPrXtDy",
+      "archiveUrl": "https://archive.org/download/W9AZkYp57FBPrXtDy/W9AZkYp57FBPrXtDy.png",
+      "thumbnailUrl": "https://archive.org/download/W9AZkYp57FBPrXtDy/W9AZkYp57FBPrXtDy.200px.png"
+    },
+    {
+      "mediaItemId": "jjhZ5bnmkDStTk8Ne",
+      "archiveUrl": "https://archive.org/download/jjhZ5bnmkDStTk8Ne/jjhZ5bnmkDStTk8Ne.png",
+      "thumbnailUrl": "https://archive.org/download/jjhZ5bnmkDStTk8Ne/jjhZ5bnmkDStTk8Ne.200px.png"
+    },
+    {
+      "mediaItemId": "yg6fABWcKa55FJwfB",
+      "archiveUrl": "https://archive.org/download/yg6fABWcKa55FJwfB/yg6fABWcKa55FJwfB.png",
+      "thumbnailUrl": "https://archive.org/download/yg6fABWcKa55FJwfB/yg6fABWcKa55FJwfB.200px.png"
+    }
+  ],
   "PutridPepe": [
     {
       "mediaItemId": "6WwD7C7bepsz6E2vg",
@@ -46157,6 +46178,16 @@
   ],
   "TanCamoPullover": [
     {
+      "mediaItemId": "2Yf95pbYKtRt7HooJ",
+      "archiveUrl": "https://archive.org/download/2Yf95pbYKtRt7HooJ/2Yf95pbYKtRt7HooJ.png",
+      "thumbnailUrl": "https://archive.org/download/2Yf95pbYKtRt7HooJ/2Yf95pbYKtRt7HooJ.200px.png"
+    },
+    {
+      "mediaItemId": "2bLGBG5GRQ7NtkCxv",
+      "archiveUrl": "https://archive.org/download/2bLGBG5GRQ7NtkCxv/2bLGBG5GRQ7NtkCxv.png",
+      "thumbnailUrl": "https://archive.org/download/2bLGBG5GRQ7NtkCxv/2bLGBG5GRQ7NtkCxv.200px.png"
+    },
+    {
       "mediaItemId": "JC88a5NiWndy7C3yB",
       "archiveUrl": "https://archive.org/download/JC88a5NiWndy7C3yB/JC88a5NiWndy7C3yB.PNG",
       "thumbnailUrl": "https://archive.org/download/JC88a5NiWndy7C3yB/JC88a5NiWndy7C3yB.200px.PNG"
@@ -46167,9 +46198,29 @@
       "thumbnailUrl": "https://archive.org/download/LdpSCApm9mzdkbAhS/LdpSCApm9mzdkbAhS.200px.png"
     },
     {
+      "mediaItemId": "do3ZaNLR53nnynWqJ",
+      "archiveUrl": "https://archive.org/download/do3ZaNLR53nnynWqJ/do3ZaNLR53nnynWqJ.jpeg",
+      "thumbnailUrl": "https://archive.org/download/do3ZaNLR53nnynWqJ/do3ZaNLR53nnynWqJ.200px.jpeg"
+    },
+    {
+      "mediaItemId": "pCn5dATWWzdmR5PfG",
+      "archiveUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.jpeg",
+      "thumbnailUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.200px.jpeg"
+    },
+    {
+      "mediaItemId": "qQQ3gqW9RMeJTpYZP",
+      "archiveUrl": "https://archive.org/download/qQQ3gqW9RMeJTpYZP/qQQ3gqW9RMeJTpYZP.jpeg",
+      "thumbnailUrl": "https://archive.org/download/qQQ3gqW9RMeJTpYZP/qQQ3gqW9RMeJTpYZP.200px.jpeg"
+    },
+    {
       "mediaItemId": "z4dNEvvPqjWPB5rvE",
       "archiveUrl": "https://archive.org/download/z4dNEvvPqjWPB5rvE/z4dNEvvPqjWPB5rvE.png",
       "thumbnailUrl": "https://archive.org/download/z4dNEvvPqjWPB5rvE/z4dNEvvPqjWPB5rvE.200px.png"
+    },
+    {
+      "mediaItemId": "zfPy24aoiyeBFnm6M",
+      "archiveUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.jpeg",
+      "thumbnailUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.200px.jpeg"
     }
   ],
   "TanChampBoy": [
