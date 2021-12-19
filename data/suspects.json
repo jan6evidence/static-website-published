@@ -14087,7 +14087,9 @@
   },
   {
     "actionsSummary": "Shoves police leaving the area of the NW lawn. (MPDC 4935)",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "MPD60 #MPD78"
+    ],
     "appearanceSummary": "Two hats - white MAGA cap over knit hat. Black sunglasses. Light brown full beard and mustache. Black or navy blue baseball jacket with \"USA\" in large white letters on the left breast and a US flag on the left shoulder. Dark shirt underneath. Red shirt peeking out from under the jacket. Black backpack. Blue jeans. Dark shoes.",
     "associates": [
       "#WhiteCapBuddy"
@@ -18458,6 +18460,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Gray mustache and hair. Camo Trump baseball cap. Black leather jacket. Blue jeans. Cell phone holster. Black smartphone.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1UkQQaRpEGgpeRJBZKwZKU9WSNQijmhTb",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -24793,6 +24796,32 @@
     "primaryHashtag": "MCHammer3P",
     "profileLeads": [],
     "_id": "E-j9S1hvAnpE"
+  },
+  {
+    "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1877"
+    ],
+    "appearanceSummary": "White man with greying hair and mustache wearing wire rim glasses, a dark leather jacket over a black hoodie, brown pants black gloves, a black backpack and a red Trump baseball cap with a flag on the left side of the bill.",
+    "associates": [
+      "#TeddyHead"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MeanMiniTeddy",
+    "profileLeads": [],
+    "_id": "aeh-Ez9c8vGw"
   },
   {
     "actionsSummary": "Among the crowd on the Lower W Terrace, likely participated in violence but not yet seen.",
@@ -36437,7 +36466,9 @@
       "Insider0701"
     ],
     "appearanceSummary": "Red Trump knit cap with a yellow signature near the top. Dark, deep-set eyes. Black beard and mustache graying near the chin. Gray or dark blue jacket with a distinct collar and breast pockets. This is worn over a brown hoodie. Beneath that is a purple (?) short with a zipper near his neck.",
-    "associates": [],
+    "associates": [
+      "#MeanMiniTeddy"
+    ],
     "fbiIdentifier": "401-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1LtZQbwRaL920TGxhTkXTvsePz_A2-DMG",
     "isLawEnforcement": false,
