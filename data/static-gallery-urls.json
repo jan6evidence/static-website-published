@@ -1,4 +1,6 @@
 {
+  "#CamoChevrolet": [],
+  "#MeanMiniTeddy": [],
   "1776HatPB": [
     {
       "mediaItemId": "JtdAbYQASLb5G4pkg",
@@ -8138,6 +8140,18 @@
     {
       "mediaItemId": "sL9vrw957hbgv2psv",
       "archiveUrl": "https://archive.org/download/sL9vrw957hbgv2psv/sL9vrw957hbgv2psv.png"
+    }
+  ],
+  "CamoChevrolet": [
+    {
+      "mediaItemId": "pCn5dATWWzdmR5PfG",
+      "archiveUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.jpeg",
+      "thumbnailUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.200px.jpeg"
+    },
+    {
+      "mediaItemId": "zfPy24aoiyeBFnm6M",
+      "archiveUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.jpeg",
+      "thumbnailUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.200px.jpeg"
     }
   ],
   "CamoCrazyEyes": [
@@ -17235,6 +17249,7 @@
       "thumbnailUrl": "https://archive.org/download/t89HncN6rXp434zAE/t89HncN6rXp434zAE.200px.png"
     }
   ],
+  "GasMaskBlue": [],
   "GasMaskTwins": [
     {
       "mediaItemId": "4TZCoEJxFH3eqpCWx",
@@ -19548,6 +19563,7 @@
       "thumbnailUrl": "https://archive.org/download/zyDqDuGERniLK4Zu5/zyDqDuGERniLK4Zu5.200px.PNG"
     }
   ],
+  "GreenPackTosser": [],
   "GreenPeaPitcher": [
     {
       "mediaItemId": "5vtK6jS5WDvohjNLr",
@@ -30886,6 +30902,8 @@
       "thumbnailUrl": "https://archive.org/download/xeoSzAtBxWfBR48oA/xeoSzAtBxWfBR48oA.200px.png"
     }
   ],
+  "MeanFlagman": [],
+  "MeanMiniTeddy": [],
   "MeanMrClean": [
     {
       "mediaItemId": "4peN3A6c4gRCyA5E2",
@@ -34437,6 +34455,7 @@
       "thumbnailUrl": "https://archive.org/download/sZhwNEEyCNzQjLCzE/sZhwNEEyCNzQjLCzE.200px.png"
     }
   ],
+  "OneTanGlove": [],
   "OnlyOneTime": [
     {
       "mediaItemId": "AMRCtbscPNu6BJums",
@@ -39294,6 +39313,7 @@
       "thumbnailUrl": "https://archive.org/download/ySkf3sG8MfARA4Qug/ySkf3sG8MfARA4Qug.200px.png"
     }
   ],
+  "RedPackMan": [],
   "RedPlaidPylonThrower": [
     {
       "mediaItemId": "3GZjL3f7cjG4N9BNY",
@@ -46746,6 +46766,7 @@
       "thumbnailUrl": "https://archive.org/download/yuKrjg7QXrW8Q5efy/yuKrjg7QXrW8Q5efy.200px.png"
     }
   ],
+  "TealHelmet": [],
   "TealScrambler": [
     {
       "mediaItemId": "FgZDYQbEFfx8Y5mmM",
@@ -51578,6 +51599,7 @@
       "thumbnailUrl": "https://archive.org/download/gCKJK68H7vFmpGLaC/gCKJK68H7vFmpGLaC.200px.JPG"
     }
   ],
+  "WhiteHankieMan": [],
   "WhiteHelmStarsMask": [
     {
       "mediaItemId": "NK9z7ADSRxuat6F7y",
@@ -52522,6 +52544,7 @@
       "archiveUrl": "https://archive.org/download/vvXpzkMGPs3DSbens/vvXpzkMGPs3DSbens.jpeg"
     }
   ],
+  "YellowFlagMan": [],
   "YellowFrameSprayer": [
     {
       "mediaItemId": "NWj73JeZ6RAiRKpEL",

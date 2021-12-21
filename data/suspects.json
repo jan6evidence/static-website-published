@@ -13939,10 +13939,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "499-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "GasMaskBlue",
     "profileLeads": [],
     "_id": "_ZVOsceFIgdQ"
@@ -15465,10 +15469,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "505-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "GreenPackTosser",
     "profileLeads": [],
     "_id": "hA6ePsqrMvqE"
@@ -23834,6 +23842,24 @@
     "_id": "0J5vporqEgXw"
   },
   {
+    "actionsSummary": "Shoves police on NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Bald white man with brown facial hair wearing a red MAGA baseball cap, a ballistic vest over a blue hoodie with white writing on the front and sunglasses.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1JAI0vm960_C1cD8SDBhRMcr-KuWBd_bu",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MAGASmirker",
+    "profileLeads": [],
+    "_id": "-C9UVCoBYkB8"
+  },
+  {
     "actionsSummary": "Shown on video on the West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Black sweatshirt. Black gaiter pulled up high on his face. Grey cap with \"Magpul\" in white lettering on the front.",
@@ -24825,10 +24851,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "503-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "MeanFlagman",
     "profileLeads": [],
     "_id": "rjvljdtl8ta0"
@@ -25728,6 +25758,24 @@
     "profileLeads": [],
     "realName": "Smith, Thomas \"Tommy\" Harlen",
     "_id": "QOKtPBkE4nOQ"
+  },
+  {
+    "actionsSummary": "Shoves police on NW Lawn as part of a group effort.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Older white man wearing a blue Missouri Tigers baseball cap, a tan hooded jacket, tan gloves with plastick knuckles a camo skull buff and a green or tan backpack with a large antenna sticking out of it.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1JGTQSSI5O9Xx9DmwfF1gcZbMGJRen06k",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MissouriTigersHat",
+    "profileLeads": [],
+    "_id": "ezgNrLr0UtjQ"
   },
   {
     "actionsSummary": "Posted about being inside the Capitol on Twitter. Video shows him stealing paperwork from an office inside the building. He was documented as being in multpile locations throughout the Captiol.",
@@ -27693,10 +27741,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "502-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "OneTanGlove",
     "profileLeads": [],
     "_id": "puJbZI7nAu1Y"
@@ -30957,10 +31009,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "501-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "RedPackMan",
     "profileLeads": [],
     "_id": "tS-MgFXhQg2Y"
@@ -36510,10 +36566,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "504-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "TealHelmet",
     "profileLeads": [],
     "_id": "9Zrg_cIZAkas"
@@ -39833,10 +39893,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "508-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "WhiteHankieMan",
     "profileLeads": [],
     "_id": "G3dxnpXU8iNE"
@@ -40721,10 +40785,14 @@
     "alternateHashtags": [],
     "associates": [],
     "fbiIdentifier": "507-AFO",
-    "filesUrl": "https://drive.google.com/drive/folders/1EbCftjaOHrJ2dh7ZKVFsfO1ZYUq2UX_7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "YellowFlagMan",
     "profileLeads": [],
     "_id": "OWcQ0ma8AmAw"
