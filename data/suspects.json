@@ -441,10 +441,15 @@
     "actionsSummary": "Carries a radio. Appears at the #FirstBarricadeBreach, and on the front lines of Plaza. Figts and incites, then moves to scaffolding and motions crowd to enter. Joins Proud Boys at the food trucks, and seen in PB photos in the Chicago area.",
     "alternateHashtags": [],
     "appearanceSummary": "Black tactical vest, black shirt, helmet and goggles, seen wearing silver Thor hammer. Photos before 1/6 have same necklace.",
+    "arrestDate": "2021-12-21T05:00:00.000Z",
+    "arrestState": "IL",
     "associates": [
       "#CapitolQuisling",
       "#CapitolCousinIt"
     ],
+    "caseIdentifier": "1:21-cr-00735-RCL",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Robert%20Elliott%20Indictment.pdf",
     "compositeURL": "https://drive.google.com/file/d/1ovKQitSUMl04aHWfJI40WGcGLfrQ-HHt/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -472,6 +477,7 @@
     ],
     "primaryHashtag": "AllBlackBabyThor",
     "profileLeads": [],
+    "realName": "ELLIOTT, James Robert",
     "_id": "C4Lk7mXnkrdk"
   },
   {
@@ -13871,7 +13877,7 @@
     "associates": [],
     "caseIdentifier": "1:21-mj-418",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.documentcloud.org/documents/20705907-gary-wickersham",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236091/gov.uscourts.dcd.236091.20.0.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -13937,6 +13943,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Bald man with a wispy brown beard and mustache. Sometimes wears a gray respirator with yellow and bright pink filter cartridges. A gray hose connects to his backpack over his left shoulder. Stars and stripes gaiter. Black, hooded jacket with a large US flag on the front. Olive drab backpack with a cross-strap over the chest. Bright blue gloves with a white logo on the back of each.",
     "associates": [],
     "fbiIdentifier": "499-AFO",
     "isLawEnforcement": false,
@@ -15467,6 +15474,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Red KAG baseball cap with a large \"45\" on the right side and \"Trump 2020\" on the back. He sometimes wears the hat backwards. Young man with short, dark hair. Sometimes wears a respirator or gasmask, which in one FBI photo has black fabric stretched over the bottom parts. Black hoodie over a black turtle-neck or a black gaiter. Backpack with bright green (?) straps.",
     "associates": [],
     "fbiIdentifier": "505-AFO",
     "isLawEnforcement": false,
@@ -24849,6 +24857,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Black or dark blue baseball cap with a black and white US flag on the front. Middle-aged man with short gray hair. Seems to wear a blue Trump flag like a scarf. Black hoodie.",
     "associates": [],
     "fbiIdentifier": "503-AFO",
     "isLawEnforcement": false,
@@ -27739,6 +27748,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Black or navy blue hoodie with the hood over his head. Black and yellow goggles. Respirator with pink filter cartridges. Dark blue nylon jacket with a dark purple hood and gray darts at the top of the back. Large calculator watch (?) on his left wrist.",
     "associates": [],
     "fbiIdentifier": "502-AFO",
     "isLawEnforcement": false,
@@ -31007,6 +31017,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Blurry photos. Red baseball cap, probably with white writing on the front. Eyeglasses? (Maybe goggles?) Short dark hair. Light blue surgical mask over the face. Black (?) jacket. Red backpack. Dark pants.",
     "associates": [],
     "fbiIdentifier": "501-AFO",
     "isLawEnforcement": false,
@@ -36564,6 +36575,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Sometimes wears a gray or olive drab helmet, and sometimes wears a baseball cap with a white back and a gray front and bill. There is a blue and white logo on the front that is shaped like a curved triangle with the letters \"CTD\" in the center, for the Continental Divide Trail. There is a similar logo on the right side of the hat, with a black and blue disc in the center instead. Man with longish dark hair. Dark sunglasses. Black circle-beard and mustache. Teal jacket with black cuffs. Beneath that is a black hoodie. Blue jeans. Dull red or dark orange backpack. Dark gray footwear. Sometimes carries a sign (?) on a plain wooden stick.",
     "associates": [],
     "fbiIdentifier": "504-AFO",
     "isLawEnforcement": false,
@@ -39891,6 +39903,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Red MAGA baseball cap. Man with short dark hair. Incipient beard and mustache. White gaiter around his neck, sometimes worn over his face.Black jacket. Olive drab backpack.",
     "associates": [],
     "fbiIdentifier": "508-AFO",
     "isLawEnforcement": false,
@@ -40783,6 +40796,7 @@
   },
   {
     "alternateHashtags": [],
+    "appearanceSummary": "Short, dark brown hair with square sideburns. Black ski goggles. Dark blue or dark gray (?) gaiter. Black or dark gray jacket over a bright blue hoodie. The inner lining of the hoodie is bright red. Gloves? Carries a yellow flag on a white pole?",
     "associates": [],
     "fbiIdentifier": "507-AFO",
     "isLawEnforcement": false,
@@ -41157,7 +41171,7 @@
       "#WhiteHoodie"
     ],
     "caseIdentifier": "5:21-mj-01992-RN",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant_Statement%20of%20Facts.pdf",
     "compositeURL": "https://drive.google.com/file/d/1gButWieZAHA1aPuOlLjyAdhM5UGGiQQb/view?usp=sharing",
     "fbiIdentifier": "50-AFO",
