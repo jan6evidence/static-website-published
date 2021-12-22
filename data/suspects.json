@@ -13880,6 +13880,7 @@
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236091/gov.uscourts.dcd.236091.20.0.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
