@@ -13943,10 +13943,14 @@
     "_id": "xEFCzDzmkrAI"
   },
   {
-    "alternateHashtags": [],
+    "actionsSummary": "Assaults at least two LEOs on the NW Lawn.",
+    "alternateHashtags": [
+      "BaldGasmask"
+    ],
     "appearanceSummary": "Bald man with a wispy brown beard and mustache. Sometimes wears a gray respirator with yellow and bright pink filter cartridges. A gray hose connects to his backpack over his left shoulder. Stars and stripes gaiter. Black, hooded jacket with a large US flag on the front. Olive drab backpack with a cross-strap over the chest. Bright blue gloves with a white logo on the back of each.",
     "associates": [],
     "fbiIdentifier": "499-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1AOjy18ySNGsoC8khKkJmXK8OTgxvJXZi",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -13956,7 +13960,9 @@
       }
     ],
     "primaryHashtag": "GasMaskBlue",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "_ZVOsceFIgdQ"
   },
   {
@@ -29232,6 +29238,7 @@
     "associates": [
       "#PurplePantherPunk"
     ],
+    "fbiIdentifier": "509-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1uPcFShyIAlGUZ9EyvjdFqDiL9zgyACOP",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
