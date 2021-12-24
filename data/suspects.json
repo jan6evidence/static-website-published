@@ -6153,6 +6153,24 @@
     "_id": "IR57Ns7ewr0w"
   },
   {
+    "actionsSummary": "Uses broomstick/wooden flagpole on police on NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a buzz cut wearing a gasmask that straps over his head, a black top, blue jeans, brown shoes and a blue backpack with black detailing and blue and black straps.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BuzzcutAndBroomstick",
+    "profileLeads": [],
+    "_id": "Y2tdmQRqggbA"
+  },
+  {
     "actionsSummary": "Seen on NW side with son (CranberryOaf aka Grady Owens). FIghts police on NW Lawn",
     "alternateHashtags": [
       "Insider2144"
@@ -17198,6 +17216,24 @@
     "_id": "G8PbQUpNUgns"
   },
   {
+    "actionsSummary": "Assaults police on NW Lawn and tries to grab baton away from an LEO.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a reddish-brown mustache wearing a grey hoodie over a long sleeved black t-shirt, black buff, khaki cargo pants, grey and black striped gloves, brown shoes, protective goggles and a black backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1wSl86XvV8JljuIs3D24kVEJ8qwTYyomD",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "HoodedBatonGrabber",
+    "profileLeads": [],
+    "_id": "FDSBHNqoko8s"
+  },
+  {
     "actionsSummary": "In the crowd on the East side of the Capitol. Stands on top of government vehicle. Brandishes large knife. (Designated \"violent\" based on knife.)",
     "alternateHashtags": [],
     "appearanceSummary": "Black puffer coat, black gloves and hat. Giant hoop earrings. Some kind of clear face mask.",
@@ -27614,6 +27650,24 @@
     "_id": "dvY3LvdjQlAo"
   },
   {
+    "actionsSummary": "Shoves police on NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Balding white man with short hair and facial hair wearing a hooded camo jacket, black knit cap, black pants, narrow sunglasses and a backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1XOh-Nxz0HUoBbBU9OGn5UTJfoGtJK7fB",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "OldSunnies",
+    "profileLeads": [],
+    "_id": "elWCmzAiwluY"
+  },
+  {
     "actionsSummary": "Helps with walkway breaches, often at front. Observed in photo next to #BlackSkiMask, with #YoungSkullMan just behind; seen at breach with #MAGAretWhiteCoat.",
     "alternateHashtags": [
       "OldHelmetTexasFlag"
@@ -30326,6 +30380,60 @@
       "@PhoenixOnWheels @OSINTyeti"
     ],
     "_id": "ll0JlI6c0mYk"
+  },
+  {
+    "actionsSummary": "Pushes LEOs across NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark stubble or short beard wearing an olive hooded coat, dark baseball cap, black backpack and black gloves.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1HZXc_M3ocKrJ700DkUZsh-NuEFAD0vh2",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyGrey",
+    "profileLeads": [],
+    "_id": "lhcwsA3UwjOs"
+  },
+  {
+    "actionsSummary": "Shoves police across NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with grey (?) facial hair wearing a khaki knit cap, tan jacket, khaki backpack and a black buff or hoodie and carrying a flag.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1wzWl9XVOtoIda187hp_0XaZQwyTHdpXE",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyKhaki",
+    "profileLeads": [],
+    "_id": "218FJ2Igwjaw"
+  },
+  {
+    "actionsSummary": "Shoves LEOs across NW Lawn",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a red hooded jacket with a whie and black detail across the front and a black lining and a red maga cap.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1XrH5_1i5cBlydxUO6KIhd2FXKGJayqHh",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyRed",
+    "profileLeads": [],
+    "_id": "m-jLiabhUjbE"
   },
   {
     "alternateHashtags": [
