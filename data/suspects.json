@@ -26931,7 +26931,7 @@
     "_id": "bdlZn7_nIh34"
   },
   {
-    "actionsSummary": "Entered the Crypt, stayed on the ground floor of the Capitol for two hours.",
+    "actionsSummary": "Assaults police on NW Lawn as part of group shoving effort. Entered the Crypt, stayed on the ground floor of the Capitol for two hours.",
     "alternateHashtags": [
       "Insider1599"
     ],
@@ -26949,6 +26949,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "NicholesLentz",
@@ -38505,6 +38509,26 @@
     "primaryHashtag": "TrumpedUpKicks",
     "profileLeads": [],
     "_id": "8jYWa37hsn2I"
+  },
+  {
+    "actionsSummary": "Shoves police as part of group AFO on NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and facial hair wearing a blue hoodie, blue jeans, blue knit hat with \"Trump\" in white on the brim, a black face mask mostly down below his nose and a Trump flag as a cape.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1vN6zjZyywL0KVpchEeNCrpgBBKap-7Hx",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "TrumpFlagCape",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "EnljDWL1Ui98"
   },
   {
     "actionsSummary": "Incites crowd via bullhorn. Masks voice. Fight breaks out just after she incites the crowd.",
