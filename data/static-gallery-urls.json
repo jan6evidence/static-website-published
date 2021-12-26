@@ -21449,7 +21449,43 @@
       "thumbnailUrl": "https://archive.org/download/wDGmkhf9B3Hapfzsr/wDGmkhf9B3Hapfzsr.200px.png"
     }
   ],
-  "HatAskew": [],
+  "HatAskew": [
+    {
+      "mediaItemId": "Df67EtMixgwjrGWw7",
+      "archiveUrl": "https://archive.org/download/Df67EtMixgwjrGWw7/Df67EtMixgwjrGWw7.png",
+      "thumbnailUrl": "https://archive.org/download/Df67EtMixgwjrGWw7/Df67EtMixgwjrGWw7.200px.png"
+    },
+    {
+      "mediaItemId": "HG2P5fSbNpF2qFixx",
+      "archiveUrl": "https://archive.org/download/HG2P5fSbNpF2qFixx/HG2P5fSbNpF2qFixx.png",
+      "thumbnailUrl": "https://archive.org/download/HG2P5fSbNpF2qFixx/HG2P5fSbNpF2qFixx.200px.png"
+    },
+    {
+      "mediaItemId": "NfjKBweuxQ23e7LFr",
+      "archiveUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.jpeg",
+      "thumbnailUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.200px.jpeg"
+    },
+    {
+      "mediaItemId": "QY3e4HLcDXy928XPF",
+      "archiveUrl": "https://archive.org/download/QY3e4HLcDXy928XPF/QY3e4HLcDXy928XPF.png",
+      "thumbnailUrl": "https://archive.org/download/QY3e4HLcDXy928XPF/QY3e4HLcDXy928XPF.200px.png"
+    },
+    {
+      "mediaItemId": "Xff6DPqc9jehM7c77",
+      "archiveUrl": "https://archive.org/download/Xff6DPqc9jehM7c77/Xff6DPqc9jehM7c77.png",
+      "thumbnailUrl": "https://archive.org/download/Xff6DPqc9jehM7c77/Xff6DPqc9jehM7c77.200px.png"
+    },
+    {
+      "mediaItemId": "qDRAuaNoi2Y82ozRj",
+      "archiveUrl": "https://archive.org/download/qDRAuaNoi2Y82ozRj/qDRAuaNoi2Y82ozRj.png",
+      "thumbnailUrl": "https://archive.org/download/qDRAuaNoi2Y82ozRj/qDRAuaNoi2Y82ozRj.200px.png"
+    },
+    {
+      "mediaItemId": "skLHDSEaPD6Tanbog",
+      "archiveUrl": "https://archive.org/download/skLHDSEaPD6Tanbog/skLHDSEaPD6Tanbog.png",
+      "thumbnailUrl": "https://archive.org/download/skLHDSEaPD6Tanbog/skLHDSEaPD6Tanbog.200px.png"
+    }
+  ],
   "HatHag": [
     {
       "mediaItemId": "47jvTTC4H5GSqZY8g",
@@ -27479,6 +27515,11 @@
       "mediaItemId": "yCavtaNmp3KHDYboD",
       "archiveUrl": "https://archive.org/download/yCavtaNmp3KHDYboD/yCavtaNmp3KHDYboD.png",
       "thumbnailUrl": "https://archive.org/download/yCavtaNmp3KHDYboD/yCavtaNmp3KHDYboD.200px.png"
+    },
+    {
+      "mediaItemId": "zZKZRQWNqZjTjkbHv",
+      "archiveUrl": "https://archive.org/download/zZKZRQWNqZjTjkbHv/zZKZRQWNqZjTjkbHv.png",
+      "thumbnailUrl": "https://archive.org/download/zZKZRQWNqZjTjkbHv/zZKZRQWNqZjTjkbHv.200px.png"
     }
   ],
   "KhakiLackey": [
@@ -38481,6 +38522,11 @@
       "thumbnailUrl": "https://archive.org/download/5J6RvGKjd45aKokS3/5J6RvGKjd45aKokS3.200px.png"
     },
     {
+      "mediaItemId": "anrGhYX6zQ8F9FqKM",
+      "archiveUrl": "https://archive.org/download/anrGhYX6zQ8F9FqKM/anrGhYX6zQ8F9FqKM.png",
+      "thumbnailUrl": "https://archive.org/download/anrGhYX6zQ8F9FqKM/anrGhYX6zQ8F9FqKM.200px.png"
+    },
+    {
       "mediaItemId": "qpMw8im26W6vE6ueL",
       "archiveUrl": "https://archive.org/download/qpMw8im26W6vE6ueL/qpMw8im26W6vE6ueL.png",
       "thumbnailUrl": "https://archive.org/download/qpMw8im26W6vE6ueL/qpMw8im26W6vE6ueL.200px.png"
@@ -39049,9 +39095,19 @@
       "thumbnailUrl": "https://archive.org/download/mYwdcu5hrmuij8r7L/mYwdcu5hrmuij8r7L.200px.jpeg"
     },
     {
+      "mediaItemId": "ojptgpFjmXB8mrfsh",
+      "archiveUrl": "https://archive.org/download/ojptgpFjmXB8mrfsh/ojptgpFjmXB8mrfsh.png",
+      "thumbnailUrl": "https://archive.org/download/ojptgpFjmXB8mrfsh/ojptgpFjmXB8mrfsh.200px.png"
+    },
+    {
       "mediaItemId": "yg6fABWcKa55FJwfB",
       "archiveUrl": "https://archive.org/download/yg6fABWcKa55FJwfB/yg6fABWcKa55FJwfB.png",
       "thumbnailUrl": "https://archive.org/download/yg6fABWcKa55FJwfB/yg6fABWcKa55FJwfB.200px.png"
+    },
+    {
+      "mediaItemId": "zJ3HPWEmah9x6KZbA",
+      "archiveUrl": "https://archive.org/download/zJ3HPWEmah9x6KZbA/zJ3HPWEmah9x6KZbA.png",
+      "thumbnailUrl": "https://archive.org/download/zJ3HPWEmah9x6KZbA/zJ3HPWEmah9x6KZbA.200px.png"
     }
   ],
   "PutridPepe": [
@@ -50110,6 +50166,7 @@
       "thumbnailUrl": "https://archive.org/download/7PL87j3vPhYzkdqhM/7PL87j3vPhYzkdqhM.200px.jpg"
     }
   ],
+  "TrumpFlagCape": [],
   "TrumpGoneGirl": [
     {
       "mediaItemId": "5TXP8csuqZw9Q6nsP",

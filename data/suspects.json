@@ -7988,9 +7988,9 @@
   {
     "actionsSummary": "Assaults officers at the rear of the West Plaza. Sprays them with an irritant before the retreat up to the West Terrace.",
     "alternateHashtags": [
-      "OhioStripes"
+      "OhioStripes #MPD40"
     ],
-    "appearanceSummary": "Camo coat. Flag gaiter. Buzz cut (almost bald). Wearing a backpack.",
+    "appearanceSummary": "White man with a very short buzz cut wearing a camo coat over a grey and blue striped top, a flag gaiter and wearing a backpack.",
     "arrestDate": "2021-03-17T04:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
@@ -7999,8 +7999,9 @@
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Clifford%20Mackrell%20Complaint.pdf",
     "compositeURL": "https://drive.google.com/file/d/1JLuTbgc6ydi4R9qrowdXKIoUwRckMOrT/view?usp=sharing",
     "fbiIdentifier": "124-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1u3yi1aqAnksJpgPUZ10D5-yGL0oLn7YP",
     "isLawEnforcement": false,
-    "isMpdSuspect": false,
+    "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
