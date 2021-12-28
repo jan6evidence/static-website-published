@@ -22934,7 +22934,7 @@
     "profileLeads": [
       "@JoceJoceJoe"
     ],
-    "realName": "RIDGE IV, Leonard Pearso",
+    "realName": "RIDGE IV, Leonard Pearson",
     "_id": "9TrVuHl4knf8"
   },
   {
@@ -23542,7 +23542,7 @@
     "_id": "8TzVp5hN4riw"
   },
   {
-    "actionsSummary": "Uses radio at end of Pennsylvania Walkway after breach. Then observed spraying mace on West Plaza at Metro PD. Radio may suggest bigger role.",
+    "actionsSummary": "Uses radio at end of Pennsylvania Walkway after breach. Then observed spraying mace on West Plaza at Metro PD. Strikes MPD with a metal whip on NW Lawn. Radio may suggest bigger role.",
     "alternateHashtags": [
       "Insider1324"
     ],
@@ -23553,6 +23553,7 @@
     "caseIdentifier": "1:21-mj-534",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1415156/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1SyAxOy0c3jPAOjoFeGf4ZenorBekDqNq",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -24767,13 +24768,17 @@
   },
   {
     "actionsSummary": "Pushed an officer.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1917",
+      "RabidChipmunk"
+    ],
     "appearanceSummary": "Arrested inside the Capitol Building at approximately 3:00pm on January \n6. Neither the Statement of Facts nor the Indictment for this case has \nany images of Council.",
     "arrestDate": "2021-01-07T05:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-207",
     "caseStatus": "Indicted",
+    "filesUrl": "https://drive.google.com/drive/folders/1reQbR7atUJXCHDajsWIoHjg2zH6F0r45?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -26690,6 +26695,21 @@
     "primaryHashtag": "NelsonPostThrower",
     "profileLeads": [],
     "_id": "sFjRD9MesplM"
+  },
+  {
+    "actionsSummary": "Participates in a group chasing/harassing media.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Large, older man with neon beanie, glasses, dark green jacket, gray pullover, and blue t-shirt. Tan strapped backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1Y0cuYciT9Ts-2scmh9Sjbm4PSrCiHxcd?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "NeonBean",
+    "profileLeads": [
+      "@OSINTyeti"
+    ],
+    "_id": "m3DxRQ36YkTU"
   },
   {
     "alternateHashtags": [],
@@ -37737,6 +37757,30 @@
     "_id": "2S8d2dkzIjuQ"
   },
   {
+    "alternateHashtags": [],
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1W2Og4rK0Jnd9mUOo-4ELevjETJ-LZ4Yk",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "ThugCoupleCamo",
+    "profileLeads": [],
+    "_id": "gIvua9f6gsyw"
+  },
+  {
+    "alternateHashtags": [
+      "Insider0984"
+    ],
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1Skz90s0oiG1bGsZwOHx8zaJQ3GLSN0zS",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "ThugCoupleHat",
+    "profileLeads": [],
+    "_id": "1ksiMD__QiFI"
+  },
+  {
     "actionsSummary": "Shown on video on the Lower West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Red and blue tie dyed T-shirt. denim shirt, and grey overcoat. Grey beanie. Brown cargo pants. American flag worn as a cape. Short brown beard. Large black framed glasses.",
@@ -39338,7 +39382,7 @@
     "_id": "YnApotQM0pjA"
   },
   {
-    "actionsSummary": "Sprayed police during West Plaza fight, making sure to point it up under their helmets. Inside Capitol.",
+    "actionsSummary": "Sprayed police on NW Lawn, making sure to point it up under their helmets. Inside Capitol.",
     "alternateHashtags": [
       "Insider1563",
       "FBI14A"
