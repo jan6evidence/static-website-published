@@ -49172,8 +49172,30 @@
       "thumbnailUrl": "https://archive.org/download/vudYFEjcqqBDGoLPP/vudYFEjcqqBDGoLPP.200px.png"
     }
   ],
-  "ThugCoupleCamo": [],
-  "ThugCoupleHat": [],
+  "ThugCoupleCamo": [
+    {
+      "mediaItemId": "HpME5whYe7Nqeds5D",
+      "archiveUrl": "https://archive.org/download/HpME5whYe7Nqeds5D/HpME5whYe7Nqeds5D.jpeg",
+      "thumbnailUrl": "https://archive.org/download/HpME5whYe7Nqeds5D/HpME5whYe7Nqeds5D.200px.jpeg"
+    },
+    {
+      "mediaItemId": "vDFCGQgG8munJ6tvf",
+      "archiveUrl": "https://archive.org/download/vDFCGQgG8munJ6tvf/vDFCGQgG8munJ6tvf.png",
+      "thumbnailUrl": "https://archive.org/download/vDFCGQgG8munJ6tvf/vDFCGQgG8munJ6tvf.200px.png"
+    }
+  ],
+  "ThugCoupleHat": [
+    {
+      "mediaItemId": "HpME5whYe7Nqeds5D",
+      "archiveUrl": "https://archive.org/download/HpME5whYe7Nqeds5D/HpME5whYe7Nqeds5D.jpeg",
+      "thumbnailUrl": "https://archive.org/download/HpME5whYe7Nqeds5D/HpME5whYe7Nqeds5D.200px.jpeg"
+    },
+    {
+      "mediaItemId": "punixw74WkK9nGJ9w",
+      "archiveUrl": "https://archive.org/download/punixw74WkK9nGJ9w/punixw74WkK9nGJ9w.png",
+      "thumbnailUrl": "https://archive.org/download/punixw74WkK9nGJ9w/punixw74WkK9nGJ9w.200px.png"
+    }
+  ],
   "TieDyePB": [
     {
       "mediaItemId": "Ed2j4RwQrhLKZbHiL",
