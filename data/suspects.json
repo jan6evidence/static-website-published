@@ -6293,7 +6293,9 @@
       "Insider1467"
     ],
     "appearanceSummary": "Larger guy, blue sweatshirt with grey sleeves, wears blue jeans.",
-    "associates": [],
+    "associates": [
+      "#GreyPuma"
+    ],
     "fbiIdentifier": "201-AOM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24399,6 +24401,7 @@
     "filesUrl": "https://drive.google.com/drive/folders/1jwD9vxC9yy0hQO9-KP39lazZJEgtYsWh?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -38047,7 +38050,8 @@
   {
     "actionsSummary": "Posted a selfie of himself on the gallery of the Senate to Facebook",
     "alternateHashtags": [
-      "Insider0609"
+      "Insider0609",
+      "AnthonyMariotto"
     ],
     "appearanceSummary": "Black coat",
     "arrestDate": "2021-01-21T05:00:00.000Z",
