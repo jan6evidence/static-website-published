@@ -4473,13 +4473,18 @@
     "_id": "YK1mXbrP8tYM"
   },
   {
-    "actionsSummary": "Attacks officers at scaffolding.",
+    "actionsSummary": "Attacks officers at NW scaffolding #GreyPuller.",
     "alternateHashtags": [],
     "appearanceSummary": "Wears beanie with logo associated a punk band, bright yellow gaiter.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BlueJogOff",
     "profileLeads": [],
     "_id": "HKy8SUNxcmRs"
@@ -16148,7 +16153,7 @@
     "_id": "XoSRO7PiAgMU"
   },
   {
-    "actionsSummary": "Involved in assault at scaffold area. Pulls officer.",
+    "actionsSummary": "Involved in assault at NW Scaffold area with #BlueJogOff. Pulls officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Red sneakers. Dark pants. Grey hoodie with Virginia Tech logo. Army/multicam cap with subdued American flag on front and Airborne tab on back. Gloves. Carries Trump flag.",
     "associates": [],
@@ -40080,7 +40085,7 @@
     "_id": "_wyCW85WMu3Y"
   },
   {
-    "actionsSummary": "Assaults police on the NW Lawn.",
+    "actionsSummary": "Shoves police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with collar-length reddish brown hair. White baseball cap with gold MAGA text on front over navy knit cap. Black jacket over a red shirt/sweatshirt (visible cuffs). Green plaid scarf. Black and grey backpack.",
     "associates": [
@@ -40089,9 +40094,16 @@
     "filesUrl": "https://drive.google.com/drive/folders/1r13zqakVGYiSArSaJmLU9HMyXKKR3bUw?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "WhiteCapBuddy",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "odAxrZLJwsGM"
   },
   {
