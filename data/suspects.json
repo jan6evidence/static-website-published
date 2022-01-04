@@ -6158,26 +6158,6 @@
     "_id": "IR57Ns7ewr0w"
   },
   {
-    "actionsSummary": "Uses broomstick/wooden flagpole on police on NW Lawn.",
-    "alternateHashtags": [],
-    "appearanceSummary": "White man with a buzz cut wearing a gasmask that straps over his head, a black top, blue jeans, brown shoes and a blue backpack with black detailing and blue and black straps.",
-    "associates": [],
-    "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "BuzzcutAndBroomstick",
-    "profileLeads": [
-      "@PhoenixOnWheels"
-    ],
-    "_id": "Y2tdmQRqggbA"
-  },
-  {
     "actionsSummary": "Seen on NW side with son (CranberryOaf aka Grady Owens). FIghts police on NW Lawn",
     "alternateHashtags": [
       "Insider2144"
@@ -8660,6 +8640,25 @@
     "primaryHashtag": "CountPlaidula",
     "profileLeads": [],
     "_id": "SnLCXshc4qqM"
+  },
+  {
+    "alternateHashtags": [],
+    "appearanceSummary": "Backwards black baseball cap. Short brown (?) hair. Dark sunglasses with oval-shaped lenses, sometimes worn over his eyes but sometimes sitting up on the hat. Bright yellow gaiter around the lower half ov his face. Dark gray  jacket with a standing collar and black, center zipper. The bottom half of each sleeve is black. Backpack with black straps and a black cross-strap. Small brown logo or patch at the bottom of the left breast. Seen using a cellphone outside the Capitol.",
+    "associates": [
+      "#HakalaPB"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1RoNbEiU5hka1ay2bJ39-Ooi5dHEZsYz0?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      }
+    ],
+    "primaryHashtag": "CountryBoyPB",
+    "profileLeads": [],
+    "_id": "SFo_cm2Nglw8"
   },
   {
     "actionsSummary": "Stood on the west steps, led crowd in a prayer via a bullhorn. Founder of \"Cowboys for Trump\", attended rally/riot with Matt Struck",
@@ -16595,6 +16594,25 @@
       "@RzstProgramming"
     ],
     "_id": "Ktqq1sIREgpo"
+  },
+  {
+    "alternateHashtags": [],
+    "appearanceSummary": "Dark hair cut in a high-and-tight style. Sometimes seen wearing a green helmet that has a large, clear visor. Other times seen with a yellow knit hat with the Gadsden snake on it. Also sometimes wears a plastic facemask that looks like Deadpool's but with larger eyeholes. Scarf around his neck that is cream-colored or pale green and has a black and white tire-tread pattern. Wears a bulky black hoodie with yellow logos from Grunt Style. This appears to be over a long-sleeve shirt that has yellow cuffs. Desert camo tactical vest. The front of the vest has a small black and gray patch his right, a black and gray U.S. flag in the middle, and a yellow Gadsden flag on his left. Heavy-duty black gloves with reinforced knuckles and heels. One photo that was not at the Capitol also shows him wearing on his left wrist a wide leather bracelet with two round, metallic features.",
+    "associates": [
+      "#CountryBoyPB"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1l0gWJCZwi-2YqhPApGcYBQFWf3SjZlMf?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      }
+    ],
+    "primaryHashtag": "HakalaPB",
+    "profileLeads": [],
+    "_id": "5f4PMO3owiSQ"
   },
   {
     "actionsSummary": "Assaults police. Moves with group to assist #BlueFightSpecial in altercation with police.",
@@ -37674,7 +37692,8 @@
   {
     "actionsSummary": "In gasmask on NW Lawn pushing police with a broomstick/flagpole. Photographed in the Capitol Building making an obscene statement in front of a statute of John Stark.",
     "alternateHashtags": [
-      "Insider1572"
+      "Insider1572",
+      "BuzzcutAndBroomstick"
     ],
     "appearanceSummary": "White man with a receding hairline and buzz cut wearing a gasmask that straps over his head, a navy blue long sleeve shirt, blue jeans, brown shoes, a grey knit cap and a blue backpack with black detailing and blue and black straps.",
     "arrestDate": "2021-01-12T05:00:00.000Z",
@@ -37684,6 +37703,7 @@
     ],
     "caseIdentifier": "1:21-cr-34",
     "caseStatus": "Indicted",
+    "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Army",
@@ -37694,7 +37714,9 @@
       }
     ],
     "primaryHashtag": "ThomasRobertson",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "lo8PN_pgkln0"
   },
   {
