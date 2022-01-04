@@ -3832,7 +3832,7 @@
     "arrestState": "NJ",
     "associates": [],
     "caseIdentifier": "1:21-mj-276",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ezekiel%20Stecher%20Statement%20of%20Facts_Redacted.pdf",
     "compositeURL": "https://drive.google.com/file/d/1TrCuSly-LEhlGWz42n4HV_EYGb_H1w1B/view?usp=sharing",
     "fbiIdentifier": "118-AFO",
@@ -11340,7 +11340,7 @@
       "#RedStatueStander"
     ],
     "caseIdentifier": "1:21-cr-282",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -11462,7 +11462,7 @@
       "#EliasIrizarry"
     ],
     "caseIdentifier": "1:21-cr-282",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bishai-elliot",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -31442,7 +31442,7 @@
     "arrestState": "NC",
     "associates": [],
     "caseIdentifier": "1:21-cr-282",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Grayson%20Sherrill%20Criminal%20Complaint.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1EvVJL3GCHlfpcccuz1xGqHhNbExzi1xL",
     "isLawEnforcement": false,
@@ -37672,11 +37672,11 @@
     "_id": "Q2rhxxPtUhL4"
   },
   {
-    "actionsSummary": "photographed in the Capitol Building making an obscene statement in front of a statute of John Stark",
+    "actionsSummary": "In gasmask on NW Lawn pushing police with a broomstick/flagpole. Photographed in the Capitol Building making an obscene statement in front of a statute of John Stark.",
     "alternateHashtags": [
       "Insider1572"
     ],
-    "appearanceSummary": "Navy blue long-sleeve shirt, backpack, grey skull cap",
+    "appearanceSummary": "White man with a receding hairline and buzz cut wearing a gasmask that straps over his head, a navy blue long sleeve shirt, blue jeans, brown shoes, a grey knit cap and a blue backpack with black detailing and blue and black straps.",
     "arrestDate": "2021-01-12T05:00:00.000Z",
     "arrestState": "VA",
     "associates": [
@@ -37686,6 +37686,7 @@
     "caseStatus": "Indicted",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
