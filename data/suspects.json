@@ -3569,7 +3569,7 @@
     "_id": "_Er_JgzxgtRE"
   },
   {
-    "actionsSummary": "Knocked down police barricade on the Capitol Plaza, entered the Capitol (the first at the NW breach) and took a fire extinguisher from its cabinet.  May be more important.",
+    "actionsSummary": "Knocked down police barricade on the Upper West Plaza, entered the Capitol (the first at the NW breach) and took a fire extinguisher from its cabinet.  May be more important.",
     "alternateHashtags": [
       "Insider1079"
     ],
@@ -3581,6 +3581,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "behavior",
@@ -41512,7 +41516,7 @@
     "_id": "qq2oQjrQsiF4"
   },
   {
-    "actionsSummary": "Known leader of NC Proud Boys. Not seen giving orders at Capitol, but seen charging up the upper levels of the NW Capitol steps during breach rush.",
+    "actionsSummary": "Known leader of NC Proud Boys. Not seen giving orders at Capitol, but seen charging up the upper levels of the NW Capitol steps during breach rush. Threw something at police on Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Black leather coat with aviator style collar. Brown knit hat. Long ginger blonde beard and mustache. Long blonde ponytail.",
     "arrestDate": "2021-03-17T04:00:00.000Z",
