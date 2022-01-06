@@ -18982,6 +18982,7 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1353461/download",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "National Guard",
     "otherTags": [
       {
         "type": "behavior",
@@ -31957,6 +31958,32 @@
     "profileLeads": [],
     "realName": "SCHORNAK, Robert",
     "_id": "go0-GtmlEoAw"
+  },
+  {
+    "actionsSummary": "Inside Capitol. Searched by police and told to leave. Re-entered Capitol and urinated on a column.",
+    "alternateHashtags": [
+      "Insider0774"
+    ],
+    "appearanceSummary": "Older white man with grey hair and a grey mustache wearing a dark blue coat or sweatshirt, black knit cap and a light blue cooler worn crossbody.",
+    "arrestDate": "2022-01-05T05:00:00.000Z",
+    "arrestState": "AR",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00705-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Snow%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/12lhHdsNA-XWgoV4Jt59uvUBmoYLrMWzU?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RobertSnow",
+    "profileLeads": [],
+    "realName": "SNOW, Robert \"Bob\" Thomas",
+    "_id": "iBFYtX6AEkhY"
   },
   {
     "alternateHashtags": [
