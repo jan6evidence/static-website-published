@@ -41272,7 +41272,53 @@
       "thumbnailUrl": "https://archive.org/download/PCkbmeTLQ2MTYgyKf/PCkbmeTLQ2MTYgyKf.200px.jpg"
     }
   ],
-  "RobertSnow": [],
+  "RobertSnow": [
+    {
+      "mediaItemId": "4RjQaifKy2QatBypi",
+      "archiveUrl": "https://archive.org/download/4RjQaifKy2QatBypi/4RjQaifKy2QatBypi.png",
+      "thumbnailUrl": "https://archive.org/download/4RjQaifKy2QatBypi/4RjQaifKy2QatBypi.200px.png"
+    },
+    {
+      "mediaItemId": "56rM3pyDQo7kCs8AZ",
+      "archiveUrl": "https://archive.org/download/56rM3pyDQo7kCs8AZ/56rM3pyDQo7kCs8AZ.png",
+      "thumbnailUrl": "https://archive.org/download/56rM3pyDQo7kCs8AZ/56rM3pyDQo7kCs8AZ.200px.png"
+    },
+    {
+      "mediaItemId": "8vJSNppdersZEseMT",
+      "archiveUrl": "https://archive.org/download/8vJSNppdersZEseMT/8vJSNppdersZEseMT.png",
+      "thumbnailUrl": "https://archive.org/download/8vJSNppdersZEseMT/8vJSNppdersZEseMT.200px.png"
+    },
+    {
+      "mediaItemId": "B6wzgKoiRpTAosYeu",
+      "archiveUrl": "https://archive.org/download/B6wzgKoiRpTAosYeu/B6wzgKoiRpTAosYeu.png",
+      "thumbnailUrl": "https://archive.org/download/B6wzgKoiRpTAosYeu/B6wzgKoiRpTAosYeu.200px.png"
+    },
+    {
+      "mediaItemId": "NM7bokaYQdDigofjp",
+      "archiveUrl": "https://archive.org/download/NM7bokaYQdDigofjp/NM7bokaYQdDigofjp.png",
+      "thumbnailUrl": "https://archive.org/download/NM7bokaYQdDigofjp/NM7bokaYQdDigofjp.200px.png"
+    },
+    {
+      "mediaItemId": "eCCHEmJsvRuP558jm",
+      "archiveUrl": "https://archive.org/download/eCCHEmJsvRuP558jm/eCCHEmJsvRuP558jm.png",
+      "thumbnailUrl": "https://archive.org/download/eCCHEmJsvRuP558jm/eCCHEmJsvRuP558jm.200px.png"
+    },
+    {
+      "mediaItemId": "jf6e6tgSMm7Np9SpE",
+      "archiveUrl": "https://archive.org/download/jf6e6tgSMm7Np9SpE/jf6e6tgSMm7Np9SpE.png",
+      "thumbnailUrl": "https://archive.org/download/jf6e6tgSMm7Np9SpE/jf6e6tgSMm7Np9SpE.200px.png"
+    },
+    {
+      "mediaItemId": "n7pa5MBTbkjpr6H9D",
+      "archiveUrl": "https://archive.org/download/n7pa5MBTbkjpr6H9D/n7pa5MBTbkjpr6H9D.png",
+      "thumbnailUrl": "https://archive.org/download/n7pa5MBTbkjpr6H9D/n7pa5MBTbkjpr6H9D.200px.png"
+    },
+    {
+      "mediaItemId": "wRFWcReMEaRhYuXNL",
+      "archiveUrl": "https://archive.org/download/wRFWcReMEaRhYuXNL/wRFWcReMEaRhYuXNL.png",
+      "thumbnailUrl": "https://archive.org/download/wRFWcReMEaRhYuXNL/wRFWcReMEaRhYuXNL.200px.png"
+    }
+  ],
   "RobertWestbury": [
     {
       "mediaItemId": "xA2bLsZSWm9NEzGxa",
