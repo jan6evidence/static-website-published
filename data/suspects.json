@@ -15595,7 +15595,7 @@
     "_id": "59vGWFQc4mSI"
   },
   {
-    "actionsSummary": "Used chemical spray on police near tunnel",
+    "actionsSummary": "Used chemical spray on police on the Upper West Plaza and on the Lower West Terrace near the Tunnel.",
     "alternateHashtags": [
       "BlackHatSprayerFriend"
     ],
@@ -36086,22 +36086,29 @@
     "_id": "jYv3fhWBsjEw"
   },
   {
-    "actionsSummary": "Seen inside Capitol",
+    "actionsSummary": "Shoves LEOs on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [
       "Insider0862"
     ],
     "appearanceSummary": "Black knit cap from Carhartt. Clear swim goggles with a blue bridge between the lenses. Dark camo gaiter. Dark clothing.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1XMq755JGauEzf3VGa1sQQtS3LIukn77r",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "SwimSquadInsider",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "SojC2J3O0pYE"
   },
   {
