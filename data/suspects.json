@@ -14749,6 +14749,27 @@
     "_id": "bK-IgG8MEo2E"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1423",
+      "GrayGoose"
+    ],
+    "appearanceSummary": "Tall man in white Adidas cap, grey gaiter, grey jacket. Carried stolen police shield.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/10kQIWXFxkOmYxGLFBNBdLMpE0gbyZ_23?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "GooseInGrey",
+    "profileLeads": [],
+    "_id": "LAqyxwg7AkMM"
+  },
+  {
     "actionsSummary": "Enters Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Black hat, jacket, and gloves. Red zip-up hoodie. Tan pants. Grey/black shoes. Carries Gadsden flag on white pole.",
