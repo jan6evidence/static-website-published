@@ -681,6 +681,32 @@
     "_id": "AwBQQK3yIsaY"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1194"
+    ],
+    "appearanceSummary": "White man wearing  wearing a toboggan-style hat with “TRUMP” written in white letters and a white, round emblem on the front of the hat, a navy blue and maroon scarf with white lettering, and a dark vest over a light colored hoodie.",
+    "arrestDate": "2022-01-11T05:00:00.000Z",
+    "arrestState": "",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00003-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238869/gov.uscourts.dcd.238869.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1ApildIz45loZVOphNOIaa1Xeze9cFJwx?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AndrewGalloway",
+    "profileLeads": [],
+    "realName": "GALLOWAY, Andrew James",
+    "_id": "GoVCssE5UjbA"
+  },
+  {
     "actionsSummary": "Enters the Capitol with the crowd at about 2:36 pm, goes up the stairs, hugs an individual, and proceeds down a hallway.",
     "alternateHashtags": [
       "Insider1501"
@@ -19179,6 +19205,39 @@
     "_id": "ODoNWXN3wg8U"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black hoodie with a red-lined hood and\ngray sleeves, a camouflage vest, a dark baseball hat with \"Iraqi Freedom Veteran\" in yellow worn backwards, a camouflage gaiter, sunglasses and a radio carrying a blue South Carolina State flag with a US Marine Corps logo attached to it.",
+    "arrestDate": "2022-01-06T05:00:00.000Z",
+    "arrestState": "TN",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00001-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Wayne%20Brooks%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1DbtPFO0lQhp_7TDFM8o1mjszv27yGUYX?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "EarpieceOrRadio"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "JamesBrooks",
+    "profileLeads": [],
+    "realName": "BROOKS, James Wayne",
+    "_id": "SCSzqkmesjp8"
+  },
+  {
     "actionsSummary": "Despite being a pastor of a Florida church, he joined a mob and trespassed on the U.S. Capitol through the NW Door, where he joined the mob in disrupting the orderly conduct of Government business.",
     "alternateHashtags": [
       "Insider0307"
@@ -27005,6 +27064,30 @@
     "_id": "2pWV5nLowstA"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2339"
+    ],
+    "appearanceSummary": "White man with brown hair and beard wearing a brown cowboy hat with a gold Burger King paper crown around it, a brown jacket, a blue and red plaid shirt, and a white flag with black lettering tied around his shoulders like a cape. The flag says “An Appeal to Heaven” in black lettering and has a green tree on it.",
+    "arrestDate": "2022-01-11T05:00:00.000Z",
+    "arrestState": "DE",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00005-GMH",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1GZ5gDapKVehYr1huZszTpr9YRxAkK5uC?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "NicholasLattanzi",
+    "profileLeads": [],
+    "_id": "V0jc9g-bMieU"
+  },
+  {
     "actionsSummary": "Entered capitol",
     "alternateHashtags": [
       "Insider1244"
@@ -28896,7 +28979,7 @@
       "Insider0340"
     ],
     "appearanceSummary": "White man wearing black overalls over a light grey or white hoodie and a red baseball cap.",
-    "arrestDate": "2022-01-10T05:00:00.000Z",
+    "arrestDate": "2021-12-17T05:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-mj-00679-GMH",
@@ -28922,7 +29005,7 @@
       "insider0345"
     ],
     "appearanceSummary": "White man wearing a dark-colored jacket, jeans and knit ski-type cap.",
-    "arrestDate": "2022-01-10T05:00:00.000Z",
+    "arrestDate": "2021-12-17T05:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-mj-00679-GMH",
@@ -37864,12 +37947,17 @@
     "_id": "lo8PN_pgkln0"
   },
   {
+    "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
       "Insider0846"
     ],
+    "appearanceSummary": "White man wearing  wearing a gray jacket with a hood, a red baseball cap, a red winter hat that said “Trump” and a t-shirt that appears to say “Stop the Steal.”",
     "arrestDate": "2022-01-10T05:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00004-GMH",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238926/gov.uscourts.dcd.238926.1.1_1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/16ax_ZVe0WYtoGbmwjmydOqlTz-mCsePy?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -37881,6 +37969,7 @@
     ],
     "primaryHashtag": "ThomasUberto",
     "profileLeads": [],
+    "realName": "UBERTO, Thomas",
     "_id": "SVyesIeLwt7Q"
   },
   {

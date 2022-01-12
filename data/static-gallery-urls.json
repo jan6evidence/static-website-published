@@ -862,6 +862,7 @@
       "thumbnailUrl": "https://archive.org/download/RK8mmHGg3nzTX6Ggk/RK8mmHGg3nzTX6Ggk.200px.png"
     }
   ],
+  "AndrewGalloway": [],
   "AndrewGriswold": [
     {
       "mediaItemId": "P78FNmpwYuCc23Qvj",
@@ -25467,6 +25468,7 @@
       "thumbnailUrl": "https://archive.org/download/j9r9knQrfS9DyvNaL/j9r9knQrfS9DyvNaL.200px.png"
     }
   ],
+  "JamesBrooks": [],
   "JamesCusick": [
     {
       "mediaItemId": "NhWjwLsAReqx6prtX",
@@ -26345,6 +26347,7 @@
       "thumbnailUrl": "https://archive.org/download/hxKRuFnYpiwMbopXt/hxKRuFnYpiwMbopXt.200px.jpg"
     }
   ],
+  "JohnCameron": [],
   "JohnEarlSullivan": [
     {
       "mediaItemId": "ith2erJnaFxetRHNx",
@@ -36716,6 +36719,8 @@
       "thumbnailUrl": "https://archive.org/download/iGcnQWT2Erzmiuzpv/iGcnQWT2Erzmiuzpv.200px.jpg"
     }
   ],
+  "PaulSeymourJr": [],
+  "PaulSeymourSr": [],
   "PaulSpigelmyer": [
     {
       "mediaItemId": "AWWHQAzDGWEmFhm6H",
@@ -46864,6 +46869,26 @@
       "mediaItemId": "E9DsvyrgXGR73zvdB",
       "archiveUrl": "https://archive.org/download/E9DsvyrgXGR73zvdB/E9DsvyrgXGR73zvdB.jpeg",
       "thumbnailUrl": "https://archive.org/download/E9DsvyrgXGR73zvdB/E9DsvyrgXGR73zvdB.200px.jpeg"
+    },
+    {
+      "mediaItemId": "J65FQvyDXZFJesLid",
+      "archiveUrl": "https://archive.org/download/J65FQvyDXZFJesLid/J65FQvyDXZFJesLid.png",
+      "thumbnailUrl": "https://archive.org/download/J65FQvyDXZFJesLid/J65FQvyDXZFJesLid.200px.png"
+    },
+    {
+      "mediaItemId": "KEkGJnrTwdywiigji",
+      "archiveUrl": "https://archive.org/download/KEkGJnrTwdywiigji/KEkGJnrTwdywiigji.png",
+      "thumbnailUrl": "https://archive.org/download/KEkGJnrTwdywiigji/KEkGJnrTwdywiigji.200px.png"
+    },
+    {
+      "mediaItemId": "KoNQkATkpX2Gwvb4p",
+      "archiveUrl": "https://archive.org/download/KoNQkATkpX2Gwvb4p/KoNQkATkpX2Gwvb4p.png",
+      "thumbnailUrl": "https://archive.org/download/KoNQkATkpX2Gwvb4p/KoNQkATkpX2Gwvb4p.200px.png"
+    },
+    {
+      "mediaItemId": "STw6n4Wwp8aoampiy",
+      "archiveUrl": "https://archive.org/download/STw6n4Wwp8aoampiy/STw6n4Wwp8aoampiy.png",
+      "thumbnailUrl": "https://archive.org/download/STw6n4Wwp8aoampiy/STw6n4Wwp8aoampiy.200px.png"
     }
   ],
   "SwimmerSmash": [
@@ -49426,6 +49451,7 @@
       "thumbnailUrl": "https://archive.org/download/yQiAPLT7XHaDX5Ftj/yQiAPLT7XHaDX5Ftj.200px.png"
     }
   ],
+  "ThomasUberto": [],
   "ThomasVinson": [
     {
       "mediaItemId": "JfGiQ7nBxXTbq8jYJ",
