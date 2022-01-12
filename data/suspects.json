@@ -3551,6 +3551,7 @@
       "#WhiteDeathHoodie",
       "#MAGAManInBlack"
     ],
+    "caseStatus": "Deceased Before Trial",
     "compositeURL": "https://drive.google.com/file/d/1BmHmK_AdE2UNupZzOviB2F6tfAbf7kHN/view?usp=sharing",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1UrI8gVHmPtFHn4e7KqgwE8spVyfI2dlIq5PhWw3FY-A/edit?usp=sharing",
     "idStatus": "ID sent to FBI",
@@ -20310,6 +20311,32 @@
     "_id": "oDdhxmuxgjos"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1636"
+    ],
+    "appearanceSummary": "Middle-aged man wearing a red baseball cap with white \"Make America Great Again\" lettering, a black hooded sweatshirt covered by a white t-shirt bearing the words \"COUNT ALL LEGAL VOTES,\" a green\nvest, backpack, and an American flag cape",
+    "arrestDate": "2022-01-06T05:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00690-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21174426/12-10-21-us-v-john-cameron-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/18OmJDDTjIqwqcIBirypHJUbMPXYVT1Jb?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JohnCameron",
+    "profileLeads": [],
+    "realName": "CAMERON, John C.",
+    "_id": "cExJmHi-IuUU"
+  },
+  {
     "actionsSummary": "Entered through a broken window. Went into Speaker's Lobby in the Capitol. Recorded footage as the crowd went through the Capitol. Captured shooting of Ashli Babbit on video. Posted videos on his YouTube channel as \"Jayden X\"",
     "alternateHashtags": [
       "Insider1532"
@@ -28862,6 +28889,58 @@
     "profileLeads": [],
     "realName": "BAUER, Pauline",
     "_id": "qXm9WJw_ksY0"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider0340"
+    ],
+    "appearanceSummary": "White man wearing black overalls over a light grey or white hoodie and a red baseball cap.",
+    "arrestDate": "2022-01-10T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00679-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21176339/12-3-21-us-v-paul-seymour-jr-paul-seymour-sr-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1wD0RZweqaofrvkYKRSRKOGw2_fhtiAsC?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PaulSeymourJr",
+    "profileLeads": [],
+    "realName": "SEYMOUR, Paul Lee Jr.",
+    "_id": "A0y2apgCAvN4"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "insider0345"
+    ],
+    "appearanceSummary": "White man wearing a dark-colored jacket, jeans and knit ski-type cap.",
+    "arrestDate": "2022-01-10T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseIdentifier": "1:21-mj-00679-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21176339/12-3-21-us-v-paul-seymour-jr-paul-seymour-sr-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1buUTMQ9m3NQMtQBdn8dcpmkxlxILsU_3?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PaulSeymourSr",
+    "profileLeads": [],
+    "realName": "SEYMOUR, Paul Lee Sr.",
+    "_id": "YldBf1vbsnN8"
   },
   {
     "actionsSummary": "Entered Capitol from the East side. Posted pictures from inside the Rotunda on social media.",
@@ -37783,6 +37862,26 @@
       "@PhoenixOnWheels"
     ],
     "_id": "lo8PN_pgkln0"
+  },
+  {
+    "alternateHashtags": [
+      "Insider0846"
+    ],
+    "arrestDate": "2022-01-10T05:00:00.000Z",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/16ax_ZVe0WYtoGbmwjmydOqlTz-mCsePy?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ThomasUberto",
+    "profileLeads": [],
+    "_id": "SVyesIeLwt7Q"
   },
   {
     "actionsSummary": "Entered the Capitol and was seen in the 1st Floor corridor",
