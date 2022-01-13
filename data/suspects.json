@@ -14259,11 +14259,12 @@
     "_id": "pvrr-pDZ0pdA"
   },
   {
-    "actionsSummary": "Carrying a handgun. Seen in North Scaffolding after some protestors have entered capitol, gets hit by a rubber bullet.",
+    "actionsSummary": "Carrying a Sig Sauer P320 semiautomatic pistol. Seen in North Scaffolding after some protestors have entered capitol, gets hit by a rubber bullet.",
     "alternateHashtags": [],
     "appearanceSummary": "Denim coat with sherpa collar, tan concealed-carry handgun and an earpiece, bandana has names of 2 towns in Colorado, Buena Vista and Salida. Metal flagpole w blk/wht flag. Hat is Farm Boy Farm Girl brand, sold at Murdoch Ranch Supply in Salida, Co\r\n. Bandana was designed and given away for free by Chaffee County Chamber of Commerce",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1Z4R-_QdB7ChEGMoDh6n9UqcFoog6gezQ/view?usp=sharing",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -19211,7 +19212,9 @@
   },
   {
     "actionsSummary": "Entered Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2340"
+    ],
     "appearanceSummary": "White man wearing a black hoodie with a red-lined hood and\ngray sleeves, a camouflage vest, a dark baseball hat with \"Iraqi Freedom Veteran\" in yellow worn backwards, a camouflage gaiter, sunglasses and a radio carrying a blue South Carolina State flag with a US Marine Corps logo attached to it.",
     "arrestDate": "2022-01-06T05:00:00.000Z",
     "arrestState": "TN",
@@ -25815,7 +25818,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-96",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -35650,6 +35653,19 @@
     "profileLeads": [],
     "realName": "THURLOW, Steven",
     "_id": "ifwfFzjgwlsU"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark hair and beard that grows up his cheeks wearing a black vest with a GoPro on the front over an olive green top, an olive green kerchief tied around his neck, a dark baseball cap and mirrored sunglasses carrying a black and white flag on a PVC pole.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1pmfGYJLC2mahcdoAN8OVoWPY_ihCywFJ?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "StihlGreenGuy",
+    "profileLeads": [],
+    "_id": "3AGoki7fonRg"
   },
   {
     "actionsSummary": "involved in tunnel fight, stole a Capitol Police helmet from a downed officer. At one point hugs #BullhornLady",

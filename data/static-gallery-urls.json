@@ -34328,7 +34328,53 @@
       "thumbnailUrl": "https://archive.org/download/c5JBrfqeYpSrv6ozg/c5JBrfqeYpSrv6ozg.200px.png"
     }
   ],
-  "NicholasLattanzi": [],
+  "NicholasLattanzi": [
+    {
+      "mediaItemId": "6xAk5vLZFXAYTTLtz",
+      "archiveUrl": "https://archive.org/download/6xAk5vLZFXAYTTLtz/6xAk5vLZFXAYTTLtz.png",
+      "thumbnailUrl": "https://archive.org/download/6xAk5vLZFXAYTTLtz/6xAk5vLZFXAYTTLtz.200px.png"
+    },
+    {
+      "mediaItemId": "8P7A8C9E6TN9iyhdn",
+      "archiveUrl": "https://archive.org/download/8P7A8C9E6TN9iyhdn/8P7A8C9E6TN9iyhdn.png",
+      "thumbnailUrl": "https://archive.org/download/8P7A8C9E6TN9iyhdn/8P7A8C9E6TN9iyhdn.200px.png"
+    },
+    {
+      "mediaItemId": "C3XtnJMopQJFrhfuw",
+      "archiveUrl": "https://archive.org/download/C3XtnJMopQJFrhfuw/C3XtnJMopQJFrhfuw.png",
+      "thumbnailUrl": "https://archive.org/download/C3XtnJMopQJFrhfuw/C3XtnJMopQJFrhfuw.200px.png"
+    },
+    {
+      "mediaItemId": "Ek8oXAWZ3uSsmmrWv",
+      "archiveUrl": "https://archive.org/download/Ek8oXAWZ3uSsmmrWv/Ek8oXAWZ3uSsmmrWv.png",
+      "thumbnailUrl": "https://archive.org/download/Ek8oXAWZ3uSsmmrWv/Ek8oXAWZ3uSsmmrWv.200px.png"
+    },
+    {
+      "mediaItemId": "FBRaJ9cavad38Rb2C",
+      "archiveUrl": "https://archive.org/download/FBRaJ9cavad38Rb2C/FBRaJ9cavad38Rb2C.png",
+      "thumbnailUrl": "https://archive.org/download/FBRaJ9cavad38Rb2C/FBRaJ9cavad38Rb2C.200px.png"
+    },
+    {
+      "mediaItemId": "HS5fAZYf3Zj8EJSY7",
+      "archiveUrl": "https://archive.org/download/HS5fAZYf3Zj8EJSY7/HS5fAZYf3Zj8EJSY7.png",
+      "thumbnailUrl": "https://archive.org/download/HS5fAZYf3Zj8EJSY7/HS5fAZYf3Zj8EJSY7.200px.png"
+    },
+    {
+      "mediaItemId": "PyAWGX8yWSkdLyhbm",
+      "archiveUrl": "https://archive.org/download/PyAWGX8yWSkdLyhbm/PyAWGX8yWSkdLyhbm.png",
+      "thumbnailUrl": "https://archive.org/download/PyAWGX8yWSkdLyhbm/PyAWGX8yWSkdLyhbm.200px.png"
+    },
+    {
+      "mediaItemId": "RNcHnrxFitiHeDFFu",
+      "archiveUrl": "https://archive.org/download/RNcHnrxFitiHeDFFu/RNcHnrxFitiHeDFFu.png",
+      "thumbnailUrl": "https://archive.org/download/RNcHnrxFitiHeDFFu/RNcHnrxFitiHeDFFu.200px.png"
+    },
+    {
+      "mediaItemId": "RfzdnCWHmvvFnqYBA",
+      "archiveUrl": "https://archive.org/download/RfzdnCWHmvvFnqYBA/RfzdnCWHmvvFnqYBA.png",
+      "thumbnailUrl": "https://archive.org/download/RfzdnCWHmvvFnqYBA/RfzdnCWHmvvFnqYBA.200px.png"
+    }
+  ],
   "NicholasPerretta": [
     {
       "mediaItemId": "EgZjJs4CQrzBLfs3R",
