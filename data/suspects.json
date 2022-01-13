@@ -11816,6 +11816,7 @@
     "_id": "xyiYPpNp8kIw"
   },
   {
+    "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Greyish blue long-sleeve shirt. Grey padded vest with hood. Grey and black flag neck gaiter. Blue headband with stars. Sunglasses. Tactical vest with patches that include one that says \"Embrace the Suck\". Radio clipped to his vest.",
     "associates": [],
@@ -11825,6 +11826,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "behavior",
@@ -36732,6 +36737,7 @@
     "_id": "BMysMJpgkmJk"
   },
   {
+    "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Red baseball cap with white writing on the front. Black hair in a crew cut. Mustache? Black earloop face mask. Tan coat over a black shirt with writing on the front. Also beneath the coat is a backpack, and you can see the black straps and cross-strap in front where the parka is unzipped. Black fingerless gloves. Camo pants. Light brown shoes or boots.",
     "associates": [],
@@ -36741,6 +36747,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "TanParkaPB",
