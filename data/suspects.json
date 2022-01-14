@@ -1933,9 +1933,14 @@
     "actionsSummary": "Photographed with mob fighting Capitol Police.",
     "alternateHashtags": [],
     "appearanceSummary": "Heavier set man. Black marines cap. Grey hooded sweatshirt and jeans. Brown or tan work gloves. Camo face mask.",
+    "arrestDate": "2022-01-13T05:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:22-cr-00011-RJL",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239182/gov.uscourts.dcd.239182.1.0.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "group",
@@ -1948,6 +1953,7 @@
     ],
     "primaryHashtag": "BadMarinePB",
     "profileLeads": [],
+    "realName": "RAJEWSKI, Dion",
     "_id": "6FWWaBinQmjg"
   },
   {
@@ -14566,12 +14572,17 @@
     "_id": "WPJWZk_pwli0"
   },
   {
-    "actionsSummary": "Observed near tunnel fight. Frequent white power gestures.",
+    "actionsSummary": "Observed near tunnel fight. Pepper sprayed a cop. Frequent white power gestures.",
     "alternateHashtags": [],
     "appearanceSummary": "Patch on left arm reads \"Infidel\". Patch on right arm reads \"White\". Not wearing goggles near tunnel.",
+    "arrestDate": "2022-01-13T05:00:00.000Z",
+    "arrestState": "FL",
     "associates": [
       "#RayBanTerrorist"
     ],
+    "caseIdentifier": "1:22-cr-00011-RJL",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239182/gov.uscourts.dcd.239182.1.0.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -14580,12 +14591,21 @@
         "name": "ProudBoys"
       },
       {
+        "type": "group",
+        "name": "ProudBoysFlorida"
+      },
+      {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
       }
     ],
     "primaryHashtag": "GogglesMan",
     "profileLeads": [],
+    "realName": "JOHNSON, Zachary",
     "_id": "zzUxBnW5wlm8"
   },
   {
@@ -18414,13 +18434,19 @@
     "actionsSummary": "Meets with Oathkeepers on East Plaza",
     "alternateHashtags": [],
     "appearanceSummary": "Black cowboy hat, sunglasses, black bandana, gray-green jacket, blue jeans",
+    "arrestDate": "2022-01-13T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/opa/press-release/file/1462481/download",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [],
     "primaryHashtag": "IAmStewartRhodes",
     "profileLeads": [],
+    "realName": "RHODES, Stewart",
     "_id": "EUnzDyCforfQ"
   },
   {
@@ -30055,13 +30081,18 @@
     "actionsSummary": "Per his Parler account (@playboythebeast), took a carload of people to the protest; hopped over railing after witnessing assault on media.",
     "alternateHashtags": [],
     "appearanceSummary": "Red KAG knit cap. Black bandana with white designs over his face. Gold chain with a medallion on the end that has a circle around two crossed knives and the letters \"M M.\" Black, short-sleeve t-shirt with a large, white design on the front. The left side (from our perspective) is half of a skull, and the right side is stylized writing that says \"Built to\" and \"...AZEE.\" The back of the shirt also has a skull between two battle axes and the words \"Krush all enemies who dare stand against us.\" Black tattoos on both forearm and the back of his left hand. Small \"tear\" tattoo on the outer corner of his right eye. Large bird (?) tattoo on the right side of his neck.",
+    "arrestDate": "2022-01-13T05:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "4:22-mj-00004-VLD",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Criminal%20Complaint.pdf",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
     "primaryHashtag": "PlayboyTheBeast",
     "profileLeads": [],
+    "realName": "KNUTSON, Billy",
     "_id": "Sij_pUtPUiWE"
   },
   {
@@ -35656,7 +35687,9 @@
   },
   {
     "actionsSummary": "Entered Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0053"
+    ],
     "appearanceSummary": "White man with dark hair and beard that grows up his cheeks wearing a black vest with a GoPro on the front over an olive green top, an olive green kerchief tied around his neck, a dark baseball cap and mirrored sunglasses carrying a black and white flag on a PVC pole.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1pmfGYJLC2mahcdoAN8OVoWPY_ihCywFJ?usp=sharing",
