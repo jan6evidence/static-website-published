@@ -31241,25 +31241,35 @@
     "_id": "9taKisv04mDQ"
   },
   {
-    "actionsSummary": "Communicates a lot, in early stages acts as medic for #BaldJerichoMarchGuy near the cross. Whispered to #Gogglesman, interacts w #HidingCrossMan. Seen w/ Proud Boys on 1/6 and earlier, known Proud Boy.",
+    "actionsSummary": "Participates in two group pushing incidents at Tunnel. Late in day throws a chair, an orange traffic cone and a pole at police on the Upper West Plaza. Communicates a lot, in early stages acts as medic for #BaldJerichoMarchGuy near the cross. Whispered to #Gogglesman, interacts w #HidingCrossMan. Seen w/ Proud Boys on 1/6 and earlier, known Proud Boy.",
     "alternateHashtags": [
       "NaziHunnam"
     ],
     "appearanceSummary": "Grey hoodie. Wearing RayBan brand sunglasses. Brown hair slicked back and brown facial hair.",
+    "arrestDate": "2022-01-13T05:00:00.000Z",
+    "arrestState": "FL",
     "associates": [
       "#Gogglesman",
       "#HidingCrossMan",
       "#BaldJerichoMarchGuy"
     ],
+    "caseIdentifier": "1:22-mj-00012-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239196/gov.uscourts.dcd.239196.1.1_2.pdf",
     "compositeURL": "https://drive.google.com/file/d/1MLtAmKCqNw9BU2LN7EfZ-Pgs45gUA1bk/view?usp=sharing",
     "fbiIdentifier": "222-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysFlorida"
       },
       {
         "type": "behavior",
@@ -31268,6 +31278,7 @@
     ],
     "primaryHashtag": "RaybanTerrorist",
     "profileLeads": [],
+    "realName": "FISCHER, Alan \"AJ\" III",
     "_id": "WcIEXg5qYvJs"
   },
   {
