@@ -14042,7 +14042,13 @@
       "thumbnailUrl": "https://archive.org/download/ziYWZ4ifKH6oM5Ff3/ziYWZ4ifKH6oM5Ff3.200px.png"
     }
   ],
-  "EdwardVallejo": [],
+  "EdwardVallejo": [
+    {
+      "mediaItemId": "zLrcjXheoq4EZ63au",
+      "archiveUrl": "https://archive.org/download/zLrcjXheoq4EZ63au/zLrcjXheoq4EZ63au.png",
+      "thumbnailUrl": "https://archive.org/download/zLrcjXheoq4EZ63au/zLrcjXheoq4EZ63au.200px.png"
+    }
+  ],
   "ElfNazi": [
     {
       "mediaItemId": "2GSWPgAiHXy3EJGHd",
@@ -34478,6 +34484,11 @@
       "mediaItemId": "wQyLL5zjGCJ4oDGNw",
       "archiveUrl": "https://archive.org/download/wQyLL5zjGCJ4oDGNw/wQyLL5zjGCJ4oDGNw.png",
       "thumbnailUrl": "https://archive.org/download/wQyLL5zjGCJ4oDGNw/wQyLL5zjGCJ4oDGNw.200px.png"
+    },
+    {
+      "mediaItemId": "wwHydMb5GJGDpiCTD",
+      "archiveUrl": "https://archive.org/download/wwHydMb5GJGDpiCTD/wwHydMb5GJGDpiCTD.png",
+      "thumbnailUrl": "https://archive.org/download/wwHydMb5GJGDpiCTD/wwHydMb5GJGDpiCTD.200px.png"
     }
   ],
   "NicholasPerretta": [
@@ -36984,6 +36995,21 @@
       "mediaItemId": "tiHp5cEYxo7YfFgcG",
       "archiveUrl": "https://archive.org/download/tiHp5cEYxo7YfFgcG/tiHp5cEYxo7YfFgcG.png",
       "thumbnailUrl": "https://archive.org/download/tiHp5cEYxo7YfFgcG/tiHp5cEYxo7YfFgcG.200px.png"
+    },
+    {
+      "mediaItemId": "wv6Wb6DsrwiufzSid",
+      "archiveUrl": "https://archive.org/download/wv6Wb6DsrwiufzSid/wv6Wb6DsrwiufzSid.png",
+      "thumbnailUrl": "https://archive.org/download/wv6Wb6DsrwiufzSid/wv6Wb6DsrwiufzSid.200px.png"
+    },
+    {
+      "mediaItemId": "xR2xCrmwP2gznxcwn",
+      "archiveUrl": "https://archive.org/download/xR2xCrmwP2gznxcwn/xR2xCrmwP2gznxcwn.png",
+      "thumbnailUrl": "https://archive.org/download/xR2xCrmwP2gznxcwn/xR2xCrmwP2gznxcwn.200px.png"
+    },
+    {
+      "mediaItemId": "xYwTieTrpAciTTfbm",
+      "archiveUrl": "https://archive.org/download/xYwTieTrpAciTTfbm/xYwTieTrpAciTTfbm.png",
+      "thumbnailUrl": "https://archive.org/download/xYwTieTrpAciTTfbm/xYwTieTrpAciTTfbm.200px.png"
     }
   ],
   "PaulSeymourSr": [
@@ -46254,6 +46280,11 @@
       "mediaItemId": "vXN2b6qFkho5Y5stT",
       "archiveUrl": "https://archive.org/download/vXN2b6qFkho5Y5stT/vXN2b6qFkho5Y5stT.jpeg",
       "thumbnailUrl": "https://archive.org/download/vXN2b6qFkho5Y5stT/vXN2b6qFkho5Y5stT.200px.jpeg"
+    },
+    {
+      "mediaItemId": "x8H7QH7rM5vkQJz8a",
+      "archiveUrl": "https://archive.org/download/x8H7QH7rM5vkQJz8a/x8H7QH7rM5vkQJz8a.jpeg",
+      "thumbnailUrl": "https://archive.org/download/x8H7QH7rM5vkQJz8a/x8H7QH7rM5vkQJz8a.200px.jpeg"
     }
   ],
   "StolenCapHelmet": [
@@ -47201,6 +47232,11 @@
       "mediaItemId": "jeJSnMCLfzSPesGGG",
       "archiveUrl": "https://archive.org/download/jeJSnMCLfzSPesGGG/jeJSnMCLfzSPesGGG.png",
       "thumbnailUrl": "https://archive.org/download/jeJSnMCLfzSPesGGG/jeJSnMCLfzSPesGGG.200px.png"
+    },
+    {
+      "mediaItemId": "y6NioTsQhWNoJxPcA",
+      "archiveUrl": "https://archive.org/download/y6NioTsQhWNoJxPcA/y6NioTsQhWNoJxPcA.jpeg",
+      "thumbnailUrl": "https://archive.org/download/y6NioTsQhWNoJxPcA/y6NioTsQhWNoJxPcA.200px.jpeg"
     }
   ],
   "SwimmerSmash": [

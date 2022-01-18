@@ -31727,7 +31727,10 @@
     "appearanceSummary": "Red “Keep America Great\" hoodie. Jeans and combat boots.",
     "arrestDate": "2021-02-23T05:00:00.000Z",
     "arrestState": "NC",
-    "associates": [],
+    "associates": [
+      "#EliasIrizarry",
+      "#ElliotBishai"
+    ],
     "caseIdentifier": "1:21-cr-282",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Grayson%20Sherrill%20Criminal%20Complaint.pdf",
