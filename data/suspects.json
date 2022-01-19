@@ -6195,6 +6195,36 @@
     "_id": "IR57Ns7ewr0w"
   },
   {
+    "actionsSummary": "In gasmask on NW Lawn pushing police with a broomstick/flagpole. Photographed in the Capitol Building making an obscene statement in front of a statute of John Stark.",
+    "alternateHashtags": [
+      "ThomasRobertson",
+      "Insider1572"
+    ],
+    "appearanceSummary": "White man with a receding hairline and buzz cut wearing a gasmask that straps over his head, a navy blue long sleeve shirt, blue jeans, brown shoes, a grey knit cap and a blue backpack with black detailing and blue and black straps.",
+    "arrestDate": "2021-01-12T05:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [
+      "#JacobFracker"
+    ],
+    "caseIdentifier": "1:21-cr-34",
+    "caseStatus": "Indicted",
+    "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
+    "isLawEnforcement": true,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BuzzcutAndBroomstick",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "Y2tdmQRqggbA"
+  },
+  {
     "actionsSummary": "Seen on NW side with son (CranberryOaf aka Grady Owens). FIghts police on NW Lawn",
     "alternateHashtags": [
       "Insider2144"
@@ -15060,6 +15090,7 @@
     "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "group",
@@ -17318,7 +17349,7 @@
     "_id": "OCOVcnsRQodU"
   },
   {
-    "actionsSummary": "Swings flagpole at officers.",
+    "actionsSummary": "Hits officer with flagpole.",
     "alternateHashtags": [],
     "appearanceSummary": "Black cowboy hat. Clear protective goggles. Respirator with two pink filters. Red short-sleeve shirt under black vest/jacket. Carries Trump flag with silver globe at top of pole. Backpack.",
     "associates": [],
@@ -20179,7 +20210,8 @@
   {
     "actionsSummary": "Leader of the Ohio Oath Keepers. Part of a group of 12-14 Oath Keepers filmed entering the Capitol building in a stack formation.",
     "alternateHashtags": [
-      "Insider1074"
+      "Insider1074",
+      "WatkinsOK"
     ],
     "appearanceSummary": "Military-style helmet & body armor, camo shirt and pants, goggles. Oath keepers patch.",
     "arrestDate": "2021-01-16T05:00:00.000Z",
@@ -34802,12 +34834,14 @@
     ],
     "appearanceSummary": "White male. Black Oath Keepers hat, blue Columbia jacket, blue gaiter, brown pants, green gloves, green backpack with \"Med\" patch - may also have another backpack (blue).",
     "arrestDate": "2021-06-30T04:00:00.000Z",
+    "arrestState": "AL",
     "associates": [],
     "caseIdentifier": "1:21-cr-437",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/grods-mark",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "group",
@@ -36365,7 +36399,7 @@
     "_id": "jYv3fhWBsjEw"
   },
   {
-    "actionsSummary": "Shoves LEOs on the NW Lawn. Inside Capitol.",
+    "actionsSummary": "Shoves LEOs on the NW Lawn. Inside Capitol. Claims to have witnessed a shooting",
     "alternateHashtags": [
       "Insider0862"
     ],
@@ -37875,7 +37909,9 @@
   },
   {
     "actionsSummary": "Documents show he organized a group of Oath Keeper Militia members to travel to DC. Posted video showing Oath Keepers entering Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "CaldwellOK"
+    ],
     "appearanceSummary": "Older man with silver mustache.",
     "arrestDate": "2021-01-19T05:00:00.000Z",
     "arrestState": "VA",
@@ -38014,36 +38050,6 @@
     "profileLeads": [],
     "realName": "MUNN, Thomas",
     "_id": "Q2rhxxPtUhL4"
-  },
-  {
-    "actionsSummary": "In gasmask on NW Lawn pushing police with a broomstick/flagpole. Photographed in the Capitol Building making an obscene statement in front of a statute of John Stark.",
-    "alternateHashtags": [
-      "Insider1572",
-      "BuzzcutAndBroomstick"
-    ],
-    "appearanceSummary": "White man with a receding hairline and buzz cut wearing a gasmask that straps over his head, a navy blue long sleeve shirt, blue jeans, brown shoes, a grey knit cap and a blue backpack with black detailing and blue and black straps.",
-    "arrestDate": "2021-01-12T05:00:00.000Z",
-    "arrestState": "VA",
-    "associates": [
-      "#JacobFracker"
-    ],
-    "caseIdentifier": "1:21-cr-34",
-    "caseStatus": "Indicted",
-    "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
-    "isLawEnforcement": true,
-    "isMpdSuspect": false,
-    "militaryBranchAffiliation": "Army",
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "ThomasRobertson",
-    "profileLeads": [
-      "@PhoenixOnWheels"
-    ],
-    "_id": "lo8PN_pgkln0"
   },
   {
     "actionsSummary": "Entered Capitol.",
@@ -40876,10 +40882,6 @@
       {
         "type": "group",
         "name": "ProudBoys"
-      },
-      {
-        "type": "group",
-        "name": "OathKeepers"
       },
       {
         "type": "group",
