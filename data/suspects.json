@@ -7918,12 +7918,12 @@
     "_id": "O1daMw8PYoo0"
   },
   {
-    "actionsSummary": "Seen on the floor of the Senate.",
+    "actionsSummary": "When police head towards the Upper West Plaza he shoves them backwards. Seen on the floor of the Senate.",
     "alternateHashtags": [
       "PatrickMontgomery",
       "Insider0739"
     ],
-    "appearanceSummary": "Green puffer jacket, white hooded shirt underneath. Khaki pants. White ball hat with red brim.",
+    "appearanceSummary": "Green puffer jacket, white hooded shirt underneath. Khaki pants. Flag facemask. Baseball cap that is white in the front and blue mesh in the back with a red brim. Camo backpack with olive green trim and straps.",
     "arrestDate": "2021-01-13T05:00:00.000Z",
     "arrestState": "CO",
     "associates": [],
@@ -7931,12 +7931,17 @@
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357706/download",
     "fbiIdentifier": "459-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1VeGXWBRLj1SCXMiLFxH0xUZzyEapktKe",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "ChumpyTrumpFace",
@@ -30567,6 +30572,25 @@
     "_id": "EIStAsrUsgN8"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with reddish grey hair and beard and a large pot belly wearing a dark knit cap, a camo buff, a dark coat, camo pants and at times an olive green helmet with a reversed flag patch on the right side and a wide but short patch on the front with writing.",
+    "associates": [],
+    "fbiIdentifier": "513-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1bwRRUl8Y9UsoxwSqSx3KCJcSukBVz4NQ",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PuffedCamo",
+    "profileLeads": [],
+    "_id": "GpWoWdHBQmxs"
+  },
+  {
     "actionsSummary": "Seen inside Capitol, made the MPD Wanted list",
     "alternateHashtags": [
       "Insider1015"
@@ -39771,7 +39795,7 @@
     "_id": "YnApotQM0pjA"
   },
   {
-    "actionsSummary": "Sprayed police on NW Lawn, making sure to point it up under their helmets. Inside Capitol.",
+    "actionsSummary": "Sprayed police on NW Lawn, making sure to point it up under their helmets. Throws a red smoke flare at police on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [
       "Insider1563",
       "FBI14A"
