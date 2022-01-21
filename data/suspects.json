@@ -5113,9 +5113,9 @@
     "arrestDate": "2021-04-23T04:00:00.000Z",
     "arrestState": "UT",
     "associates": [],
-    "caseIdentifier": "1:21-mj-533",
+    "caseIdentifier": "1:21-CR-00046-RDM",
     "caseStatus": "Indicted",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brady%20Knowlton%20Criminal%20Complaint.pdf",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1461696/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -6208,6 +6208,7 @@
     ],
     "caseIdentifier": "1:21-cr-34",
     "caseStatus": "Indicted",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.226905/gov.uscourts.dcd.226905.58.0_1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/17g8cAnHjBLWG6r0rNdWAjsnZWhGKb7f9",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
@@ -6222,6 +6223,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "ROBERTSON, Thomas",
     "_id": "Y2tdmQRqggbA"
   },
   {
@@ -7927,9 +7929,9 @@
     "arrestDate": "2021-01-13T05:00:00.000Z",
     "arrestState": "CO",
     "associates": [],
-    "caseIdentifier": "1:21-cr-46",
+    "caseIdentifier": "1:21-cr-00046-RDM",
     "caseStatus": "Indicted",
-    "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357706/download",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1461696/download",
     "fbiIdentifier": "459-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1VeGXWBRLj1SCXMiLFxH0xUZzyEapktKe",
     "isLawEnforcement": false,
@@ -19125,7 +19127,7 @@
     ],
     "caseIdentifier": "1:21-cr-34",
     "caseStatus": "Indicted",
-    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1353461/download",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.226905/gov.uscourts.dcd.226905.58.0_1.pdf",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "National Guard",
