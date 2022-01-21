@@ -7702,6 +7702,30 @@
     "_id": "X0GI39FRAtjk"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown beard wearing a dark blue baseball cap with white writing and a dark blue hoodie with a white lining over a dark tshirt.",
+    "arrestDate": "2022-01-19T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#TinaLogsdon"
+    ],
+    "caseIdentifier": "1:22-cr-00023-TFH",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1JL3Zkk2YF73kao5SasjY5xLWk2HpQa02?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ChristopherLogsdon",
+    "profileLeads": [],
+    "_id": "DdQhSJ7OMjg4"
+  },
+  {
     "actionsSummary": "Carried an unlicensed handgun, arrested the night of 1/6. May be the same guy as the former VA National Guardsman seen on NW lawn with throat microphone appearing to supervise, who also fought on the NW Stairs and gave an interview at and of day. ; Waits in the crowd at Penn Walkway for the initial breach.  Seen yelling at riot cops on the NW Lawn. Later recorded trying to get up the NW stairs using a wooden board as a shield. Also recorded throwing water bottles at cops at the base of some scaffolding.",
     "alternateHashtags": [
       "ThroatMic",
@@ -8129,9 +8153,15 @@
       "Insider0706"
     ],
     "appearanceSummary": "Female. Dark hair pulled up on top of her head. Black coat. American flag worn as a cape.",
+    "arrestDate": "2022-01-18T05:00:00.000Z",
+    "arrestState": "MA",
     "associates": [
-      "#ClingOnMan"
+      "#ClingOnMan",
+      "#KirstynNiemela"
     ],
+    "caseIdentifier": "1:22-mj-00013",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kirstyn%20Niemela%20and%20Stefanie%20Nicole%20Chiguer%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -8142,6 +8172,7 @@
     ],
     "primaryHashtag": "ClingOnLady",
     "profileLeads": [],
+    "realName": "CHIGUER, Stephanie Nicole",
     "_id": "bpXorgCzUmjM"
   },
   {
@@ -8153,7 +8184,8 @@
     "arrestDate": "2021-09-20T04:00:00.000Z",
     "arrestState": "KS",
     "associates": [
-      "#ClingOnLady"
+      "#ClingOnLady",
+      "#KirstynNiemela"
     ],
     "caseIdentifier": "1:21-mj-00602-RMM",
     "caseStatus": "Arrested",
@@ -19875,6 +19907,27 @@
     "_id": "WX3QragwQukw"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "insider0723"
+    ],
+    "appearanceSummary": "White man wearing a baseball cap with \"REALTREE\" written on it, a maroon jacket with white lettering and a blue and white face mask and carrying a grey mobile device.",
+    "arrestDate": "2022-01-14T05:00:00.000Z",
+    "arrestState": "DE",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00009-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239117/gov.uscourts.dcd.239117.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1p9l6kAhaxGByfBIVqaqNfdxl_M4WvWQw?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "JeffreySchaefer",
+    "profileLeads": [],
+    "realName": "SCHAEFER, Jeffrey",
+    "_id": "p-i3tCvLAkVU"
+  },
+  {
     "actionsSummary": "Entered Capitol via Senate Wing Door. Proceds through the Crypt and VIsitors Center Lobby. Exits via the South Door.",
     "alternateHashtags": [
       "Insider1554"
@@ -21443,6 +21496,32 @@
     "_id": "f-IL0JHTgkCA"
   },
   {
+    "actionsSummary": "Entered Capitol including Senate Gallery.",
+    "alternateHashtags": [
+      "insider1746"
+    ],
+    "appearanceSummary": "White man with dark hair wearing a red ball cap, American flag face mask, and black peacoat.",
+    "arrestDate": "2022-01-18T05:00:00.000Z",
+    "arrestState": "NJ",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00007-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239090/gov.uscourts.dcd.239090.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1OucHWDMjzDxJDRARkocVPujuNDfCwQ1X?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JulianoGross",
+    "profileLeads": [],
+    "realName": "GROSS, Juliano",
+    "_id": "xnk-j8lYcscE"
+  },
+  {
     "actionsSummary": "Entered Capitol on West side near Senate Press Gallery and remained in the building for 8 minutes",
     "alternateHashtags": [
       "Insider1764"
@@ -22259,6 +22338,34 @@
     ],
     "realName": "WREN, Donnie Duane",
     "_id": "M0UcrHwxornA"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "SeditionInsider1986"
+    ],
+    "arrestDate": "2022-01-18T05:00:00.000Z",
+    "arrestState": "NH",
+    "associates": [
+      "#ClingOnLady",
+      "#ClingOnMan"
+    ],
+    "caseIdentifier": "1:22-mj-00013",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kirstyn%20Niemela%20and%20Stefanie%20Nicole%20Chiguer%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/17Jn80fUt1GhTFlMUSZSeoOQ8l2hMzoLv?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KirstynNiemela",
+    "profileLeads": [],
+    "realName": "NIEMALA, Kirstyn",
+    "_id": "2bWDM8pr8kMM"
   },
   {
     "actionsSummary": "Must be violent based on AFO designation",
@@ -38351,6 +38458,30 @@
     "profileLeads": [],
     "realName": "WILLIAMS, Timothy Wayne",
     "_id": "bXGjW1PIwlpU"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing a dark blue baseball cap with white writing and a red hoodie with \"TRUMP\" on the front in white.",
+    "arrestDate": "2022-01-19T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#ChristopherLogsdon"
+    ],
+    "caseIdentifier": "1:22-cr-00023-TFH",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1zT7EbCkqbSJ3EbjqVfLW62a6qWO3jF8g?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TinaLogsdon",
+    "profileLeads": [],
+    "_id": "zW9WJczWYoUA"
   },
   {
     "actionsSummary": "Shoves police on NW Lawn and yells in their faces. Uses bullhorn. Inside Capitol building.",
