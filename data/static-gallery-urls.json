@@ -10089,7 +10089,18 @@
       "thumbnailUrl": "https://archive.org/download/NMmdjkKomqvquC8W2/NMmdjkKomqvquC8W2.200px.jpg"
     }
   ],
-  "ChristopherLogsdon": [],
+  "ChristopherLogsdon": [
+    {
+      "mediaItemId": "8szWp5eetW2JP9cm2",
+      "archiveUrl": "https://archive.org/download/8szWp5eetW2JP9cm2/8szWp5eetW2JP9cm2.png",
+      "thumbnailUrl": "https://archive.org/download/8szWp5eetW2JP9cm2/8szWp5eetW2JP9cm2.200px.png"
+    },
+    {
+      "mediaItemId": "KQGvPAfkkbZSnsB5p",
+      "archiveUrl": "https://archive.org/download/KQGvPAfkkbZSnsB5p/KQGvPAfkkbZSnsB5p.jpeg",
+      "thumbnailUrl": "https://archive.org/download/KQGvPAfkkbZSnsB5p/KQGvPAfkkbZSnsB5p.200px.jpeg"
+    }
+  ],
   "ChristopherMichaelAlberts": [
     {
       "mediaItemId": "2GEaZTwxzsEZq7THA",
@@ -26045,7 +26056,13 @@
       "thumbnailUrl": "https://archive.org/download/wkcqhCZFynevLv6jM/wkcqhCZFynevLv6jM.200px.png"
     }
   ],
-  "JeffreySchaefer": [],
+  "JeffreySchaefer": [
+    {
+      "mediaItemId": "xTPyDs48Gj6A59y8A",
+      "archiveUrl": "https://archive.org/download/xTPyDs48Gj6A59y8A/xTPyDs48Gj6A59y8A.png",
+      "thumbnailUrl": "https://archive.org/download/xTPyDs48Gj6A59y8A/xTPyDs48Gj6A59y8A.200px.png"
+    }
+  ],
   "JenniferButeau": [
     {
       "mediaItemId": "8Mn4XEh29goWwX3Eg",
@@ -27476,7 +27493,13 @@
       "thumbnailUrl": "https://archive.org/download/vrCj9kZDHE98tyGoc/vrCj9kZDHE98tyGoc.200px.png"
     }
   ],
-  "JulianoGross": [],
+  "JulianoGross": [
+    {
+      "mediaItemId": "WNGG6EhAz4AQm9nTn",
+      "archiveUrl": "https://archive.org/download/WNGG6EhAz4AQm9nTn/WNGG6EhAz4AQm9nTn.png",
+      "thumbnailUrl": "https://archive.org/download/WNGG6EhAz4AQm9nTn/WNGG6EhAz4AQm9nTn.200px.png"
+    }
+  ],
   "JulioBaquero": [
     {
       "mediaItemId": "62KaXk8XnrpvZmSna",
@@ -28318,7 +28341,18 @@
       "thumbnailUrl": "https://archive.org/download/kryK8Xcc4kvbnv9N9/kryK8Xcc4kvbnv9N9.200px.PNG"
     }
   ],
-  "KirstynNiemela": [],
+  "KirstynNiemela": [
+    {
+      "mediaItemId": "PrKMBYghSpMB23ek7",
+      "archiveUrl": "https://archive.org/download/PrKMBYghSpMB23ek7/PrKMBYghSpMB23ek7.png",
+      "thumbnailUrl": "https://archive.org/download/PrKMBYghSpMB23ek7/PrKMBYghSpMB23ek7.200px.png"
+    },
+    {
+      "mediaItemId": "ZCMRc7RF22xCxs84m",
+      "archiveUrl": "https://archive.org/download/ZCMRc7RF22xCxs84m/ZCMRc7RF22xCxs84m.png",
+      "thumbnailUrl": "https://archive.org/download/ZCMRc7RF22xCxs84m/ZCMRc7RF22xCxs84m.200px.png"
+    }
+  ],
   "KlakBlackHood": [
     {
       "mediaItemId": "CeyhbLgpBf3EfL97t",
@@ -50200,7 +50234,18 @@
       "thumbnailUrl": "https://archive.org/download/yaBEtQ2iJGsZd4ms4/yaBEtQ2iJGsZd4ms4.200px.png"
     }
   ],
-  "TinaLogsdon": [],
+  "TinaLogsdon": [
+    {
+      "mediaItemId": "KQGvPAfkkbZSnsB5p",
+      "archiveUrl": "https://archive.org/download/KQGvPAfkkbZSnsB5p/KQGvPAfkkbZSnsB5p.jpeg",
+      "thumbnailUrl": "https://archive.org/download/KQGvPAfkkbZSnsB5p/KQGvPAfkkbZSnsB5p.200px.jpeg"
+    },
+    {
+      "mediaItemId": "j3r6jvxwsF8ETWD4Y",
+      "archiveUrl": "https://archive.org/download/j3r6jvxwsF8ETWD4Y/j3r6jvxwsF8ETWD4Y.png",
+      "thumbnailUrl": "https://archive.org/download/j3r6jvxwsF8ETWD4Y/j3r6jvxwsF8ETWD4Y.200px.png"
+    }
+  ],
   "TinyEarsTinyWhiskers": [
     {
       "mediaItemId": "PbxsCsuqh7fjaMXNm",
