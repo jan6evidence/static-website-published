@@ -18049,6 +18049,18 @@
       "thumbnailUrl": "https://archive.org/download/yGNbjgTd4oM7r8SuK/yGNbjgTd4oM7r8SuK.200px.jpeg"
     }
   ],
+  "GasmaskBikeHelmet": [
+    {
+      "mediaItemId": "fgbqQGJpcHd6x6JTH",
+      "archiveUrl": "https://archive.org/download/fgbqQGJpcHd6x6JTH/fgbqQGJpcHd6x6JTH.png",
+      "thumbnailUrl": "https://archive.org/download/fgbqQGJpcHd6x6JTH/fgbqQGJpcHd6x6JTH.200px.png"
+    },
+    {
+      "mediaItemId": "hX2wcYWZkRwYjdNSj",
+      "archiveUrl": "https://archive.org/download/hX2wcYWZkRwYjdNSj/hX2wcYWZkRwYjdNSj.png",
+      "thumbnailUrl": "https://archive.org/download/hX2wcYWZkRwYjdNSj/hX2wcYWZkRwYjdNSj.200px.png"
+    }
+  ],
   "GassyStoolSlinger": [
     {
       "mediaItemId": "F2pqHQCGLaAD2jYq5",
@@ -27626,6 +27638,7 @@
       "thumbnailUrl": "https://archive.org/download/j9qKuZkcDLGkBNATY/j9qKuZkcDLGkBNATY.200px.png"
     }
   ],
+  "KarateKidMAGA": [],
   "KariKelley": [
     {
       "mediaItemId": "WSF9DBTz92Aat7gvY",
@@ -39761,6 +39774,23 @@
       "thumbnailUrl": "https://archive.org/download/yhDn2CNMduLuayBwe/yhDn2CNMduLuayBwe.200px.png"
     }
   ],
+  "PushyFlag": [
+    {
+      "mediaItemId": "NfjKBweuxQ23e7LFr",
+      "archiveUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.jpeg",
+      "thumbnailUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.200px.jpeg"
+    },
+    {
+      "mediaItemId": "R5bBx7qek8eJjH6Bz",
+      "archiveUrl": "https://archive.org/download/R5bBx7qek8eJjH6Bz/R5bBx7qek8eJjH6Bz.jpeg",
+      "thumbnailUrl": "https://archive.org/download/R5bBx7qek8eJjH6Bz/R5bBx7qek8eJjH6Bz.200px.jpeg"
+    },
+    {
+      "mediaItemId": "mYwdcu5hrmuij8r7L",
+      "archiveUrl": "https://archive.org/download/mYwdcu5hrmuij8r7L/mYwdcu5hrmuij8r7L.jpeg",
+      "thumbnailUrl": "https://archive.org/download/mYwdcu5hrmuij8r7L/mYwdcu5hrmuij8r7L.200px.jpeg"
+    }
+  ],
   "PushyKhaki": [
     {
       "mediaItemId": "LGwTThqmmbCtbQuAX",
@@ -39798,6 +39828,7 @@
       "thumbnailUrl": "https://archive.org/download/yCavtaNmp3KHDYboD/yCavtaNmp3KHDYboD.200px.png"
     }
   ],
+  "PushyPowderBlue": [],
   "PushyRed": [
     {
       "mediaItemId": "5J6RvGKjd45aKokS3",
@@ -39900,6 +39931,7 @@
       "thumbnailUrl": "https://archive.org/download/yraq92e46FHXg4xye/yraq92e46FHXg4xye.200px.png"
     }
   ],
+  "PushyYankee": [],
   "PutridPepe": [
     {
       "mediaItemId": "6WwD7C7bepsz6E2vg",
@@ -52131,6 +52163,13 @@
       "mediaItemId": "yZsqXKyyzi6vqR7Qy",
       "archiveUrl": "https://archive.org/download/yZsqXKyyzi6vqR7Qy/yZsqXKyyzi6vqR7Qy.png",
       "thumbnailUrl": "https://archive.org/download/yZsqXKyyzi6vqR7Qy/yZsqXKyyzi6vqR7Qy.200px.png"
+    }
+  ],
+  "USFlagCape": [
+    {
+      "mediaItemId": "pCn5dATWWzdmR5PfG",
+      "archiveUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.jpeg",
+      "thumbnailUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.200px.jpeg"
     }
   ],
   "UglyGunSweater": [
