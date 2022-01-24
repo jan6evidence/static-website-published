@@ -7723,7 +7723,9 @@
   },
   {
     "actionsSummary": "Inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1923"
+    ],
     "appearanceSummary": "White man with brown beard wearing a dark blue baseball cap with white writing and a dark blue hoodie with a white lining over a dark tshirt.",
     "arrestDate": "2022-01-19T05:00:00.000Z",
     "arrestState": "IL",
@@ -12733,7 +12735,7 @@
     "alternateHashtags": [
       "Insider2124"
     ],
-    "appearanceSummary": "Guy Fawkes mask, black coat with collar and snap closures worn over black hoodie, fingerless black gloves, blue jeans, black tennis shoes with white sole edge.",
+    "appearanceSummary": "White man with brown hair and brown eyes wearing a guy Fawkes mask, black coat with collar and snap closures worn over black hoodie, fingerless black gloves, blue jeans, black tennis shoes with white sole edge.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/114o-0rYJpgilGwOu6WC2FyRRWc9ZeLvq",
     "isLawEnforcement": false,
@@ -19973,7 +19975,7 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "insider0723"
+      "Insider0723"
     ],
     "appearanceSummary": "White man wearing a baseball cap with \"REALTREE\" written on it, a maroon jacket with white lettering and a blue and white face mask and carrying a grey mobile device.",
     "arrestDate": "2022-01-14T05:00:00.000Z",
@@ -21562,7 +21564,7 @@
   {
     "actionsSummary": "Entered Capitol including Senate Gallery.",
     "alternateHashtags": [
-      "insider1746"
+      "Insider1746"
     ],
     "appearanceSummary": "White man with dark hair wearing a red ball cap, American flag face mask, and black peacoat.",
     "arrestDate": "2022-01-18T05:00:00.000Z",
@@ -22426,7 +22428,8 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "SeditionInsider1986"
+      "SeditionInsider1986",
+      "Insider1986"
     ],
     "arrestDate": "2022-01-18T05:00:00.000Z",
     "arrestState": "NH",
@@ -38612,7 +38615,9 @@
   },
   {
     "actionsSummary": "Inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1169"
+    ],
     "appearanceSummary": "White woman with dark hair wearing a dark blue baseball cap with white writing and a red hoodie with \"TRUMP\" on the front in white.",
     "arrestDate": "2022-01-19T05:00:00.000Z",
     "arrestState": "IL",
