@@ -1116,6 +1116,13 @@
       "thumbnailUrl": "https://archive.org/download/sugStWyiybpHNDsAx/sugStWyiybpHNDsAx.200px.JPG"
     }
   ],
+  "AngryGrandpaMAGA": [
+    {
+      "mediaItemId": "zfPy24aoiyeBFnm6M",
+      "archiveUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.jpeg",
+      "thumbnailUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.200px.jpeg"
+    }
+  ],
   "AngryRedDevil": [
     {
       "mediaItemId": "3d4z4eWwbFpSkgyNx",
@@ -19168,6 +19175,7 @@
       "thumbnailUrl": "https://archive.org/download/rc2S8kZPFHh5J7kkh/rc2S8kZPFHh5J7kkh.200px.png"
     }
   ],
+  "GooseinGrey": [],
   "GrabbyGrappler": [
     {
       "mediaItemId": "AHDqKLi65ZPTcrApE",
@@ -22686,6 +22694,7 @@
       "thumbnailUrl": "https://archive.org/download/wg367xuxH6GkBJDgn/wg367xuxH6GkBJDgn.200px.png"
     }
   ],
+  "HoodedSunnies": [],
   "HoopsNWhoops": [
     {
       "mediaItemId": "4iWeuYsyp3Svq2mcM",
