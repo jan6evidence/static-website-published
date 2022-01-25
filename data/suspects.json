@@ -969,6 +969,36 @@
     "_id": "JOJx7-ANMm3M"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider0435",
+      "Insider435"
+    ],
+    "appearanceSummary": "White man with shoulder length brown hair wearing a dark grey coat with a black collar and jeans.",
+    "arrestDate": "2022-01-20T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#JeremiahCarollo",
+      "#CodyVollan"
+    ],
+    "caseIdentifier": "1:22-cr-00031",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.411741/gov.uscourts.ilnd.411741.1.0_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1HKf1Vh_3Ks6_bgBxC06MCyfpc_RKDcsI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AnthonyCarollo",
+    "profileLeads": [],
+    "realName": "CAROLLO, Anthony",
+    "_id": "DvK2GRd1giLc"
+  },
+  {
     "actionsSummary": "Among the crowd on the West Plaza. Enters the Captiol via the NW Courtyard Senate Wing. Seen in the Crypt.",
     "alternateHashtags": [
       "Insider1268"
@@ -5561,12 +5591,18 @@
     "_id": "GRqk6H9LkkWQ"
   },
   {
+    "actionsSummary": "Assaults police officers through a bike barrier being held up in the air.",
     "alternateHashtags": [],
     "appearanceSummary": "Blurry picture. Large man with a full, dark beard and mustache. Black baseball cap with a white logo or writing on the left half of the front. Brown coat that might have a hood. Khaki pants.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BrownTruckersHitch",
     "profileLeads": [],
     "_id": "r3NEYRMV4sJ8"
@@ -8375,6 +8411,36 @@
     "profileLeads": [],
     "realName": "CONNELL, Cody Page Carter",
     "_id": "oabqNd53orzU"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider0020",
+      "Insider20"
+    ],
+    "appearanceSummary": "White man with long blonde hairpulled back in a low ponytail or bun and a beard  wearing a greyish blue plaid coat, tan pants, black shoes and a black face mask.",
+    "arrestDate": "2022-01-20T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#AnthonyCarollo",
+      "#JeremiahCarollo"
+    ],
+    "caseIdentifier": "1:22-cr-00031",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.411741/gov.uscourts.ilnd.411741.1.0_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1frfcY6JkCi6lNCK0o4GVL3mGAYUfvpfM?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CodyVollan",
+    "profileLeads": [],
+    "realName": "VOLLAN, Cody",
+    "_id": "pI6SJGBNIihc"
   },
   {
     "alternateHashtags": [],
@@ -20180,6 +20246,33 @@
     "_id": "nrTfy4Xtknq4"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with light brown hair wearing a tan coat over a grey hoodie over a baseball cap, a grey buff, khaki pants and dark grey tennis shoes.",
+    "arrestDate": "2022-01-20T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#AnthonyCarollo",
+      "#CodyVollan"
+    ],
+    "caseIdentifier": "1:22-cr-00031",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.411741/gov.uscourts.ilnd.411741.1.0_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1dOIkmy9S3N_egG5HNnTbpDk84e4wuyH9?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JeremiahCarollo",
+    "profileLeads": [],
+    "realName": "CAROLLO, Jeremiah",
+    "_id": "AoLj_cIi0qMw"
+  },
+  {
     "actionsSummary": "Enters the Capitol via the Crypt. Among those who prevented the door from closing.",
     "alternateHashtags": [
       "Insider1068"
@@ -22433,6 +22526,7 @@
       "SeditionInsider1986",
       "Insider1986"
     ],
+    "appearanceSummary": "Woman in a black hoodie with \"We the People\" written on the front. From under the hood we see dark brown hair pushed up from the forehead. Sometimes wore sunglasses with blue lenses including inside the Capitol, and one photo shows the glasses hooked into the neck of her sweatshirt. Black (?) gaiter, mostly worn indoors. Often wears a U.S. flag as a cape. Dark blue jeans. Black sneakers with white soles.",
     "arrestDate": "2022-01-18T05:00:00.000Z",
     "arrestState": "NH",
     "associates": [
@@ -28249,11 +28343,16 @@
       "OldHelmetTexasFlag"
     ],
     "appearanceSummary": "Wears German army flecktarn jacket. Old style military helmet. Long brown hair and narrow Goatee.",
+    "arrestDate": "2022-01-24T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [
       "#BlackSkiMask",
       "#YoungSkullMan",
       "#MAGAretWhiteCoat"
     ],
+    "caseIdentifier": "1:21-cr-00537-JMC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239229/gov.uscourts.dcd.239229.80.0_1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1KTpDAICVI3uwsRGHBJQrHnUPXYgmM7NC/view?usp=sharing",
     "fbiIdentifier": "52-AFO",
     "isLawEnforcement": false,
@@ -28274,6 +28373,7 @@
     ],
     "primaryHashtag": "OldTexasHelmet",
     "profileLeads": [],
+    "realName": "BLYTHE, Jason Benjamin",
     "_id": "ecmcgRdGIlUs"
   },
   {
