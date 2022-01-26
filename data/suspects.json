@@ -13476,7 +13476,7 @@
   },
   {
     "alternateHashtags": [],
-    "appearanceSummary": "Blurry picture. Red baseball cap, possibly with a logo on the front. Black mask over lower half of his face, possibly with a red design on the left side and a white design or word at the center. Black jacket over a black hoodie. Khaki pants. Dark footwear.",
+    "appearanceSummary": "Black motorcycle helmet with a white, oval-shaped logo on the forehead. When the visor is up he appear to be an older, white man. Short brown coat over a gray hoodie. Beige or khaki-colored gloves. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "433-AFO",
     "isLawEnforcement": false,
@@ -22409,8 +22409,10 @@
     "_id": "64y8EFj0wtQ0"
   },
   {
-    "alternateHashtags": [],
-    "appearanceSummary": "Black motorcycle helmet with a white, oval-shaped logo on the forehead. When the visor is up he appear to be an older, white man. Short brown coat over a gray hoodie. Beige or khaki-colored gloves. Blue jeans.",
+    "alternateHashtags": [
+      "KhakiLacky"
+    ],
+    "appearanceSummary": "White man wearing a black hoodie over a red baseball cap and khaki trousers.",
     "associates": [],
     "fbiIdentifier": "434-AFO",
     "isLawEnforcement": false,
