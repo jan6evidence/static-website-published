@@ -12465,7 +12465,8 @@
   {
     "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
     "alternateHashtags": [
-      "Insider1741"
+      "Insider1741",
+      "PuffedAOM"
     ],
     "appearanceSummary": "Black puffer jacket over a black or dark gray hoodie. Black sunglasses. Light blue surgical mask. Black gloves. Olive green backpack. Gray or blue pants. Shorter than FBI175AOM.",
     "associates": [
@@ -12491,7 +12492,8 @@
   {
     "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
     "alternateHashtags": [
-      "Insider1742"
+      "Insider1742",
+      "TanPantsAOM"
     ],
     "appearanceSummary": "Black jacket with a gray vertical stripe on the chest (maybe a zipper?.Gray hoodie. Possibly a black eye patch over his right eye. Light blue surgical mask. Black and gray gloves. Tan or khaki pants. Taller than FBI175AOM.",
     "associates": [
@@ -39183,12 +39185,13 @@
     "_id": "Sd_gg8wPQi5g"
   },
   {
-    "actionsSummary": "Seen with the Proud Boy on West Plaza and on N. side of Capitol. Instigator, carries bullhorn, often at front lines, harasses police and incites crowd.",
+    "actionsSummary": "Pushes police on NW Lawn. Instigator, carries bullhorn, often at front lines, harasses police and incites crowd.Seen with the Proud Boy on West Plaza and on N. side of Capitol.",
     "alternateHashtags": [
       "Insider2018"
     ],
     "appearanceSummary": "Blue hooded sweatshirt, black helmet and tactical vest. Lots of patches on his vest incl. III% logo. One of the patches is Patriot Patch Co.'s \"Taxation is Theft.\" Black shades and neck gaiter. Blue bullhorn.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1xgvinkaCUMr8oef6NM47hN2OrzWEmR3p",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39208,6 +39211,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "equipment",

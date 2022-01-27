@@ -15042,28 +15042,6 @@
       "thumbnailUrl": "https://archive.org/download/zsjk9A6Pdgj4fK7rL/zsjk9A6Pdgj4fK7rL.200px.jpg"
     }
   ],
-  "FBI166AFO": [
-    {
-      "mediaItemId": "H3Qd2RzXBaC9t5cyN",
-      "archiveUrl": "https://archive.org/download/H3Qd2RzXBaC9t5cyN/H3Qd2RzXBaC9t5cyN.jpg",
-      "thumbnailUrl": "https://archive.org/download/H3Qd2RzXBaC9t5cyN/H3Qd2RzXBaC9t5cyN.200px.jpg"
-    },
-    {
-      "mediaItemId": "Y4Kcn56xwMQNCJ6Jb",
-      "archiveUrl": "https://archive.org/download/Y4Kcn56xwMQNCJ6Jb/Y4Kcn56xwMQNCJ6Jb.JPG",
-      "thumbnailUrl": "https://archive.org/download/Y4Kcn56xwMQNCJ6Jb/Y4Kcn56xwMQNCJ6Jb.200px.JPG"
-    },
-    {
-      "mediaItemId": "ebi7XoBGgDNHdukDX",
-      "archiveUrl": "https://archive.org/download/ebi7XoBGgDNHdukDX/ebi7XoBGgDNHdukDX.JPG",
-      "thumbnailUrl": "https://archive.org/download/ebi7XoBGgDNHdukDX/ebi7XoBGgDNHdukDX.200px.JPG"
-    },
-    {
-      "mediaItemId": "xqvFa6JCS7hE3w7uh",
-      "archiveUrl": "https://archive.org/download/xqvFa6JCS7hE3w7uh/xqvFa6JCS7hE3w7uh.JPG",
-      "thumbnailUrl": "https://archive.org/download/xqvFa6JCS7hE3w7uh/xqvFa6JCS7hE3w7uh.200px.JPG"
-    }
-  ],
   "FBI174AOM": [
     {
       "mediaItemId": "NzZeeZXqw3hp2auWi",
@@ -46186,6 +46164,28 @@
       "mediaItemId": "dqruT5ENtds5fNyYX",
       "archiveUrl": "https://archive.org/download/dqruT5ENtds5fNyYX/dqruT5ENtds5fNyYX.png",
       "thumbnailUrl": "https://archive.org/download/dqruT5ENtds5fNyYX/dqruT5ENtds5fNyYX.200px.png"
+    }
+  ],
+  "SmokeyInsider": [
+    {
+      "mediaItemId": "H3Qd2RzXBaC9t5cyN",
+      "archiveUrl": "https://archive.org/download/H3Qd2RzXBaC9t5cyN/H3Qd2RzXBaC9t5cyN.jpg",
+      "thumbnailUrl": "https://archive.org/download/H3Qd2RzXBaC9t5cyN/H3Qd2RzXBaC9t5cyN.200px.jpg"
+    },
+    {
+      "mediaItemId": "Y4Kcn56xwMQNCJ6Jb",
+      "archiveUrl": "https://archive.org/download/Y4Kcn56xwMQNCJ6Jb/Y4Kcn56xwMQNCJ6Jb.JPG",
+      "thumbnailUrl": "https://archive.org/download/Y4Kcn56xwMQNCJ6Jb/Y4Kcn56xwMQNCJ6Jb.200px.JPG"
+    },
+    {
+      "mediaItemId": "ebi7XoBGgDNHdukDX",
+      "archiveUrl": "https://archive.org/download/ebi7XoBGgDNHdukDX/ebi7XoBGgDNHdukDX.JPG",
+      "thumbnailUrl": "https://archive.org/download/ebi7XoBGgDNHdukDX/ebi7XoBGgDNHdukDX.200px.JPG"
+    },
+    {
+      "mediaItemId": "xqvFa6JCS7hE3w7uh",
+      "archiveUrl": "https://archive.org/download/xqvFa6JCS7hE3w7uh/xqvFa6JCS7hE3w7uh.JPG",
+      "thumbnailUrl": "https://archive.org/download/xqvFa6JCS7hE3w7uh/xqvFa6JCS7hE3w7uh.200px.JPG"
     }
   ],
   "SmokingPhoenix": [
