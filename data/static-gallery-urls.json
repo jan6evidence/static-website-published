@@ -28629,7 +28629,18 @@
       "thumbnailUrl": "https://archive.org/download/zZKZRQWNqZjTjkbHv/zZKZRQWNqZjTjkbHv.200px.png"
     }
   ],
-  "KhakiLackey": [],
+  "KhakiLackey": [
+    {
+      "mediaItemId": "8HEmsrJg5tWvw8K57",
+      "archiveUrl": "https://archive.org/download/8HEmsrJg5tWvw8K57/8HEmsrJg5tWvw8K57.jpeg",
+      "thumbnailUrl": "https://archive.org/download/8HEmsrJg5tWvw8K57/8HEmsrJg5tWvw8K57.200px.jpeg"
+    },
+    {
+      "mediaItemId": "m8PjGukSLyatsvGyu",
+      "archiveUrl": "https://archive.org/download/m8PjGukSLyatsvGyu/m8PjGukSLyatsvGyu.png",
+      "thumbnailUrl": "https://archive.org/download/m8PjGukSLyatsvGyu/m8PjGukSLyatsvGyu.200px.png"
+    }
+  ],
   "KidHornet": [
     {
       "mediaItemId": "CqXxmYtY3KcapYpr9",

@@ -12463,31 +12463,6 @@
     "_id": "2c7OWNotovd8"
   },
   {
-    "actionsSummary": "Violent based on AFO designation.",
-    "alternateHashtags": [
-      "Insider1941",
-      "SmokeyInsider"
-    ],
-    "appearanceSummary": "Black hair, tall on top and short on the sides. Black jacket and dark blue pants. Rectangular patch on the chest.",
-    "associates": [],
-    "fbiIdentifier": "166-AFO",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "FBI166AFO",
-    "profileLeads": [],
-    "_id": "mhgcKNlZsh-Q"
-  },
-  {
     "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
     "alternateHashtags": [
       "Insider1741"
@@ -17062,7 +17037,7 @@
       "#BlueCamoBoy"
     ],
     "caseIdentifier": "1:21-mj-00656-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21116772/harvardsweats.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -20879,7 +20854,12 @@
       "HackDempsey"
     ],
     "appearanceSummary": "Short, dark hair, and short, dark beard and mustache. Bags under eyes. Black, unzipped jacket over a gray hoodie. Black shirt beneath that. Backpack with black straps and black cross-strap.",
+    "arrestDate": "2022-01-26T05:00:00.000Z",
+    "arrestState": "VA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00011-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1465906/download",
     "fbiIdentifier": "324-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -20895,6 +20875,7 @@
     ],
     "primaryHashtag": "JohnSprayne",
     "profileLeads": [],
+    "realName": "MALY, Markus",
     "_id": "0nYGyD0bkouY"
   },
   {
@@ -22411,7 +22392,9 @@
   {
     "actionsSummary": "White man wearing a black hoodie over a red baseball cap and khaki trousers.",
     "alternateHashtags": [
-      "KhakiLacky"
+      "KhakiLacky",
+      "Insider519",
+      "Insider0519."
     ],
     "appearanceSummary": "Black motorcycle helmet with a white, oval-shaped logo on the forehead. When the visor is up he appear to be an older, white man. Short brown coat over a gray hoodie. Beige or khaki-colored gloves. Blue jeans.",
     "associates": [],
@@ -35166,6 +35149,31 @@
     "_id": "oWB7Eu_3oiT8"
   },
   {
+    "actionsSummary": "Violent based on AFO designation.",
+    "alternateHashtags": [
+      "Insider1941",
+      "FBI166AFO"
+    ],
+    "appearanceSummary": "Black hair, tall on top and short on the sides. Black jacket and dark blue pants. Rectangular patch on the chest.",
+    "associates": [],
+    "fbiIdentifier": "166-AFO",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "SmokeyInsider",
+    "profileLeads": [],
+    "_id": "D2jw7o8XggOM"
+  },
+  {
     "actionsSummary": "Goes up Penn. Walkway and is present on W. Plaza, later seen on E. Capitol Steps. Identified by a video he posted to his Facebook page",
     "alternateHashtags": [
       "HectorVargas",
@@ -38935,6 +38943,7 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1388821/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
