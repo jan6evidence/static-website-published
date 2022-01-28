@@ -12463,60 +12463,6 @@
     "_id": "2c7OWNotovd8"
   },
   {
-    "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
-    "alternateHashtags": [
-      "Insider1741",
-      "PuffedAOM"
-    ],
-    "appearanceSummary": "Black puffer jacket over a black or dark gray hoodie. Black sunglasses. Light blue surgical mask. Black gloves. Olive green backpack. Gray or blue pants. Shorter than FBI175AOM.",
-    "associates": [
-      "#FBI175AOM"
-    ],
-    "fbiIdentifier": "174-AOM",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "FBI174AOM",
-    "profileLeads": [],
-    "_id": "qn0En9llsnw8"
-  },
-  {
-    "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
-    "alternateHashtags": [
-      "Insider1742",
-      "TanPantsAOM"
-    ],
-    "appearanceSummary": "Black jacket with a gray vertical stripe on the chest (maybe a zipper?.Gray hoodie. Possibly a black eye patch over his right eye. Light blue surgical mask. Black and gray gloves. Tan or khaki pants. Taller than FBI175AOM.",
-    "associates": [
-      "FBI174AOM"
-    ],
-    "fbiIdentifier": "175-AOM",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "FBI175AOM",
-    "profileLeads": [],
-    "_id": "IWMxi86Kov4U"
-  },
-  {
     "actionsSummary": "Follows AuntRageFace. Enters Capitol.",
     "alternateHashtags": [
       "Insider0351"
@@ -16250,12 +16196,13 @@
     "_id": "UzqBvefFwg58"
   },
   {
-    "actionsSummary": "In the crowd on the West Plaza. Participates in initial NW scaffolding breach.  Sprays police with fire extinguisher.  Seen inside Capitol in Rotunda and on House side.",
+    "actionsSummary": "In the crowd on the West Plaza. Shoves police on the NW Lawn. Participates in initial NW scaffolding breach.  Sprays police with fire extinguisher.  Seen inside Capitol in Rotunda and on House side.",
     "alternateHashtags": [
       "Insider0963"
     ],
     "appearanceSummary": "Grey coat and a black hooded sweatshirt. Camo backpack. Gas mask with full acrylic face shield. Army green helmet. Possibly a yellow star earring in his right ear. Black backpack over top of camo hydration pack.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1FVyws4b7t1mSvM3mZNIL2jp3BFaFD1Sk",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16277,7 +16224,9 @@
       }
     ],
     "primaryHashtag": "GreyFogger",
-    "profileLeads": [],
+    "profileLeads": [
+      "@LSquaredRE"
+    ],
     "_id": "Qpmkd5iZIm2s"
   },
   {
@@ -24888,7 +24837,7 @@
     "filesUrl": "https://drive.google.com/drive/folders/1jx18Unm6g8t7OhOTO_NyY7xvwrb9DHpx?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "militaryBranchAffiliation": "National Guard",
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -30858,6 +30807,33 @@
     "_id": "EIStAsrUsgN8"
   },
   {
+    "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
+    "alternateHashtags": [
+      "Insider1741",
+      "FBI174AOM"
+    ],
+    "appearanceSummary": "Black puffer jacket over a black or dark gray hoodie. Black sunglasses. Light blue surgical mask. Black gloves. Olive green backpack. Gray or blue pants. Shorter than FBI175AOM.",
+    "associates": [
+      "#FBI175AOM"
+    ],
+    "fbiIdentifier": "174-AOM",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PuffedAOM",
+    "profileLeads": [],
+    "_id": "7bszKa2kwvcc"
+  },
+  {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with reddish grey hair and beard and a large pot belly wearing a dark knit cap, a camo buff, a dark coat, camo pants and at times an olive green helmet with a reversed flag patch on the right side and a wide but short patch on the front with writing.",
@@ -32073,11 +32049,14 @@
     "_id": "qCgXTQbn4pws"
   },
   {
-    "actionsSummary": "At the police line at the stage on the West Plaza near Swedish Scarf. Fights with police.",
-    "alternateHashtags": [],
+    "actionsSummary": "At the police line at the stage on the West Plaza near Swedish Scarf. Fights with police. Shoves police on the NW Lawn.",
+    "alternateHashtags": [
+      "KnitEarflaps"
+    ],
     "appearanceSummary": "Red knit hat with ear flaps (like a Peruvian chullo), with several horizontal rows of different geometric patterns in orange and purple. Bright blue swim goggles. Black beard and mustache. Stars and stripes gaiter. Black jacket. Dark pants.",
     "associates": [],
     "fbiIdentifier": "328-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1Cp-Bslynw4XirNYhHQIwBSPA6E_ERsBo",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -37243,6 +37222,33 @@
     "profileLeads": [],
     "realName": "THOMAS, Kenneth Joseph Owen",
     "_id": "1HrCH7KsYjwM"
+  },
+  {
+    "actionsSummary": "Assaulted photographer Erin Schaff inside the Capitol and stole her camera. Entered Capitol through E. Main Doors.",
+    "alternateHashtags": [
+      "Insider1742",
+      "FBI175AOM"
+    ],
+    "appearanceSummary": "Black jacket with a gray vertical stripe on the chest (maybe a zipper?.Gray hoodie. Possibly a black eye patch over his right eye. Light blue surgical mask. Black and gray gloves. Tan or khaki pants. Taller than FBI175AOM.",
+    "associates": [
+      "FBI174AOM"
+    ],
+    "fbiIdentifier": "175-AOM",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "TanPantsAOM",
+    "profileLeads": [],
+    "_id": "AVcOufvlIkgo"
   },
   {
     "alternateHashtags": [],
