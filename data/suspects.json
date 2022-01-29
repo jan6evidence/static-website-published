@@ -20800,7 +20800,7 @@
     "_id": "LEqAc0FtEvQA"
   },
   {
-    "actionsSummary": "Sprays substance at police.",
+    "actionsSummary": "Sprays pepper spray at police. Gives pepper spray to #BlackHatSprayer aka Jeffrey Brown in the Tunnel. Stole a police riot shield.",
     "alternateHashtags": [
       "HackDempsey"
     ],
@@ -22080,6 +22080,32 @@
     "_id": "NcBgy0qjshwI"
   },
   {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2346"
+    ],
+    "appearanceSummary": "White man with a greying brown beard and long hair in a ponytail wearing a black jacket and jeans and at times a white and grey winter hat.",
+    "arrestDate": "2022-01-24T05:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00015-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21185343-kenneth-armstrong-iii",
+    "filesUrl": "https://drive.google.com/drive/folders/1IG_HZIpA0lHtMbSuolPbR1sE3WFw6iOK?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KennethArmstrong",
+    "profileLeads": [],
+    "realName": "ARMSTRONG, Kenneth Scott III",
+    "_id": "7127ZHYZksqc"
+  },
+  {
     "actionsSummary": "Entered the Capitol with the crowd",
     "alternateHashtags": [
       "Insider1593"
@@ -22130,6 +22156,32 @@
     "profileLeads": [],
     "realName": "KELLY, Kenneth",
     "_id": "dbua66ZFYh94"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider1597"
+    ],
+    "appearanceSummary": "White man wearing a blue hooded sweatshirt with the hood up and \"TRUMP 2020\" on the front in white.",
+    "arrestDate": "2022-01-24T05:00:00.000Z",
+    "arrestState": "IA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00008-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239115/gov.uscourts.dcd.239115.1.1_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1w6d7Im94hw8WosAWx4gB99N9H65bLxEk?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KennethRader",
+    "profileLeads": [],
+    "realName": "RADER, Kenneth Bruce \"Kenny\" Jr.",
+    "_id": "KactH21TkvJY"
   },
   {
     "actionsSummary": "Entered the Capitol approximately 20 minutes after the the second Central East Doors breach. Entered the Rotunda. In December sent inflammatory social media posts calling for others to join him in DC for an overthrow.",
@@ -31108,14 +31160,20 @@
     "_id": "AqEhoVjyYl0I"
   },
   {
-    "actionsSummary": "Shoves police across NW Lawn.",
-    "alternateHashtags": [],
+    "actionsSummary": "Shoves police across NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0467"
+    ],
     "appearanceSummary": "White person with dark hair wearing a hooded black coat over a long sleeved light grey top, a red knit cap with \"Trump\" in white on the bottom edge and a Trump signature on the top half, aviator sunglasses, a black and white bandana around his neck, green or turquoise fingerless gloves and a black, grey and turquoise backpack and carrying a flag on a pole with flames and lettering in a flag pattern.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/17VhNLMHMw2Po7fwoT6Ugr9tt6fehiD6i?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -31928,7 +31986,9 @@
     "_id": "pUxDtIMf4gDk"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2193"
+    ],
     "appearanceSummary": "Blurry photos. Red baseball cap, probably with white writing on the front. Eyeglasses? (Maybe goggles?) Short dark hair. Light blue surgical mask over the face. Black (?) jacket. Red backpack. Dark pants.",
     "associates": [],
     "fbiIdentifier": "501-AFO",
