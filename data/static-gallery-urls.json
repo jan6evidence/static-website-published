@@ -28424,6 +28424,18 @@
       "thumbnailUrl": "https://archive.org/download/TSJr6kziqaEdqGEQ9/TSJr6kziqaEdqGEQ9.200px.jpg"
     }
   ],
+  "KennethArmstrong": [
+    {
+      "mediaItemId": "8sWZKMzHSqEJbnEMi",
+      "archiveUrl": "https://archive.org/download/8sWZKMzHSqEJbnEMi/8sWZKMzHSqEJbnEMi.png",
+      "thumbnailUrl": "https://archive.org/download/8sWZKMzHSqEJbnEMi/8sWZKMzHSqEJbnEMi.200px.png"
+    },
+    {
+      "mediaItemId": "TyamWYNnYonERCEpx",
+      "archiveUrl": "https://archive.org/download/TyamWYNnYonERCEpx/TyamWYNnYonERCEpx.png",
+      "thumbnailUrl": "https://archive.org/download/TyamWYNnYonERCEpx/TyamWYNnYonERCEpx.200px.png"
+    }
+  ],
   "KennethGrayson": [
     {
       "mediaItemId": "6rzHhBazPYWokQeoX",
@@ -28451,6 +28463,18 @@
       "mediaItemId": "iRg8CbCWkk9gsMfwA",
       "archiveUrl": "https://archive.org/download/iRg8CbCWkk9gsMfwA/iRg8CbCWkk9gsMfwA.png",
       "thumbnailUrl": "https://archive.org/download/iRg8CbCWkk9gsMfwA/iRg8CbCWkk9gsMfwA.200px.png"
+    }
+  ],
+  "KennethRader": [
+    {
+      "mediaItemId": "y33PDePGkoCaJFMRB",
+      "archiveUrl": "https://archive.org/download/y33PDePGkoCaJFMRB/y33PDePGkoCaJFMRB.png",
+      "thumbnailUrl": "https://archive.org/download/y33PDePGkoCaJFMRB/y33PDePGkoCaJFMRB.200px.png"
+    },
+    {
+      "mediaItemId": "zzZYwMCAuN4ytTjSJ",
+      "archiveUrl": "https://archive.org/download/zzZYwMCAuN4ytTjSJ/zzZYwMCAuN4ytTjSJ.png",
+      "thumbnailUrl": "https://archive.org/download/zzZYwMCAuN4ytTjSJ/zzZYwMCAuN4ytTjSJ.200px.png"
     }
   ],
   "KennethReda": [

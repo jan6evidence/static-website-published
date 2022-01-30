@@ -1963,7 +1963,7 @@
     "_id": "KwlI-_Y0IuJw"
   },
   {
-    "actionsSummary": "Leaves Capitol at NE plaza carrying police bag, large duffel bag & Plano Medium Mobile Military Storage Trunk/Footlocker (or similar), large US flag. Seen entering Capitol door. Carries slingshot & apparent grenades (seen at Ellipse.)",
+    "actionsSummary": "Leaves Capitol at NE plaza carrying police bag, large duffel bag & Plano Medium Mobile Military Storage Trunk/Footlocker (or similar), large US flag. Seen entering Capitol door. Carries slingshot & apparent grenades (seen at Ellipse.) Has a knife/blade on a long handle at Washington Monument.",
     "alternateHashtags": [],
     "appearanceSummary": "Flag worn as cape, black tactical vest, carries probable grenades and a slingshot, gas mask, goggles, armored gloves, elbow and knee pads. At Capitol also carries a Police bag, large US flag on wooden pole, large duffel bag and suitcase.",
     "associates": [],
@@ -2505,6 +2505,35 @@
     "primaryHashtag": "BeardedHammer",
     "profileLeads": [],
     "_id": "7C901lvBMkuI"
+  },
+  {
+    "actionsSummary": "Shoves police on NW Lawn. Kicks over stands holding velvet ropes inside Rotunda.",
+    "alternateHashtags": [
+      "Insider167",
+      "Insider0167"
+    ],
+    "appearanceSummary": "White man with bushy reddish brown beard wearing a blue hooded coat, jeans, black tennis shoes with white soles and a green camo baseball cap with \"Make America Great Again\" in orange on the front, a small USA on the right side and a small flag on the left side. He's carrying a long wooden pole.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1mIicyvm5s5RZQpku6ZXKhBLIJ4Gcjjx1?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "BeardedKicker",
+    "profileLeads": [],
+    "_id": "AJKHaQMvMiJs"
   },
   {
     "actionsSummary": "Violent based on AFO designation..  At initial breach, seen chanting \"1,2,3, Go\" to start the breach (from indictment documents, seen on bodycam video).",
@@ -18270,6 +18299,7 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Navy",
     "otherTags": [
       {
         "type": "group",
@@ -40618,7 +40648,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1-21-mj-420",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vic%20Williams%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
