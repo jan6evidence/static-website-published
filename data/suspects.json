@@ -21822,7 +21822,7 @@
     "_id": "P9AbyCmWgiiI"
   },
   {
-    "actionsSummary": "Shoves police on NW Lawn.",
+    "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with short light brown hair wearing a grey hoodie and a red bandana around his forehead and carrying a gold-ish flagpole.",
     "associates": [],
@@ -21830,6 +21830,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
