@@ -2532,7 +2532,9 @@
       }
     ],
     "primaryHashtag": "BeardedKicker",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "AJKHaQMvMiJs"
   },
   {
@@ -7491,6 +7493,27 @@
     "_id": "Ok5JedPtkmdk"
   },
   {
+    "actionsSummary": "Punches cop in the head on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black top with white stripes around the upper arms, a black knit cap and a flag facemask.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1VgoGsgNwB73pZvRdZkm5ar2-2PFUKGBy?usp=sharing",
+    "idStatus": "Self Doxxed",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CheapShotGuy",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "QptZjEcSIsAI"
+  },
+  {
     "actionsSummary": "Throws object at police on steps.",
     "alternateHashtags": [],
     "appearanceSummary": "Clean-shaven, brown-haired white man. Goggles. Sunglasses. Respirator with pink filters. Black hoodie with red button, which has yellow lettering. Red flannel jacket. Tan backpack. Blue jeans.",
@@ -7586,6 +7609,26 @@
     "profileLeads": [],
     "realName": "REEDER, Robert Maurice",
     "_id": "aOfyl2nqknVI"
+  },
+  {
+    "actionsSummary": "Fights police on NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with short dark hair wearing a dark baseball cap with \"MAKE AMERICA GREAT AGAIN\" on the front and 45 on both sides in yellow, a dark blue camouflage insulated vest over a light grey or white hoodie with orange writing on the front, blue jeans, black tennis shoes with white soles, sunglasses and a blue face mask worn mainly on his chin.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1U6kvf5aeI6LAesXUWvXxjjBiGuSyGpgw?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "ChinDiaperBrawler",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "KQPZ_K8_Mi0E"
   },
   {
     "actionsSummary": "In the crowd on the W Terrace steps. Also seen exiting the Capitol via the Left of Tunnel window. On Political Trance 05:03 after exiting the window he advises the crowd that the police are going lethal.",
@@ -10386,7 +10429,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:21-cr-48",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dennis%20Sidorski%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1HeuJwjUrukP0h5m92oGy--9pWh5xWfTk",
     "isLawEnforcement": false,
@@ -13032,6 +13075,26 @@
     "_id": "asU9smEbcnC8"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a brimmed flag print baseball helmet over a black ski mask, clear eye protectors, a dark hoodie with a lighter lining in the hood, black gloves, khaki cargo pants, grey shoes, a black backpack with orange accents and a US flag around his neck.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1vHFcsUqtbxZK9N_VJVVs6wPV37OvAMWK?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "FlagHelmetMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "gaPwG8gSIge0"
+  },
+  {
     "actionsSummary": "Enters the Capitol via the East Door. Seen inside the Rotunda.",
     "alternateHashtags": [
       "JohnnyHarris",
@@ -13729,6 +13792,26 @@
     "_id": "IHNMMBY_MvGY"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Black jacket with a fur ruff around the hood worn over a black hoodie. Khaki pants. Red face covering (bandana?). Red and grey backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/13OR25YoZcZLavxNiMotPyGAv_ZXGCerE?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "FurRuffMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "DFRlcKPi8rmU"
+  },
+  {
     "actionsSummary": "Seen among the crowd in the Capitol. Gave interview to the NY Post. He is the son of a prominent judge in Brooklyn, NY.",
     "alternateHashtags": [
       "BeardedBeaver",
@@ -14313,6 +14396,62 @@
     "primaryHashtag": "GeorgesCross",
     "profileLeads": [],
     "_id": "_iv8WW7ewigU"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1879"
+    ],
+    "appearanceSummary": "White woman with blonde hair wearing a hooded black puffer jacket with a white zipper, white framed mirrored sunglasses, dark blue ripped jeans and dark tennis shoes with white soles.",
+    "associates": [
+      "#GeorgiaBulldogMAGA"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1xPcKLHIdNrqzgLOErjuFWIeA51Rl2nlQ?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GeorgiaBulldogGF",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "kUTk6B7M0rNU"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1878"
+    ],
+    "appearanceSummary": "White man with dark hair wearing a black vest over a long sleeve white top, a University of Georgia Bulldogs red baseball cap with an oval patch with a G on the front, mirrored sunglasses, blue jeans and brown boots.",
+    "associates": [
+      "#GeorgiaBulldogGF"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/161SMTkG4DcVcUelPlvrlk3k2bHgpJZQ-?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GeorgiaBulldogMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "fkMnHrk5IluQ"
   },
   {
     "actionsSummary": "Photographed on railing for NW steps hosting a police barricade.",
@@ -16800,7 +16939,7 @@
     "arrestDate": "2021-01-16T05:00:00.000Z",
     "arrestState": "TX",
     "associates": [],
-    "caseIdentifier": "1:21-cr-32",
+    "caseIdentifier": "1:21-cr-00032",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356111/download",
     "isLawEnforcement": false,
@@ -17063,7 +17202,9 @@
       }
     ],
     "primaryHashtag": "HatAskew",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "c5DUz3C1Qn_Q"
   },
   {
@@ -21827,6 +21968,7 @@
     "appearanceSummary": "White man with short light brown hair wearing a grey hoodie, a red bandana around his forehead, dark pants and black tennis shoes with white soles and at times wearing a dark facemask/carrying a gold-ish flagpole.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/12XIH2tMfYy37ub3sl8Ewb7msclVcsxbG?usp=sharing",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -27217,7 +27359,6 @@
     "appearanceSummary": "Woman with shoulder-length brown hair. Black jacket over a white t-shirt that may say something about Christmas. Sometimes hooks eyeglasses into the neck of the shirt. Light gray pants.",
     "associates": [],
     "fbiIdentifier": "318-AOM",
-    "idStatus": "Self Doxxed",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -32037,6 +32178,26 @@
     "primaryHashtag": "RedPackMan",
     "profileLeads": [],
     "_id": "tS-MgFXhQg2Y"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair, mustache and goatee wearing a red hoodie, a red baseball cap with badges pinned to it, sunglasses (possibly flag patterned) and black backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1u7KVhSJObAYyKYP0EM5ntSU0Tfeuo8j2?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RedPinHat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "fZPhwLpsgs4M"
   },
   {
     "actionsSummary": "Outside: Throws pylon into police, passed by #CapitolCousinIt, maybe after receiving signal (raised skateboard). Inside: leaves fire extinguisher on floor of Rotunda, glances around, waits for man in flag gaiter, then moves on leaving it. Guy in Rotunda may be #PlaidsDadMaybe.",
@@ -38661,6 +38822,26 @@
       "@PhoenixOnWheels"
     ],
     "_id": "2S8d2dkzIjuQ"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with red hair and mustache wearing a grey hooded jacket with red details, a flag facemask with a black border, a black baseball cap with \"Make America Great Again\" in yellow on the front, a yellow wheat pattern along the brim, three yellow stars in the back and a small flag patch on the both sides, and a Trump flag as a cape.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1N48cBjXTkoYoD1r36Unz6aWZ7h3bPiOW?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "ThreeStarHat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "1rGMIzL2MmKo"
   },
   {
     "alternateHashtags": [
