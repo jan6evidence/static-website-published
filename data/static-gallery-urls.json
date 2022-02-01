@@ -10245,6 +10245,7 @@
       "thumbnailUrl": "https://archive.org/download/fwoRre247fwmc9nZi/fwoRre247fwmc9nZi.200px.jpg"
     }
   ],
+  "CheapShotGuy": [],
   "CheckeredChucker": [
     {
       "mediaItemId": "Ea2SawJxJtjwqLwcc",
@@ -10357,6 +10358,18 @@
       "mediaItemId": "xgg7xXTJWitsQ9F6k",
       "archiveUrl": "https://archive.org/download/xgg7xXTJWitsQ9F6k/xgg7xXTJWitsQ9F6k.png",
       "thumbnailUrl": "https://archive.org/download/xgg7xXTJWitsQ9F6k/xgg7xXTJWitsQ9F6k.200px.png"
+    }
+  ],
+  "ChinDiaperBrawler": [
+    {
+      "mediaItemId": "nEkLr3pX7Mc75bwgj",
+      "archiveUrl": "https://archive.org/download/nEkLr3pX7Mc75bwgj/nEkLr3pX7Mc75bwgj.webp",
+      "thumbnailUrl": "https://archive.org/download/nEkLr3pX7Mc75bwgj/nEkLr3pX7Mc75bwgj.200px.webp"
+    },
+    {
+      "mediaItemId": "zfPy24aoiyeBFnm6M",
+      "archiveUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.jpeg",
+      "thumbnailUrl": "https://archive.org/download/zfPy24aoiyeBFnm6M/zfPy24aoiyeBFnm6M.200px.jpeg"
     }
   ],
   "ChinPatch": [
@@ -16889,6 +16902,13 @@
       "thumbnailUrl": "https://archive.org/download/yphJxWHdTKhFwN9fG/yphJxWHdTKhFwN9fG.200px.jpeg"
     }
   ],
+  "FlagHelmetMAGA": [
+    {
+      "mediaItemId": "uaffrJkR46dy3HDkT",
+      "archiveUrl": "https://archive.org/download/uaffrJkR46dy3HDkT/uaffrJkR46dy3HDkT.jpeg",
+      "thumbnailUrl": "https://archive.org/download/uaffrJkR46dy3HDkT/uaffrJkR46dy3HDkT.200px.jpeg"
+    }
+  ],
   "FlagJacketPB": [
     {
       "mediaItemId": "9frfEE4CpjqmozvEJ",
@@ -17869,6 +17889,18 @@
       "thumbnailUrl": "https://archive.org/download/f8ZS5rAmM5pgqGerA/f8ZS5rAmM5pgqGerA.200px.png"
     }
   ],
+  "FurRuffMAGA": [
+    {
+      "mediaItemId": "fgbqQGJpcHd6x6JTH",
+      "archiveUrl": "https://archive.org/download/fgbqQGJpcHd6x6JTH/fgbqQGJpcHd6x6JTH.png",
+      "thumbnailUrl": "https://archive.org/download/fgbqQGJpcHd6x6JTH/fgbqQGJpcHd6x6JTH.200px.png"
+    },
+    {
+      "mediaItemId": "hX2wcYWZkRwYjdNSj",
+      "archiveUrl": "https://archive.org/download/hX2wcYWZkRwYjdNSj/hX2wcYWZkRwYjdNSj.png",
+      "thumbnailUrl": "https://archive.org/download/hX2wcYWZkRwYjdNSj/hX2wcYWZkRwYjdNSj.200px.png"
+    }
+  ],
   "FurryFoxGuy": [
     {
       "mediaItemId": "NyGz893Y5pY5wAxsc",
@@ -18724,6 +18756,8 @@
       "thumbnailUrl": "https://archive.org/download/z4LkY6i3WavBTsoad/z4LkY6i3WavBTsoad.200px.png"
     }
   ],
+  "GeorgiaBulldogGF": [],
+  "GeorgiaBulldogMAGA": [],
   "GetPumpedPB": [
     {
       "mediaItemId": "FDAuNvGyG5kDN5oqh",
@@ -24620,6 +24654,7 @@
       "thumbnailUrl": "https://archive.org/download/YR7NKJpnZySiHtkmh/YR7NKJpnZySiHtkmh.200px.png"
     }
   ],
+  "IAmNathanHughes": [],
   "IAmNickFuentes": [
     {
       "mediaItemId": "7tTQPtfhcihuMGFXP",
@@ -42036,6 +42071,13 @@
       "archiveUrl": "https://archive.org/download/kP4brSJmNMRxmhJjw/kP4brSJmNMRxmhJjw.jpeg"
     }
   ],
+  "RedPinHat": [
+    {
+      "mediaItemId": "n7qqJETzxY7yEwrp4",
+      "archiveUrl": "https://archive.org/download/n7qqJETzxY7yEwrp4/n7qqJETzxY7yEwrp4.jpg",
+      "thumbnailUrl": "https://archive.org/download/n7qqJETzxY7yEwrp4/n7qqJETzxY7yEwrp4.200px.jpg"
+    }
+  ],
   "RedPlaidPylonThrower": [
     {
       "mediaItemId": "3GZjL3f7cjG4N9BNY",
@@ -50945,6 +50987,13 @@
       "mediaItemId": "vudYFEjcqqBDGoLPP",
       "archiveUrl": "https://archive.org/download/vudYFEjcqqBDGoLPP/vudYFEjcqqBDGoLPP.png",
       "thumbnailUrl": "https://archive.org/download/vudYFEjcqqBDGoLPP/vudYFEjcqqBDGoLPP.200px.png"
+    }
+  ],
+  "ThreeStarHat": [
+    {
+      "mediaItemId": "pCn5dATWWzdmR5PfG",
+      "archiveUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.jpeg",
+      "thumbnailUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.200px.jpeg"
     }
   ],
   "ThugCoupleCamo": [
