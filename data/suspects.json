@@ -17713,7 +17713,12 @@
     "actionsSummary": "Shoves police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with brown hair and  greying brown facial hair wearing a grey collared coat over a grey hoodie, with white patches on the front, blue jeans, brown work boots, black gloves, a baseball hat with a frayed brim and blue mirrored wraparound sunglasses. He's carrying a US flag on a pole.",
+    "arrestDate": "2021-02-16T05:00:00.000Z",
+    "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:21-cr-162",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1JUvxPCBCRznj8jYPKCwvog1AJVDiiHub?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17727,6 +17732,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "LINDSEY, Terry Lynn",
     "_id": "kjY9SW58An8g"
   },
   {
@@ -25852,7 +25858,7 @@
     ],
     "appearanceSummary": "Brown pants. Black hooded sweatshirt and balaclava. Tan tactical vest with an antenna visible.",
     "associates": [],
-    "filesUrl": "https://docs.google.com/spreadsheets/d/1qVO_-i4xqYKgVlDSpBUIdzqcdni2H0BhE3mm1oEs2qo/edit?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/15XhXIkYEEcJMKO-HjDWCvGd0Cs45wWA9",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
