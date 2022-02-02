@@ -10199,13 +10199,19 @@
     "_id": "ZmrqkWDrIhUI"
   },
   {
+    "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
       "DayGloMaiden",
       "NeonMilkMaid",
       "Insider0370"
     ],
     "appearanceSummary": "White woman with brown hair wearing a neon green beret, brown coat and multicolor backpack with black straps.",
+    "arrestDate": "2022-02-01T05:00:00.000Z",
+    "arrestState": "VA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00016-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239399/gov.uscourts.dcd.239399.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1MuORgQ43dSllG0L0tHAQhjfktMFHDWZh",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -10217,6 +10223,7 @@
     ],
     "primaryHashtag": "DayGloMilkMaid",
     "profileLeads": [],
+    "realName": "EICHER, Jolene",
     "_id": "11_ZN3sxEr4E"
   },
   {
@@ -37143,9 +37150,10 @@
     "_id": "S_Utw73gAk6I"
   },
   {
-    "actionsSummary": "One of the first to arrive on west side of Capitol, where he stands on wall and shouts, then pushes crowd toward police while yelling at them to hold the line. Similar actions on north side. Enters Capitol. Seen speaking near #MediaSmash.",
+    "actionsSummary": "Shoves police on the NW Lawn. One of the first to arrive on west side of Capitol, where he stands on wall and shouts, then pushes crowd toward police while yelling at them to hold the line. Similar actions on north side. Enters Capitol. Seen speaking near #MediaSmash.",
     "alternateHashtags": [
-      "Insider0864"
+      "Insider0864",
+      "RedPinHat"
     ],
     "appearanceSummary": "Red MAGA baseball cap with various buttons attached to it. Dark sunglasses with stars and stripes frames. Bushy brown mustache and goatee. Red hoodie with \"Trump\" over a shield on the front. Black backpack. Black or navy blue pants with white piping. Black sneakers with white soles. Carries a smartphone that has a black or gray case.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
@@ -37154,12 +37162,17 @@
     "caseIdentifier": "1:21-mj-00688-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21151447/12-8-21-us-v-michael-oliveras-complaint-affidavit.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1u7KVhSJObAYyKYP0EM5ntSU0Tfeuo8j2?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "TackyTrumpGlasses",
@@ -38031,7 +38044,8 @@
   {
     "actionsSummary": "Entered the Capitol. Discussed it with a friend on Facebook. Shared a photo of himself with a bust of Lincoln. Seen on police body cam footage from inside the Rotunda.",
     "alternateHashtags": [
-      "Insider0961"
+      "Insider0961",
+      "HoodedSunnies"
     ],
     "appearanceSummary": "Denim coat over a grey hooded sweatshirt. Black Bricklayers ball cap. Angular face with goatee. Black gloves. Carrying American flag on a short wooden pole.",
     "arrestDate": "2021-02-16T05:00:00.000Z",
