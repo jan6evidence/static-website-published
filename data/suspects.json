@@ -2626,7 +2626,7 @@
   },
   {
     "alternateHashtags": [],
-    "appearanceSummary": "Black baseball cap with white square and round patches on the front. The patches say \"Beaver Hunter Bourbon.\" Fashion sunglasses with gold ears. Long brown hair tied by a bright blue elastic into a ponytail in the back of their head. Gold necklace. Black coat with a fur-lined hood. Small beige backpack from Nine West. Multi-colored bracelet on their right wrist. Black gloves. Blue jeans. Dark shoes.",
+    "appearanceSummary": "White woman wearing a black baseball cap with white square and round patches on the front. The patches say \"Beaver Hunter Bourbon.\" Fashion sunglasses with gold ears. Long brown hair tied by a bright blue elastic into a ponytail in the back of their head. Gold necklace. Black coat with a fur-lined hood. Small beige backpack from Nine West. Multi-colored bracelet on their right wrist. Black gloves. Blue jeans. Dark shoes.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14290,7 +14290,7 @@
     "_id": "1TS1htJLcsUE"
   },
   {
-    "actionsSummary": "Assaults at least two LEOs on the NW Lawn.",
+    "actionsSummary": "Assaults at least two LEOs on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [
       "BaldGasmask"
     ],
@@ -14301,6 +14301,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
