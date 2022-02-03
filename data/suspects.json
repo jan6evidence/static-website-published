@@ -1112,7 +1112,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-mj-00616",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.236275/gov.uscourts.dcd.236275.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1MaEnWMZgCSeEvGBSVWAOpmQ81Z3NFzfx?usp=sharing",
     "isLawEnforcement": false,
@@ -13829,7 +13829,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-138",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1353206/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17710,9 +17710,12 @@
     "_id": "FDSBHNqoko8s"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn.",
-    "alternateHashtags": [],
-    "appearanceSummary": "White man with brown hair and  greying brown facial hair wearing a grey collared coat over a grey hoodie, with white patches on the front, blue jeans, brown work boots, black gloves, a baseball hat with a frayed brim and blue mirrored wraparound sunglasses. He's carrying a US flag on a pole.",
+    "actionsSummary": "Shoves police on the NW Lawn. Entered the Capitol. Discussed it with a friend on Facebook. Shared a photo of himself with a bust of Lincoln. Seen on police body cam footage from inside the Rotunda.",
+    "alternateHashtags": [
+      "TerryLindsey",
+      "Insider0961"
+    ],
+    "appearanceSummary": "White man with brown hair and  greying brown facial hair (goatee) wearing a grey (demin) collared coat over a grey hoodie, with white patches on the front, blue jeans, brown work boots, black gloves, a baseball hat (Bricklayers ball cap) with a frayed brim and blue mirrored wraparound sunglasses. He's carrying a US flag on a pole.",
     "arrestDate": "2021-02-16T05:00:00.000Z",
     "arrestState": "OH",
     "associates": [],
@@ -17723,6 +17726,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -32058,6 +32065,26 @@
     "_id": "AQ-8kLqbAiqo"
   },
   {
+    "actionsSummary": "Cuts up tarp on NW Scaffold with a knife and rips it down.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Stocky white man with a red beard wearing a camo baseball cap, black hoodie, black backpack, red and black gloves and sunglasses and carrying a knife.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1ZSkYdmYVW7mjrdE9WCtWrd_Mh87Ldqi-?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "RedGlovesKnife",
+    "profileLeads": [
+      "@CassanderGrant @PhoenixOnWheels"
+    ],
+    "_id": "sQjS_cEeUtwE"
+  },
+  {
     "actionsSummary": "Hangs out next to organizers at tunnel, probably friends/family. Observed at one point in tunnel w #BullhornLady + #ginabisignano. Posts on Parler as ScarletOfFire",
     "alternateHashtags": [
       "ScarletOfFire"
@@ -32191,26 +32218,6 @@
     "primaryHashtag": "RedPackMan",
     "profileLeads": [],
     "_id": "tS-MgFXhQg2Y"
-  },
-  {
-    "actionsSummary": "Shoves police on the NW Lawn.",
-    "alternateHashtags": [],
-    "appearanceSummary": "White man with brown hair, mustache and goatee wearing a red hoodie, a red baseball cap with badges pinned to it, sunglasses (possibly flag patterned) and black backpack.",
-    "associates": [],
-    "filesUrl": "https://drive.google.com/drive/folders/1u7KVhSJObAYyKYP0EM5ntSU0Tfeuo8j2?usp=sharing",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "RedPinHat",
-    "profileLeads": [
-      "@PhoenixOnWheels"
-    ],
-    "_id": "fZPhwLpsgs4M"
   },
   {
     "actionsSummary": "Outside: Throws pylon into police, passed by #CapitolCousinIt, maybe after receiving signal (raised skateboard). Inside: leaves fire extinguisher on floor of Rotunda, glances around, waits for man in flag gaiter, then moves on leaving it. Guy in Rotunda may be #PlaidsDadMaybe.",
@@ -38046,32 +38053,6 @@
     "profileLeads": [],
     "realName": "BROWN, Terry",
     "_id": "KCgjSr95Em-o"
-  },
-  {
-    "actionsSummary": "Entered the Capitol. Discussed it with a friend on Facebook. Shared a photo of himself with a bust of Lincoln. Seen on police body cam footage from inside the Rotunda.",
-    "alternateHashtags": [
-      "Insider0961",
-      "HoodedSunnies"
-    ],
-    "appearanceSummary": "Denim coat over a grey hooded sweatshirt. Black Bricklayers ball cap. Angular face with goatee. Black gloves. Carrying American flag on a short wooden pole.",
-    "arrestDate": "2021-02-16T05:00:00.000Z",
-    "arrestState": "OH",
-    "associates": [],
-    "caseIdentifier": "1:21-cr-162",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
-    "primaryHashtag": "TerryLindsey",
-    "profileLeads": [],
-    "realName": "LINDSEY, Terry Lynn",
-    "_id": "PmCAuRqcQnW4"
   },
   {
     "actionsSummary": "Seen on W. Plaza",
