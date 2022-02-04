@@ -42427,7 +42427,53 @@
       "thumbnailUrl": "https://archive.org/download/uNGujSTyR7zqR3o3g/uNGujSTyR7zqR3o3g.200px.jpeg"
     }
   ],
-  "RedGlovesKnife": [],
+  "RedGlovesKnife": [
+    {
+      "mediaItemId": "A6qeb97aFycRfDsJP",
+      "archiveUrl": "https://archive.org/download/A6qeb97aFycRfDsJP/A6qeb97aFycRfDsJP.png",
+      "thumbnailUrl": "https://archive.org/download/A6qeb97aFycRfDsJP/A6qeb97aFycRfDsJP.200px.png"
+    },
+    {
+      "mediaItemId": "BdCwSw8PuadqHmjLT",
+      "archiveUrl": "https://archive.org/download/BdCwSw8PuadqHmjLT/BdCwSw8PuadqHmjLT.png",
+      "thumbnailUrl": "https://archive.org/download/BdCwSw8PuadqHmjLT/BdCwSw8PuadqHmjLT.200px.png"
+    },
+    {
+      "mediaItemId": "FYEmcf8zhyZqaS74X",
+      "archiveUrl": "https://archive.org/download/FYEmcf8zhyZqaS74X/FYEmcf8zhyZqaS74X.png",
+      "thumbnailUrl": "https://archive.org/download/FYEmcf8zhyZqaS74X/FYEmcf8zhyZqaS74X.200px.png"
+    },
+    {
+      "mediaItemId": "FeS8oRDMihohW4A2s",
+      "archiveUrl": "https://archive.org/download/FeS8oRDMihohW4A2s/FeS8oRDMihohW4A2s.png",
+      "thumbnailUrl": "https://archive.org/download/FeS8oRDMihohW4A2s/FeS8oRDMihohW4A2s.200px.png"
+    },
+    {
+      "mediaItemId": "KzB3LbQXmpc5ckNKa",
+      "archiveUrl": "https://archive.org/download/KzB3LbQXmpc5ckNKa/KzB3LbQXmpc5ckNKa.png",
+      "thumbnailUrl": "https://archive.org/download/KzB3LbQXmpc5ckNKa/KzB3LbQXmpc5ckNKa.200px.png"
+    },
+    {
+      "mediaItemId": "Yh5eFrdvzGjMqJsZw",
+      "archiveUrl": "https://archive.org/download/Yh5eFrdvzGjMqJsZw/Yh5eFrdvzGjMqJsZw.png",
+      "thumbnailUrl": "https://archive.org/download/Yh5eFrdvzGjMqJsZw/Yh5eFrdvzGjMqJsZw.200px.png"
+    },
+    {
+      "mediaItemId": "rnXG5wydcizSjmqit",
+      "archiveUrl": "https://archive.org/download/rnXG5wydcizSjmqit/rnXG5wydcizSjmqit.png",
+      "thumbnailUrl": "https://archive.org/download/rnXG5wydcizSjmqit/rnXG5wydcizSjmqit.200px.png"
+    },
+    {
+      "mediaItemId": "xordNe9ztrycRG9rS",
+      "archiveUrl": "https://archive.org/download/xordNe9ztrycRG9rS/xordNe9ztrycRG9rS.png",
+      "thumbnailUrl": "https://archive.org/download/xordNe9ztrycRG9rS/xordNe9ztrycRG9rS.200px.png"
+    },
+    {
+      "mediaItemId": "zNmYqfkyHa6LkHEYS",
+      "archiveUrl": "https://archive.org/download/zNmYqfkyHa6LkHEYS/zNmYqfkyHa6LkHEYS.png",
+      "thumbnailUrl": "https://archive.org/download/zNmYqfkyHa6LkHEYS/zNmYqfkyHa6LkHEYS.200px.png"
+    }
+  ],
   "RedHairLookerLady": [
     {
       "mediaItemId": "ajyMTyKfz3WtvByg4",

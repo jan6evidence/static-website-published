@@ -3308,6 +3308,26 @@
     "_id": "y6lGeBwsMrBM"
   },
   {
+    "actionsSummary": "Shoves cop over on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with light brown facial hair (mustache - beard unknown) wearinga plain black baseball cap with a leather strap at the back over a black balaclava, a black collared coat, black gloves, blue jeans and black tennis shoes with white details.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1bN03Rj1W5Dgw0w_J4mcnFoHNANPo5Y-N?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BlackBalaclava",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "0wtXaxWk8sCE"
+  },
+  {
     "actionsSummary": "Carries baton and pepper spray, entered Capitol through NE (?) door, not purposefully, took photos. Gave interview the night of 1/5. Holds Capitol door open, hands out Fuck Antifa stickers and tells people to stick them up inside.",
     "alternateHashtags": [],
     "appearanceSummary": "Black tactical helmet with 3% and Punisher logos, black \"Fuck Antifa\" long-sleeved T-shirt, L sleeve has Gadsden flag R. Blue Live Matter & 2nd blue patch. Yellow Fuck Antifa stickers on helmet and sleeves. Olive green backpack, khaki pants. Goggles w/ yellow rims and grey/black gaiter cover face. Greying hair. Blue flag is 5.11 Tactical brand Virginia flag.",
@@ -10514,7 +10534,7 @@
     "arrestState": "WV",
     "associates": [],
     "caseIdentifier": "1:21-cr-337",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1351946/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14292,7 +14312,8 @@
   {
     "actionsSummary": "Assaults at least two LEOs on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [
-      "BaldGasmask"
+      "BaldGasmask",
+      "Insider2056"
     ],
     "appearanceSummary": "Bald man with a wispy brown beard and mustache. Sometimes wears a gray respirator with yellow and bright pink filter cartridges. A gray hose connects to his backpack over his left shoulder. Stars and stripes gaiter. Black, hooded jacket with a large US flag on the front. Olive drab backpack with a cross-strap over the chest. Bright blue gloves with a white logo on the back of each.",
     "associates": [],
@@ -19468,7 +19489,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-100",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Lewis%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19892,7 +19913,10 @@
     "appearanceSummary": "White man with red hair and a Hulihee beard wearing a dark hoodie and khaki pants.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#LukeFaulkner",
+      "#KennethMassie"
+    ],
     "caseIdentifier": "1:21-mj-00685-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238210/gov.uscourts.dcd.238210.1.1.pdf",
@@ -20068,7 +20092,7 @@
       "#CarlyKrzywicki"
     ],
     "caseIdentifier": "1:21-mj-00594-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21503,7 +21527,7 @@
     "arrestState": "WA",
     "associates": [],
     "caseIdentifier": "1:21-cr-389",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1394231/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22356,6 +22380,29 @@
     "profileLeads": [],
     "realName": "KELLY, Kenneth",
     "_id": "dbua66ZFYh94"
+  },
+  {
+    "actionsSummary": "Entered Capitol.",
+    "alternateHashtags": [
+      "Insider2170"
+    ],
+    "appearanceSummary": "White man with short dark hair wearing a dark hoodie, a white cowboy hat with a flag print on the bottom side of the brim and a black face mask.",
+    "arrestDate": "2022-01-31T05:00:00.000Z",
+    "associates": [
+      "#JaredKastner",
+      "#LukeFaulkner"
+    ],
+    "caseIdentifier": "1:22-mj-00019-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Massie%20Statement%20of%20Facts.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1rmACnumClm2eT2ttAnrG5dkGLKUkjpsh?usp=sharing",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "KennethMassie",
+    "profileLeads": [],
+    "realName": "MASSIE, Kenneth Duncan",
+    "_id": "7VwlLL-2Mq3A"
   },
   {
     "actionsSummary": "Entered Capitol.",
@@ -24157,7 +24204,10 @@
     "appearanceSummary": "White man with long grey hair and beard wearing a black top with a white logo on the top, blue jeans, brown shoes and black gloves.",
     "arrestDate": "2021-12-09T05:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#JaredKastner",
+      "#KennethMassie"
+    ],
     "caseIdentifier": "1:21-mj-00685-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.238210/gov.uscourts.dcd.238210.1.1.pdf",
