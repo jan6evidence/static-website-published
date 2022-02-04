@@ -33260,23 +33260,28 @@
     "_id": "Re0GsTvWwqI8"
   },
   {
-    "actionsSummary": "Entered Capitol and live-streamed it on Facebook. Attended with his mom.",
+    "actionsSummary": "Shoved police on the NW Lawn. Entered Capitol and live-streamed it on Facebook. Attended with his mom.",
     "alternateHashtags": [
       "Insider1832"
     ],
-    "appearanceSummary": "Khaki pants, FYF hooded sweatshirt, red face mask, black baseball hat with a flag on the front.",
+    "appearanceSummary": "Khaki pants, F Your Feelings hooded sweatshirt, red face mask, black baseball hat with a flag on the front.",
     "arrestDate": "2021-02-09T05:00:00.000Z",
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-309",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1367016/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1NQO1csW3eRqv3dWPAOHWKuNZR-beIhGX",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "RussellPeterson",
