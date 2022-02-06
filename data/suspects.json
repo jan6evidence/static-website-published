@@ -493,6 +493,7 @@
     "caseStatus": "Indicted",
     "chargingDocUrl": "http://cdn.cnn.com/cnn/2021/images/06/24/woods.pdf",
     "fbiIdentifier": "238-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/15Y0em6Hu3GvOS56mToZRfCAcZQ3c7ozu",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5582,6 +5583,7 @@
     ],
     "appearanceSummary": "Brown leather jacket. Khaki cargo pants. Black flight style helmet. Shirt underneath his coat has white lettering. Keeps face covered with a gaiter.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1qoAmyJ1Ojq0YutJvY3jiis33QOYwfQHv",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5599,7 +5601,9 @@
       }
     ],
     "primaryHashtag": "BrownFlightSchool",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "FrXczAVOolHc"
   },
   {
