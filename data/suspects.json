@@ -27412,7 +27412,12 @@
       "Insider1486"
     ],
     "appearanceSummary": "Gray knit cap. Dark hair. Sides of the head are very short. Black chinstrap beard. Wears a hooded jacket that has a silver body and black arms. Red or maroon shirt. Gray pants. Carries US flag.",
+    "arrestDate": "2022-02-08T05:00:00.000Z",
+    "arrestState": "NC",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00020-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.239781/gov.uscourts.dcd.239781.1.1.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27428,6 +27433,7 @@
     ],
     "primaryHashtag": "NaziGrayHat",
     "profileLeads": [],
+    "realName": "BEDDINGFIELD, Matthew Jason",
     "_id": "M8OL59XTsg0Y"
   },
   {
