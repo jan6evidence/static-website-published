@@ -1898,7 +1898,7 @@
     "arrestState": "MD",
     "associates": [],
     "caseIdentifier": "1:21-cr-75",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1360201/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -3884,7 +3884,7 @@
     "arrestState": "MI",
     "associates": [],
     "caseIdentifier": "1:21-mj-00649-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1454291/download",
     "fbiIdentifier": "337-AFO",
     "isLawEnforcement": false,
@@ -24061,12 +24061,17 @@
     "_id": "WTWCpmxqQso4"
   },
   {
-    "actionsSummary": "Pictured inside the Capitol. Violent based on AFO designation.",
+    "actionsSummary": "Pictured inside the Capitol. Had AFO designation but was not charged with an AFO when arrested.",
     "alternateHashtags": [
       "Insider1269"
     ],
     "appearanceSummary": "Navy jacket, black hat. Red scarf with stars. Shoulder-length hair.",
+    "arrestDate": "2022-02-08T05:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00021-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1470246/download",
     "fbiIdentifier": "244-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24074,14 +24079,11 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
       }
     ],
     "primaryHashtag": "LordLongHair",
     "profileLeads": [],
+    "realName": "GERWATOWSKI, Eric",
     "_id": "zNgXN74qoiVw"
   },
   {
@@ -28093,13 +28095,20 @@
     "_id": "F_pb_Wl18sFk"
   },
   {
-    "actionsSummary": "Attempts to scale a wall. Smashes a speaker instead.",
+    "actionsSummary": "Throws a short length of threaded pipe at police on the Upper West Plaza. Attempts to scale a wall. Smashes a speaker.",
     "alternateHashtags": [],
-    "appearanceSummary": "Brown coat. Teal colored face buff. Blue and cream knit hat.",
-    "associates": [],
+    "appearanceSummary": "White man wearing a brown coat with a yellow zipper over a blue plaid shirt, a blue and cream patterned knit cap, a teal blue buff, jeans and a leather belt with something strapped to the left side.",
+    "associates": [
+      "#RaginRiotCajun"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1a0p0eD96EtAG0McTmmiD1S4ipdzGUtRb",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
       {
         "type": "behavior",
         "name": "Vandalism"
@@ -31866,7 +31875,9 @@
     "actionsSummary": "Went in and out of the tunnel, likely participated but not confirmed.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark gray knit cap with the word \"Rage\" in large red letters and a red and white fleur-de-lis on the front. Eyeglasses with gold frames. Shoulder-length dark hair. Black gaiter. White fleece jacket from the North Face over a black hoodie.",
-    "associates": [],
+    "associates": [
+      "#NoseHammock"
+    ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
