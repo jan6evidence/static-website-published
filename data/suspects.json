@@ -7229,7 +7229,12 @@
     "actionsSummary": "West plaza attacker.",
     "alternateHashtags": [],
     "appearanceSummary": "White male with medium length brown hair. Black cowboy hat, tan coat, blue jeans, black gloves.",
+    "arrestDate": "2022-02-10T05:00:00.000Z",
+    "arrestState": "GA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00025",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1470741/download",
     "fbiIdentifier": "474-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/14_FslAlaCV8sapm7j51xJiwvvfxOlX_Z?usp=sharing",
     "idStatus": "ID sent to FBI",
@@ -7243,6 +7248,7 @@
     ],
     "primaryHashtag": "CarharttCowpoke",
     "profileLeads": [],
+    "realName": "MAXWELL, Jake",
     "_id": "ZMyw6Kx5Ygsw"
   },
   {
