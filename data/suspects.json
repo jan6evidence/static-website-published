@@ -22075,10 +22075,12 @@
     "_id": "P9AbyCmWgiiI"
   },
   {
-    "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
+    "actionsSummary": "Shoves police on NW Lawn. shoves a cop on the NE Plaza. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with short light brown hair wearing a grey hoodie, a red bandana around his forehead, dark pants and black tennis shoes with white soles and at times wearing a dark facemask/carrying a gold-ish flagpole.",
-    "associates": [],
+    "associates": [
+      "#KarateKidSidekick"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/12XIH2tMfYy37ub3sl8Ewb7msclVcsxbG?usp=sharing",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -22098,6 +22100,33 @@
       "@PhoenixOnWheels"
     ],
     "_id": "h2w6CsBVYvaM"
+  },
+  {
+    "actionsSummary": "Shoves a cop on the NE Plaza. Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Man wearing a black hoodie with white writing on the front and an H logo on the arm, a black knit cap, and bulky black knit scarf, blue jeans, black tennis shoes and a black backpack and carrying a wood stick.",
+    "associates": [
+      "#KarateKidMAGA"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1bi1YQ7htA3awcLNdrcMy1TLl8Su9GF44",
+    "idStatus": "ID sent to FBI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "KarateKidSidekick",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "jSJ8yb-Uoiig"
   },
   {
     "actionsSummary": "Entered the Capitol via a window on the NW Courtyard.",
