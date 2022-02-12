@@ -1550,6 +1550,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Rawlings batting helmet, grey jacket, yellow gloves, carries axe handle with U.S. flag attached and very large bright aqua bag (possibly tennis racket bag)",
     "associates": [],
+    "fbiIdentifier": "516-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -11147,9 +11148,15 @@
     "appearanceSummary": "Grey hooded coat or sweatshirt. Blue Trump flag like a cape. Blue Trump hat. Flag gaiter.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1EeEGwNbeoXTL0bMS_0eobR69nCKCO1pX/view?usp=sharing",
+    "fbiIdentifier": "515-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "DragThemOut",
     "profileLeads": [],
     "_id": "Lwi05u-S8g5c"
@@ -14349,14 +14356,20 @@
     "_id": "_ZVOsceFIgdQ"
   },
   {
-    "actionsSummary": "Slams a barricade into police on the NE Plaza.",
-    "alternateHashtags": [],
+    "actionsSummary": "Slams a barricade into police on the NE Plaza. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider514"
+    ],
     "appearanceSummary": "White man with brown hair wearing a black top, khaki helmet, flag buff, gasmask with angular white filters and brown gloves with armored knuckles.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1S6p1YXbgmOA0a-4vquw94Y5PPq-f_pj4",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -36686,7 +36699,7 @@
     "_id": "_-VH0gUiIh_s"
   },
   {
-    "actionsSummary": "One of first-minute breachers from NW Courtyard, recorded by security camera entering the Capitol through a broken window.",
+    "actionsSummary": "Hits police with his homemade sign. One of first-minute breachers from NW Courtyard, recorded by security camera entering the Capitol through a broken window.",
     "alternateHashtags": [
       "Insider0610"
     ],
