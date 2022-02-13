@@ -28931,7 +28931,53 @@
       "thumbnailUrl": "https://archive.org/download/xnzXr7A99Wib3BHoA/xnzXr7A99Wib3BHoA.200px.png"
     }
   ],
-  "KarateKidSidekick": [],
+  "KarateKidSidekick": [
+    {
+      "mediaItemId": "3MRc3xFS5ddEv5tto",
+      "archiveUrl": "https://archive.org/download/3MRc3xFS5ddEv5tto/3MRc3xFS5ddEv5tto.png",
+      "thumbnailUrl": "https://archive.org/download/3MRc3xFS5ddEv5tto/3MRc3xFS5ddEv5tto.200px.png"
+    },
+    {
+      "mediaItemId": "ASwQyqS3AJFz6gzgr",
+      "archiveUrl": "https://archive.org/download/ASwQyqS3AJFz6gzgr/ASwQyqS3AJFz6gzgr.png",
+      "thumbnailUrl": "https://archive.org/download/ASwQyqS3AJFz6gzgr/ASwQyqS3AJFz6gzgr.200px.png"
+    },
+    {
+      "mediaItemId": "Dqp6xxRKjs8dXEfAc",
+      "archiveUrl": "https://archive.org/download/Dqp6xxRKjs8dXEfAc/Dqp6xxRKjs8dXEfAc.png",
+      "thumbnailUrl": "https://archive.org/download/Dqp6xxRKjs8dXEfAc/Dqp6xxRKjs8dXEfAc.200px.png"
+    },
+    {
+      "mediaItemId": "MkYPhtoqu3i2vfkPL",
+      "archiveUrl": "https://archive.org/download/MkYPhtoqu3i2vfkPL/MkYPhtoqu3i2vfkPL.png",
+      "thumbnailUrl": "https://archive.org/download/MkYPhtoqu3i2vfkPL/MkYPhtoqu3i2vfkPL.200px.png"
+    },
+    {
+      "mediaItemId": "XahftjZkqpMKFnTJd",
+      "archiveUrl": "https://archive.org/download/XahftjZkqpMKFnTJd/XahftjZkqpMKFnTJd.png",
+      "thumbnailUrl": "https://archive.org/download/XahftjZkqpMKFnTJd/XahftjZkqpMKFnTJd.200px.png"
+    },
+    {
+      "mediaItemId": "mZjZSnrGJvwDxdwCY",
+      "archiveUrl": "https://archive.org/download/mZjZSnrGJvwDxdwCY/mZjZSnrGJvwDxdwCY.png",
+      "thumbnailUrl": "https://archive.org/download/mZjZSnrGJvwDxdwCY/mZjZSnrGJvwDxdwCY.200px.png"
+    },
+    {
+      "mediaItemId": "vNj2ir59vBua3gEcS",
+      "archiveUrl": "https://archive.org/download/vNj2ir59vBua3gEcS/vNj2ir59vBua3gEcS.png",
+      "thumbnailUrl": "https://archive.org/download/vNj2ir59vBua3gEcS/vNj2ir59vBua3gEcS.200px.png"
+    },
+    {
+      "mediaItemId": "ze6gvJgeNMNFwykYC",
+      "archiveUrl": "https://archive.org/download/ze6gvJgeNMNFwykYC/ze6gvJgeNMNFwykYC.png",
+      "thumbnailUrl": "https://archive.org/download/ze6gvJgeNMNFwykYC/ze6gvJgeNMNFwykYC.200px.png"
+    },
+    {
+      "mediaItemId": "zz8WWyvx8tAHtdpB9",
+      "archiveUrl": "https://archive.org/download/zz8WWyvx8tAHtdpB9/zz8WWyvx8tAHtdpB9.png",
+      "thumbnailUrl": "https://archive.org/download/zz8WWyvx8tAHtdpB9/zz8WWyvx8tAHtdpB9.200px.png"
+    }
+  ],
   "KariKelley": [
     {
       "mediaItemId": "WSF9DBTz92Aat7gvY",
