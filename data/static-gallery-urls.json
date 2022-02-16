@@ -8259,6 +8259,7 @@
       "thumbnailUrl": "https://archive.org/download/zAD37M84EhoR5dxNp/zAD37M84EhoR5dxNp.200px.jfif"
     }
   ],
+  "BumbleBandana": [],
   "BumbleBetsy": [
     {
       "mediaItemId": "9PZut5RRRYJ5ajazM",
@@ -15137,6 +15138,13 @@
     {
       "mediaItemId": "upTQst4mjWJTyCE97",
       "archiveUrl": "https://archive.org/download/upTQst4mjWJTyCE97/upTQst4mjWJTyCE97.gif"
+    }
+  ],
+  "EnamelPinHead": [
+    {
+      "mediaItemId": "pCn5dATWWzdmR5PfG",
+      "archiveUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.jpeg",
+      "thumbnailUrl": "https://archive.org/download/pCn5dATWWzdmR5PfG/pCn5dATWWzdmR5PfG.200px.jpeg"
     }
   ],
   "EndCCPMask": [
@@ -23754,6 +23762,13 @@
       "mediaItemId": "wg367xuxH6GkBJDgn",
       "archiveUrl": "https://archive.org/download/wg367xuxH6GkBJDgn/wg367xuxH6GkBJDgn.png",
       "thumbnailUrl": "https://archive.org/download/wg367xuxH6GkBJDgn/wg367xuxH6GkBJDgn.200px.png"
+    }
+  ],
+  "HoodedSuckerPunch": [
+    {
+      "mediaItemId": "SiFpgFfgEXbYD4Rpg",
+      "archiveUrl": "https://archive.org/download/SiFpgFfgEXbYD4Rpg/SiFpgFfgEXbYD4Rpg.jpeg",
+      "thumbnailUrl": "https://archive.org/download/SiFpgFfgEXbYD4Rpg/SiFpgFfgEXbYD4Rpg.200px.jpeg"
     }
   ],
   "HoodedSunnies": [
@@ -35789,6 +35804,13 @@
       "thumbnailUrl": "https://archive.org/download/bykp4yXPymAcAJ98t/bykp4yXPymAcAJ98t.200px.jpg"
     }
   ],
+  "NeonGreenBuff": [
+    {
+      "mediaItemId": "NfjKBweuxQ23e7LFr",
+      "archiveUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.jpeg",
+      "thumbnailUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.200px.jpeg"
+    }
+  ],
   "NeonHandsSmasher": [
     {
       "mediaItemId": "PEeajdkdvhXvaYr4W",
@@ -41834,6 +41856,7 @@
       "archiveUrl": "https://archive.org/download/fRFknND6L6sJoy4Gj/fRFknND6L6sJoy4Gj.png"
     }
   ],
+  "QuiltedNormie": [],
   "RWBWrestler": [
     {
       "mediaItemId": "7raAB2fkY4Lny8G3c",
@@ -42576,6 +42599,7 @@
       "thumbnailUrl": "https://archive.org/download/soM9antgNcgxzh9QD/soM9antgNcgxzh9QD.200px.png"
     }
   ],
+  "RedDyeJob": [],
   "RedFace45": [
     {
       "mediaItemId": "QxMKT7au7hNub4ygQ",
@@ -52996,6 +53020,17 @@
       "mediaItemId": "xdZqFrqHGRuMKFDuF",
       "archiveUrl": "https://archive.org/download/xdZqFrqHGRuMKFDuF/xdZqFrqHGRuMKFDuF.jpeg",
       "thumbnailUrl": "https://archive.org/download/xdZqFrqHGRuMKFDuF/xdZqFrqHGRuMKFDuF.200px.jpeg"
+    }
+  ],
+  "TriangleHelmet": [
+    {
+      "mediaItemId": "dW3exyQgz2D2uZMJy",
+      "archiveUrl": "https://archive.org/download/dW3exyQgz2D2uZMJy/dW3exyQgz2D2uZMJy.png"
+    },
+    {
+      "mediaItemId": "uaffrJkR46dy3HDkT",
+      "archiveUrl": "https://archive.org/download/uaffrJkR46dy3HDkT/uaffrJkR46dy3HDkT.jpeg",
+      "thumbnailUrl": "https://archive.org/download/uaffrJkR46dy3HDkT/uaffrJkR46dy3HDkT.200px.jpeg"
     }
   ],
   "TricornTraitor": [
