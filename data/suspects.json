@@ -16112,10 +16112,15 @@
       "BlackHatSprayerFriend"
     ],
     "appearanceSummary": "Woman with long, wavy blonde hair. Wears a forest green and white checked jacket over a dark blue or gray hoodie. In one image has the hood up over a gray hat.",
+    "arrestDate": "2022-02-16T05:00:00.000Z",
+    "arrestState": "KY",
     "associates": [
       "#BlackHatSprayer",
       "#PlaidBearSpray"
     ],
+    "caseIdentifier": "1:21-cr-00178-APM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1473276/download",
     "compositeURL": "https://drive.google.com/file/d/16fb1LgpL67qh0dz0nC9iR8W30H293y7v/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16134,6 +16139,7 @@
       "@TwittsnTweets",
       "@domoarigato00"
     ],
+    "realName": "STALLINGS, Shelly",
     "_id": "z7GrJjNUgqXw"
   },
   {
@@ -23860,6 +23866,22 @@
     ],
     "realName": "RIDGE IV, Leonard Pearson",
     "_id": "9TrVuHl4knf8"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2022-02-16T05:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00027-RMM",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240198/gov.uscourts.dcd.240198.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1T5Zmfc6CdqfPMLXKliuO-Shb1qWKhnfU",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "LeticiaFerreira",
+    "profileLeads": [],
+    "realName": "FERREIRA, Leticia Vilhena",
+    "_id": "RiIGB4efgnjw"
   },
   {
     "alternateHashtags": [],
