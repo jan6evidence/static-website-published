@@ -5228,6 +5228,7 @@
       "archiveUrl": "https://archive.org/download/fMKMZptaJ9cjG5fw5/fMKMZptaJ9cjG5fw5.jpg"
     }
   ],
+  "BlackOnBlackGlasses": [],
   "BlackPufferEagleHat": [
     {
       "mediaItemId": "6fvnkiipDPZP6Gion",
@@ -31019,7 +31020,13 @@
       "thumbnailUrl": "https://archive.org/download/rW5uvC3PWKN29CKBY/rW5uvC3PWKN29CKBY.200px.png"
     }
   ],
-  "LeticiaFerreira": [],
+  "LeticiaFerreira": [
+    {
+      "mediaItemId": "F2P4ze4TjbrsCtnFC",
+      "archiveUrl": "https://archive.org/download/F2P4ze4TjbrsCtnFC/F2P4ze4TjbrsCtnFC.png",
+      "thumbnailUrl": "https://archive.org/download/F2P4ze4TjbrsCtnFC/F2P4ze4TjbrsCtnFC.200px.png"
+    }
+  ],
   "LettermanPB": [
     {
       "mediaItemId": "BkfMuQJQghsJHrP7r",
