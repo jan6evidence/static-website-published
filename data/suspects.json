@@ -3864,6 +3864,21 @@
     "_id": "BH8tbKyE8k_s"
   },
   {
+    "actionsSummary": "On restricted grounds.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Older white man with white hair wearing a hooded black jacket, a knit hat and glasses. He has either an earpiece or a hearing aid.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1V3EAgKqncgZPwWdZRxlH9xPvKO5GqsbB",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BlackOnBlackGlasses",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "FXUxdbotMm4I"
+  },
+  {
     "actionsSummary": "Seen near tunnel so may have participated in violence.",
     "alternateHashtags": [
       "EagleCapGuy"
@@ -5428,7 +5443,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-222",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -15726,7 +15741,7 @@
     ],
     "caseIdentifier": "1:21-cr-00334-TJK",
     "caseStatus": "Indicted",
-    "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dale%20Jeremiah%20Shalvey%20and%20Tara%20Aileen%20Stottlemyer%20Superseding%20Indictment.pdf",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.230704/gov.uscourts.dcd.230704.48.0_3.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16188,10 +16203,15 @@
       "Insider1176"
     ],
     "appearanceSummary": "Army green helmet, army green North Face jacket. Black backpack. Dark pants and brown boots.",
+    "arrestDate": "2022-02-17T05:00:00.000Z",
+    "arrestState": "PA",
     "associates": [
       "#GreenPeaPitcher",
       "#GreenBikeHelmet"
     ],
+    "caseIdentifier": "1:21-cr-00334-TJK",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.230704/gov.uscourts.dcd.230704.48.0_3.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16210,6 +16230,7 @@
     ],
     "primaryHashtag": "GreenSafetyFirst",
     "profileLeads": [],
+    "realName": "MORRISON, Katharine Hallock \"Kate\"",
     "_id": "XVM8gd10MsPw"
   },
   {
@@ -21161,7 +21182,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:22-mj-00011-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1465906/download",
     "fbiIdentifier": "324-AFO",
     "isLawEnforcement": false,
@@ -23868,7 +23889,9 @@
     "_id": "9TrVuHl4knf8"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider319"
+    ],
     "arrestDate": "2022-02-16T05:00:00.000Z",
     "arrestState": "IL",
     "associates": [],
