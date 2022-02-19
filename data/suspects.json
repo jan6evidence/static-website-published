@@ -30868,9 +30868,14 @@
       "Insider0979"
     ],
     "appearanceSummary": "Black tactical vest, flag neck gaiter, black gloves, jeans, boots; reddish hair and goatee.",
+    "arrestDate": "2022-02-18T05:00:00.000Z",
+    "arrestState": "TN",
     "associates": [
       "#RedPlaidPylonThrower"
     ],
+    "caseIdentifier": "1:220-mj-00028",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1475211/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -30885,6 +30890,7 @@
     ],
     "primaryHashtag": "PlaidsDadMaybe",
     "profileLeads": [],
+    "realName": "WAYNICK, Mark Dewayne",
     "_id": "OMegrZvIcgZ8"
   },
   {
@@ -32570,10 +32576,15 @@
       "Insider0884"
     ],
     "appearanceSummary": "Red plaid, tactical vest and helmet. Photographed in this gear on lawn before riot with #PlaidsDadMaybe, 'Janet Casserly' of Sarasota FL, younger boy on skateboard (different skateboard).",
+    "arrestDate": "2022-02-18T05:00:00.000Z",
+    "arrestState": "TN",
     "associates": [
       "#PlaidsDadMaybe",
       "#CapitolCousinIt"
     ],
+    "caseIdentifier": "1:220-mj-00028",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1475211/download",
     "compositeURL": "https://drive.google.com/file/d/1xOQZQhuPEJHZiTKGR1fzb9v742mtfLbZ/view?usp=sharing",
     "fbiIdentifier": "157-AFO",
     "isLawEnforcement": false,
@@ -32597,6 +32608,7 @@
       "@aepidemiologist",
       "@Rocketman2001"
     ],
+    "realName": "WAYNICK, Jerry Thomas McKane",
     "_id": "KpgZgYtQYu2g"
   },
   {
@@ -33218,7 +33230,7 @@
       "#DanielHerendeen"
     ],
     "caseIdentifier": "1:21-cr-278",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20and%20Robert%20Schornak%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -37316,7 +37328,12 @@
       "BerkshireNautilusGuy"
     ],
     "appearanceSummary": "Black hoodie with a white logo on the left front. Logo is for Berkshire Nautilus, a gym which is located Pittsfield, PA.",
+    "arrestDate": "2022-02-18T05:00:00.000Z",
+    "arrestState": "MA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00031-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240312/gov.uscourts.dcd.240312.1.1_1.pdf",
     "fbiIdentifier": "141-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -37329,6 +37346,7 @@
     ],
     "primaryHashtag": "SweaterHead",
     "profileLeads": [],
+    "realName": "GILLESPIE, Vincent J.",
     "_id": "0dLH5Z4b0qPQ"
   },
   {
