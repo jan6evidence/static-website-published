@@ -972,7 +972,6 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider0435",
       "Insider435"
     ],
     "appearanceSummary": "White man with shoulder length brown hair wearing a dark grey coat with a black collar and jeans.",
@@ -2511,8 +2510,7 @@
   {
     "actionsSummary": "Shoves police on NW Lawn. Kicks over stands holding velvet ropes inside Rotunda.",
     "alternateHashtags": [
-      "Insider167",
-      "Insider0167"
+      "Insider167"
     ],
     "appearanceSummary": "White man with bushy reddish brown beard wearing a blue hooded coat, jeans, black tennis shoes with white soles and a green camo baseball cap with \"Make America Great Again\" in orange on the front, a small USA on the right side and a small flag on the left side. He's carrying a long wooden pole.",
     "associates": [],
@@ -8554,7 +8552,6 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider0020",
       "Insider20"
     ],
     "appearanceSummary": "White man with long blonde hairpulled back in a low ponytail or bun and a beard  wearing a greyish blue plaid coat, tan pants, black shoes and a black face mask.",
@@ -20342,7 +20339,7 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "Insider0723"
+      "Insider723"
     ],
     "appearanceSummary": "White man wearing a baseball cap with \"REALTREE\" written on it, a maroon jacket with white lettering and a blue and white face mask and carrying a grey mobile device.",
     "arrestDate": "2022-01-14T05:00:00.000Z",
@@ -22942,7 +22939,6 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "SeditionInsider1986",
       "Insider1986"
     ],
     "appearanceSummary": "Woman in a black hoodie with \"We the People\" written on the front. From under the hood we see dark brown hair pushed up from the forehead. Sometimes wore sunglasses with blue lenses including inside the Capitol, and one photo shows the glasses hooked into the neck of her sweatshirt. Black (?) gaiter, mostly worn indoors. Often wears a U.S. flag as a cape. Dark blue jeans. Black sneakers with white soles.",
@@ -23900,7 +23896,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1T5Zmfc6CdqfPMLXKliuO-Shb1qWKhnfU",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "LeticiaFerreira",
     "profileLeads": [],
     "realName": "FERREIRA, Leticia Vilhena",
@@ -29876,7 +29877,7 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "insider0345"
+      "insider345"
     ],
     "appearanceSummary": "White man wearing a dark-colored jacket, jeans and knit ski-type cap.",
     "arrestDate": "2021-12-17T05:00:00.000Z",
@@ -31656,6 +31657,32 @@
     "_id": "AqEhoVjyYl0I"
   },
   {
+    "actionsSummary": "Shoves police on NW Lawn. Insided Capitol building.",
+    "alternateHashtags": [
+      "Insider642"
+    ],
+    "appearanceSummary": "White man with very short hair/shaved head wearing a red baseball cap, a black coat, a white scarf with red stripes and blue stars on it, black gloves and a big silver watch.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/191VQ0zYDiG6wwlq-JmgtasaE5ME27_nu",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyBlackCoat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "JPybHH9h0mMI"
+  },
+  {
     "actionsSummary": "Shoves police across NW Lawn. Inside Capitol.",
     "alternateHashtags": [
       "Insider0467"
@@ -31750,8 +31777,7 @@
   {
     "actionsSummary": "Participates in group shoving AFO on the NW Lawn, then shoves an individual cop who tries to stop him. Inside Capitol.",
     "alternateHashtags": [
-      "Insider254",
-      "Insider0254"
+      "Insider254"
     ],
     "appearanceSummary": "White man with dark hair and dimples wearing navy NY Yankees baseball hat, a black jacket over a red MAGA hoodie, black gloves and blue jeans.",
     "associates": [],
@@ -36819,7 +36845,7 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider0053"
+      "Insider53"
     ],
     "appearanceSummary": "White man with dark hair and beard that grows up his cheeks wearing a black vest with a GoPro on the front over an olive green top, an olive green kerchief tied around his neck, a dark baseball cap and mirrored sunglasses carrying a black and white flag on a PVC pole.",
     "associates": [],
@@ -36970,7 +36996,9 @@
   },
   {
     "actionsSummary": "Shoves barricade into police on the NE Plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "RastaGoblin"
+    ],
     "appearanceSummary": "White man with short brown facial hair wearing a rough woven green, grey and black hooded top and tan pants and carrying a black bag.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1cTBqWnLic1BJqNY5hN1s0e92K2RNARgC",
@@ -39146,7 +39174,7 @@
   {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
-      "Insider0846"
+      "Insider846"
     ],
     "appearanceSummary": "White man wearing  wearing a gray jacket with a hood, a red baseball cap, a red winter hat that said “Trump” and a t-shirt that appears to say “Stop the Steal.”",
     "arrestDate": "2022-01-10T05:00:00.000Z",
