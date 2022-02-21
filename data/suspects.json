@@ -5846,6 +5846,24 @@
     "_id": "tVwn15fDohwI"
   },
   {
+    "actionsSummary": "Fights police over a barricade.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and facial hair wearing a black fleece lined hoodie over a black tshirt and a red \"Trump 2020\" hat with three white stars on a blue band.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/138HOgHbFhhWktClu6pOf8Qh4CUQrSysi",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BubbaBarrier",
+    "profileLeads": [],
+    "_id": "ox3RVIOS8odU"
+  },
+  {
     "actionsSummary": "At the entrance of the Tunnel on the Lower West Terrace. Tells #ProudboyCowboy he is from \"Buffalo.\" Attempts to pull Officer Fanone out of the tunnel. In a photo carrying a stolen police riot shield. He stole officer Fanone's badge and police radio.",
     "alternateHashtags": [
       "ThomasSibick",
@@ -9129,7 +9147,7 @@
     "fbiIdentifier": "200-AOM",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
-    "isMpdSuspect": false,
+    "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
@@ -12710,9 +12728,11 @@
     "_id": "tGKBFvRjEp4k"
   },
   {
-    "actionsSummary": "Pair of perps who cut fences on the West Lawn.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Dressed in khaki pants and tactical vests.",
+    "actionsSummary": "One of the pair of perps who cut fences on the West Lawn.",
+    "alternateHashtags": [
+      "FenceCutterTwins"
+    ],
+    "appearanceSummary": "Dressed in khaki pants and tactical vest, has red bandana on hand.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -12722,9 +12742,9 @@
         "name": "Vandalism"
       }
     ],
-    "primaryHashtag": "FenceCutterTwins",
+    "primaryHashtag": "FenceCutterTwinRed",
     "profileLeads": [],
-    "_id": "GrR4GJJe0nak"
+    "_id": "7U5f-HYd0nA4"
   },
   {
     "actionsSummary": "Present at mouth of tunnel during melee. Sprays a chemical into the tunnel at officers. Washes eyes out after having been maced. Leads crowd in \"God Bless America\". Self-doxxed as \"Cody from Rochester\".",
@@ -40074,6 +40094,26 @@
     "_id": "FCTE7V234iEU"
   },
   {
+    "actionsSummary": "On West Terrace, inside Capitol",
+    "alternateHashtags": [
+      "Insider2031"
+    ],
+    "appearanceSummary": "White man wearing a black tricorn hat, camouflage coat, swim goggles, black face mask and black backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1tXkYOHOGYZfsX0j1-zazDGlw9CA27zu8",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TricornSwimGoggles",
+    "profileLeads": [],
+    "_id": "_xwlKkxUApkM"
+  },
+  {
     "actionsSummary": "Observed in the West Terrace tunnel melee with #FakeNewsHat and others. Wears gas mask, assaults officers. Entered building through broken window to left of tunnel arch at West Terrace door.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown leather tricorn hat. Black full beard and mustache. Light blue gaiter around neck. Black jacket.",
@@ -41450,8 +41490,10 @@
     "_id": "IqOikAZakvgw"
   },
   {
-    "actionsSummary": "Travels with several other paramilitary-looking rioters on Capitol grounds, including the steps. Observes an assault on media. With #BumbleBetsy and #BumbleGoggles, appears to direct movement at NW side, then moves east near Joe Biggs.",
-    "alternateHashtags": [],
+    "actionsSummary": "Travels with several other paramilitary-looking rioters on Capitol grounds, including the steps. Observes an assault on media. With #BumbleBetsy and #BumbleGoggles, appears to direct movement at NW side, then moves east near Joe Biggs. Is one of the pair of perps that cuts the fences on the West Lawn (#FenceCutterTwins).",
+    "alternateHashtags": [
+      "FenceCutterTwins"
+    ],
     "appearanceSummary": "Male with short hair and wide, though not long, sideburns. Gray-green baseball cap with American flag patch on the front. Black sunglasses and neck gaiter. Tan plate carrier with 5.11 Tactical-brand Virginia flag patch on the center, a red notebook and pen in the front pocket, and a yellow carabiner next to the other items. Grey long-sleeve quarter-zip jacket with upper-arm Velcro pockets, which have spaces to affix patches. Snap-On Tool gloves. Tan backpack. Tan slacks. Occasionally carries Betsy Ross flag.",
     "associates": [
       "#BumbleGoggles",
