@@ -7938,6 +7938,7 @@
       "thumbnailUrl": "https://archive.org/download/vs4bziC9qpGpukahm/vs4bziC9qpGpukahm.200px.png"
     }
   ],
+  "BubbaBarrier": [],
   "BuffLightYear": [
     {
       "mediaItemId": "3sBEDWGCWozrZEfnB",
@@ -16458,6 +16459,16 @@
     }
   ],
   "FenceCutterTwinRed": [
+    {
+      "mediaItemId": "8pBQn6yWWikpzHQSK",
+      "archiveUrl": "https://archive.org/download/8pBQn6yWWikpzHQSK/8pBQn6yWWikpzHQSK.jpeg",
+      "thumbnailUrl": "https://archive.org/download/8pBQn6yWWikpzHQSK/8pBQn6yWWikpzHQSK.200px.jpeg"
+    },
+    {
+      "mediaItemId": "FvHqcQ3JT5z9J8448",
+      "archiveUrl": "https://archive.org/download/FvHqcQ3JT5z9J8448/FvHqcQ3JT5z9J8448.jpg",
+      "thumbnailUrl": "https://archive.org/download/FvHqcQ3JT5z9J8448/FvHqcQ3JT5z9J8448.200px.jpg"
+    },
     {
       "mediaItemId": "gEciZafg7FMuYdepv",
       "archiveUrl": "https://archive.org/download/gEciZafg7FMuYdepv/gEciZafg7FMuYdepv.png",
@@ -41687,6 +41698,7 @@
       "thumbnailUrl": "https://archive.org/download/yhDn2CNMduLuayBwe/yhDn2CNMduLuayBwe.200px.png"
     }
   ],
+  "PushyBlackCoat": [],
   "PushyFlag": [
     {
       "mediaItemId": "2ZCZE5Kn2ZJJPcgn6",
@@ -53880,6 +53892,7 @@
       "thumbnailUrl": "https://archive.org/download/zwoLAYJ5WMX68Qcp3/zwoLAYJ5WMX68Qcp3.200px.png"
     }
   ],
+  "TricornSwimGoggles": [],
   "TricornTraitor": [
     {
       "mediaItemId": "4gRbNm66cMFGwDwBu",
@@ -56105,6 +56118,16 @@
       "mediaItemId": "HBJAf6m3Rq6ThjThW",
       "archiveUrl": "https://archive.org/download/HBJAf6m3Rq6ThjThW/HBJAf6m3Rq6ThjThW.png",
       "thumbnailUrl": "https://archive.org/download/HBJAf6m3Rq6ThjThW/HBJAf6m3Rq6ThjThW.200px.png"
+    },
+    {
+      "mediaItemId": "HaH2RBbmqYEJYXtmQ",
+      "archiveUrl": "https://archive.org/download/HaH2RBbmqYEJYXtmQ/HaH2RBbmqYEJYXtmQ.jpg",
+      "thumbnailUrl": "https://archive.org/download/HaH2RBbmqYEJYXtmQ/HaH2RBbmqYEJYXtmQ.200px.jpg"
+    },
+    {
+      "mediaItemId": "QBdAr5FeZ7RzwinYg",
+      "archiveUrl": "https://archive.org/download/QBdAr5FeZ7RzwinYg/QBdAr5FeZ7RzwinYg.jpg",
+      "thumbnailUrl": "https://archive.org/download/QBdAr5FeZ7RzwinYg/QBdAr5FeZ7RzwinYg.200px.jpg"
     },
     {
       "mediaItemId": "sxv5sE2Tn6WXY5hxg",

@@ -5847,7 +5847,9 @@
   },
   {
     "actionsSummary": "Fights police over a barricade.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "RedHatSpanishBeard"
+    ],
     "appearanceSummary": "White man with brown hair and facial hair wearing a black fleece lined hoodie over a black tshirt and a red \"Trump 2020\" hat with three white stars on a blue band.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/138HOgHbFhhWktClu6pOf8Qh4CUQrSysi",
@@ -30931,6 +30933,24 @@
     "primaryHashtag": "PlaidShowdown",
     "profileLeads": [],
     "_id": "rVcwmiz5cn-A"
+  },
+  {
+    "actionsSummary": "Fights police with a baton and sprays police at the Lower West Terrace Tunnel.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with blonde hair wearing a blue plaid shirt, olive green backpack, black gloves and gasmask.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1TYsdCSyrrcQBmui6WFoQAhlmXxw10DxY",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PlaidTunnel",
+    "profileLeads": [],
+    "_id": "AUJdVzmxIvI8"
   },
   {
     "actionsSummary": "Photographed pushing against a riot cop shield.",
