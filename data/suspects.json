@@ -1521,6 +1521,30 @@
     "_id": "6iy3vVjxYvuo"
   },
   {
+    "actionsSummary": "Inside Capitol. Went into offices and looked through books and files.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black coat and black knit cap with \"TRUMP\" in white.",
+    "arrestDate": "2022-02-22T05:00:00.000Z",
+    "arrestState": "IN",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00034-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240375/gov.uscourts.dcd.240375.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1csn5RG5KGfLpV4uoIt3K8GHYXatgA_yO",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AthanasiosZoyganeles",
+    "profileLeads": [],
+    "realName": "ZOYGANELES, Athanasios",
+    "_id": "azNoJA70Ys40"
+  },
+  {
     "actionsSummary": "Observed inside Capitol",
     "alternateHashtags": [
       "Insider0777"
