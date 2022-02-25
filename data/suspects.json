@@ -15567,7 +15567,8 @@
   {
     "actionsSummary": "Part of a group of people with 3P insignia who move together. Instructs people to hold the line against police in NW courtyard, where he also fights cops. Seen inside Capitol. Seen at end of day on north side near police line.",
     "alternateHashtags": [
-      "Insider0098"
+      "Insider0098",
+      "TacPipeThrower"
     ],
     "appearanceSummary": "Baseball cap with gray front and bill, black sides. The front has a black US flag, and the back of the hat has an inverted, gray triangle. Eyeglasses with dark frames. Thin mustache and patchy brown chinbeard. Blue and white gaiter around his neck? Dark green jacket. Olive drab backpack.'",
     "associates": [
@@ -29565,7 +29566,12 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Older man. Dark red hoodie. Gray baseball cap with stripes on the right side of the bill. White beard and mustache. Black Carhartt jacket over the red hoodie. Green backpack. Blue jeans.",
+    "arrestDate": "2022-02-23T05:00:00.000Z",
+    "arrestState": "MI",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00018-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1476146/download",
     "fbiIdentifier": "291-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -29577,6 +29583,7 @@
     ],
     "primaryHashtag": "PapaGruntStick",
     "profileLeads": [],
+    "realName": "KROL, Matthew Thomas \"Matt\"",
     "_id": "2R-qgGeGoqis"
   },
   {
@@ -32392,7 +32399,11 @@
       "RedBucketHat"
     ],
     "appearanceSummary": "Red Trump bucket hat. Black, full beard and mustache. Thick eyebrows. Blue Trump short-sleeve t-shirt over a gray long-sleeve hoodie. Blue jeans. White sneakers. Photographed carrying a red Trump flag in some pictures, which he sometimes wears around his neck like a scarf. Inside the Capitol he uses a smartphone with a blue case.",
+    "arrestDate": "2022-02-23T05:00:00.000Z",
+    "arrestState": "TN",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1476471/download",
     "compositeURL": "https://drive.google.com/file/d/14gdU2h5CnTdzafhn64mSlEl0D6lNSGQP/view?usp=sharing",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -32401,10 +32412,15 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "RedBucketHole",
     "profileLeads": [],
+    "realName": "HERNANDEZ, Joshua Lee \"Ace\"",
     "_id": "SLViRtQrMjYw"
   },
   {
@@ -37714,7 +37730,9 @@
   },
   {
     "actionsSummary": "Seen wielding a metal pipe at one of the barricades on the Lower West Plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "GrayHatGlasses"
+    ],
     "appearanceSummary": "Green helmet. Stars and stripes gaiter. Green jacket with a small logo on the left sleeve. Khaki pants. Light blue gloves. Large desert camo backpack with a black cylinder hanging from it. On the back of the pack is a logo that says \"TAC\".",
     "associates": [],
     "isLawEnforcement": false,
