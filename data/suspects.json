@@ -24105,6 +24105,32 @@
     "_id": "cjON9Ec4kp8A"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2161"
+    ],
+    "appearanceSummary": "Man wearing jeans, a camouflage shirt under a green jacket, a camouflage baseball hat, and a black face mask.",
+    "arrestDate": "2022-02-28T05:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00041-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240595/gov.uscourts.dcd.240595.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1wDZBEMe0Jf817J5WJOZm2-SGy6eb9tku",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LloydCruz",
+    "profileLeads": [],
+    "realName": "CRUZ, Lloyd Casimiro Jr.",
+    "_id": "eN_ZvBH6QmUg"
+  },
+  {
     "actionsSummary": "In the front of the crowd at the Columbus Doors on the East side of the Capitol. Enters the bulding and is seen on body-cam footage in the Rotunda.",
     "alternateHashtags": [
       "Insider1611"
@@ -31737,6 +31763,7 @@
     "appearanceSummary": "White man with very short hair/shaved head wearing a red baseball cap, a black coat, a white scarf with red stripes and blue stars on it, black gloves and a big silver watch.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/191VQ0zYDiG6wwlq-JmgtasaE5ME27_nu",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
