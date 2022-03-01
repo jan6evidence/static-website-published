@@ -22824,7 +22824,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-114",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1359586/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -25891,7 +25891,7 @@
     "_id": "pThOP9xEggbU"
   },
   {
-    "actionsSummary": "Entered Capitol building. Seen on Daily Motion livestream.",
+    "actionsSummary": "Entered Capitol building. Seen on Daily Motion livestream. \nNote: Accepted Plea Deal, was facing additional charges being added before death.",
     "alternateHashtags": [
       "Insider1443"
     ],
@@ -25900,7 +25900,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-156",
-    "caseStatus": "Plea Deal",
+    "caseStatus": "Deceased Before Trial",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356831/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
