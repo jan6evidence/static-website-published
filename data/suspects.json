@@ -38717,17 +38717,31 @@
       "Insider1285"
     ],
     "appearanceSummary": "Black helmet with a dull US flag patch on the front and k velcro on the left side. Large goggles with a desert camo outline. Short beard that is brown and graying. Stars and stripes gaiter. Orange leather (?) jacket over a black (bulletproof?) vest with a dull Texas flag patch on the chest. White long-sleeve shirt beneath that? Black backpack. Square brown pack hanging from left hip, has a dull cross patch on it. Black or dark brown gloves. Blue jeans. Heavy brown shoes.",
+    "arrestDate": "2022-03-01T05:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00030-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240310/gov.uscourts.dcd.240310.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
+        "type": "group",
+        "name": "OathKeepers"
+      },
+      {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
       }
     ],
     "primaryHashtag": "TexasPleather",
     "profileLeads": [],
+    "realName": "SHOUGH, Geoffrey Samuel",
     "_id": "L_pEhdZmwmJY"
   },
   {
