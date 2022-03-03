@@ -31511,7 +31511,13 @@
       "thumbnailUrl": "https://archive.org/download/ypKbDm7byJjKcej8o/ypKbDm7byJjKcej8o.200px.jpg"
     }
   ],
-  "LloydCruz": [],
+  "LloydCruz": [
+    {
+      "mediaItemId": "ChmDsiBPPeGqqJoSZ",
+      "archiveUrl": "https://archive.org/download/ChmDsiBPPeGqqJoSZ/ChmDsiBPPeGqqJoSZ.png",
+      "thumbnailUrl": "https://archive.org/download/ChmDsiBPPeGqqJoSZ/ChmDsiBPPeGqqJoSZ.200px.png"
+    }
+  ],
   "LoganGrover": [
     {
       "mediaItemId": "n3j9ryHyLi7L3fKAe",

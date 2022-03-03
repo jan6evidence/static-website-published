@@ -956,7 +956,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-217",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -4300,6 +4300,7 @@
     "associates": [
       "#ClanMontgomeryLady"
     ],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -21835,7 +21836,7 @@
     "arrestState": "AL",
     "associates": [],
     "caseIdentifier": "1:21-cr-28",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/james-joshua",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
