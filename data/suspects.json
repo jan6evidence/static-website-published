@@ -24539,11 +24539,17 @@
     "_id": "M5NnuxLKwvzo"
   },
   {
+    "actionsSummary": "Struck an officer at the barricades then attempted to take his shield away. Inside Capitol.",
     "alternateHashtags": [
       "Insider0056"
     ],
     "appearanceSummary": "Black jacket. Red baseball cap, often backwards. Long brown hair and short brown beard.",
+    "arrestDate": "2022-03-03T05:00:00.000Z",
+    "arrestState": "MD",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00046-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1479756/download",
     "fbiIdentifier": "384-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24559,6 +24565,7 @@
     ],
     "primaryHashtag": "LynyrdSinner",
     "profileLeads": [],
+    "realName": "RHEINER, Narayana C. \"Ryan\"",
     "_id": "ZOWKnV2kQtww"
   },
   {
