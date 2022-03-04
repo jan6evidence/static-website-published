@@ -172,7 +172,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-mj-216",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1366581/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -30484,7 +30484,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00628-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Weisbecker%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1Ho-uhSFPCg0e77ajm_TShAmvp9ugkQGf",
     "isLawEnforcement": false,
@@ -35569,7 +35569,7 @@
       "#GinaBisignano"
     ],
     "caseIdentifier": "1:21-cr-85",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356546/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -42127,7 +42127,12 @@
       "Insider0636"
     ],
     "appearanceSummary": "Gray knit cap. Black face mask with a circular white logo on the front left side. Black and gray North Face coat. Black backpack. Black gloves with a white logos on each. Blue jeans.",
+    "arrestDate": "2022-03-02T05:00:00.000Z",
+    "arrestState": "VA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00048-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1479826/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -42138,6 +42143,7 @@
     ],
     "primaryHashtag": "WhiteLogoInsider",
     "profileLeads": [],
+    "realName": "JAVID, Iraj",
     "_id": "GxNuohn7sh9E"
   },
   {
