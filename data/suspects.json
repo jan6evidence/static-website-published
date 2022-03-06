@@ -7439,6 +7439,32 @@
     "_id": "ZdYRrfPPsjEk"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0712"
+    ],
+    "appearanceSummary": "White woman with dark hair wearing a grey colored jacket, blue jeans, a red shirt and a blue “TRUMP” hat with red writing on it.",
+    "arrestDate": "2022-02-22T05:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00036-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1476346/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1_POrzz2biwJHK3HVdaGfbK6wezAROfTl",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CarolKicinski",
+    "profileLeads": [],
+    "realName": "KICINSKI, Carol",
+    "_id": "tekhC6DckuH8"
+  },
+  {
     "actionsSummary": "Entered Capitol via Senate Wing Door.",
     "alternateHashtags": [
       "Insider0305"
@@ -21497,6 +21523,32 @@
     "profileLeads": [],
     "realName": "SANDERS, Jonathan Ace",
     "_id": "7uHoNBMSApps"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0178"
+    ],
+    "appearanceSummary": "White man wearing a dark top with writing on the front, a bright blue buff around his neck and a camo baseball hat with orange writing on the front.",
+    "arrestDate": "2022-02-22T05:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00036-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1476346/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1B8_j76yMwrGgfxALRjZ7Tak7DdX8Gvgs",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JonHeneghan",
+    "profileLeads": [],
+    "realName": "HENEGHAN, Jon Nicholas",
+    "_id": "3JzahF1Wsuk4"
   },
   {
     "actionsSummary": "Entered the Capitol and was among the crowd in the Rotunda whom where forceably removed by MPD officers.",
