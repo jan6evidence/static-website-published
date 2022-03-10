@@ -6717,7 +6717,7 @@
   {
     "actionsSummary": "Participates in a group shoving assault against police on the NW Lawn.",
     "alternateHashtags": [],
-    "appearanceSummary": "White man with white hair and beard wearing a black hoodie or hooded coat, a camo hat with a black flag embroidered on the front and small badge pinned on the back brim, a grey and black backpack with white writing on the front strap and a black and white patterned buff.",
+    "appearanceSummary": "White man with white hair and beard wearing a black hoodie or hooded coat, a camo hat with a black flag embroidered on the front and two small Michigan badges pinned on the back, a grey and black backpack with white writing on the front strap and a black and white patterned buff.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1EUU-e7sRdQyG8RjNWkOxDBq6gGAmxCdj",
     "isLawEnforcement": false,
@@ -33257,7 +33257,7 @@
     "_id": "Onx8ywjmYsSo"
   },
   {
-    "actionsSummary": "Assumed violent based on MPD wanted designation but not seen",
+    "actionsSummary": "Participated in group shoving AFO on the Upper West Plaza. Shoves/tries to grab police shield.",
     "alternateHashtags": [],
     "appearanceSummary": "Black baseball cap with logos on the front and bill. Black earloop face mask. Black jacket with a large varsity-style \"W\" on the left breast. Beneath the jacket is a blue hoodie that also peeks out of the bottom of the jacket. Black and tan scarf (possibly in a chequered keffiyeh pattern) tucked in under the hoodie. Black and gray gloves. Gray pants.",
     "associates": [],
@@ -43393,6 +43393,10 @@
       {
         "type": "group",
         "name": "ProudBoysNorth Carolina"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "YutYutPB",
