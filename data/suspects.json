@@ -696,6 +696,7 @@
     "filesUrl": "https://drive.google.com/drive/folders/1ApildIz45loZVOphNOIaa1Xeze9cFJwx?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -7441,7 +7442,7 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "Insider0712"
+      "Insider712"
     ],
     "appearanceSummary": "White woman with dark hair wearing a grey colored jacket, blue jeans, a red shirt and a blue “TRUMP” hat with red writing on it.",
     "arrestDate": "2022-02-22T05:00:00.000Z",
@@ -7604,7 +7605,12 @@
     "actionsSummary": "Assaulted officers on W. Plaza multiple times, including pushing officer over rail. This occurred right before #extinguisherman threw fire extinguisher. Appears to be with two women, escorted them away from crowd before returning to fray and pushing officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Light blue jeans. Black coat with leather sleeves and a white logo on the left front. Black gloves. Blue Trump hat. Shoulder length light brown hair. Goatee. Has several folding chairs strapped on his back.",
+    "arrestDate": "2022-03-09T05:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00047-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240790/gov.uscourts.dcd.240790.1.1_1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1EuvGmeQULiblpUQ9J1myG02OnfFh-QK5/view?usp=sharing",
     "fbiIdentifier": "107-AFO",
     "isLawEnforcement": false,
@@ -7617,6 +7623,7 @@
     ],
     "primaryHashtag": "ChairGuy",
     "profileLeads": [],
+    "realName": "CELENTANO, Ralph Joseph III \"Ralphie\"",
     "_id": "QD2PHgVo0lqA"
   },
   {
@@ -11202,7 +11209,7 @@
   {
     "actionsSummary": "Enters the Capitol via the broken windows in the NW Corridor.",
     "alternateHashtags": [
-      "Insider0720"
+      "Insider720"
     ],
     "appearanceSummary": "Red MAGA baseball cap. Short, light brown hair. Black earloop face mask that he usually wears under his chin. Clean Shaven face. Black cloth coat that has a built-in hood with a dark gray inner lining. Beneath the coat is a white, button-down shirt. Dark pants. Carries a smartphone with a gray or silver case.",
     "arrestDate": "2021-04-20T04:00:00.000Z",
@@ -19664,6 +19671,31 @@
     "_id": "xv_mTjgyck1g"
   },
   {
+    "actionsSummary": "Climbed wall and entered Capitol.",
+    "alternateHashtags": [
+      "Insider72"
+    ],
+    "appearanceSummary": "White man with long wavy dark hair and sparse facial hair (narrow mustache & beard) wearing a multi-colored blue and tan jacket over a black sweatshirt with white lettering, a black beanie, khaki pants and a backpack.",
+    "arrestDate": "2022-03-09T05:00:00.000Z",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00054-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241058/gov.uscourts.dcd.241058.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1FKX1idQnGXXPOBIBHvgLZqQyDnUgE7II",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JacobGarcia",
+    "profileLeads": [],
+    "realName": "GARCIA, Jacob Elias",
+    "_id": "WaGqcrfV4tv0"
+  },
+  {
     "actionsSummary": "Among the first in the crowd to enter the Capitol",
     "alternateHashtags": [
       "Insider1959"
@@ -19777,7 +19809,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-121",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bonet-james",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21390,7 +21422,7 @@
   {
     "actionsSummary": "Seen on W. side and inside Capitol, wears Pipefitters Union logo T shirt. Female. Associated with older man in grey puffer jacket. Possibly also with #WrigleyFieldGuy.",
     "alternateHashtags": [
-      "Insider0901"
+      "Insider901"
     ],
     "appearanceSummary": "Black jacket with Plumbers and Pipefitters Local Union 422, Joliet, IL.",
     "arrestDate": "2021-07-26T04:00:00.000Z",
@@ -21529,7 +21561,7 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "Insider0178"
+      "Insider178"
     ],
     "appearanceSummary": "White man wearing a dark top with writing on the front, a bright blue buff around his neck and a camo baseball hat with orange writing on the front.",
     "arrestDate": "2022-02-22T05:00:00.000Z",
@@ -28342,7 +28374,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:21-mj-143",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1358226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -32389,6 +32421,30 @@
     "_id": "2kZWVaakopEs"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Hispanic man wearing a green jacket over a red shirt, blue jeans, a red baseball hat, glasses, brown boots and a dark backpack.",
+    "arrestDate": "2022-03-09T05:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00045-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240741/gov.uscourts.dcd.240741.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1jpU-ynMMnTO6D1QkZnHM6W6D0JahHYgc",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RaulJarrin",
+    "profileLeads": [],
+    "realName": "JARRIN, Raul Eduardo",
+    "_id": "QjvVccBC4jSU"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "Poorly-lit picture, so the details are lacking. Black knit cap. Dark sunglasses. Brown or reddish brown beard (and mustache?). Brown (?) hoodie. Khaki backpack?",
     "associates": [],
@@ -33421,7 +33477,7 @@
   {
     "actionsSummary": "Entered the Capitol via the Crypt with his friend DanielHerendeen. Took a selfie in Emancipation Hall.",
     "alternateHashtags": [
-      "Insider0776"
+      "Insider776"
     ],
     "appearanceSummary": "Red MAGA hat. Grey gaiter. Camo vest. Blueish grey long sleeved shirt. Grey gaiter.",
     "arrestDate": "2021-03-18T04:00:00.000Z",
