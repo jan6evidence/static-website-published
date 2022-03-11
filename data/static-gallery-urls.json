@@ -27392,7 +27392,13 @@
       "thumbnailUrl": "https://archive.org/download/FbcBi2zjxnnLPkrM8/FbcBi2zjxnnLPkrM8.200px.jfif"
     }
   ],
-  "JacobGarcia": [],
+  "JacobGarcia": [
+    {
+      "mediaItemId": "rgDiN4k42Q3gZWhrv",
+      "archiveUrl": "https://archive.org/download/rgDiN4k42Q3gZWhrv/rgDiN4k42Q3gZWhrv.png",
+      "thumbnailUrl": "https://archive.org/download/rgDiN4k42Q3gZWhrv/rgDiN4k42Q3gZWhrv.200px.png"
+    }
+  ],
   "JacobHiles": [
     {
       "mediaItemId": "4LkuQNenqL2hRYx4C",
@@ -43073,7 +43079,13 @@
       "thumbnailUrl": "https://archive.org/download/baGxwWJYdb5rAnCFW/baGxwWJYdb5rAnCFW.200px.png"
     }
   ],
-  "RaulJarrin": [],
+  "RaulJarrin": [
+    {
+      "mediaItemId": "ZpeqxaSgbHcg3Ep7f",
+      "archiveUrl": "https://archive.org/download/ZpeqxaSgbHcg3Ep7f/ZpeqxaSgbHcg3Ep7f.png",
+      "thumbnailUrl": "https://archive.org/download/ZpeqxaSgbHcg3Ep7f/ZpeqxaSgbHcg3Ep7f.200px.png"
+    }
+  ],
   "RayBanBlackBeanie": [
     {
       "mediaItemId": "ECmdSPJuCYqaRzxWH",

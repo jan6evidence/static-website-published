@@ -2498,6 +2498,26 @@
     "_id": "WWBPEzdHosng"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a shaved head (stubble) and light brown beard wearing Costa sunglasses, black studs in his lobe piercings, a black Sun Mountain jacket with ribbed or knit sleeves and a grey collar over a black hoodie, a Trump scarf and a black North Face backpack with a flag or striped baseball cap cliped through the top loop and carrying a US flag on a pole.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1jfucQ1ayKbgD1i9nKYgXXT70E_lxw6fK",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BeardedBlackPlugs",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "JhM_UvGuYhdg"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "Black KAG baseball cap with a US flag on the left side. Brown, full beard and mustache. Dark blue hooded jacket with a red and white logo on the left breast. White shirt with a circle of red stars, possibly with writing at the center. The white shirt is over a red shirt.",
     "associates": [],
@@ -12093,6 +12113,26 @@
     "_id": "RO-s-TuJcvQQ"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2087"
+    ],
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1g3dUnWkNw2wHmwFfjKrXZ5f-7n3Kjk7P",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "EricCantrell",
+    "profileLeads": [],
+    "_id": "SvDKYApRgmTQ"
+  },
+  {
     "actionsSummary": "Filmed by Matthew Bledsoe",
     "alternateHashtags": [
       "Insider1615"
@@ -20126,6 +20166,26 @@
     "_id": "ut3_RcTiYous"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2433"
+    ],
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1c0TpUoFcHpbgp58gbsJOfhy0ne-quQsI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JaredCantrell",
+    "profileLeads": [],
+    "_id": "f5rUZoR6svOE"
+  },
+  {
     "actionsSummary": "Enters the Capitol via the NW Courtyard, seen among the crowd in the NW foyer.",
     "alternateHashtags": [
       "Insider1818"
@@ -22951,6 +23011,29 @@
       "@PhoenixOnWheels"
     ],
     "_id": "64y8EFj0wtQ0"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White person wearing a khaki jacket, tan camo backpack, black knit cap with writing on it and flag buff.",
+    "associates": [
+      "#HoodedSuckerPunch",
+      "#PushyFlagHat"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1LcilXEx8b7IMyjGfpL4GRsNW1c-ZGK0V",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "KhakiFlagBuff",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "OAWk4npDwk7A"
   },
   {
     "actionsSummary": "Enters the capitol, assaults police with a wooden chair spindle on the North Terrace",
@@ -31209,7 +31292,7 @@
     "arrestDate": "2021-12-14T05:00:00.000Z",
     "arrestState": "TX",
     "associates": [],
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1456571/download",
     "fbiIdentifier": "258-AFO",
     "idStatus": "ID sent to FBI",
@@ -31903,6 +31986,49 @@
     "_id": "xrPiRizbwvv0"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with grey hair wearing a baseball cap that's red in front with writing and a flag print in back, dark sweatshirt with writing on the front,. blue and light grey Wenger backpack, jeans, black shoes and a blue surgical face mask.",
+    "associates": [
+      "#KhakiFlagBuff",
+      "#HoodedSuckerPunch"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1Xxlc6lg8JTy9fvjrIA1k9QjETJ6rRiCG",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyFlagHat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "-YsAisMQAvsw"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with light brown beard wearing a dark hoodie or hooded jacket, sunglasses and a MAGA hat.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1Xxlc6lg8JTy9fvjrIA1k9QjETJ6rRiCG",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "Uxshjqi5YhCA"
+  },
+  {
     "actionsSummary": "Hits a cop and then participates in the group pushing AFO on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with light hair wearing a powder blue diamond quilted coat, one yellow or beige glove, a blue baseball cap with writing or a logo on the front, mirrored sunglasses sitting on the brim of his cap and a dark grey or black patterned scarf with stars.",
@@ -31941,6 +32067,46 @@
       "@PhoenixOnWheels"
     ],
     "_id": "m-jLiabhUjbE"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with straight brown heair wearing sunglasses with reddish lenses, a black or charcoal grey hooded North Face coat, a black cloth over his face and chunky rings on every finger of both hands.",
+    "associates": [
+      "#PushyWeaselGF"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1QQ7RpSlqrh_KGNIxobY1Qkb1hG6vXLgi",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyWeasel",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "POIREXQEUidQ"
+  },
+  {
+    "alternateHashtags": [
+      "BurgundyShoes"
+    ],
+    "appearanceSummary": "White woman with blonde hair wearing a black overcoat, burgundy scarf, black and white check bandana or scarf over her face, black gloves, sunglasses and burgundy ankle boots",
+    "associates": [
+      "#PushyWeasel"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1FxlXswNpHorEFFlUdArO3j5LXeJwH6Yj",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "PushyWeaselGF",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "KeKe_Wv80q3w"
   },
   {
     "actionsSummary": "Shoves police on NW Lawn. Shoves #PuffNeck into police.",
@@ -32107,6 +32273,26 @@
     "primaryHashtag": "QueensJack",
     "profileLeads": [],
     "_id": "djx800L6IuEw"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "insider2069"
+    ],
+    "associates": [],
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1Xdlv2PGEfRvw5ke9HhisC2Tt12bwsD7X",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "QuentinCantrell",
+    "profileLeads": [],
+    "_id": "uuI6QOQxgm9Q"
   },
   {
     "actionsSummary": "Comes dressed in tactical gear. Does a full outfit change while tucked behind a lamp post on the West Terrace.",
@@ -35790,6 +35976,33 @@
     "primaryHashtag": "SkulletSpray",
     "profileLeads": [],
     "_id": "ZlpIqNSaEsLg"
+  },
+  {
+    "actionsSummary": "Appears to be throwing a soda can or other small item towards Capitol building from immediate exterior.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White male with grey sweatshirt under tan plate carrier. Red \"MAGA\" cap, fingerless gloves, white-rimmed wayfarer-style sunglasses. Charcoal grey hood or gaiter.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1hJEEwagkiJxBYTyoriYqBTsAVAEeKgOL",
+    "idStatus": "ID sent to FBI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysFlorida"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "SkullFlipper",
+    "profileLeads": [],
+    "_id": "WxshSFcZ8hP4"
   },
   {
     "alternateHashtags": [],
@@ -41763,7 +41976,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:21-cr-425",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1399516/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
