@@ -135,6 +135,31 @@
     "_id": "zfuy20egIgbw"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing a blue coat and a red MAGA hat over a red knit cap.",
+    "arrestDate": "2022-02-23T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [
+      "#ElijahYazdani",
+      "#PinkBackHat"
+    ],
+    "caseIdentifier": "1:22-mj-00033-ZMF",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1T4HE5T9X5d2n7LFjfyxCx4GXa_JPlwDP",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AbigailYazdani",
+    "profileLeads": [],
+    "_id": "9orys9NGkpkU"
+  },
+  {
     "actionsSummary": "Traveled to DC and entered the Capitol with his friend Brandon Nelson. Entered Capitol from the west side. Admited to walking \"up the stairs of the Capitol, near some scaffolding\" and entering the Capitol. Admitted to being inside for up to 40 minutes.",
     "alternateHashtags": [
       "Insider1635"
@@ -11876,7 +11901,10 @@
     "appearanceSummary": "Red KAG baseball cap. Short, dark hair. Scruffy jawline? Black jacket. This may be over a gray hoodie. He might also have a mask or something around his neck, pulling it up over his face to ward off gas or extinguisher mist inside the Capitol Building. Gray or blue pants. Black sneakers with partially white soles. Recorded using a black (?) smartphone inside the Capitol.",
     "arrestDate": "2021-05-03T04:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#PinkBackHat",
+      "#AbigailYazdani"
+    ],
     "caseIdentifier": "1:21-mj-406",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1392641/download",
@@ -11890,7 +11918,7 @@
     ],
     "primaryHashtag": "ElijahYazdani",
     "profileLeads": [],
-    "realName": "YAZDANI, Elijah",
+    "realName": "YAZDANI-ISFEHANI, Loammi \"Elijah\"",
     "_id": "ammHrJ_5stz8"
   },
   {
@@ -13161,7 +13189,7 @@
     "_id": "vSeJmvPqYvlU"
   },
   {
-    "actionsSummary": "Active in fight under the NW scaffolding, seen with some in the OrangeTapeGroup. Bear sprays police. Seemed to play leadership role in deciding when to move forward. Ends up with a police shield.",
+    "actionsSummary": "Active in fight under the NW scaffolding, seen with some in the OrangeTapeGroup. Bear sprays police on the NW Steps. Seemed to play leadership role in deciding when to move forward. Ends up with a police shield.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue coat with grey collar, black beanie, brown facial hair. American flag buff, worn with stars in the front. Visible neck tattoo. III% flag.",
     "associates": [
@@ -14676,9 +14704,13 @@
       "Insider1879"
     ],
     "appearanceSummary": "White woman with blonde hair wearing a hooded black puffer jacket with a white zipper, white framed mirrored sunglasses, dark blue ripped jeans and dark tennis shoes with white soles.",
+    "arrestDate": "2022-03-11T05:00:00.000Z",
+    "arrestState": "GA",
     "associates": [
       "#GeorgiaBulldogMAGA"
     ],
+    "caseIdentifier": "1:22-mj-00049-ZMF",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240918/gov.uscourts.dcd.240918.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1xPcKLHIdNrqzgLOErjuFWIeA51Rl2nlQ?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14696,6 +14728,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "ROBINSON-HAND - Mandy Michelle",
     "_id": "kUTk6B7M0rNU"
   },
   {
@@ -14704,9 +14737,14 @@
       "Insider1878"
     ],
     "appearanceSummary": "White man with dark hair wearing a black vest over a long sleeve white top, a University of Georgia Bulldogs red baseball cap with an oval patch with a G on the front, mirrored sunglasses, blue jeans and brown boots.",
+    "arrestDate": "2022-03-11T05:00:00.000Z",
+    "arrestState": "GA",
     "associates": [
       "#GeorgiaBulldogGF"
     ],
+    "caseIdentifier": "1:22-mj-00049-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240918/gov.uscourts.dcd.240918.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/161SMTkG4DcVcUelPlvrlk3k2bHgpJZQ-?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14724,6 +14762,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "HAND, Chuck",
     "_id": "fkMnHrk5IluQ"
   },
   {
@@ -26533,7 +26572,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-mj-537",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/carico-michael-aaron",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -30833,11 +30872,19 @@
     "_id": "pf-3qHkREvv4"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1677"
     ],
     "appearanceSummary": "Young woman wearing a backwards, pink baseball cap. Long, dark hair tied in braids down each side of her head. Black jacket with a high collar. Form-fitting blue pants. Black shoes.",
-    "associates": [],
+    "arrestDate": "2022-02-23T05:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [
+      "#ElijahYazdani",
+      "#AbigailYazdani"
+    ],
+    "caseIdentifier": "1:22-mj-00033-ZMF",
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
