@@ -136,7 +136,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1678"
+    ],
     "appearanceSummary": "White woman with dark hair wearing a blue coat and a red MAGA hat over a red knit cap.",
     "arrestDate": "2022-02-23T05:00:00.000Z",
     "arrestState": "OH",
@@ -4257,6 +4259,25 @@
     "primaryHashtag": "BlackWidowMaker",
     "profileLeads": [],
     "_id": "0WfSAdN9YjWg"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Wearing a hooded black coat with the UnderArmour X logo on top of the hood, blue jeans, a baseball cap with a green camo brim with a patch of red on the left side, a striped green camo buff and black gloves.",
+    "associates": [
+      "#HoodedSuckerPunch",
+      "#PushyFlagHat",
+      "#KhakiFlagBuff"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1ZSw8DVyZFagFejaDvLgv1DEFgNn7cVX9",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BlackXHead",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "HAH3I-n40m_g"
   },
   {
     "actionsSummary": "Seen with Matthew Bledsoe inside the Capitol",
@@ -18022,7 +18043,8 @@
     "appearanceSummary": "Black coat over a white hoodie over a blue cap or hat with \"Trump\" on the front,  jeans, a patterned facemask, black gloves and a brown camo backpack.",
     "associates": [
       "#PushyFlagHat",
-      "#KhakiFlagBuff"
+      "#KhakiFlagBuff",
+      "#BlackXHead"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1_FL_s_iu3_tFhXM2SBakmCdyKnTTJt2g",
     "isLawEnforcement": false,
@@ -23066,10 +23088,11 @@
   {
     "actionsSummary": "Shoves police on the NW Lawn.",
     "alternateHashtags": [],
-    "appearanceSummary": "White person wearing a khaki jacket, tan camo backpack, black knit cap with writing on it and flag buff.",
+    "appearanceSummary": "White person wearing an olive green hoodie with a flag on the upper left arm, jeans, a tan camo backpack, a black knit signature Trump cap and flag buff.",
     "associates": [
       "#HoodedSuckerPunch",
-      "#PushyFlagHat"
+      "#PushyFlagHat",
+      "#BlackXHead"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1LcilXEx8b7IMyjGfpL4GRsNW1c-ZGK0V",
     "isLawEnforcement": false,
@@ -27798,6 +27821,31 @@
     "_id": "r9yjWA0h8nyI"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1655"
+    ],
+    "appearanceSummary": "White woman with dark hair wearing a green coat over a grey hoodie and a dark knit MAGA hat.",
+    "arrestDate": "2022-03-11T05:00:00.000Z",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00057-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241155/gov.uscourts.dcd.241155.1.1_2.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1RWb-JGaO10N6vu3ky__n5-Kt3YO2KFlZ",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "NancyBarron",
+    "profileLeads": [],
+    "realName": "BARRON, Nancy",
+    "_id": "kIzBJwO70n64"
+  },
+  {
     "actionsSummary": "Seen inside Capitol.",
     "alternateHashtags": [
       "Insider0615"
@@ -32050,7 +32098,8 @@
     "appearanceSummary": "White man with grey hair wearing a baseball cap that's red in front with writing and a flag print in back, dark sweatshirt with writing on the front,. blue and light grey Wenger backpack, jeans, black shoes and a blue surgical face mask.",
     "associates": [
       "#KhakiFlagBuff",
-      "#HoodedSuckerPunch"
+      "#HoodedSuckerPunch",
+      "#BlackXHead"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1Xxlc6lg8JTy9fvjrIA1k9QjETJ6rRiCG",
     "isLawEnforcement": false,
