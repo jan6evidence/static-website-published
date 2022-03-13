@@ -322,7 +322,18 @@
       "thumbnailUrl": "https://archive.org/download/jM7zDG5j73v5rJT74/jM7zDG5j73v5rJT74.200px.jpg"
     }
   ],
-  "AbigailYazdani": [],
+  "AbigailYazdani": [
+    {
+      "mediaItemId": "mHtrqdDDuB5rdxXry",
+      "archiveUrl": "https://archive.org/download/mHtrqdDDuB5rdxXry/mHtrqdDDuB5rdxXry.png",
+      "thumbnailUrl": "https://archive.org/download/mHtrqdDDuB5rdxXry/mHtrqdDDuB5rdxXry.200px.png"
+    },
+    {
+      "mediaItemId": "zkGpXx5Jz23H63w9X",
+      "archiveUrl": "https://archive.org/download/zkGpXx5Jz23H63w9X/zkGpXx5Jz23H63w9X.png",
+      "thumbnailUrl": "https://archive.org/download/zkGpXx5Jz23H63w9X/zkGpXx5Jz23H63w9X.200px.png"
+    }
+  ],
   "AbramMarkofski": [
     {
       "mediaItemId": "cYw4LBDuTQa6qs7sa",
@@ -36280,7 +36291,18 @@
       "archiveUrl": "https://archive.org/download/PBSJBjKoD6NyihFHY/PBSJBjKoD6NyihFHY.png"
     }
   ],
-  "NancyBarron": [],
+  "NancyBarron": [
+    {
+      "mediaItemId": "Xn2MsYFEPL6eCXkow",
+      "archiveUrl": "https://archive.org/download/Xn2MsYFEPL6eCXkow/Xn2MsYFEPL6eCXkow.png",
+      "thumbnailUrl": "https://archive.org/download/Xn2MsYFEPL6eCXkow/Xn2MsYFEPL6eCXkow.200px.png"
+    },
+    {
+      "mediaItemId": "jSyGt45yQ5RaoBEk3",
+      "archiveUrl": "https://archive.org/download/jSyGt45yQ5RaoBEk3/jSyGt45yQ5RaoBEk3.png",
+      "thumbnailUrl": "https://archive.org/download/jSyGt45yQ5RaoBEk3/jSyGt45yQ5RaoBEk3.200px.png"
+    }
+  ],
   "NappyPatty": [
     {
       "mediaItemId": "HKKeDpsL8CsXuDbPN",
