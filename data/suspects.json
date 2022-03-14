@@ -32055,6 +32055,32 @@
     "_id": "AqEhoVjyYl0I"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider578"
+    ],
+    "appearanceSummary": "White man with brown hair with a receding hairline and a chin-strap beard wearing a hooded black coat with a dark blue lining in the hood.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1wdJQxX6ANzzRKyKsFPBF108kmvNozJ3Y",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PushyBlack",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "ZOEXLUuy0hrA"
+  },
+  {
     "actionsSummary": "Shoves police on NW Lawn. Insided Capitol building.",
     "alternateHashtags": [
       "Insider0642"
