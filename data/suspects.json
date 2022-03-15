@@ -900,7 +900,9 @@
     "actionsSummary": "Spearheads first mass pushing attack on LEOs on the NW Lawn (from the south end)",
     "alternateHashtags": [],
     "appearanceSummary": "Balding white man with white hair and beard wearing a dark jacket, blue jeans, black tennis shoes with white soles, red and grey gloves, a black backpack and flag (or flag mask?) on top of his head/around his neck.",
-    "associates": [],
+    "associates": [
+      "#OleBurnsides"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/1Rzo3YCYX748JaOTA1k0WQFfI03rH9Zmw?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29262,7 +29264,9 @@
     "actionsSummary": "Assaults police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White male, gray hair (overgrown butch); gray very bushy Horseshoe; khaki green backpack; red t-shirt, black leather jacket with zipper; black tactical gloves with leather padding on dorsal and fingers; tan pants with white/red/blue scarf(?) around upper right thigh",
-    "associates": [],
+    "associates": [
+      "#AngryGrandpaMAGA"
+    ],
     "fbiIdentifier": "335-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33712,7 +33716,7 @@
       "#DustinThompson"
     ],
     "caseIdentifier": "1:21-cr-161",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1361301/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
