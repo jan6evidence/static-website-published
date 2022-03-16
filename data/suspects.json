@@ -5978,6 +5978,30 @@
     "_id": "ox3RVIOS8odU"
   },
   {
+    "actionsSummary": "Sprays police on the NW Lawn (incident #2)",
+    "alternateHashtags": [],
+    "appearanceSummary": "Man with brown hair and a greying beard wearing a hooded black coat over a grey hoodie, a red MAGA hat over a two-tone Harley Davidson hat, black gloves, jeans and a wallet chain on the right side.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1DjqqAC06VK53hYSlm5JylWjrhW1VxsGW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
+      }
+    ],
+    "primaryHashtag": "BubbaTwoHat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "Pmx3EVnMgsmY"
+  },
+  {
     "actionsSummary": "At the entrance of the Tunnel on the Lower West Terrace. Tells #ProudboyCowboy he is from \"Buffalo.\" Attempts to pull Officer Fanone out of the tunnel. In a photo carrying a stolen police riot shield. He stole officer Fanone's badge and police radio.",
     "alternateHashtags": [
       "ThomasSibick",
@@ -20109,7 +20133,7 @@
     ],
     "primaryHashtag": "JamesLeslieLittle",
     "profileLeads": [],
-    "realName": "LITTLE, James",
+    "realName": "LITTLE, James Leslie \"Les\"",
     "_id": "121ZfZ6PIi-U"
   },
   {
@@ -20539,10 +20563,11 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-290",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Alexander%20Smith%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -22980,10 +23005,11 @@
     "arrestState": "WI",
     "associates": [],
     "caseIdentifier": "1:21-cr-81",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -29264,9 +29290,12 @@
     "actionsSummary": "Assaults police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White male, gray hair (overgrown butch); gray very bushy Horseshoe; khaki green backpack; red t-shirt, black leather jacket with zipper; black tactical gloves with leather padding on dorsal and fingers; tan pants with white/red/blue scarf(?) around upper right thigh",
+    "arrestDate": "2022-03-15T04:00:00.000Z",
+    "arrestState": "AZ",
     "associates": [
       "#AngryGrandpaMAGA"
     ],
+    "caseIdentifier": "1:22-mj-00060-RMM",
     "fbiIdentifier": "335-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
