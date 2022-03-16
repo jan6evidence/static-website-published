@@ -21327,7 +21327,7 @@
       "#StacieGetsinger"
     ],
     "caseIdentifier": "1:21-cr-99",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1405456/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21692,7 +21692,9 @@
     "appearanceSummary": "Bright orange knit cap. Eyeglasses with metal frames. Short dark beard and mustache. Black mask over lower face. Black jacket?",
     "arrestDate": "2021-06-30T04:00:00.000Z",
     "arrestState": "GA",
-    "associates": [],
+    "associates": [
+      "#JohnGould"
+    ],
     "caseIdentifier": "1:21-cr-450",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1408586/download",
@@ -37076,7 +37078,7 @@
       "#JohnGetsinger"
     ],
     "caseIdentifier": "1:21-cr-98",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1405456/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
