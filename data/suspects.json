@@ -5099,7 +5099,9 @@
       }
     ],
     "primaryHashtag": "BlueVelvetRioter",
-    "profileLeads": [],
+    "profileLeads": [
+      "@Christo33114911"
+    ],
     "_id": "9qc66o2Kgl5k"
   },
   {
@@ -7280,6 +7282,35 @@
     "primaryHashtag": "CapitolShrew",
     "profileLeads": [],
     "_id": "1poMbzFNYogM"
+  },
+  {
+    "actionsSummary": "Entered Capitol through broken window. Led group of insurrectionists to Nancy Pelosi's office. Turned his back to police and shoved them with his back. Has been interviewed twice by the FBI and had his home searched and an affidavit filed.",
+    "alternateHashtags": [
+      "Insider159"
+    ],
+    "appearanceSummary": "White man dressed in a black business-style overcoat, blue-striped tie, black slacks and dress shoes.",
+    "arrestState": "CA",
+    "associates": [],
+    "chargingDocUrl": "https://twitter.com/seth_hettena/status/1504914462251237380",
+    "filesUrl": "https://drive.google.com/drive/folders/1Svnuabzb5FjUw8sEodhoegLvi34cQ6cD",
+    "idStatus": "ID sent to FBI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CapitolSmoker",
+    "profileLeads": [],
+    "realName": "HUMPHREYS, Jonathatn",
+    "_id": "pmWtdhE14nOw"
   },
   {
     "actionsSummary": "Involved in tunnel melee. Seen earlier in the day passing out signs at the Trump rally. Throws a firecracker at police. Part of the \"heave ho\" effort on the Lower West Terrace in attempt to breach tunnel.",
@@ -21358,6 +21389,28 @@
     "_id": "qjmT1kNoAph0"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider206"
+    ],
+    "appearanceSummary": "White man wearing a bright yellow shirt, green jacket, black\nfacemask and a white cowboy hat that says, “Team Trump.”",
+    "arrestDate": "2022-03-15T04:00:00.000Z",
+    "associates": [
+      "#JonathanLaurens"
+    ],
+    "caseIdentifier": "1:22-mj-00056-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241152/gov.uscourts.dcd.241152.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1sadhZw31Sn7383HQoPEaVh0lp71H1W1A",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "JohnGould",
+    "profileLeads": [],
+    "realName": "GOULD, John David Ross",
+    "_id": "mG3C-tiwgiGA"
+  },
+  {
     "actionsSummary": "Seen on video in the interior area of the West Stairs Door.",
     "alternateHashtags": [
       "Insider1372"
@@ -24970,10 +25023,19 @@
     "actionsSummary": "Sprays police officers.",
     "alternateHashtags": [],
     "appearanceSummary": "Hunting-patterned camo balaclava. Dark hair underneath. Hoodie with gray and white coloration like stone. Black inner lining in the hood. Backpack with light brown straps. Dark gray gloves. Black spray bottle with a large white label.",
+    "arrestDate": "2022-03-17T04:00:00.000Z",
+    "arrestState": "WI",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00064-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241283/gov.uscourts.dcd.241283.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
       {
         "type": "behavior",
         "name": "Sprayer"
@@ -24981,6 +25043,7 @@
     ],
     "primaryHashtag": "MaceyGrey",
     "profileLeads": [],
+    "realName": "KASPER, Riley Douglas",
     "_id": "lNptRneRUiPE"
   },
   {
@@ -37719,13 +37782,19 @@
     "_id": "SZC9EN28Ek68"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1163"
     ],
     "appearanceSummary": "Blurry picture. Red baseball cap with a white, circular (?) logo on the front. Brown, full beard and mustache. Black hoodie with a white logo on the left breast (North Face?). Blue jeans. Gray Nike (?) sneakers.",
+    "arrestDate": "2022-03-18T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.post-gazette.com/news/crime-courts/2022/03/18/cranberry-jordan-bonenberger-charged-in-u-s-capitol-breach-jan-6-rioters-donald-trump/stories/202203180125?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1647624304",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -37734,6 +37803,7 @@
     ],
     "primaryHashtag": "StubbleTrouble",
     "profileLeads": [],
+    "realName": "BONENBERGER, Jordan",
     "_id": "fqu1ZokWEt2A"
   },
   {
