@@ -10741,6 +10741,13 @@
       "thumbnailUrl": "https://archive.org/download/htQfE9Z4zm2AszLpx/htQfE9Z4zm2AszLpx.200px.png"
     }
   ],
+  "CapitolSmoker": [
+    {
+      "mediaItemId": "dqfqk4Fm7YuCLYD5t",
+      "archiveUrl": "https://archive.org/download/dqfqk4Fm7YuCLYD5t/dqfqk4Fm7YuCLYD5t.jpg",
+      "thumbnailUrl": "https://archive.org/download/dqfqk4Fm7YuCLYD5t/dqfqk4Fm7YuCLYD5t.200px.jpg"
+    }
+  ],
   "CapitolWig": [
     {
       "mediaItemId": "9gB3ghkRiGjci4rPs",
@@ -29251,6 +29258,18 @@
       "mediaItemId": "fxTAYcPHS3firhpeX",
       "archiveUrl": "https://archive.org/download/fxTAYcPHS3firhpeX/fxTAYcPHS3firhpeX.png",
       "thumbnailUrl": "https://archive.org/download/fxTAYcPHS3firhpeX/fxTAYcPHS3firhpeX.200px.png"
+    }
+  ],
+  "JohnGould": [
+    {
+      "mediaItemId": "F2H3YsdKqE87f3Dxp",
+      "archiveUrl": "https://archive.org/download/F2H3YsdKqE87f3Dxp/F2H3YsdKqE87f3Dxp.png",
+      "thumbnailUrl": "https://archive.org/download/F2H3YsdKqE87f3Dxp/F2H3YsdKqE87f3Dxp.200px.png"
+    },
+    {
+      "mediaItemId": "qkPtBRk6DAPSb5XbT",
+      "archiveUrl": "https://archive.org/download/qkPtBRk6DAPSb5XbT/qkPtBRk6DAPSb5XbT.png",
+      "thumbnailUrl": "https://archive.org/download/qkPtBRk6DAPSb5XbT/qkPtBRk6DAPSb5XbT.200px.png"
     }
   ],
   "JohnJuran": [
