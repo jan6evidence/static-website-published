@@ -40810,7 +40810,7 @@
     "_id": "xyfA9Mji4nSQ"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn and then fights an individual cop.",
+    "actionsSummary": "Shoves police on the NW Lawn and then punches an individual cop. Breaks apart metal railing for weapons.",
     "alternateHashtags": [],
     "appearanceSummary": "Black leather jacket over a black hoodie with orange sleeves poking out at the wrists, a black helmet with vents and an upside-down triangle in the back over a blue brimmed baseball cap, black pants, a dark blue scarf with red edges and large white stars, grey gloves and a black backpack.",
     "associates": [],
@@ -40821,6 +40821,10 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "TriangleHelmet",
