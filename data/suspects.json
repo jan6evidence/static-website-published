@@ -37791,8 +37791,9 @@
     "arrestDate": "2022-03-18T04:00:00.000Z",
     "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00059-RMM",
     "caseStatus": "Arrested",
-    "chargingDocUrl": "https://www.post-gazette.com/news/crime-courts/2022/03/18/cranberry-jordan-bonenberger-charged-in-u-s-capitol-breach-jan-6-rioters-donald-trump/stories/202203180125?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1647624304",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241220/gov.uscourts.dcd.241220.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "militaryBranchAffiliation": "Marines",
@@ -37808,14 +37809,26 @@
     "_id": "fqu1ZokWEt2A"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
     "appearanceSummary": "Woman with long. brown hair. Black puffer jacket with a white zipper. Backpack with lots of colorful little logos all over it. Dark pants. Dark footwear.",
+    "arrestDate": "2022-03-18T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00059-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241220/gov.uscourts.dcd.241220.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "StubbleTroublegf",
     "profileLeads": [],
+    "realName": "ARCHER, Melanie",
     "_id": "cF0r6RIlItHI"
   },
   {
