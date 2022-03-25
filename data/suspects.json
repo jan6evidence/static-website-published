@@ -13438,8 +13438,10 @@
     "_id": "asU9smEbcnC8"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn.",
-    "alternateHashtags": [],
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2186"
+    ],
     "appearanceSummary": "White man wearing a brimmed flag print baseball helmet over a black ski mask, clear eye protectors, a dark hoodie with a lighter lining in the hood, black gloves, khaki cargo pants, grey shoes, a black backpack with orange accents and a US flag around his neck.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1vHFcsUqtbxZK9N_VJVVs6wPV37OvAMWK?usp=sharing",
@@ -36434,7 +36436,7 @@
     "arrestState": "NC",
     "associates": [],
     "caseIdentifier": "1:21-cr-89",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/cantwell-lewis-easton",
     "fbiIdentifier": "143-AFO",
     "isLawEnforcement": false,
@@ -43112,7 +43114,7 @@
       "#EmilyHernandez"
     ],
     "caseIdentifier": "1:21-mj-173",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1365726/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
