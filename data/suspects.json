@@ -8226,7 +8226,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-mj-158",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Ortiz%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21459,6 +21459,32 @@
     "_id": "TlW-MVMqQuy4"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider0365"
+    ],
+    "appearanceSummary": "White man with grey facial hair wearing green cargo pants, a gray hoodie with a Cabelas black coat over it",
+    "arrestDate": "2022-03-25T04:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00044-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/21518980/lammonsjohn.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1lFeD0JGgTHIkAG-E9S9DwuN0T6wPq5tF",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JohnLammons",
+    "profileLeads": [],
+    "realName": "LAMMONS, John Franklin",
+    "_id": "YG06IjbBctEA"
+  },
+  {
     "actionsSummary": "Entered Capitol. Caused a disturbance on a flight on Jan. 8, ID'd by officers based on Instagram video ta that time.",
     "alternateHashtags": [
       "Insider0871"
@@ -33988,7 +34014,7 @@
     "arrestState": "AR",
     "associates": [],
     "caseIdentifier": "1:21-mj-00705-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Snow%20Statement%20of%20Facts.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/12lhHdsNA-XWgoV4Jt59uvUBmoYLrMWzU?usp=sharing",
     "isLawEnforcement": false,
