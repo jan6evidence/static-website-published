@@ -29906,7 +29906,23 @@
       "thumbnailUrl": "https://archive.org/download/xiWuWj2546weQn4kQ/xiWuWj2546weQn4kQ.200px.png"
     }
   ],
-  "JohnLammons": [],
+  "JohnLammons": [
+    {
+      "mediaItemId": "B9Y8tETsn6h2LumYG",
+      "archiveUrl": "https://archive.org/download/B9Y8tETsn6h2LumYG/B9Y8tETsn6h2LumYG.png",
+      "thumbnailUrl": "https://archive.org/download/B9Y8tETsn6h2LumYG/B9Y8tETsn6h2LumYG.200px.png"
+    },
+    {
+      "mediaItemId": "akEMBepL3rsnbsRyZ",
+      "archiveUrl": "https://archive.org/download/akEMBepL3rsnbsRyZ/akEMBepL3rsnbsRyZ.png",
+      "thumbnailUrl": "https://archive.org/download/akEMBepL3rsnbsRyZ/akEMBepL3rsnbsRyZ.200px.png"
+    },
+    {
+      "mediaItemId": "hmYusf5Jsv3CNoGN7",
+      "archiveUrl": "https://archive.org/download/hmYusf5Jsv3CNoGN7/hmYusf5Jsv3CNoGN7.png",
+      "thumbnailUrl": "https://archive.org/download/hmYusf5Jsv3CNoGN7/hmYusf5Jsv3CNoGN7.200px.png"
+    }
+  ],
   "JohnLolos": [
     {
       "mediaItemId": "tfqdNfni7grZecSXS",
