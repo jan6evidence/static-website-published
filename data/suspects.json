@@ -9962,7 +9962,7 @@
       "#RobertSchornak"
     ],
     "caseIdentifier": "1:21-cr-278",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20and%20Robert%20Schornak%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -26103,6 +26103,27 @@
     "_id": "boO7GM9TQuvA"
   },
   {
+    "actionsSummary": "Throws a smoke grenade into police in the Tunnel on the Lower West Terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Asian man wearing a black coat, khaki pants, dark tennis shoes with white soles and a red pull tab at the back, black gloves, a Maryland flag gaiter and a black and grey single strap crossbody backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/18zOLuY4fNSkNSR1e-aF-wxA1r4SB27wE",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MarylandFlagGaiter",
+    "profileLeads": [
+      "@CMominator",
+      "@PhoenixOnWheels"
+    ],
+    "_id": "ERSFWtvc0mP0"
+  },
+  {
     "actionsSummary": "In the background of the riot on the lower West plaza with other New Jersey Proud Boys.",
     "alternateHashtags": [],
     "appearanceSummary": "Red MAGA cap, black gaiter with RWB mask printed on front, dark blue jeans, red Champion hoodie, bluish mirror sunglasses with black rims, dark gloves, grey backpack, brown/blonde hair",
@@ -26693,10 +26714,17 @@
     "_id": "pR1imPt78lww"
   },
   {
-    "actionsSummary": "Actions not known but made the MPD Wanted list",
-    "alternateHashtags": [],
+    "actionsSummary": "Inside Capitol building. Photographed documents in the Senate chamber.",
+    "alternateHashtags": [
+      "insider1294"
+    ],
     "appearanceSummary": "Dark gray knit cap. Red plug in left ear. Round face with a reddish-brown beard and mustache. Red and white plaid long-sleeve shirt over a red long-sleeve t-shirt. Tattoos on right forearm (including a red fish and maybe a black snake). Wears some kind of sweater or vest over his shoulders and under his backpack straps, which are a greenish light brown color. Photographed using a smartphone inside the Capitol Building. Also photographed carrying a gas mask in his hand.",
+    "arrestDate": "2022-03-26T04:00:00.000Z",
+    "arrestState": "WA",
     "associates": [],
+    "caseIdentifier": "1:22-cr-00080-EGS",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241195/gov.uscourts.dcd.241195.1.1_1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -26707,6 +26735,7 @@
     ],
     "primaryHashtag": "MetroJack",
     "profileLeads": [],
+    "realName": "JOHNSON, Joshua Edward",
     "_id": "2-s_H9vNMtbk"
   },
   {
