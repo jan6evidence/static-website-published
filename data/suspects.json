@@ -4564,7 +4564,11 @@
       "SuckyBlueHat"
     ],
     "appearanceSummary": "Dark blue knit cap with \"Trump 45th President\" in white letters along the bottom and the yellow signature above that. Sometimes wears clear shop glasses (not goggles). Short brown beard and mustache. Blue jacket with a high collar. Black backpack. When the pack is unzipped we can see a red item inside. Dark blue carpenter jeans. Black and white (?) shoes. \nFive o'clock shadow. Blue jacket over a black shirt?",
-    "associates": [],
+    "associates": [
+      "#HandlebarHank",
+      "#CowBoyAxeMan",
+      "#WhiteGingerQ"
+    ],
     "fbiIdentifier": "371-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
