@@ -1054,6 +1054,33 @@
     "_id": "g17iUtcIElFI"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "SeditionInsider0902"
+    ],
+    "appearanceSummary": "White man with dark hair and beard wearing a M81 camouflage jacket, dark colored hooded sweatshirt underneath, black tactical vest, gas mask, gas mask carrier secured to his belt, camouflage pants, tan boots, a “Real Tree” type baseball hat, and he was holding a Trump flag. The gloves MAZZIO wore are\na tactical type glove with hard coating around the knuckles of the glove.",
+    "arrestDate": "2022-04-04T04:00:00.000Z",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00068-ZMF",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1KV5euwkg3pAiSqd9_5L0EJxoMblwhBY-",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "AnthonyMazzio",
+    "profileLeads": [],
+    "_id": "hUAJpjTaQitc"
+  },
+  {
     "actionsSummary": "Entered the Capitol via the Senate Wing Door on the NW side of the building.",
     "alternateHashtags": [
       "Insider1577"
@@ -5564,6 +5591,34 @@
     "profileLeads": [],
     "realName": "GUNDERSEN, Brian",
     "_id": "b5CrldR1IsW4"
+  },
+  {
+    "actionsSummary": "Smokes marijuana inside the Capitol.",
+    "alternateHashtags": [
+      "SeditionInsider0853"
+    ],
+    "appearanceSummary": "White man with dark hair and beard wearing a black hoodie over a black baseball cap.",
+    "arrestDate": "2022-03-29T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#PatrickKing"
+    ],
+    "caseIdentifier": "1:22-mj-00063-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241279/gov.uscourts.dcd.241279.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1qoiVBtO8BqQ9OI4WjikAl26F554WZXnG",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BrianJones",
+    "profileLeads": [],
+    "realName": "JONES, Brian Raymond",
+    "_id": "E78I0GKG4uRE"
   },
   {
     "actionsSummary": "Entered Capitol and was pictured inside the Crypt.",
@@ -15848,7 +15903,7 @@
       "#PapaSmurfPB"
     ],
     "caseIdentifier": "1:21-cr-492",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/file/1398131/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -25273,17 +25328,28 @@
     "_id": "h5PI-u5lshjA"
   },
   {
-    "actionsSummary": "Pictured under the NW Scaffolding.",
+    "actionsSummary": "Pictured under the NW Scaffolding. Twice grabbed police shields. Strikes a police officer. Grabs another officer's face shield.",
     "alternateHashtags": [
       "RedHoodWinker"
     ],
-    "appearanceSummary": "Red hoodie with yellow bands on sleeves. Beige vest.",
+    "appearanceSummary": "White man wearing a red baseball hat, a red Kansas\nCity Chiefs sweatshirt, a khaki vest, blue jeans, and dark-colored boots.",
+    "arrestDate": "2022-04-06T04:00:00.000Z",
+    "arrestState": "MO",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00074-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241740/gov.uscourts.dcd.241740.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "MagaHotdog",
     "profileLeads": [],
+    "realName": "CLAYTON, Cale Douglas",
     "_id": "CQeEI51Zogj4"
   },
   {
@@ -30310,6 +30376,34 @@
     "_id": "kNsjoUSAomqs"
   },
   {
+    "actionsSummary": "Smokes marijuana inside the Capitol.",
+    "alternateHashtags": [
+      "SeditionInsider0230"
+    ],
+    "appearanceSummary": "Man wearing a dark hoodie over a baseball cap with a blue brim.",
+    "arrestDate": "2022-03-29T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#BrianJones"
+    ],
+    "caseIdentifier": "1:22-mj-00063-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241279/gov.uscourts.dcd.241279.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1AMwr0uQPjNINQFbn_crsZ6fem8xuhMSt",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PatrickKing",
+    "profileLeads": [],
+    "realName": "KING, Patrick John",
+    "_id": "lap0FPFAcpFU"
+  },
+  {
     "actionsSummary": "Entered the Capitol and bragged about it on Twitter.",
     "alternateHashtags": [
       "Insider1717"
@@ -31851,7 +31945,7 @@
     "arrestDate": "2021-11-03T04:00:00.000Z",
     "arrestState": "TN",
     "associates": [],
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1446266/download",
     "compositeURL": "https://drive.google.com/file/d/1LqvubRyAo6KnDmMO4kjFA64p50s4URtD/view?usp=sharing",
     "fbiIdentifier": "97-AFO",
@@ -33995,7 +34089,7 @@
     "arrestState": "NJ",
     "associates": [],
     "caseIdentifier": "1:21-cr-347",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1392101/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -43970,7 +44064,7 @@
     "arrestState": "NC",
     "associates": [],
     "caseIdentifier": "1:21-cr-175",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
