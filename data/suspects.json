@@ -1054,33 +1054,6 @@
     "_id": "g17iUtcIElFI"
   },
   {
-    "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [
-      "SeditionInsider0902"
-    ],
-    "appearanceSummary": "White man with dark hair and beard wearing a M81 camouflage jacket, dark colored hooded sweatshirt underneath, black tactical vest, gas mask, gas mask carrier secured to his belt, camouflage pants, tan boots, a “Real Tree” type baseball hat, and he was holding a Trump flag. The gloves MAZZIO wore are\na tactical type glove with hard coating around the knuckles of the glove.",
-    "arrestDate": "2022-04-04T04:00:00.000Z",
-    "associates": [],
-    "caseIdentifier": "1:22-mj-00068-ZMF",
-    "caseStatus": "Arrested",
-    "filesUrl": "https://drive.google.com/drive/folders/1KV5euwkg3pAiSqd9_5L0EJxoMblwhBY-",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "equipment",
-        "name": "HelmetOrArmor"
-      }
-    ],
-    "primaryHashtag": "AnthonyMazzio",
-    "profileLeads": [],
-    "_id": "hUAJpjTaQitc"
-  },
-  {
     "actionsSummary": "Entered the Capitol via the Senate Wing Door on the NW side of the building.",
     "alternateHashtags": [
       "Insider1577"
@@ -5595,7 +5568,7 @@
   {
     "actionsSummary": "Smokes marijuana inside the Capitol.",
     "alternateHashtags": [
-      "SeditionInsider0853"
+      "Insider0853"
     ],
     "appearanceSummary": "White man with dark hair and beard wearing a black hoodie over a black baseball cap.",
     "arrestDate": "2022-03-29T04:00:00.000Z",
@@ -30378,7 +30351,7 @@
   {
     "actionsSummary": "Smokes marijuana inside the Capitol.",
     "alternateHashtags": [
-      "SeditionInsider0230"
+      "Insider0230"
     ],
     "appearanceSummary": "Man wearing a dark hoodie over a baseball cap with a blue brim.",
     "arrestDate": "2022-03-29T04:00:00.000Z",
@@ -31686,12 +31659,29 @@
     "_id": "zXupbcrcorWA"
   },
   {
-    "alternateHashtags": [],
-    "appearanceSummary": "Brown hair. Very short brown beard and mustache. Inside the Capitol he took off his green (?) respirator that has white filters. Short, camo coat over a black hoodie. Brown gloves that may have reinforced knuckles.",
+    "actionsSummary": "Inside Capitol Building",
+    "alternateHashtags": [
+      "Insider0902",
+      "AnthonyMazzio"
+    ],
+    "appearanceSummary": "White man with dark hair and beard wearing a M81 camouflage jacket, dark colored hooded sweatshirt underneath, black tactical vest, gas mask, gas mask carrier secured to his belt, camouflage pants, tan boots, a “Real Tree” type baseball hat, and he was holding a Trump flag. The gloves MAZZIO wore are a tactical type glove with hard coating around the knuckles of the glove. Inside the Capitol he took off his green (?) respirator that has white filters.",
+    "arrestDate": "2022-04-04T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00068-ZMF",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1KV5euwkg3pAiSqd9_5L0EJxoMblwhBY-",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
     "primaryHashtag": "PointyCamoShame",
     "profileLeads": [],
     "_id": "PJ75nAwwEtlg"
