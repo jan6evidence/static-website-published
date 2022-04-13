@@ -1442,18 +1442,6 @@
       "thumbnailUrl": "https://archive.org/download/3QBq9AevmTD8f53kL/3QBq9AevmTD8f53kL.200px.jfif"
     }
   ],
-  "AnthonyMazzio": [
-    {
-      "mediaItemId": "DNaMzRyHnrgNAKBG8",
-      "archiveUrl": "https://archive.org/download/DNaMzRyHnrgNAKBG8/DNaMzRyHnrgNAKBG8.png",
-      "thumbnailUrl": "https://archive.org/download/DNaMzRyHnrgNAKBG8/DNaMzRyHnrgNAKBG8.200px.png"
-    },
-    {
-      "mediaItemId": "npAyq5t6LX4dc3qDr",
-      "archiveUrl": "https://archive.org/download/npAyq5t6LX4dc3qDr/npAyq5t6LX4dc3qDr.png",
-      "thumbnailUrl": "https://archive.org/download/npAyq5t6LX4dc3qDr/npAyq5t6LX4dc3qDr.200px.png"
-    }
-  ],
   "AnthonyMoat": [
     {
       "mediaItemId": "yaQYJanRNhZWXtKm5",
@@ -42275,6 +42263,16 @@
       "mediaItemId": "4L2ou5xAML6saGk3M",
       "archiveUrl": "https://archive.org/download/4L2ou5xAML6saGk3M/4L2ou5xAML6saGk3M.jpg",
       "thumbnailUrl": "https://archive.org/download/4L2ou5xAML6saGk3M/4L2ou5xAML6saGk3M.200px.jpg"
+    },
+    {
+      "mediaItemId": "DNaMzRyHnrgNAKBG8",
+      "archiveUrl": "https://archive.org/download/DNaMzRyHnrgNAKBG8/DNaMzRyHnrgNAKBG8.png",
+      "thumbnailUrl": "https://archive.org/download/DNaMzRyHnrgNAKBG8/DNaMzRyHnrgNAKBG8.200px.png"
+    },
+    {
+      "mediaItemId": "npAyq5t6LX4dc3qDr",
+      "archiveUrl": "https://archive.org/download/npAyq5t6LX4dc3qDr/npAyq5t6LX4dc3qDr.png",
+      "thumbnailUrl": "https://archive.org/download/npAyq5t6LX4dc3qDr/npAyq5t6LX4dc3qDr.200px.png"
     },
     {
       "mediaItemId": "pYRiPAhLBcDiGF5DE",
