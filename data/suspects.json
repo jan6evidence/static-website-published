@@ -2817,7 +2817,7 @@
       "#ChristianCortez"
     ],
     "caseIdentifier": "1:21-cr-317",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1386226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -8623,7 +8623,7 @@
       "#KirstynNiemela"
     ],
     "caseIdentifier": "1:22-mj-00013",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kirstyn%20Niemela%20and%20Stefanie%20Nicole%20Chiguer%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -12473,7 +12473,12 @@
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Greyish blue long-sleeve shirt. Grey padded vest with hood. Grey and black flag neck gaiter. Blue headband with stars. Sunglasses. Tactical vest with patches that include one that says \"Embrace the Suck\". Radio clipped to his vest.",
+    "arrestDate": "2022-04-13T04:00:00.000Z",
+    "arrestState": "LA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00078-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -12496,6 +12501,7 @@
     ],
     "primaryHashtag": "EtsPB",
     "profileLeads": [],
+    "realName": "LEBRUN, Matthew",
     "_id": "SvGxsw8UIiVA"
   },
   {
@@ -15300,7 +15306,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-mj-00619-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -38929,7 +38935,12 @@
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Red baseball cap with white writing on the front. Black hair in a crew cut. Mustache? Black earloop face mask. Tan coat over a black shirt with writing on the front. Also beneath the coat is a backpack, and you can see the black straps and cross-strap in front where the parka is unzipped. Black fingerless gloves. Camo pants. Light brown shoes or boots.",
+    "arrestDate": "2022-04-12T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00078-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -38944,6 +38955,7 @@
     ],
     "primaryHashtag": "TanParkaPB",
     "profileLeads": [],
+    "realName": "MILES, Steven",
     "_id": "oZIYef-EAk58"
   },
   {
