@@ -8595,7 +8595,7 @@
     "arrestState": "TN",
     "associates": [],
     "caseIdentifier": "1:21-mj-553",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1423161/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -10021,7 +10021,7 @@
       "#DarylJohnson"
     ],
     "caseIdentifier": "1:21-mj-128",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -11710,7 +11710,7 @@
       "#RobertLyon"
     ],
     "caseIdentifier": "1:21-cr-161",
-    "caseStatus": "Plea Deal",
+    "caseStatus": "Convicted",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -11754,6 +11754,23 @@
     "primaryHashtag": "EastSideStripes",
     "profileLeads": [],
     "_id": "E5Fcj9nuwlDc"
+  },
+  {
+    "alternateHashtags": [],
+    "associates": [],
+    "fbiIdentifier": "527-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1_YeCyfOnstPXu9wSrUFLc7CERSRQiAl9",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "EasyMadeMetal",
+    "profileLeads": [],
+    "_id": "0Jvqphv4Yjq0"
   },
   {
     "alternateHashtags": [
@@ -31597,7 +31614,7 @@
     "arrestDate": "2022-01-13T05:00:00.000Z",
     "associates": [],
     "caseIdentifier": "4:22-mj-00004-VLD",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Criminal%20Complaint.pdf",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
