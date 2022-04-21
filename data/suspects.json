@@ -10195,7 +10195,7 @@
     "_id": "SjBsSePVIqps"
   },
   {
-    "actionsSummary": "Inside Capitol building. Stole four china plates and a USCP jacket, badge, name tag, and baseball cap.",
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol building. Stole four china plates and a USCP jacket, badge, name tag, and baseball cap.",
     "alternateHashtags": [
       "Insider0226"
     ],
@@ -10206,7 +10206,7 @@
     "caseIdentifier": "1:21-mj-00620-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21087338/9-30-21-us-v-darrell-neely-complaint-affidavit.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1RUzMuop9SdN9jTgww-denI9FJ84LxR17?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1R4Iray4MlAsmPo_hnk4OKdcl_0HmkJKy",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "militaryBranchAffiliation": "Navy",
@@ -10214,10 +10214,16 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "DarrellNeely",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "realName": "NEELY, Darrell",
     "_id": "M5Zi8Ep6cth4"
   },
@@ -25440,6 +25446,24 @@
       "@PhoenixOnWheels"
     ],
     "_id": "jS7mNGeqMsGw"
+  },
+  {
+    "actionsSummary": "Tackles a cop on the Upper West Plaza. Has a knife in a black leather holster hanging from his belt which police confiscate  on the Upper West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Bald white man with white facial hair and blue tattoos on his chest and upper arms (he takes his jacket and shirt off at one point) wearing a black leather jacket over a grey short sleeved tshirt over a red long sleeved shirt, jeans, brown shoes or boots, a red MAGA hat, a RWB buff and black gloves.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/13csimZd3TRdBnmSrHIiUBxNIOOovE97W",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "MAGAMarlin",
+    "profileLeads": [],
+    "_id": "yiemssgdgkbs"
   },
   {
     "actionsSummary": "Seen in prominent photos sitting at a desk in the Capitol while smoking a cigarette and using a smartphone.",
