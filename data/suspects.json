@@ -24968,7 +24968,12 @@
       "TwoByTwelveBeard"
     ],
     "appearanceSummary": "Black beanie hat and balaclava. Long white beard pokes out from under the balaclava. Black puffer coat.",
+    "arrestDate": "2022-04-19T04:00:00.000Z",
+    "arrestState": "CA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00069-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://ia801506.us.archive.org/12/items/gov.uscourts.dcd.242111/gov.uscourts.dcd.242111.1.1.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24980,6 +24985,7 @@
     ],
     "primaryHashtag": "LumberJunker",
     "profileLeads": [],
+    "realName": "BRAUN, Jeremy Daniel \"JD\"",
     "_id": "To7LoVAaEnro"
   },
   {
