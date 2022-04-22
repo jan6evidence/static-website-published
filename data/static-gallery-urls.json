@@ -33683,7 +33683,13 @@
       "thumbnailUrl": "https://archive.org/download/NXa2JTMpieETX4eDu/NXa2JTMpieETX4eDu.200px.png"
     }
   ],
-  "MAGAMarlin": [],
+  "MAGAMarlin": [
+    {
+      "mediaItemId": "gyWYK8ktEaCHZTeRk",
+      "archiveUrl": "https://archive.org/download/gyWYK8ktEaCHZTeRk/gyWYK8ktEaCHZTeRk.png",
+      "thumbnailUrl": "https://archive.org/download/gyWYK8ktEaCHZTeRk/gyWYK8ktEaCHZTeRk.200px.png"
+    }
+  ],
   "MAGAMessageTaker": [
     {
       "mediaItemId": "MasY2kmpkNgDmcAdR",
