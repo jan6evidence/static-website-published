@@ -2791,7 +2791,7 @@
     "arrestState": "DC",
     "associates": [],
     "caseIdentifier": "1:21-cr-259",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "compositeURL": "https://drive.google.com/file/d/15WlBsO8QNg3Dp_5ZgIpwGwumfAqiYftG/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -13071,7 +13071,7 @@
       "#IronworkerGuy"
     ],
     "caseIdentifier": "1:21-mj-00622-AMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download",
     "fbiIdentifier": "284-AFO",
     "isLawEnforcement": false,
@@ -19755,7 +19755,7 @@
       "#FenceSnatcher"
     ],
     "caseIdentifier": "1:21-mj-00622-AMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download",
     "compositeURL": "https://drive.google.com/file/d/1dTAjzjRjB7oN9pGTBDRQA-UMZCFXwY2X/view?usp=sharing",
     "fbiIdentifier": "142-AFO",
