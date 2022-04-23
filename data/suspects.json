@@ -8358,7 +8358,12 @@
     "actionsSummary": "Shown on video on the West Plaza. Sprays officers with a chemical.",
     "alternateHashtags": [],
     "appearanceSummary": "Black Coat and tactical vest. Black and grey American flag gaiter. Black hat with flag. Clean shaven and buzz cut hair.",
+    "arrestDate": "2022-04-21T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00083-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.242488/gov.uscourts.dcd.242488.1.1.pdf",
     "fbiIdentifier": "329-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -8378,6 +8383,7 @@
     ],
     "primaryHashtag": "ChudChadPB",
     "profileLeads": [],
+    "realName": "RAMEY, Barry Bennett",
     "_id": "6Q8rUyPZQifs"
   },
   {
