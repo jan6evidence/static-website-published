@@ -19490,6 +19490,20 @@
       "thumbnailUrl": "https://archive.org/download/ifxyweeZ5dwWBohYx/ifxyweeZ5dwWBohYx.200px.png"
     }
   ],
+  "FootLongRoots": [
+    {
+      "mediaItemId": "CA43k7Ag3Y8t6FJDA",
+      "archiveUrl": "https://archive.org/download/CA43k7Ag3Y8t6FJDA/CA43k7Ag3Y8t6FJDA.jpg",
+      "thumbnailUrl": "https://archive.org/download/CA43k7Ag3Y8t6FJDA/CA43k7Ag3Y8t6FJDA.200px.jpg"
+    }
+  ],
+  "FootLongRootsBF": [
+    {
+      "mediaItemId": "CA43k7Ag3Y8t6FJDA",
+      "archiveUrl": "https://archive.org/download/CA43k7Ag3Y8t6FJDA/CA43k7Ag3Y8t6FJDA.jpg",
+      "thumbnailUrl": "https://archive.org/download/CA43k7Ag3Y8t6FJDA/CA43k7Ag3Y8t6FJDA.200px.jpg"
+    }
+  ],
   "FoulestOfBalls": [
     {
       "mediaItemId": "4WWoRxvH2Qh6b5Hzm",
@@ -44542,6 +44556,7 @@
       "thumbnailUrl": "https://archive.org/download/uryKdevteF9AYLmWa/uryKdevteF9AYLmWa.200px.png"
     }
   ],
+  "RWBBackpack": [],
   "RWBWrestler": [
     {
       "mediaItemId": "7raAB2fkY4Lny8G3c",
@@ -57037,6 +57052,7 @@
       "thumbnailUrl": "https://archive.org/download/yXtm6Z3bD2Kx75Le2/yXtm6Z3bD2Kx75Le2.200px.png"
     }
   ],
+  "TwoHatChad": [],
   "TwoPackBatter": [
     {
       "mediaItemId": "GTEDQx5xrefxAci9x",

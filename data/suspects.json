@@ -13971,6 +13971,45 @@
     "_id": "mhhhQT-yArFo"
   },
   {
+    "actionsSummary": "On restricted ground. In the middle of both NW Lawn mass AFO incidents.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with white hair pulled back into a brown ponytail wearing an olive green coat over a white hoodie, jeans and black gloves.",
+    "associates": [
+      "#FootLongRootsBF"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1gd12_lTH6QVu8hoSIdim8YzWOM2pjJCq",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "FootLongRoots",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "_1jOqMDrIkQ8"
+  },
+  {
+    "actionsSummary": "Swings a flag pole at an Ofc. Daniel Hodges (helmet # 4518) on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a long greyish brown beard and ponytail wearing a camouflage \"Gun Owners for Trump\" baseball cap, camouflage coat and jeans and carrying a Trump flag on a short grey plastic pole.",
+    "associates": [
+      "#FootLongRoots"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1xi8eZAXAUmsfZKPaZvkkGC8wLT-0riCa",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "FootLongRootsBF",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "8Xz2hR4DomkM"
+  },
+  {
     "actionsSummary": "Breaks a window in the NW Courtyard with a piece of lumbar.",
     "alternateHashtags": [],
     "appearanceSummary": "Black belted coat. Striped face covering. White ball cap with \"Asian Pacific Americans for Trump\" on it.",
@@ -34590,6 +34629,26 @@
     "_id": "-xnASlLh8kIg"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with reddish-brown facial hair wearing a black coat, red baseball cap and a red, white and blue backpack with red and white striped straps.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1y5QIoSoTB4rdJpwn0cExZmcxLJdx1eu4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RWBBackpack",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "jjWTjFhswl7s"
+  },
+  {
     "actionsSummary": "Wrestles with cops for barricade on NE Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with greying hair and facial hair wearing a red, white and blue short sleeved jersey with red and white stripes around the upper arms, a blue and red baseball cap, a flag gaiter, a black backpack and black gloves.",
@@ -41680,6 +41739,19 @@
     "primaryHashtag": "TwoBlueJacket",
     "profileLeads": [],
     "_id": "Lwnwn-dL4ka8"
+  },
+  {
+    "alternateHashtags": [],
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1FvShctR3yjumXGfqoMnR8YOpU3Pq2Inf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "TwoHatChad",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "J8H0dbOgIpPI"
   },
   {
     "actionsSummary": "At the entrance to the tunnel during the end of the fight. Uses a dazzler light on police officers. Carrying a baseball bat.",
