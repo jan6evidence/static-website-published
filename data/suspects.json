@@ -2528,7 +2528,9 @@
   },
   {
     "actionsSummary": "Shoves police on the NW Lawn.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2475"
+    ],
     "appearanceSummary": "White man with a shaved head (stubble) and light brown beard wearing Costa sunglasses, black studs in his lobe piercings, a black Sun Mountain jacket with ribbed or knit sleeves and a grey collar over a black hoodie, a Trump scarf and a black North Face backpack with a flag or striped baseball cap cliped through the top loop and carrying a US flag on a pole.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1jfucQ1ayKbgD1i9nKYgXXT70E_lxw6fK",
@@ -3304,7 +3306,9 @@
   },
   {
     "actionsSummary": "Observed right at point of breach with police but no violence seen. Posed with Sebastian Gorka. Prev. seen with Ali Alexander, Mindy Robinson, known assoc. of Tina Forte.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "IAmRickSarmiento"
+    ],
     "appearanceSummary": "Red & black sweatshirt. Leather bikers vest with patches, including a thin blue line patch. Reflective shades. Baseball hat with a flag on it. Salt & pepper facial hair.",
     "associates": [],
     "idStatus": "Public Figure",
@@ -4333,6 +4337,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-mj-559",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blas%20Santillan%20Criminal%20Complaint.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1jGNvq5CU6uFzWDf6uRGpVAbgR9GKaJdg",
     "isLawEnforcement": false,
@@ -12132,7 +12137,7 @@
       "#EliasIrizarry"
     ],
     "caseIdentifier": "1:21-cr-282",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bishai-elliot",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -12382,7 +12387,7 @@
       "#PaulVonBernewitz"
     ],
     "caseIdentifier": "1:21-cr-307",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16281,7 +16286,7 @@
   {
     "actionsSummary": "Seen on E. side, including NE corner just after people from the West side have breached police barriers and streamed through.",
     "alternateHashtags": [],
-    "appearanceSummary": "South Carolina flag on sweatshirt. Hat bears logo of CED, an electrical-supply distributor.",
+    "appearanceSummary": "South Carolina flag on green hooded sweatshirt.  Baseball cap bears logo of CED, an electrical supply distributor.  Blue sweatpants with \"RESPECT\" down left leg.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -26502,6 +26507,27 @@
     "_id": "pThOP9xEggbU"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0280"
+    ],
+    "appearanceSummary": "Dark haired man with a receding hairline wearing a black coat and tan backpack.",
+    "arrestDate": "2022-04-26T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00082-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.242333/gov.uscourts.dcd.242333.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1aLhepDXDa3A890kmLO1gVCp2rg2IjP3O",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MatthewMontalvo",
+    "profileLeads": [],
+    "realName": "MONTALVO, Matthew",
+    "_id": "7pERHrwF4isM"
+  },
+  {
     "actionsSummary": "Entered Capitol building. Seen on Daily Motion livestream. \nNote: Accepted Plea Deal, was facing additional charges being added before death.",
     "alternateHashtags": [
       "Insider1443"
@@ -26575,7 +26601,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00667-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237879/gov.uscourts.dcd.237879.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/117yRk2pYH3aPsfQ_kWTiAjz1fj1CaYq-?usp=sharing",
     "isLawEnforcement": false,
@@ -30658,7 +30684,7 @@
     "_id": "I9OEanvzssvA"
   },
   {
-    "actionsSummary": "Pictured inside the Capitol Rotunda.",
+    "actionsSummary": "Pictured inside the Capitol Rotunda. Joined group pushing on police lines.",
     "alternateHashtags": [
       "Insider1916"
     ],
@@ -30669,7 +30695,7 @@
       "#EricVonBernewitz"
     ],
     "caseIdentifier": "1:21-mj-535",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -31186,7 +31212,7 @@
     "arrestState": "AL",
     "associates": [],
     "caseIdentifier": "1:21-cr-250",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bromley-phillip-andrew",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33069,7 +33095,8 @@
     "alternateHashtags": [],
     "appearanceSummary": "Dark gray knit cap with the word \"Rage\" in large red letters and a red and white fleur-de-lis on the front. Eyeglasses with gold frames. Shoulder-length dark hair. Black gaiter. White fleece jacket from the North Face over a black hoodie.",
     "associates": [
-      "#NoseHammock"
+      "#NoseHammock",
+      "#1776WT"
     ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33940,7 +33967,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-mj-00607-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.235770/gov.uscourts.dcd.235770.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/15Y7RonJ2OuUx510gQGNDXxMqmE1q2atL?usp=sharing",
     "isLawEnforcement": false,
