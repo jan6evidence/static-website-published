@@ -13590,7 +13590,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-cr-28",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1422696/download",
     "filesUrl": "https://drive.google.com/drive/folders/156sfv47Q1vbs1MpZ9iehGvEHeKVr402Y",
     "isLawEnforcement": false,
@@ -29963,6 +29963,7 @@
     "appearanceSummary": "Camo cargo pants. American flag shirt with star hoodie pulled up. Orange ski mask. Tactical vest with lots in the pockets (spray, comms, shears). White power symbol pin on his left chest.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1zIjV4d4a66JMPiUIkwe_e-REwQNP7ASV",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
