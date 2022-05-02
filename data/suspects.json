@@ -13522,6 +13522,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
