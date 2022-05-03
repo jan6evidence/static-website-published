@@ -12590,7 +12590,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-208",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "compositeURL": "https://drive.google.com/file/d/1tKr-C33mdz8R4XkMvj3NCKy54fkBNNrQ/view?usp=sharing",
     "fbiIdentifier": "145-AFO",
     "isLawEnforcement": true,
@@ -22294,6 +22294,32 @@
     "profileLeads": [],
     "realName": "BUSTLE, Joshua",
     "_id": "XNXRgLDk4gUg"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0381"
+    ],
+    "appearanceSummary": "White man with dark hair and facial hair wearing a dark colored sweatshirt and a blue baseball cap with \"TRUMP\" in white, red and yellow lettering.",
+    "arrestDate": "2022-05-02T04:00:00.000Z",
+    "arrestState": "ME",
+    "associates": [],
+    "caseIdentifier": "2:22-mj-00072-KFW",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21831738-joshua-colgan",
+    "filesUrl": "https://drive.google.com/drive/folders/1He41MVvJUryHkeg2Eix6CrXdDNCj76Rr",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JoshuaColgan",
+    "profileLeads": [],
+    "realName": "COLGAN, Joshua",
+    "_id": "16yTVrC_UtWI"
   },
   {
     "actionsSummary": "Seen in footage by bgonthescene inside the Capitol. Entered via Senate Wing door.",
