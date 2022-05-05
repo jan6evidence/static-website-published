@@ -8977,6 +8977,33 @@
     "_id": "M9m40zm8ooH4"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1050"
+    ],
+    "appearanceSummary": "White man wearing  a white t-shirt with a cartoon image of President Trump, a black hoodie,\na red hat, and dark pants.",
+    "arrestDate": "2022-05-04T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00093",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287182/gov.uscourts.ohnd.287182.1.2.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1IEmjHYNobyRHRrfZv685Qt6xwg68cvXD",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ColtonWargo",
+    "profileLeads": [],
+    "realName": "WARGO, Colton",
+    "_id": "n2c6d_Losllc"
+  },
+  {
     "actionsSummary": "Helps with breach of barricades. Present at the front of the West Plaza standoff with police, often at front lines, very visible during first breaches and initial Plaza action.",
     "alternateHashtags": [],
     "appearanceSummary": "Two-toned blue color block jacket. Jeans and work boots. Greying hair and goatee. No hat or face covering.",
@@ -22679,6 +22706,32 @@
     "_id": "Db8ag8xwwirc"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1735"
+    ],
+    "appearanceSummary": "White man wearing a black hoodie over a dark tshirt with a large logo on the front, black jeans with a black belt and a black knit cap and  and holding a black TRUMP flag.",
+    "arrestDate": "2022-05-04T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00094-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.242885/gov.uscourts.dcd.242885.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Jq51GD6FVKGPN-hviCgYM0WLPUlw-j9S",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JustinMichaelSmith",
+    "profileLeads": [],
+    "realName": "SMITH, Justin Michael",
+    "_id": "LWyA6l4OArOc"
+  },
+  {
     "actionsSummary": "Posted videos of himself in the crowd outside Capitol, threatened someone who commented on the video",
     "alternateHashtags": [
       "RealHuckleberry"
@@ -23498,6 +23551,32 @@
     "primaryHashtag": "KidSmooth",
     "profileLeads": [],
     "_id": "4k1mXx6_kuwA"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1048"
+    ],
+    "appearanceSummary": "White woman with long blonde hair wearing a dark-colored jacket over a red, white and\nblue flag shirt and blue jeans.",
+    "arrestDate": "2022-05-04T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00093",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287182/gov.uscourts.ohnd.287182.1.2.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1LAZM2YIRmi4h3O3niFleDOkfEvKJdVLL",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KimberlyWargo",
+    "profileLeads": [],
+    "realName": "WARGO, Kimberly",
+    "_id": "pLw_8IdkQpbw"
   },
   {
     "actionsSummary": "Fought police during initial breach. Helped tunnel fighter down Capitol steps. Seen texting.",
@@ -26262,7 +26341,7 @@
     "associates": [
       "#BradSmith"
     ],
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/18UsXz8mFCdEIb8S_ykhpxlwb7z1SS7pp?usp=sharing",
     "isLawEnforcement": false,
@@ -26551,7 +26630,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1aLhepDXDa3A890kmLO1gVCp2rg2IjP3O",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MatthewMontalvo",
     "profileLeads": [],
     "realName": "MONTALVO, Matthew",
