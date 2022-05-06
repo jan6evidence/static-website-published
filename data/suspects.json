@@ -11543,9 +11543,12 @@
     "_id": "N3EZJB6JMtdw"
   },
   {
+    "actionsSummary": "On NW Lawn. Interacts with #ZipTieGuy (Eric Munchel) as if they know each other.",
     "alternateHashtags": [],
-    "appearanceSummary": "Black baseball cap with a white logo on the front. The logo is a short arc, possibly with words in it. Dark sunglasses. Black gaiter. Appears to have a dark mustache. Green scarf around the neck, tucked into a dark blue or purple jacket. The jacket has a white inner lining along the center zipper and a yellow patch over the left breast. Forest camo backpack. Khaki cargo pants with black straps along the sides and black knee pads. Brown boots.",
-    "associates": [],
+    "appearanceSummary": "Black baseball cap with a white logo on the front. The logo is a short arc, possibly with words in it. Dark sunglasses. Black gaiter. Appears to have a dark mustache. Green scarf around the neck, tucked into a dark blue or purple jacket. The jacket has a white inner lining along the center zipper and a yellow (probably Oathkeepers) patch over the left breast. Forest camo backpack. Khaki cargo pants with black straps along the sides and black knee pads. Brown boots.",
+    "associates": [
+      "#PadsOK"
+    ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -30327,6 +30330,26 @@
     "primaryHashtag": "PaddedPittGuy",
     "profileLeads": [],
     "_id": "CohwUnKtohTw"
+  },
+  {
+    "actionsSummary": "On NW Lawn. Interacts with #ZipTieGuy (Eric Munchel) as if they know each other.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with light brown facial hair wearing a tan baseball cap with Oathkeepers patch on it over a black buff, sunglasses, a tan shirt and pants, a khaki vest with a large circular oathkeepers patch on it and a variety of tools attached and black gloves.",
+    "associates": [
+      "#DrewlOK"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/13WHWdEILiOgcWrLR6VxkpSx-KxoquT4W",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "OathKeepers"
+      }
+    ],
+    "primaryHashtag": "PadsOK",
+    "profileLeads": [],
+    "_id": "fNqm7Ll1IokI"
   },
   {
     "actionsSummary": "Kicks a window to the Capitol and breaks it.",
