@@ -7778,6 +7778,30 @@
     "_id": "ZAD80K2Hos1U"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and facial hair and a mole on his left cheek wearing a hooded grey coat, blue jeans and brown shoes and at times also a pink gasmask.",
+    "arrestDate": "2022-05-04T04:00:00.000Z",
+    "arrestState": "IA",
+    "associates": [],
+    "caseIdentifier": "e 1:22-mj-00091-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/21865824-heathcotechad",
+    "filesUrl": "https://drive.google.com/drive/folders/13jO-vIKyKvSUcyvFmHGNVL_L2vGzhD9D",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ChadHeathcote",
+    "profileLeads": [],
+    "realName": "HEATHCOTE, Chad",
+    "_id": "9UPdpxE1so7w"
+  },
+  {
     "actionsSummary": "Assaulted officers on W. Plaza multiple times, including pushing officer over rail. This occurred right before #extinguisherman threw fire extinguisher. Appears to be with two women, escorted them away from crowd before returning to fray and pushing officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Light blue jeans. Black coat with leather sleeves and a white logo on the left front. Black gloves. Blue Trump hat. Shoulder length light brown hair. Goatee. Has several folding chairs strapped on his back.",
@@ -15333,7 +15357,10 @@
     "appearanceSummary": "Grey Trump 2020 sweatshirt. Black Trump embroidered ball cap. Black gloves. Carrying an American flag on a pole. Mustache",
     "arrestDate": "2021-02-16T05:00:00.000Z",
     "arrestState": "CO",
-    "associates": [],
+    "associates": [
+      "#JenniferHorvath",
+      "#HoodedSunnies"
+    ],
     "caseIdentifier": "1:21-cr-162",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf",
@@ -15347,7 +15374,7 @@
     ],
     "primaryHashtag": "GlennCroy",
     "profileLeads": [],
-    "realName": "CROY, Glenn Wes Lee",
+    "realName": "CROY, Glenn Wes Lee \"Wes\"",
     "_id": "gRNaaAjR8lUk"
   },
   {
@@ -18309,7 +18336,10 @@
     "appearanceSummary": "White man with brown hair and  greying brown facial hair (goatee) wearing a grey (demin) collared coat over a grey hoodie, with white patches on the front, blue jeans, brown work boots, black gloves, a baseball hat (Bricklayers ball cap) with a frayed brim and blue mirrored wraparound sunglasses. He's carrying a US flag on a pole.",
     "arrestDate": "2021-02-16T05:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#GlennCroy",
+      "#JenniferHorvath"
+    ],
     "caseIdentifier": "1:21-cr-162",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf",
@@ -20893,6 +20923,35 @@
     "profileLeads": [],
     "realName": "HEINL, Jennifer",
     "_id": "PBI2AzL5gh4c"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0141"
+    ],
+    "appearanceSummary": "White woman with blonde hair, wearing a blue hooded sweatshirt and a red baseball cap with\nthe message “Trump – Keep America Great 2020” on the front in black and white letters.",
+    "arrestDate": "2022-05-04T04:00:00.000Z",
+    "arrestState": "CO",
+    "associates": [
+      "#GlennCroy",
+      "#HoodedSunnies"
+    ],
+    "caseIdentifier": "1:22-mj-00055-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241138/gov.uscourts.dcd.241138.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1zTnUKs8wQmMCh4sei_7CLXXDgm31IXbl",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JenniferHorvath",
+    "profileLeads": [],
+    "realName": "HORVATH, Jennifer",
+    "_id": "mUoE4VHI0rDY"
   },
   {
     "actionsSummary": "Came to DC and entered the Capitol with her friend, Esther Schwemmer. Admitted to entering the Capitol \"through the front lower door with no stairs\" and \"proceeded up a round staircase to the second floor.\" Stated that she sang the National Anthem with the crowd and exited when directed to by LEOs.",
@@ -30482,7 +30541,12 @@
       "Insider0810"
     ],
     "appearanceSummary": "Dark green helmet. Possible red shirt underneath. Black goggles. Blue and gray respirator. Black hoodie, which says TPACC (short for The Church At Planned Parenthood see other group affiliations). Black gloves with white writing on the back and yellow markings near the wrists. Light brown backpack. Khaki pants.\n\nThere is some sort of round object, maybe a sticker or a political button on the front of his sweatshirt in the lower right area. There is some sort of round? shiny? object that can be seen near his left pocket when he goes in the window.",
+    "arrestDate": "2022-05-05T04:00:00.000Z",
+    "arrestState": "TN",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00096-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1499306/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -30501,6 +30565,7 @@
     ],
     "primaryHashtag": "ParaSnooper",
     "profileLeads": [],
+    "realName": "KELLEY, Edward",
     "_id": "5B8B4kz2grV4"
   },
   {
