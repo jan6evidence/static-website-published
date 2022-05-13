@@ -2401,6 +2401,24 @@
     "_id": "C5WAWfHAgu3o"
   },
   {
+    "alternateHashtags": [],
+    "appearanceSummary": "White man white white facial hair wearing a blue coat, red bandana around his neck, black knit hat and small round sunglasses.",
+    "associates": [],
+    "fbiIdentifier": "529-AFO",
+    "filesUrl": "https://drive.google.com/open?id=1fUrmJVvt8D_5PpOqGEaZd7ldQCf6sZmG",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BarrierBandit",
+    "profileLeads": [],
+    "_id": "Q8DrhyRaEs0M"
+  },
+  {
     "actionsSummary": "Uses police barrier to try to smash Capitol doors. Throws object at doors.",
     "alternateHashtags": [],
     "appearanceSummary": "Long Gray jacket, black hat and gaiter, retro red white and blue scarf; almost always seen holding a paper coffee cup",
@@ -4242,6 +4260,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black coat. Blue shirt with white lettering. Bald with thick beard.",
     "associates": [],
+    "fbiIdentifier": "528-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16364,11 +16383,16 @@
       "GreenHoodie"
     ],
     "appearanceSummary": "Two-tone green parka, white football helmet in early part of day",
+    "arrestDate": "2022-05-12T04:00:00.000Z",
+    "arrestState": "NC",
     "associates": [
       "#HockeyStickMan",
       "#GreenNewsboy",
       "#CapitolWig"
     ],
+    "caseIdentifier": "1:22-cr-00116-CJN",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1505016/download",
     "fbiIdentifier": "217-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16380,6 +16404,7 @@
     ],
     "primaryHashtag": "GreenHoodlum",
     "profileLeads": [],
+    "realName": "GIETZEN, David Joseph",
     "_id": "fXzv_eEH0u6M"
   },
   {
