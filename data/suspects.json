@@ -2405,7 +2405,7 @@
     "appearanceSummary": "White man white white facial hair wearing a blue coat, red bandana around his neck, black knit hat and small round sunglasses.",
     "associates": [],
     "fbiIdentifier": "529-AFO",
-    "filesUrl": "https://drive.google.com/open?id=1fUrmJVvt8D_5PpOqGEaZd7ldQCf6sZmG",
+    "filesUrl": "https://drive.google.com/drive/folders/1Rx_pl13Jc0d3giLNQKPr8DF_qNm783Zg",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -21859,6 +21859,32 @@
     "profileLeads": [],
     "realName": "STRAND, John Herbert",
     "_id": "o-ywMZBeQnPc"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1610"
+    ],
+    "appearanceSummary": "White man with light brown hair cut in a buzzcut wearing a red MAGA hoodie, blue jeans and a multicolored backpack.",
+    "arrestDate": "2022-05-12T04:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00095-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.242888/gov.uscourts.dcd.242888.1.1_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1s4xEpmagsl3wAtbdqflN5f-9Q4DAvZHS",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JohnTodd",
+    "profileLeads": [],
+    "realName": "TODD, John George III",
+    "_id": "rvFwrJR1kul4"
   },
   {
     "actionsSummary": "Among the crowd who entered the Capitol via the Senate Wing Door ont he NW side of the building.",
