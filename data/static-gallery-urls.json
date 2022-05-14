@@ -3114,7 +3114,18 @@
       "archiveUrl": "https://archive.org/download/uDCyE4TcFtir7TwKD/uDCyE4TcFtir7TwKD.png"
     }
   ],
-  "BarrierBandit": [],
+  "BarrierBandit": [
+    {
+      "mediaItemId": "Q3Qb9g4S9bgvxa495",
+      "archiveUrl": "https://archive.org/download/Q3Qb9g4S9bgvxa495/Q3Qb9g4S9bgvxa495.jpeg",
+      "thumbnailUrl": "https://archive.org/download/Q3Qb9g4S9bgvxa495/Q3Qb9g4S9bgvxa495.200px.jpeg"
+    },
+    {
+      "mediaItemId": "ptsMZvqbW2DGoTP6a",
+      "archiveUrl": "https://archive.org/download/ptsMZvqbW2DGoTP6a/ptsMZvqbW2DGoTP6a.png",
+      "thumbnailUrl": "https://archive.org/download/ptsMZvqbW2DGoTP6a/ptsMZvqbW2DGoTP6a.200px.png"
+    }
+  ],
   "BarrierCarrier": [
     {
       "mediaItemId": "3QA8dqT3Tjo3GMgx5",
@@ -30255,7 +30266,18 @@
       "thumbnailUrl": "https://archive.org/download/u5x2pF7GWF7a7tWEN/u5x2pF7GWF7a7tWEN.200px.png"
     }
   ],
-  "JohnTodd": [],
+  "JohnTodd": [
+    {
+      "mediaItemId": "MvhQw5qqZtpfQkARg",
+      "archiveUrl": "https://archive.org/download/MvhQw5qqZtpfQkARg/MvhQw5qqZtpfQkARg.png",
+      "thumbnailUrl": "https://archive.org/download/MvhQw5qqZtpfQkARg/MvhQw5qqZtpfQkARg.200px.png"
+    },
+    {
+      "mediaItemId": "gsHbp6v7QZ78z4gx9",
+      "archiveUrl": "https://archive.org/download/gsHbp6v7QZ78z4gx9/gsHbp6v7QZ78z4gx9.png",
+      "thumbnailUrl": "https://archive.org/download/gsHbp6v7QZ78z4gx9/gsHbp6v7QZ78z4gx9.200px.png"
+    }
+  ],
   "JohnWilkerson4": [
     {
       "mediaItemId": "agffpuduhCwcSEThC",
