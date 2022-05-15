@@ -547,7 +547,7 @@
     "arrestDate": "2021-08-27T04:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1428251/download",
     "compositeURL": "https://drive.google.com/file/d/1fnhNv0xJeXURO73VwevoH6saIUK2Ocuj/view?usp=sharing",
     "fbiIdentifier": "237-AFO",
@@ -566,7 +566,7 @@
     ],
     "primaryHashtag": "AllGreenGuy",
     "profileLeads": [],
-    "realName": "FAIRCHILD Jr., Robert Flynt",
+    "realName": "FAIRCHILD, Robert Flynt Jr.",
     "_id": "XpxrT2GK8sTU"
   },
   {
@@ -1485,7 +1485,7 @@
       "#GreenNewsboy"
     ],
     "caseIdentifier": "1:21-cr-291",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1387521/download",
     "compositeURL": "https://drive.google.com/file/d/1C2UIC5msXtbrgBPKn04K12NGBvJv0x3k/view?usp=sharing",
     "fbiIdentifier": "116-AFO",
@@ -5961,7 +5961,7 @@
     "arrestState": "MD",
     "associates": [],
     "caseIdentifier": "1:21-cr-51",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/betancur-bryan-aka-bryan-clooney-aka-maximo-clooney",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17286,7 +17286,7 @@
     "arrestState": "AZ",
     "associates": [],
     "caseIdentifier": "1:21-cr-232",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1400856/download",
     "fbiIdentifier": "326-AFO",
     "isLawEnforcement": false,
@@ -21278,7 +21278,7 @@
       "#AnthonyGriffith"
     ],
     "caseIdentifier": "1:21-cr-244",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -42504,7 +42504,7 @@
     "arrestState": "TN",
     "associates": [],
     "caseIdentifier": "1:21-cr-291",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/head-albuquerque-cosper",
     "compositeURL": "https://drive.google.com/file/d/1BR5LAyDP8EEqZ5rVmLxrVdrwYb9KB3zT/view?usp=sharing",
     "fbiIdentifier": "111-AFO",
