@@ -9201,6 +9201,32 @@
     "_id": "kFhmPrD4AuwM"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider210"
+    ],
+    "appearanceSummary": "White man wearing a black shirt, black jacket, red “Trump” hat, black mask and black jeans.",
+    "arrestDate": "2022-05-13T04:00:00.000Z",
+    "arrestState": "WI",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00103-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243144/gov.uscourts.dcd.243144.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1d7frFeObCq5mgcWdiOxrRrH1ZQv77LWK",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ConlinWeyer",
+    "profileLeads": [],
+    "realName": "WEYER, Conlin",
+    "_id": "GAaDI0XEIorA"
+  },
+  {
     "actionsSummary": "Part of a group of 12-14 Oath Keepers filmed entering the Capitol building in a stack formation.",
     "alternateHashtags": [
       "BarbieOK",
@@ -20515,6 +20541,33 @@
     "profileLeads": [],
     "realName": "UPTMORE, James Herman (aka \"Sonny\")",
     "_id": "EtrZz0e68gBM"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1178"
+    ],
+    "appearanceSummary": "White woman with long dark hair, wearing a dark-blue hooded sweatshirt with the phrase “Trump Girl” in white block lettering,\nand carrying an olive green backpack.",
+    "arrestDate": "2022-05-13T04:00:00.000Z",
+    "arrestState": "WV",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00101-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243142/gov.uscourts.dcd.243142.1.1_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1aZ6iJMoRaWiWVr0fFubbTsz74a-ChqLq",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "National Guard",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JamieFerguson",
+    "profileLeads": [],
+    "realName": "FERGUSON, Jamie Lynn",
+    "_id": "u4HpqLBF8iDk"
   },
   {
     "actionsSummary": "Entered Capitol, entered Senate Gallery",
