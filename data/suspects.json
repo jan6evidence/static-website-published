@@ -6857,6 +6857,26 @@
     "_id": "nBkVoU9iIlcM"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn both as part of a group and individually chest-to-chest (helmet #5786).",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with red(ish) hair and beard wearing a brown camo baseball cap with a flag on the right side of the brim, black puffer coat with a white North Face logo on the back of his right shoulder, black gloves and at times a dark blue facemask with white ear loops. Unusual ear with a folded over top.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1ua04cJUeYeMRy-9iva3erWQAue6oj4QU",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CamoFlagHat",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "6XSXTZcXwnp4"
+  },
+  {
     "actionsSummary": "Sprayed officers.",
     "alternateHashtags": [],
     "appearanceSummary": "Black knit cap with a blue crown that sits high in the middle. Blue horizontal stripes below the top. Dark hair. Camo gaiter. Black and gray scarf (possibly in a chequered keffiyeh pattern). Dark gray jacket. Camo gloves. Green backpack with a red square on the back with a red cross in the square. Blue jeans.",
@@ -16742,13 +16762,22 @@
     "_id": "p2MGf39qojpo"
   },
   {
-    "actionsSummary": "Urges people near police at NW path to push. Enters Capitol once door is breached, then moves to East door to assist in breach there.",
+    "actionsSummary": "Urges people near police at NW path to push. Shoves police on the NW Lawn. Enters Capitol once door is breached, then moves to East door to assist in breach there.",
     "alternateHashtags": [],
     "appearanceSummary": "Black or dark blue Trump beanie. Hunter's camouflage jacket. Green backpack. Carries bullhorn.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "GreenSidesPack",
     "profileLeads": [],
     "_id": "bkVQCTmIchHg"

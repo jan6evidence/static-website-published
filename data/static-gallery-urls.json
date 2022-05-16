@@ -13384,7 +13384,13 @@
       "thumbnailUrl": "https://archive.org/download/yF9Smpn8hRhirEsEh/yF9Smpn8hRhirEsEh.200px.jpg"
     }
   ],
-  "ConlinWeyer": [],
+  "ConlinWeyer": [
+    {
+      "mediaItemId": "cEiY2Fogosf6Cg4p5",
+      "archiveUrl": "https://archive.org/download/cEiY2Fogosf6Cg4p5/cEiY2Fogosf6Cg4p5.png",
+      "thumbnailUrl": "https://archive.org/download/cEiY2Fogosf6Cg4p5/cEiY2Fogosf6Cg4p5.200px.png"
+    }
+  ],
   "ConnieMeggs": [
     {
       "mediaItemId": "7WT4HKXPTaJDs54yr",
@@ -29175,7 +29181,13 @@
       "thumbnailUrl": "https://archive.org/download/GGmkqywdEYiymsrND/GGmkqywdEYiymsrND.200px.png"
     }
   ],
-  "JamieFerguson": [],
+  "JamieFerguson": [
+    {
+      "mediaItemId": "6CNdjabkTiaoyu4d2",
+      "archiveUrl": "https://archive.org/download/6CNdjabkTiaoyu4d2/6CNdjabkTiaoyu4d2.png",
+      "thumbnailUrl": "https://archive.org/download/6CNdjabkTiaoyu4d2/6CNdjabkTiaoyu4d2.200px.png"
+    }
+  ],
   "JanetBuhler": [
     {
       "mediaItemId": "7kfT2arFYJ2kupuwR",
