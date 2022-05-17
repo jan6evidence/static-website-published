@@ -10998,6 +10998,32 @@
     "_id": "Jls7xbJOcsjc"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2517"
+    ],
+    "appearanceSummary": "White man with a brown beard wearing a tan jacket or shirt, blue jeans and a blue baseball cap with sunglasses perched on top of his head",
+    "arrestDate": "2022-05-16T04:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00105-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243228/gov.uscourts.dcd.243228.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1b-pFVddj-pIz5t8D_Rh7g4Xci6athPKc",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DevinRossman",
+    "profileLeads": [],
+    "realName": "ROSSMAN, Devin Kiel",
+    "_id": "kQjyhtWxchXY"
+  },
+  {
     "actionsSummary": "Tries to wrestle barrier away from police on Upper West Plaza. Carries police barricade away. Cuts open tarp on NW scaffold with a sawzall.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with brown hair, pinkish hooded jacket with grey cuffs and grey and white plaid lining, brown pants and shoes, large watch on left wrist, tan backpack, red MAGA cap with 45 on right side. Radio mounted on backpack strap.",
@@ -11508,6 +11534,32 @@
     "profileLeads": [],
     "realName": "WANGLER, Douglas",
     "_id": "6Dk29UXhciTA"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2458"
+    ],
+    "appearanceSummary": "White man with a grey beard wearing a dark jacket with a navy blue and peanut/brown colored beanie carrying a black backpack.",
+    "arrestDate": "2022-05-16T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00106-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243232/gov.uscourts.dcd.243232.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1XO6PlJzx5c8y1XLTw04H9XsRuWznF_to",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DougMacrae",
+    "profileLeads": [],
+    "realName": "MACRAE, Doug",
+    "_id": "5MSXnjbIktvs"
   },
   {
     "actionsSummary": "Enters the Capitol via the broken windows in the NW Corridor.",
@@ -18603,7 +18655,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-29",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353881/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -43124,11 +43176,12 @@
     "_id": "8SWS2p9Osotk"
   },
   {
-    "actionsSummary": "Assume violent based on AFO.",
+    "actionsSummary": "Shoves police on NW Lawn.",
     "alternateHashtags": [],
-    "appearanceSummary": "Dark jacket with fabric lining. White face mask. Blue beanie with a logo involving a pistol in US flag colors.",
+    "appearanceSummary": "White man wearing a blue coat with a grey collar, a bright blue knit hat with a round logo that says \"Gun Owners For Trump - Protect the 2nd Amendment\" and a gun with a US flag pattern, dark grey pants, brown shoes and a white N95 mask and carrying a wood cane.",
     "associates": [],
     "fbiIdentifier": "388-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1xWraVWxRxbj2yc0dTB8as05uyeRJEgC-",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -43138,7 +43191,9 @@
       }
     ],
     "primaryHashtag": "WhippingCane",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "RXttxUqvMs5c"
   },
   {
