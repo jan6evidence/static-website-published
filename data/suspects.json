@@ -5618,6 +5618,35 @@
     "_id": "E78I0GKG4uRE"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider613"
+    ],
+    "appearanceSummary": "White man wearing a camouflage hat with \"TRUMP\" in white letters, a blue hoodie and a camouflage backpack.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [
+      "#LynnwoodNester",
+      "#MichaelPomeroy"
+    ],
+    "caseIdentifier": "1:22-mj-00046-MCC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22026781-a045b09b-2831-4f15-9ea1-a68b89f67859",
+    "filesUrl": "https://drive.google.com/drive/folders/1RHZN8y8jVb7kK1J6vEs5DA8hUxjulki5",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BrianKorte",
+    "profileLeads": [],
+    "realName": "KORTE, Brian",
+    "_id": "MOZub0F3AjNo"
+  },
+  {
     "actionsSummary": "Entered Capitol and was pictured inside the Crypt.",
     "alternateHashtags": [
       "Insider1650"
@@ -6110,7 +6139,16 @@
       "Insider1314"
     ],
     "appearanceSummary": "Red Trump knit cap. Short dark hair. Incipient beard and mustache. Dark eyebrows. Buffalo plaid (red and black) jacket over a black button-down shirt. Maybe a t-shirt beneath that.",
-    "associates": [],
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#BuffaloCheckMateGF",
+      "#TanCranKid",
+      "#CamoEveryman"
+    ],
+    "caseIdentifier": "3:22-cr-00417-SVH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1507571/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -6121,7 +6159,38 @@
     ],
     "primaryHashtag": "BuffaloCheckMate",
     "profileLeads": [],
+    "realName": "ROBINSON, Linwood Alan II",
     "_id": "w3Ck6LVvIhXs"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1313"
+    ],
+    "appearanceSummary": "White woman with dark hair wearing a black jacket, blue jeans, red knit TRUMP hat, facemask and white backpack with a blue tie-dye pattern.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#BuffaloCheckMate",
+      "#TanCranKid",
+      "#CamoEveryman"
+    ],
+    "caseIdentifier": "3:22-cr-00417-SVH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1507571/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1HjZhP73CF7l8FY97EvEpOPAz5d3FuQH8",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BuffaloCheckMateGF",
+    "profileLeads": [],
+    "realName": "ROBINSON, Brittany Nicole",
+    "_id": "nn3vrREx8h5Y"
   },
   {
     "actionsSummary": "Seen with other Idaho PBs, marched in with them, seems to hang out at perimeter of Capitol grounds",
@@ -6843,7 +6912,16 @@
       "Insider0473"
     ],
     "appearanceSummary": "Short, dark hair, and an open forehead. Eyebrows angle in toward his nose. Light blue surgical mask. Hooded camo jacket over a light brown shirt.",
-    "associates": [],
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#BuffaloCheckMate",
+      "#BuffaloCheckMateGF",
+      "#TanCranKid"
+    ],
+    "caseIdentifier": "3:22-cr-00417-SVH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1507571/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -6854,6 +6932,7 @@
     ],
     "primaryHashtag": "CamoEveryman",
     "profileLeads": [],
+    "realName": "ROBINSON, Linwood Sr.",
     "_id": "nBkVoU9iIlcM"
   },
   {
@@ -7681,18 +7760,24 @@
     "_id": "tekhC6DckuH8"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1651"
     ],
     "arrestDate": "2022-03-16T04:00:00.000Z",
     "arrestState": "PA",
     "associates": [],
-    "caseIdentifier": "1:22-cr-87",
+    "caseIdentifier": "1:22-cr-00087-BAH",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1487176/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "CarsonLucard",
     "profileLeads": [],
     "realName": "LUCARD, Carson",
@@ -7833,6 +7918,34 @@
     "profileLeads": [],
     "realName": "JONES, Chad Barrett",
     "_id": "ZAD80K2Hos1U"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider533"
+    ],
+    "appearanceSummary": "White man wearing a red “Trump\n2020 - Keep America Great” baseball hat, grey and black face covering, black rim glasses, green hooded sweatshirt, grey jacket, and a backpack with black straps.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#DaveJohnston"
+    ],
+    "caseIdentifier": "1:22-mj-00109-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243357/gov.uscourts.dcd.243357.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/13UknhbQxFmkpvDcHbJqOKsrigN3PhOAj",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ChadClifton",
+    "profileLeads": [],
+    "realName": "CLIFTON, Chad Gordon",
+    "_id": "xll3ol2Hcrzs"
   },
   {
     "actionsSummary": "Inside Capitol.",
@@ -8158,7 +8271,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-157",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1367791/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -10473,6 +10586,32 @@
     "_id": "tgH2SJDoQjR8"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing metal rimmed glasses, a blue winter cap with white and red trim and embroidered with a circular “45” logo and the word TRUMP, dark colored winter jacket with The North Face logo on the front right chest, and yellow gloves.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#ChadClifton"
+    ],
+    "caseIdentifier": "1:22-mj-00109-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243357/gov.uscourts.dcd.243357.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/188p2tFkMEbtn0E40nqvZ3goCIqf2xYW7",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DavidJohnston",
+    "profileLeads": [],
+    "realName": "JOHNSTON, David Charles \"Dave\"",
+    "_id": "d304kk2owtD0"
+  },
+  {
     "actionsSummary": "His criminal complaint shoes him entering the Capitol Building through the NW door, near S-139.",
     "alternateHashtags": [
       "Insider1815"
@@ -11576,7 +11715,7 @@
     ],
     "primaryHashtag": "DougMacrae",
     "profileLeads": [],
-    "realName": "MACRAE, Doug",
+    "realName": "MACRAE, Douglas Farquhar \"Doug\"",
     "_id": "5MSXnjbIktvs"
   },
   {
@@ -14251,18 +14390,24 @@
     "_id": "Wd98x8PWghNA"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1571"
     ],
     "arrestDate": "2022-01-03T05:00:00.000Z",
     "arrestState": "NY",
     "associates": [],
-    "caseIdentifier": "1:22-mj-00002",
+    "caseIdentifier": "1:22-mj-00002-GMH",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1481246/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "FrankGiustino",
     "profileLeads": [],
     "realName": "GUISTINO, Frank R",
@@ -21067,21 +21212,27 @@
     "_id": "WX3QragwQukw"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1206"
     ],
     "arrestDate": "2022-03-11T05:00:00.000Z",
     "arrestState": "IN",
     "associates": [],
-    "caseIdentifier": "1:22-mj-62",
+    "caseIdentifier": "1:22-mj-00062-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1487226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "JeffreyMunger",
     "profileLeads": [],
-    "realName": "MUNGER, Jeffrey",
+    "realName": "MUNGER, Jeffrey L.",
     "_id": "XJGckVZH8vSQ"
   },
   {
@@ -25493,6 +25644,35 @@
     "_id": "M5NnuxLKwvzo"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1943"
+    ],
+    "appearanceSummary": "White man with grey/light brown hair and mustache wearing a dark hoodie with an American flag on the sleeve and carrying a light brown walking cane.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [
+      "#BrianKorte",
+      "#MichaelPomeroy"
+    ],
+    "caseIdentifier": "1:22-mj-00046-MCC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22026781-a045b09b-2831-4f15-9ea1-a68b89f67859",
+    "filesUrl": "https://drive.google.com/drive/folders/1vvEbWJUcBuhIH99-UAfCmlAKTCw4pSAW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LynnwoodNester",
+    "profileLeads": [],
+    "realName": "NESTER, Lynnwood",
+    "_id": "rXgnuQ-KkvLY"
+  },
+  {
     "actionsSummary": "Struck an officer at the barricades then attempted to take his shield away. Inside Capitol.",
     "alternateHashtags": [
       "Insider0056"
@@ -27593,6 +27773,33 @@
     "_id": "WyYZmp4q0s2Q"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black Pittsburgh Steelers baseball cap, and American flag scarf and a black PA hoodie under a dark vest.",
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [
+      "#LynnwoodNester",
+      "#BrianKorte"
+    ],
+    "caseIdentifier": "1:22-mj-00046-MCC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22026781-a045b09b-2831-4f15-9ea1-a68b89f67859",
+    "filesUrl": "https://drive.google.com/drive/folders/1SmpbzdBTsp3EgM69v8Vptr-ZdSLUps4y",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MichaelPomeroy",
+    "profileLeads": [],
+    "realName": "POMEROY, Michael",
+    "_id": "Tof5IwYfspfs"
+  },
+  {
     "actionsSummary": "Pictured inside the Capitol with his brother (William Pope).",
     "alternateHashtags": [
       "Insider1648"
@@ -27793,7 +28000,7 @@
     "arrestState": "TN",
     "associates": [],
     "caseIdentifier": "1:21-cr-361",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1388356/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34325,16 +34532,22 @@
     "_id": "R1h6wtjJYgUI"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
     "arrestDate": "2022-02-14T05:00:00.000Z",
     "arrestState": "KY",
     "associates": [],
-    "caseIdentifier": "22-cr-51",
+    "caseIdentifier": "1:22-cr-00051-TNM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1496536/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "RevaVincent",
     "profileLeads": [],
     "realName": "VINCENT, Reva",
@@ -39410,7 +39623,16 @@
       "Insider1311"
     ],
     "appearanceSummary": "Younger male. Dark hair and clean shaven. Cranberry colored hoodie. Tan coat with a hood.",
-    "associates": [],
+    "arrestDate": "2022-05-20T04:00:00.000Z",
+    "arrestState": "SC",
+    "associates": [
+      "#BuffaloCheckMate",
+      "#BuffaloCheckMateGF",
+      "#CamoEveryman"
+    ],
+    "caseIdentifier": "3:22-cr-00417-SVH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1507571/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -39421,6 +39643,7 @@
     ],
     "primaryHashtag": "TanCranKid",
     "profileLeads": [],
+    "realName": "ROBINSON, Benjamin Scott",
     "_id": "kJ_f2IGmwr7c"
   },
   {
