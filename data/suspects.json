@@ -19658,7 +19658,7 @@
     "arrestState": "ID",
     "associates": [],
     "caseIdentifier": "1:21-mj-551",
-    "caseStatus": "Charged",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.documentcloud.org/documents/21034453-pam-hemphill",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
@@ -42744,15 +42744,28 @@
     "_id": "wkLvhNk3gtZI"
   },
   {
-    "actionsSummary": "Enters the Capitol through a W Terrace window and breaks a table. Violence not seen on video",
+    "actionsSummary": "Throws a flagpole on the Upper West Plaza which strikes an LEO. Throws smoke grenade back at police on the Upper West Plaza. Tries to yank a bike rack away from police. Assaults a member of the press. Enters the Capitol through a W Terrace window and breaks a table.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo jacket with yellow on front, potentially antlers or wings. Blue ball cap with white writing.",
+    "arrestDate": "2022-05-24T04:00:00.000Z",
+    "arrestState": "MD",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00112",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download",
     "compositeURL": "https://drive.google.com/file/d/138FoF1n-RcbPXpvp9jB3VrpcwIAAHSzT/view?usp=sharing",
     "fbiIdentifier": "156-AFO&AOM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "ProudBoysNortheast"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -42760,6 +42773,7 @@
     ],
     "primaryHashtag": "UnderArmourDarkShades",
     "profileLeads": [],
+    "realName": "MILSTREED, Rodney Kenneth",
     "_id": "_kDUSF3dAnOE"
   },
   {
