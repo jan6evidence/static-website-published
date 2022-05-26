@@ -23311,6 +23311,32 @@
     "_id": "jSJ8yb-Uoiig"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2064"
+    ],
+    "appearanceSummary": "White woman with light brown hair wearing a light blue fuzzy coat and a white baseball cap with a blue brim, \"USA\" on the front and a US flag on the right side.",
+    "arrestDate": "2022-05-25T04:00:00.000Z",
+    "associates": [
+      "#TomBostic",
+      "#MeghanRutledge"
+    ],
+    "caseIdentifier": "1:22-mj-00116-RMM",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1x-aZuam6jC6GleSYkENqV9oQ6fcskSVc",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KareganBostic",
+    "profileLeads": [],
+    "_id": "9O4PmETq8sBs"
+  },
+  {
     "actionsSummary": "Entered the Capitol via a window on the NW Courtyard.",
     "alternateHashtags": [
       "Insider0967"
@@ -27372,7 +27398,8 @@
     "arrestDate": "2021-10-14T04:00:00.000Z",
     "arrestState": "VA",
     "associates": [
-      "#TomBostic"
+      "#TomBostic",
+      "#KareganBostic"
     ],
     "caseIdentifier": "1:21-mj-00625-ZMF",
     "caseStatus": "Arrested",
@@ -28381,6 +28408,23 @@
     "primaryHashtag": "MolonSmash",
     "profileLeads": [],
     "_id": "B_QXjJeeYnFs"
+  },
+  {
+    "actionsSummary": "Marched with Proud Boys. Seen on upper terrace.",
+    "alternateHashtags": [],
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1Hu-0o84cnycMj0ZQ366S1nmZMZIKzgN4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      }
+    ],
+    "primaryHashtag": "MonsterMaskPB",
+    "profileLeads": [],
+    "_id": "bl6hbKlIsnCM"
   },
   {
     "actionsSummary": "Attacks police line on the West plaza.",
@@ -41354,7 +41398,8 @@
     "arrestDate": "2021-10-14T04:00:00.000Z",
     "arrestState": "VA",
     "associates": [
-      "#MeghanRutledge"
+      "#MeghanRutledge",
+      "#KareganBostic"
     ],
     "caseIdentifier": "1:21-mj-00625-ZMF",
     "caseStatus": "Arrested",
