@@ -5312,6 +5312,34 @@
     "_id": "uG_XmZsm4vZQ"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1512"
+    ],
+    "appearanceSummary": "White man with white hair and mustache wearing glasses and a grey coat over a red and white plaid button down shirt.",
+    "arrestDate": "2022-05-25T04:00:00.000Z",
+    "arrestState": "UT",
+    "associates": [
+      "#MatthewBokoski"
+    ],
+    "caseIdentifier": "1:22-mj-00108-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243355/gov.uscourts.dcd.243355.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Az1gn0AR7v87pE0RPD5u1PCbYPyAmQ-0",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BradleyBokoski",
+    "profileLeads": [],
+    "realName": "BOKOSKI, Bradley",
+    "_id": "if-x5xMhgqqY"
+  },
+  {
     "actionsSummary": "Arrested on scene",
     "alternateHashtags": [
       "Insider1754"
@@ -8219,7 +8247,7 @@
       "#BenjaminLarocca"
     ],
     "caseIdentifier": "1:21-cr-317",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1386226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -23315,8 +23343,9 @@
     "alternateHashtags": [
       "Insider2064"
     ],
-    "appearanceSummary": "White woman with light brown hair wearing a light blue fuzzy coat and a white baseball cap with a blue brim, \"USA\" on the front and a US flag on the right side.",
+    "appearanceSummary": "White woman with light brown hair wearing a light blue fuzzy collared 1/4 zip pullover and a tan baseball cap with a blue brim, \"USA\" on the front and a US flag on the right side.",
     "arrestDate": "2022-05-25T04:00:00.000Z",
+    "arrestState": "VA",
     "associates": [
       "#TomBostic",
       "#MeghanRutledge"
@@ -26993,6 +27022,34 @@
     "profileLeads": [],
     "realName": "CLARK, Matthew",
     "_id": "nsVa9N3LYrL4"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1510"
+    ],
+    "appearanceSummary": "White man with tinted glasses wearing a red and blue “TRUMP 2020” flag on his back and a red and blue knit cap with a pom-pom on top.",
+    "arrestDate": "2022-05-25T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#BradleyBokoski"
+    ],
+    "caseIdentifier": "1:22-mj-00108-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243355/gov.uscourts.dcd.243355.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1-2PNPm8_g8dLDC9ZIZIcxoObYjpx4klp",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MatthewBokoski",
+    "profileLeads": [],
+    "realName": "BOKOSKI, Matthew Ryan",
+    "_id": "VDD_u-YS0muY"
   },
   {
     "actionsSummary": "Entered capitol through Senate Wing window, visited Crypt. Participates in chant of 'Stop The Steal'",
