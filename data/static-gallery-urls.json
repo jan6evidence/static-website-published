@@ -8363,7 +8363,13 @@
       "thumbnailUrl": "https://archive.org/download/NW3T7vjgfh2To94ey/NW3T7vjgfh2To94ey.200px.png"
     }
   ],
-  "BradleyBokoski": [],
+  "BradleyBokoski": [
+    {
+      "mediaItemId": "kttCLRuKB9o2yppYf",
+      "archiveUrl": "https://archive.org/download/kttCLRuKB9o2yppYf/kttCLRuKB9o2yppYf.png",
+      "thumbnailUrl": "https://archive.org/download/kttCLRuKB9o2yppYf/kttCLRuKB9o2yppYf.200px.png"
+    }
+  ],
   "BradleyRukstales": [
     {
       "mediaItemId": "6rbjrwd9GYQWmSfrJ",
@@ -31430,7 +31436,13 @@
       "thumbnailUrl": "https://archive.org/download/zz8WWyvx8tAHtdpB9/zz8WWyvx8tAHtdpB9.200px.png"
     }
   ],
-  "KareganBostic": [],
+  "KareganBostic": [
+    {
+      "mediaItemId": "Lro6E7zErxwJuFXjP",
+      "archiveUrl": "https://archive.org/download/Lro6E7zErxwJuFXjP/Lro6E7zErxwJuFXjP.png",
+      "thumbnailUrl": "https://archive.org/download/Lro6E7zErxwJuFXjP/Lro6E7zErxwJuFXjP.200px.png"
+    }
+  ],
   "KariKelley": [
     {
       "mediaItemId": "WSF9DBTz92Aat7gvY",
@@ -35813,7 +35825,13 @@
       "thumbnailUrl": "https://archive.org/download/xoR3rJB6i3xgHFBvA/xoR3rJB6i3xgHFBvA.200px.png"
     }
   ],
-  "MatthewBokoski": [],
+  "MatthewBokoski": [
+    {
+      "mediaItemId": "YKcHkwZEjA4rm3e4b",
+      "archiveUrl": "https://archive.org/download/YKcHkwZEjA4rm3e4b/YKcHkwZEjA4rm3e4b.png",
+      "thumbnailUrl": "https://archive.org/download/YKcHkwZEjA4rm3e4b/YKcHkwZEjA4rm3e4b.200px.png"
+    }
+  ],
   "MatthewBuckler": [
     {
       "mediaItemId": "GB2MBwmJQq7Trj3Kd",
