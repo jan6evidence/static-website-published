@@ -16558,6 +16558,11 @@
       "mediaItemId": "RmyN5zkdreW3qvMB7",
       "archiveUrl": "https://archive.org/download/RmyN5zkdreW3qvMB7/RmyN5zkdreW3qvMB7.png",
       "thumbnailUrl": "https://archive.org/download/RmyN5zkdreW3qvMB7/RmyN5zkdreW3qvMB7.200px.png"
+    },
+    {
+      "mediaItemId": "sx2hjzbK2GEdx8qHA",
+      "archiveUrl": "https://archive.org/download/sx2hjzbK2GEdx8qHA/sx2hjzbK2GEdx8qHA.jpeg",
+      "thumbnailUrl": "https://archive.org/download/sx2hjzbK2GEdx8qHA/sx2hjzbK2GEdx8qHA.200px.jpeg"
     }
   ],
   "EdBadalian": [
@@ -37318,7 +37323,23 @@
       "thumbnailUrl": "https://archive.org/download/zqyYThc2Nm4uhqy9Y/zqyYThc2Nm4uhqy9Y.200px.png"
     }
   ],
-  "MonsterMaskPB": [],
+  "MonsterMaskPB": [
+    {
+      "mediaItemId": "bWPqwnuKeKumkJzvM",
+      "archiveUrl": "https://archive.org/download/bWPqwnuKeKumkJzvM/bWPqwnuKeKumkJzvM.jpg",
+      "thumbnailUrl": "https://archive.org/download/bWPqwnuKeKumkJzvM/bWPqwnuKeKumkJzvM.200px.jpg"
+    },
+    {
+      "mediaItemId": "hjxZRJYb4YFtinzw5",
+      "archiveUrl": "https://archive.org/download/hjxZRJYb4YFtinzw5/hjxZRJYb4YFtinzw5.png",
+      "thumbnailUrl": "https://archive.org/download/hjxZRJYb4YFtinzw5/hjxZRJYb4YFtinzw5.200px.png"
+    },
+    {
+      "mediaItemId": "j34hT9zEb6mLqLCDQ",
+      "archiveUrl": "https://archive.org/download/j34hT9zEb6mLqLCDQ/j34hT9zEb6mLqLCDQ.png",
+      "thumbnailUrl": "https://archive.org/download/j34hT9zEb6mLqLCDQ/j34hT9zEb6mLqLCDQ.200px.png"
+    }
+  ],
   "MonsterSanta": [
     {
       "mediaItemId": "6JZrYK6wdor7aDfsf",
