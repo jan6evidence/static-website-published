@@ -7545,7 +7545,12 @@
       "Insider1743"
     ],
     "appearanceSummary": "Red Trump knit hat with a pom-pom on top and \"45\" in a circle at the front. Dark beard and mustache. Dark clothing. Does not rock or have high fidelity.",
+    "arrestDate": "2022-05-29T04:00:00.000Z",
+    "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "5:22-mj-01122-AMK",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287962/gov.uscourts.ohnd.287962.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -7556,6 +7561,7 @@
     ],
     "primaryHashtag": "CapJackBlack",
     "profileLeads": [],
+    "realName": "STEINER, Devin",
     "_id": "8SvQUOBmovLI"
   },
   {
@@ -17678,6 +17684,31 @@
     "primaryHashtag": "GreyTropicsPB",
     "profileLeads": [],
     "_id": "oD5i242ZAk0s"
+  },
+  {
+    "alternateHashtags": [
+      "Insider2708"
+    ],
+    "arrestDate": "2022-05-26T04:00:00.000Z",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-00171-JMC",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/188KmWH4eZqNs9IuxkyK8EZUVpVBEarF4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GreyTrumpSprayer",
+    "profileLeads": [],
+    "_id": "lBnjFvtzYvOY"
   },
   {
     "actionsSummary": "Must have been violent since made the MPD Wanted list",
