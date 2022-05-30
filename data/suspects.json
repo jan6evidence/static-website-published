@@ -219,6 +219,34 @@
     "_id": "GcVpFX9xMoDA"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider0459"
+    ],
+    "appearanceSummary": "White man with a brown mustache wearing a black jacket, a dark colored backpack and a cowboy hat with an American flag printed on the top.",
+    "arrestDate": "2022-05-29T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [
+      "#CapJackBlack"
+    ],
+    "caseIdentifier": "5:22-mj-01122-AMK",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287962/gov.uscourts.ohnd.287962.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/188KmWH4eZqNs9IuxkyK8EZUVpVBEarF4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "AdamMiller",
+    "profileLeads": [],
+    "realName": "MILLER, Adam",
+    "_id": "vOB4kpsnYicI"
+  },
+  {
     "actionsSummary": "Traveled to DC with his wife. Was captured on video by the New Yorker inside the Capitol building and engaging with a USCP oficer in the Rotunda lobby. Is among the crowd in the Rotunda and in the Old Senate Wing.",
     "alternateHashtags": [
       "Insider1819"
@@ -7547,7 +7575,9 @@
     "appearanceSummary": "Red Trump knit hat with a pom-pom on top and \"45\" in a circle at the front. Dark beard and mustache. Dark clothing. Does not rock or have high fidelity.",
     "arrestDate": "2022-05-29T04:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#AdamMiller"
+    ],
     "caseIdentifier": "5:22-mj-01122-AMK",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287962/gov.uscourts.ohnd.287962.1.1.pdf",
@@ -17112,7 +17142,7 @@
     "_id": "B5W-ZEnnQiKM"
   },
   {
-    "actionsSummary": "Posted video of himself inside the Capitol on Snapchat, including video of himself smoking a joint.",
+    "actionsSummary": "Chased Officer Goodman inside Capitol. Pushed against police line. Posted video of himself inside the Capitol on Snapchat, including video of himself smoking a joint.",
     "alternateHashtags": [
       "Insider1339"
     ],
@@ -17121,7 +17151,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-193",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Greg%20Rubenacker%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17684,31 +17714,6 @@
     "primaryHashtag": "GreyTropicsPB",
     "profileLeads": [],
     "_id": "oD5i242ZAk0s"
-  },
-  {
-    "alternateHashtags": [
-      "Insider2708"
-    ],
-    "arrestDate": "2022-05-26T04:00:00.000Z",
-    "associates": [],
-    "caseIdentifier": "1:22-cr-00171-JMC",
-    "caseStatus": "Arrested",
-    "filesUrl": "https://drive.google.com/drive/folders/188KmWH4eZqNs9IuxkyK8EZUVpVBEarF4",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      },
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "GreyTrumpSprayer",
-    "profileLeads": [],
-    "_id": "lBnjFvtzYvOY"
   },
   {
     "actionsSummary": "Must have been violent since made the MPD Wanted list",
@@ -25156,6 +25161,32 @@
     "_id": "HryFhIjC0l00"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider0809"
+    ],
+    "appearanceSummary": "Man with a brown buzzcut wearing a blue hoodie and dark pants.",
+    "arrestDate": "2022-05-26T04:00:00.000Z",
+    "arrestState": "OK",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-00189-JMC",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1509011/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1_69tBWarATZjOvRG7PwoD0UX3mlKQLk4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LeviGable",
+    "profileLeads": [],
+    "realName": "GABLE, Levi",
+    "_id": "9BpnDuGokv2w"
+  },
+  {
     "actionsSummary": "Observed in Capitol. May have chatted with #RedPlaidPylonThrower, but interaction unclear. Recorded climbing out of a Capitol window and into the NW Courtyard area. Recorded using a cell phone (possibly twice) inside the Capitol.",
     "alternateHashtags": [
       "Insider1566"
@@ -25482,7 +25513,7 @@
     "arrestState": "NC",
     "associates": [],
     "caseIdentifier": "1:21-cr-223",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1379546/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -40531,6 +40562,32 @@
     "_id": "L_pEhdZmwmJY"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1920"
+    ],
+    "appearanceSummary": "Man with long brown hair and beard wearing a red “Keep America Great” hat, a blue bandana or face gaiter, and a beige plaid jacket.",
+    "arrestDate": "2022-05-27T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00115-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243596/gov.uscourts.dcd.243596.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/14bBttbkXBIpqYJAg6yOFd5IjpVRARd9j",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ThaddisJohnson",
+    "profileLeads": [],
+    "realName": "JOHNSON. Thaddis Derone Jr. \"T.J.\"",
+    "_id": "Q_TwWQU-Mh2E"
+  },
+  {
     "actionsSummary": "Shown on video on the West Plaza.",
     "alternateHashtags": [
       "QuietGiantPB"
@@ -41335,7 +41392,7 @@
     "arrestState": "NJ",
     "associates": [],
     "caseIdentifier": "1:21-cr-37",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1356066/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
