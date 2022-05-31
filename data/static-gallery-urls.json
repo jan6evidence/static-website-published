@@ -353,7 +353,13 @@
       "thumbnailUrl": "https://archive.org/download/xMYSi3LpYhePLNMxR/xMYSi3LpYhePLNMxR.200px.jpg"
     }
   ],
-  "AdamMiller": [],
+  "AdamMiller": [
+    {
+      "mediaItemId": "PzncjmDgRFnLioE6o",
+      "archiveUrl": "https://archive.org/download/PzncjmDgRFnLioE6o/PzncjmDgRFnLioE6o.png",
+      "thumbnailUrl": "https://archive.org/download/PzncjmDgRFnLioE6o/PzncjmDgRFnLioE6o.200px.png"
+    }
+  ],
   "AdamWeibling": [
     {
       "mediaItemId": "2sX7wzPMtD8PRjZX5",
@@ -33357,7 +33363,13 @@
       "thumbnailUrl": "https://archive.org/download/BkfMuQJQghsJHrP7r/BkfMuQJQghsJHrP7r.200px.jpg"
     }
   ],
-  "LeviGable": [],
+  "LeviGable": [
+    {
+      "mediaItemId": "SDaPdTdDuMv7G5CLg",
+      "archiveUrl": "https://archive.org/download/SDaPdTdDuMv7G5CLg/SDaPdTdDuMv7G5CLg.png",
+      "thumbnailUrl": "https://archive.org/download/SDaPdTdDuMv7G5CLg/SDaPdTdDuMv7G5CLg.200px.png"
+    }
+  ],
   "LionManeInsider": [
     {
       "mediaItemId": "78jfw94PRwzwvKENc",
@@ -54590,7 +54602,13 @@
       "thumbnailUrl": "https://archive.org/download/zaGg5GA3oywacxobr/zaGg5GA3oywacxobr.200px.jpeg"
     }
   ],
-  "ThaddisJohnson﻿": [],
+  "ThaddisJohnson﻿": [
+    {
+      "mediaItemId": "je9ymTiwzmEtyFuKC",
+      "archiveUrl": "https://archive.org/download/je9ymTiwzmEtyFuKC/je9ymTiwzmEtyFuKC.png",
+      "thumbnailUrl": "https://archive.org/download/je9ymTiwzmEtyFuKC/je9ymTiwzmEtyFuKC.200px.png"
+    }
+  ],
   "ThanosPB": [
     {
       "mediaItemId": "6Xb2TxtM6kiJ8Z7tg",
