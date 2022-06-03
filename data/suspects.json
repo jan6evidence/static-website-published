@@ -2704,6 +2704,10 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
       }
     ],
     "primaryHashtag": "BeardedPlaidGoggles",
@@ -23085,6 +23089,32 @@
     "profileLeads": [],
     "realName": "COLT, Josiah",
     "_id": "wnTYyVdM8jY8"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1370"
+    ],
+    "appearanceSummary": "White man with dark hair wearing a dark vest over a light hoodie, a red MAGA baseball cap and a black backpack.",
+    "arrestDate": "2022-06-01T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00111-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243405/gov.uscourts.dcd.243405.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1EVj9lfwGIB6MSOqz5rEmTWGaD3hCs9CC",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JosiahHueso",
+    "profileLeads": [],
+    "realName": "HUESO, Josiah Pablo",
+    "_id": "k0JCVauS0t0U"
   },
   {
     "actionsSummary": "Entered Capitol building and was photographed in the Crypt",
