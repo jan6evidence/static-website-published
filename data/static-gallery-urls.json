@@ -31143,7 +31143,13 @@
       "thumbnailUrl": "https://archive.org/download/fvZ7cGEhLS5JfbqMW/fvZ7cGEhLS5JfbqMW.200px.jpg"
     }
   ],
-  "JosiahHueso": [],
+  "JosiahHueso": [
+    {
+      "mediaItemId": "A2TQKt5J8RMchqWY4",
+      "archiveUrl": "https://archive.org/download/A2TQKt5J8RMchqWY4/A2TQKt5J8RMchqWY4.png",
+      "thumbnailUrl": "https://archive.org/download/A2TQKt5J8RMchqWY4/A2TQKt5J8RMchqWY4.200px.png"
+    }
+  ],
   "JuanBibiano": [
     {
       "mediaItemId": "9tkDsr5zx8mJompSc",
