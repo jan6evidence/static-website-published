@@ -18170,6 +18170,7 @@
       "#BabyFaceInsider",
       "#MatthewPurdy"
     ],
+    "fbiIdentifier": "532-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1kv9altNxMBhRXM0MES67d2VEpl1TZpj5",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -31647,7 +31648,11 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Blue/gray knit cap. Black, full beard and mustache. Might have a black mask around his neck. Gray hoodie that says \"Washington State\" in red letters on the front above the WSU Cougars logo.",
+    "arrestDate": "2022-06-03T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1510311/download",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -31659,6 +31664,7 @@
     ],
     "primaryHashtag": "PavarottiPB",
     "profileLeads": [],
+    "realName": "BRETT, James IV",
     "_id": "9gPDZAFOklU4"
   },
   {
@@ -39098,7 +39104,11 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Black sweatshirt with 1776 on the front. Black leather coat. Army green lacrosse gloves. Dark ball cap. Dark sunglasses with light colored frames. Clean shaven.",
+    "arrestDate": "2022-06-03T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1510311/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -39109,6 +39119,7 @@
     ],
     "primaryHashtag": "StuporHeroPB",
     "profileLeads": [],
+    "realName": "BOELE, Brian",
     "_id": "HhqAucBa8gR8"
   },
   {
