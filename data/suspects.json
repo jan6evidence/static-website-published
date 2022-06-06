@@ -24181,6 +24181,29 @@
     "_id": "4k1mXx6_kuwA"
   },
   {
+    "actionsSummary": "Talking on a handheld radio inside the Capitol building.",
+    "alternateHashtags": [
+      "Insider2248"
+    ],
+    "appearanceSummary": "White woman wearing a red hoodie, green pants, grey gym shoes, black jacket, black backpack and black hat.",
+    "arrestDate": "2022-06-02T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#TrudyCastle"
+    ],
+    "caseIdentifier": "1:22-mj-00121-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22050200-ddc_1_22-mj-00121-rmm_1_1",
+    "filesUrl": "https://drive.google.com/drive/folders/1FLkBvCmBuEKCB5xZkL6G-wxJ1E3-d02X",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "KimberlyDiFrancesco",
+    "profileLeads": [],
+    "realName": "DIFRANCESCO, Kimberly",
+    "_id": "l6K8BgEzcizY"
+  },
+  {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
       "Insider1048"
@@ -42248,6 +42271,29 @@
     "profileLeads": [],
     "realName": "WILLIAMS, Troy Dylan",
     "_id": "pX7Fa4F-ctzs"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1584"
+    ],
+    "appearanceSummary": "White woman wearing a white jacket, dark pants and a RWB knit \"Trump\" hat with a pom pom carrying several small US flags and a black purse.",
+    "arrestDate": "2022-06-02T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#KimberlyDiFrancesco"
+    ],
+    "caseIdentifier": "1:22-mj-00121-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22050200-ddc_1_22-mj-00121-rmm_1_1",
+    "filesUrl": "https://drive.google.com/drive/folders/1Z68_QBx5kaS2UCsTj3yCVKNxug0kxshq",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "TrudyCastle",
+    "profileLeads": [],
+    "realName": "CASTLE, Trudy",
+    "_id": "iGScfX3HAkSo"
   },
   {
     "actionsSummary": "Designated violent based on AFO. FBI BOLO photos show him pushing at a police barricade. Also seen standing on a car on the East side of the Capitol.",
