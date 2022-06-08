@@ -26566,6 +26566,7 @@
       "thumbnailUrl": "https://archive.org/download/ziCrxHmwkXKyu9hxC/ziCrxHmwkXKyu9hxC.200px.jpeg"
     }
   ],
+  "IAmBobIde": [],
   "IAmBrysonGray": [
     {
       "mediaItemId": "EdoFTkYprijDcdAsc",
@@ -26928,6 +26929,7 @@
       "thumbnailUrl": "https://archive.org/download/sygzeKaP6ELTzywRC/sygzeKaP6ELTzywRC.200px.jpg"
     }
   ],
+  "IAmFrankEathorne": [],
   "IAmFrankScavo": [
     {
       "mediaItemId": "RA23ZXpsB8riYcJym",
@@ -32186,6 +32188,13 @@
       "mediaItemId": "mMKgBvp3ERP9S9Zrt",
       "archiveUrl": "https://archive.org/download/mMKgBvp3ERP9S9Zrt/mMKgBvp3ERP9S9Zrt.png",
       "thumbnailUrl": "https://archive.org/download/mMKgBvp3ERP9S9Zrt/mMKgBvp3ERP9S9Zrt.200px.png"
+    }
+  ],
+  "KimberlyDiFrancesco": [
+    {
+      "mediaItemId": "HrntmHH8idcrirMeZ",
+      "archiveUrl": "https://archive.org/download/HrntmHH8idcrirMeZ/HrntmHH8idcrirMeZ.png",
+      "thumbnailUrl": "https://archive.org/download/HrntmHH8idcrirMeZ/HrntmHH8idcrirMeZ.200px.png"
     }
   ],
   "KimberlyWargo": [
@@ -57056,6 +57065,13 @@
       "mediaItemId": "7PL87j3vPhYzkdqhM",
       "archiveUrl": "https://archive.org/download/7PL87j3vPhYzkdqhM/7PL87j3vPhYzkdqhM.jpg",
       "thumbnailUrl": "https://archive.org/download/7PL87j3vPhYzkdqhM/7PL87j3vPhYzkdqhM.200px.jpg"
+    }
+  ],
+  "TrudyCastle": [
+    {
+      "mediaItemId": "DrjmdEM9ZEzZ5FyTZ",
+      "archiveUrl": "https://archive.org/download/DrjmdEM9ZEzZ5FyTZ/DrjmdEM9ZEzZ5FyTZ.png",
+      "thumbnailUrl": "https://archive.org/download/DrjmdEM9ZEzZ5FyTZ/DrjmdEM9ZEzZ5FyTZ.200px.png"
     }
   ],
   "TrumpGoneGirl": [
