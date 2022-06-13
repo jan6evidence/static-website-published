@@ -26405,14 +26405,18 @@
     "_id": "0J5vporqEgXw"
   },
   {
-    "actionsSummary": "Shoves police on NW Lawn.",
+    "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
     "alternateHashtags": [],
-    "appearanceSummary": "Bald white man with brown facial hair wearing a red MAGA baseball cap, a ballistic vest over a blue hoodie with white writing on the front and sunglasses.",
+    "appearanceSummary": "Bald white man with brown facial hair wearing a red MAGA baseball cap, a vest over a blue hoodie with \"Donald Trump Matters\" in yellow on the front and sunglasses.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1JAI0vm960_C1cD8SDBhRMcr-KuWBd_bu",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -32618,7 +32622,9 @@
   },
   {
     "actionsSummary": "Fights police with a baton and sprays police at the Lower West Terrace Tunnel.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "DamnAnotherPlaidSprayer"
+    ],
     "appearanceSummary": "White man with blonde hair wearing a blue plaid shirt, olive green backpack, black gloves and gasmask.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1TYsdCSyrrcQBmui6WFoQAhlmXxw10DxY",
@@ -33449,7 +33455,7 @@
     "_id": "JPybHH9h0mMI"
   },
   {
-    "actionsSummary": "Shoves police across NW Lawn. Inside Capitol.",
+    "actionsSummary": "Shoves police across NW Lawn. Shoves police on NW Steps. Inside Capitol.",
     "alternateHashtags": [
       "Insider0467"
     ],
