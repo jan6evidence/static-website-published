@@ -219,6 +219,32 @@
     "_id": "GcVpFX9xMoDA"
   },
   {
+    "actionsSummary": "Threw a pylon at police in the Tunnel on the Lower West Terrace, then charged police line with a police shield.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and facial hair wearing a baseball cap that is dark on the front and white mesh in the back, a dark top, a dark face mask and a US flag as a cape.",
+    "arrestDate": "2022-06-07T04:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [
+      "#BrianJackson"
+    ],
+    "caseIdentifier": "1:22-mj-00127-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244046/gov.uscourts.dcd.244046.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1xd6UGGe2H1hmV9E7U9bi7sMQglT_kReb",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "AdamJackson",
+    "profileLeads": [],
+    "realName": "JACKSON, Adam Lejay",
+    "_id": "TowjIo7lwtOI"
+  },
+  {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider0459"
@@ -1555,7 +1581,7 @@
     "_id": "2NuKOOLCMrfk"
   },
   {
-    "actionsSummary": "On front line against police inside Capitol. Gives his self defense walking cane to #DavidKaufman who uses it to strike Officer Jeffrey Smith. Throws metal racks.",
+    "actionsSummary": "On front line against police inside Capitol. Gives his self defense walking cane to #DavidWallsKaufman who uses it to strike Officer Jeffrey Smith. Throws metal racks.",
     "alternateHashtags": [
       "SpaceGoon",
       "MakeSpaceGA",
@@ -5648,6 +5674,32 @@
     "profileLeads": [],
     "realName": "GUNDERSEN, Brian",
     "_id": "b5CrldR1IsW4"
+  },
+  {
+    "actionsSummary": "Threw a flagpole at police at the Tunnel on the Lower West Terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a long wispy brown beard wearing a black hoodie with \"Harley-Davidson\" in white down the right arm over a red knit Trump hat, a face mask with a dark US flag print and a Trump flag as a cape.",
+    "arrestDate": "2022-06-07T04:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [
+      "#AdamJackson"
+    ],
+    "caseIdentifier": "1:22-mj-00127-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244046/gov.uscourts.dcd.244046.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1faQYfNJEDFGsZItEiOt4-wOvG662eF0P",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BrianJackson",
+    "profileLeads": [],
+    "realName": "JACKSON, Brian Scott",
+    "_id": "gO6Mqcy28jcE"
   },
   {
     "actionsSummary": "Smokes marijuana inside the Capitol.",
@@ -10780,6 +10832,33 @@
     "profileLeads": [],
     "realName": "TICAS, David Antonio",
     "_id": "ySw8Z-XDcn-0"
+  },
+  {
+    "actionsSummary": "Fought Officer Jeffrey Smith for his baton. Struck Officer Jeffrey Smith with #AstroNot's cane. Officer Jeffrey Smith later committed suicide.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Older white man with grey hair wearing a wearing a red, white, and black motorcycle style jacket with the brand name Teknic written on the shoulders.",
+    "arrestDate": "2022-06-09T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/22056657-walls-kaufman-david-statement-of-facts",
+    "filesUrl": "https://drive.google.com/drive/folders/1AOd05sk3U86Y7-_-eOY_5RwkcjoGfNXi",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "DavidWallsKaufman",
+    "profileLeads": [],
+    "realName": "WALLS-KAUFMAN, David",
+    "_id": "j2P9K6TtMl_w"
   },
   {
     "actionsSummary": "Entered Capitol through Senate Wing door and walked around for 30 minutes. Seen in Crypt and Senate 'Wise Room'",
@@ -19808,13 +19887,19 @@
     "actionsSummary": "Among crowd who first climb up onto the NW Stairs railing, urges crowd on as the pull on barricade, is at front of NW Stairs breach onto Upper W. Plaza. Almost certainly helped with barricade pulling, though not seen yet. Mr. Kelley is a township planning commissioner from Michigan.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue plaid button down shirt. Black double-breasted peacoat. Light wash blue jeans. Grey Nike tennis shoes. Black ball cap with a grayscale flag on the front. Dark aviator style shades. iWatch with a red band.",
+    "arrestDate": "2022-06-08T04:00:00.000Z",
+    "arrestState": "MI",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00133",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1511816/download",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
     "primaryHashtag": "IAmRyanDKelley",
     "profileLeads": [],
+    "realName": "KELLEY, Ryan D",
     "_id": "lQl8iNtT4iOw"
   },
   {
