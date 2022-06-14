@@ -220,7 +220,9 @@
   },
   {
     "actionsSummary": "Threw a pylon at police in the Tunnel on the Lower West Terrace, then charged police line with a police shield.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "CapedHalfDome"
+    ],
     "appearanceSummary": "White man with brown hair and facial hair wearing a baseball cap that is dark on the front and white mesh in the back, a dark top, a dark face mask and a US flag as a cape.",
     "arrestDate": "2022-06-07T04:00:00.000Z",
     "arrestState": "TX",
@@ -5682,7 +5684,7 @@
     "arrestDate": "2022-06-07T04:00:00.000Z",
     "arrestState": "TX",
     "associates": [
-      "#AdamJackson"
+      "#CapedHalfDome"
     ],
     "caseIdentifier": "1:22-mj-00127-ZMF",
     "caseStatus": "Arrested",
@@ -7289,14 +7291,28 @@
     "_id": "w9EptTLHwsQo"
   },
   {
+    "actionsSummary": "Threw a flagpole at police at the Tunnel on the Lower West Terrace.",
     "alternateHashtags": [],
-    "appearanceSummary": "American flag worn like cape. Blue backpack. Initially has baseball cap but loses it. Bald.",
-    "associates": [],
+    "appearanceSummary": "American flag worn like cape. Blue backpack. Initially has baseball cap but loses it. Balding.",
+    "arrestDate": "2022-06-07T04:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [
+      "#BrianJackson"
+    ],
+    "caseIdentifier": "1:22-mj-00127-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244046/gov.uscourts.dcd.244046.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "CapedHalfDome",
     "profileLeads": [],
+    "realName": "JACKSON, Adam Lejay",
     "_id": "pNhD_RMe0t8c"
   },
   {
