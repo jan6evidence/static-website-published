@@ -219,34 +219,6 @@
     "_id": "GcVpFX9xMoDA"
   },
   {
-    "actionsSummary": "Threw a pylon at police in the Tunnel on the Lower West Terrace, then charged police line with a police shield.",
-    "alternateHashtags": [
-      "CapedHalfDome"
-    ],
-    "appearanceSummary": "White man with brown hair and facial hair wearing a baseball cap that is dark on the front and white mesh in the back, a dark top, a dark face mask and a US flag as a cape.",
-    "arrestDate": "2022-06-07T04:00:00.000Z",
-    "arrestState": "TX",
-    "associates": [
-      "#BrianJackson"
-    ],
-    "caseIdentifier": "1:22-mj-00127-ZMF",
-    "caseStatus": "Arrested",
-    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244046/gov.uscourts.dcd.244046.1.1.pdf",
-    "filesUrl": "https://drive.google.com/drive/folders/1xd6UGGe2H1hmV9E7U9bi7sMQglT_kReb",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "AdamJackson",
-    "profileLeads": [],
-    "realName": "JACKSON, Adam Lejay",
-    "_id": "TowjIo7lwtOI"
-  },
-  {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider0459"
@@ -7293,7 +7265,7 @@
   {
     "actionsSummary": "Threw a flagpole at police at the Tunnel on the Lower West Terrace.",
     "alternateHashtags": [],
-    "appearanceSummary": "American flag worn like cape. Blue backpack. Initially has baseball cap but loses it. Balding.",
+    "appearanceSummary": "American flag worn like cape. Blue backpack. Initially has baseball cap but loses it. Balding. White man with brown hair and facial hair wearing a baseball cap that is dark on the front and white mesh in the back, a dark top, a dark face mask and a US flag as a cape.",
     "arrestDate": "2022-06-07T04:00:00.000Z",
     "arrestState": "TX",
     "associates": [
@@ -10873,7 +10845,7 @@
     ],
     "primaryHashtag": "DavidWallsKaufman",
     "profileLeads": [],
-    "realName": "WALLS-KAUFMAN, David",
+    "realName": "WALLS-KAUFMAN, David Chadwick",
     "_id": "j2P9K6TtMl_w"
   },
   {
@@ -45102,7 +45074,7 @@
       "#Axehole"
     ],
     "caseIdentifier": "1:21-cr-160",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/ashlock-ryan",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
