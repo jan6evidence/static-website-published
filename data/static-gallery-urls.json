@@ -31956,6 +31956,8 @@
       "thumbnailUrl": "https://archive.org/download/dytLpSsRNfKbzgi2o/dytLpSsRNfKbzgi2o.200px.jpg"
     }
   ],
+  "KevinCroninII": [],
+  "KevinCroninSr": [],
   "KevinLoftus": [
     {
       "mediaItemId": "t8QMYyaakCRgrEn38",
@@ -44334,6 +44336,13 @@
       "mediaItemId": "wrZbeYpafNxD5qCk4",
       "archiveUrl": "https://archive.org/download/wrZbeYpafNxD5qCk4/wrZbeYpafNxD5qCk4.png",
       "thumbnailUrl": "https://archive.org/download/wrZbeYpafNxD5qCk4/wrZbeYpafNxD5qCk4.200px.png"
+    }
+  ],
+  "PushyFlagGlove": [
+    {
+      "mediaItemId": "Qi728dKSSPXn7tvpi",
+      "archiveUrl": "https://archive.org/download/Qi728dKSSPXn7tvpi/Qi728dKSSPXn7tvpi.jpeg",
+      "thumbnailUrl": "https://archive.org/download/Qi728dKSSPXn7tvpi/Qi728dKSSPXn7tvpi.200px.jpeg"
     }
   ],
   "PushyFlagHat": [
@@ -57628,6 +57637,13 @@
       "mediaItemId": "yXtm6Z3bD2Kx75Le2",
       "archiveUrl": "https://archive.org/download/yXtm6Z3bD2Kx75Le2/yXtm6Z3bD2Kx75Le2.png",
       "thumbnailUrl": "https://archive.org/download/yXtm6Z3bD2Kx75Le2/yXtm6Z3bD2Kx75Le2.200px.png"
+    }
+  ],
+  "TwoFlagChad": [
+    {
+      "mediaItemId": "NfjKBweuxQ23e7LFr",
+      "archiveUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.jpeg",
+      "thumbnailUrl": "https://archive.org/download/NfjKBweuxQ23e7LFr/NfjKBweuxQ23e7LFr.200px.jpeg"
     }
   ],
   "TwoHatChad": [
