@@ -7522,7 +7522,7 @@
     "_id": "-rbYVuTkgluk"
   },
   {
-    "actionsSummary": "Works with #ChromeDomeTealFriend and several others to yank two barriers away from police on Upper West Terrace.",
+    "actionsSummary": "Works with #ChromeDomeTealFriend, #CoatWStripeCamo, #GreenBellyBouncer, #FlagPoleBreaker, #InfoSprayer and several others to yank two barriers away from police on Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown hair. No facial hair. Round face and pointy nose. Black jacket over a black t-shirt that says \"Stop the Steal.\" Khaki pants.",
     "associates": [],
@@ -8636,7 +8636,7 @@
     "_id": "z2INPALgwnfg"
   },
   {
-    "actionsSummary": "Helps #CapitolShrew and several others pull a barricade away from police on the Upper West Terrace. Near #TealFace after he is maced. Seen with #TealFace on 1/5 in Getty photograph",
+    "actionsSummary": "Helps #CapitolShrew, #CoatWStripeCamo, #GreenBellyBouncer, #FlagPoleBreaker and several others pull a barricade away from police on the Upper West Plaza. Near #TealFace after he is maced. Seen with #TealFace on 1/5 in Getty photograph",
     "alternateHashtags": [],
     "appearanceSummary": "Bald. Blue hooded sweatshirt with \"Patriotically Correct\" in orange letters. Black sunglasses. Wears respirator. Backpack.",
     "associates": [
@@ -9082,9 +9082,9 @@
     "_id": "Md-MLw39gmJU"
   },
   {
-    "actionsSummary": "Fights on W. Plaza",
+    "actionsSummary": "Fights on W. Plaza. Works with #CapitolShrew, #ChromeDomeTealFriend, #GreenBellyBouncer, #FlagPoleBreaker and #InfoSprayer to yank a barrier away from police on Upper West Plaza.",
     "alternateHashtags": [],
-    "appearanceSummary": "Khaki baseball cap, and on the front is a black US flag with a single red stripe. Short reddish-brown beard and mustache. Brown coat over a camo shirt.",
+    "appearanceSummary": "Khaki baseball cap, and on the front is a black US flag with a single red stripe. Short reddish-brown beard and mustache. Brown coat with white stripes (horizontal) over a camo shirt.",
     "associates": [],
     "fbiIdentifier": "374-AFO",
     "isLawEnforcement": false,
@@ -12718,7 +12718,7 @@
     "arrestState": "WV",
     "associates": [],
     "caseIdentifier": "1:21-cr-228",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/barber-eric",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14097,7 +14097,7 @@
     "_id": "pZMDAghUokpE"
   },
   {
-    "actionsSummary": "Strikes at officers on the West Plaza with a flag pole.",
+    "actionsSummary": "Helps #CapitolShrew, #CoatWStripeCamo, #ChromeDomeTealFriend, #FlagPoleBreaker and #InfoSprayer pull a barricade away from police on the Upper West Plaza. Near #TealFace after he is maced. Seen with #TealFace on 1/5 in Getty photograph",
     "alternateHashtags": [
       "TinyEarsTinyWhiskers"
     ],
@@ -16545,7 +16545,7 @@
     "_id": "13tlNMKfsnmA"
   },
   {
-    "actionsSummary": "Designated violent based on MPD suspect designation.",
+    "actionsSummary": "Helps #CapitolShrew, #CoatWStripeCamo, #ChromeDomeTealFriend, #FlagPoleBreaker and #InfoSprayer pull a barricade away from police on the Upper West Plaza. Near #TealFace after he is maced. Seen with #TealFace on 1/5 in Getty photograph",
     "alternateHashtags": [],
     "appearanceSummary": "Camo Trump baseball cap with a red and white striped bill and a yellow signature on the left side. White earloop face mask. Black leather jacket  with a US flag on the left shoulder and writing beneath it. The jacket is unzipped to reveal a dark green shirt. Backpack with black straps and a black cross-strap. The cross-strap has a radio and what might be a camera hanging from it. Khaki pants. Black fanny pack hanging in front. Carries a US flag and a Trump flag overlapping on the same pole.",
     "associates": [],
@@ -20304,7 +20304,7 @@
     "_id": "kQ26UZA5sj-w"
   },
   {
-    "actionsSummary": "Sits on the railing on the Lower W Terrace, in the section where the Trump banner hangs. Sprays substance at police.",
+    "actionsSummary": "Helps #CapitolShrew, #CoatWStripeCamo, #ChromeDomeTealFriend, #FlagPoleBreaker and #GreenBellyBouncer pull a barricade away from police on the Upper West Plaza. Sprays substance at police. Sits on the railing on the Lower W Terrace, in the section where the Trump banner hangs.",
     "alternateHashtags": [],
     "appearanceSummary": "Black coat and blue jeans. White gloves with red palms. Black and grey InfoWars hat. Blue reflective sunglasses.",
     "associates": [],
@@ -24028,6 +24028,59 @@
     "profileLeads": [],
     "realName": "CORDON, Kevin Francisco",
     "_id": "_Poe39mR8jZ8"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider669"
+    ],
+    "appearanceSummary": "Man wearing a black coat and a red hat with stitched white lettering, \"Make America Great Again\" on the front.",
+    "arrestDate": "2022-06-13T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00132-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1512671/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1RDyPaN4M9xmxtM24RLQk_VoMQbFmDzcD",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "National Guard",
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KevinCroninII",
+    "profileLeads": [],
+    "realName": "CRONIN, Kevin M. II",
+    "_id": "hxTzXOo3soH0"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2070"
+    ],
+    "appearanceSummary": "White man with reddish grey hair and beard wearing a green jacket and red baseball cap that says \"Trump 2020\" in white on the front.",
+    "arrestDate": "2022-06-13T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00132-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1512671/download",
+    "filesUrl": "https://drive.google.com/drive/folders/11oiyGb8DBgm6iWSd7Oa3UT60JYGj9mAB",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KevinCroninSr",
+    "profileLeads": [],
+    "realName": "CRONIN, Kevin M. Sr.",
+    "_id": "fMX0c_OTAuAg"
   },
   {
     "actionsSummary": "Photographed inside the halls of Congress",
@@ -34495,22 +34548,33 @@
     "_id": "yXabnWUf8k_Y"
   },
   {
-    "actionsSummary": "Seen inside Capitol. Assists RedOnRedGlasses with breaking a window during the breach at the NW Courtyard. Recorded holding a plank he picked up off the ground after entering the building.",
+    "actionsSummary": "Seen inside Capitol. Uses a piece of lumber to assist RedOnRedGlasses with breaking a window during the breach at the NW Courtyard. Recorded holding a plank he picked up off the ground after entering the building.",
     "alternateHashtags": [
       "Insider1248"
     ],
-    "appearanceSummary": "Red MAGA baseball cap. Stubble where a beard and mustache would be. Olive green gaiter. Black long-sleeve shirt or jacket. Dark green tactical vest with a camouflage Confederate flag on the front. Large black gloves with reinforced knuckles. Dark pants.",
+    "appearanceSummary": "Red MAGA baseball cap. Stubble where a beard and mustache would be. Olive green gaiter. Black long-sleeve shirt or jacket. Dark green military style plate carrier a with a camouflage Confederate flag on the front. Large black gloves with reinforced knuckles. Dark pants.",
+    "arrestDate": "2022-06-13T04:00:00.000Z",
+    "arrestState": "WA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00132-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1512671/download",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "RedHatRebelPatch",
     "profileLeads": [],
+    "realName": "CRONIN, Dylan R.",
     "_id": "vBKtX80-gjRA"
   },
   {
