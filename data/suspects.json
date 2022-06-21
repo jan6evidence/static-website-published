@@ -5563,7 +5563,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00604-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21068083/9-17-21-us-v-brandon-prenzlin-complaint-affidavit.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16311,7 +16311,9 @@
   },
   {
     "actionsSummary": "Jabs police at lower terrace with flagpole near end of breach.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "GreyBackJabber"
+    ],
     "appearanceSummary": "White male with gray beard. Brown jacket. Goggles. Black beanie. Grey backpack. Carries American flag on pole.",
     "associates": [],
     "isLawEnforcement": false,
@@ -27660,11 +27662,11 @@
     "_id": "rjvljdtl8ta0"
   },
   {
-    "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
+    "actionsSummary": "Shoves police on the NW Lawn. Wrestles a cop for his baton. Inside Capitol.",
     "alternateHashtags": [
       "Insider1877"
     ],
-    "appearanceSummary": "White man with greying hair and mustache wearing wire rim glasses, a dark leather jacket over a black hoodie, brown pants black gloves, a black backpack and a red Trump baseball cap with a flag on the left side of the bill.",
+    "appearanceSummary": "White man with greying hair and mustache wearing wire rim glasses, a dark leather jacket over a black hoodie, brown pants, black gloves with zippers up the back, a black backpack and a red Trump baseball cap with a flag on the left side of the bill.",
     "associates": [
       "#TeddyHead"
     ],
@@ -41764,7 +41766,7 @@
     "_id": "zW9WJczWYoUA"
   },
   {
-    "actionsSummary": "Shoves police on NW Lawn and yells in their faces. Uses bullhorn. Inside Capitol building.",
+    "actionsSummary": "Shoves police on NW Lawn and yells in their faces. Grabs a cop's baton. Enters Capitol.",
     "alternateHashtags": [
       "Insider1132"
     ],
