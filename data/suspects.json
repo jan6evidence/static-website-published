@@ -21286,7 +21286,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-60",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357281/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -36631,7 +36631,7 @@
     "arrestState": "SC",
     "associates": [],
     "caseIdentifier": "1:21-cr-56",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/tenney-iii-george-amos",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -41554,14 +41554,20 @@
     "_id": "2S8d2dkzIjuQ"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn.",
-    "alternateHashtags": [],
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "insider2348"
+    ],
     "appearanceSummary": "White man with red hair and mustache wearing a grey hooded jacket with red details, a flag facemask with a black border, a black baseball cap with \"Make America Great Again\" in yellow on the front, a yellow wheat pattern along the brim, three yellow stars in the back and a small flag patch on the both sides, and a Trump flag as a cape.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1N48cBjXTkoYoD1r36Unz6aWZ7h3bPiOW?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
