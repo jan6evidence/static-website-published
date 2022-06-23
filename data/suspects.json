@@ -41822,6 +41822,32 @@
     "_id": "0q7sOdSLkh9w"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider074"
+    ],
+    "appearanceSummary": "Older white man with brown hair wearing a black coat over a red hoodie, blue jeans, brown boots and glasses.",
+    "arrestDate": "2022-06-21T04:00:00.000Z",
+    "arrestState": "ME",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00140-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244540/gov.uscourts.dcd.244540.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1LJbMwkl5n66ksvYfHG1xYRVqRd4mNna_",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ToddTilley",
+    "profileLeads": [],
+    "realName": "TILLEY, Todd",
+    "_id": "g8elZrbucl6U"
+  },
+  {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider2061"
