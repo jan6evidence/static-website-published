@@ -1620,7 +1620,13 @@
       "thumbnailUrl": "https://archive.org/download/3QBq9AevmTD8f53kL/3QBq9AevmTD8f53kL.200px.jfif"
     }
   ],
-  "AnthonyMoat": [],
+  "AnthonyMoat": [
+    {
+      "mediaItemId": "yaQYJanRNhZWXtKm5",
+      "archiveUrl": "https://archive.org/download/yaQYJanRNhZWXtKm5/yaQYJanRNhZWXtKm5.png",
+      "thumbnailUrl": "https://archive.org/download/yaQYJanRNhZWXtKm5/yaQYJanRNhZWXtKm5.200px.png"
+    }
+  ],
   "AnthonyPuma": [
     {
       "mediaItemId": "AbJz2Z2cXwQcEapdD",
