@@ -5427,7 +5427,7 @@
     "associates": [
       "#MarshallNeefe"
     ],
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1dTgH7wWhBT7pw8r-FLntIglQRXjtt0A-?usp=sharing",
     "isLawEnforcement": false,
@@ -18776,8 +18776,10 @@
     "_id": "FDSBHNqoko8s"
   },
   {
-    "actionsSummary": "Hits a cop. Particpates in mass push of police on the NW Lawn.",
-    "alternateHashtags": [],
+    "actionsSummary": "Hits a cop. Particpates in mass push of police on the NW Lawn. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2835"
+    ],
     "appearanceSummary": "Black coat over a white hoodie over a blue cap or hat with \"Trump\" on the front,  jeans, a patterned facemask, black gloves and a brown camo backpack.",
     "associates": [
       "#PushyFlagHat",
@@ -26554,7 +26556,9 @@
   },
   {
     "actionsSummary": "Shoves police on NW Lawn. Inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1391"
+    ],
     "appearanceSummary": "Bald white man with brown facial hair wearing a red MAGA baseball cap, a vest over a blue hoodie with \"Donald Trump Matters\" in yellow on the front and sunglasses.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1JAI0vm960_C1cD8SDBhRMcr-KuWBd_bu",
@@ -30666,6 +30670,7 @@
       "#AngryGrandpaMAGA"
     ],
     "caseIdentifier": "1:22-mj-00060-RMM",
+    "caseStatus": "Arrested",
     "fbiIdentifier": "335-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
