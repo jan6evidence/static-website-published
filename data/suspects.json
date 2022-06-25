@@ -5846,6 +5846,32 @@
     "_id": "ou1cgJuv0l-I"
   },
   {
+    "actionsSummary": "On Capitol steps with Oathkeepers,",
+    "alternateHashtags": [
+      "MichaelGreene #MichaelSimmons"
+    ],
+    "appearanceSummary": "Black man wearing a black knit hat over a black balaclava, a dark blue jacket, dark blue jeans, and black shoes.",
+    "arrestDate": "2022-06-23T04:00:00.000Z",
+    "arrestState": "IN",
+    "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1514871/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1wzIz_438up8BUv4XwXFwv3ysFI2axa3_",
+    "isLawEnforcement": true,
+    "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "OathKeepers"
+      }
+    ],
+    "primaryHashtag": "BrotherOK",
+    "profileLeads": [],
+    "realName": "GREENE, MIchael (aka Michael Simmons)",
+    "_id": "-mEr8BG94kZU"
+  },
+  {
     "actionsSummary": "Engages with a female police officer, seen on W. Plaza and also off to north side of it.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown leather coat. Tactical vest. Very large grey backpack. Brown aviator hat. Wire glasses.",
