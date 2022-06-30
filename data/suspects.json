@@ -3451,7 +3451,7 @@
     "_id": "y6lGeBwsMrBM"
   },
   {
-    "actionsSummary": "Shoves cop over on the NW Lawn.",
+    "actionsSummary": "Shoves cop over on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with light brown facial hair (mustache - beard unknown) wearinga plain black baseball cap with a leather strap at the back over a black balaclava, a black collared coat, black gloves, blue jeans and black tennis shoes with white details.",
     "associates": [],
@@ -3459,6 +3459,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -12704,7 +12708,7 @@
     "_id": "KRvdvgNSggNg"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn.",
+    "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with brown hair and beard wearing a brown jacket with flap pockets on the chest, khaki cargo pants, black gloves, a grey baseball hat with a black brim with a small yellow pin on the right side and sunglasses on his head. Enamel hat pins are from TenderTPinning (owner deceased).",
     "associates": [],
@@ -12712,6 +12716,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
