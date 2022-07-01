@@ -1200,7 +1200,7 @@
     "arrestState": "MI",
     "associates": [],
     "caseIdentifier": "1:21-cr-377",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -3739,9 +3739,16 @@
   },
   {
     "actionsSummary": "In the tunnel for the W Terrace doorway, assaults officers.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "BlackGrayFlannel"
+    ],
     "appearanceSummary": "Black/white/grey plaid shirt, black skull cap, jeans.",
+    "arrestDate": "2022-06-30T04:00:00.000Z",
+    "arrestState": "MI",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00146",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1516841/download",
     "fbiIdentifier": "261-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -3753,6 +3760,7 @@
     ],
     "primaryHashtag": "BlackGreyFlannel",
     "profileLeads": [],
+    "realName": "LINTS, Luke Michael",
     "_id": "nBrWq8p38tSY"
   },
   {
@@ -13321,6 +13329,10 @@
       {
         "type": "group",
         "name": "ThreePercenters"
+      },
+      {
+        "type": "group",
+        "name": "OathKeepers"
       },
       {
         "type": "group",
@@ -31731,6 +31743,32 @@
     "_id": "qXm9WJw_ksY0"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider572"
+    ],
+    "appearanceSummary": "White man with gray hair wearing glasses, a dark-blue hooded sweatshirt with\n“Trump 2020” in white block lettering, with a bright orange circular sticker on\nhis upper left chest and carrying a light blue backpack",
+    "arrestDate": "2022-06-27T04:00:00.000Z",
+    "arrestState": "WI",
+    "associates": [],
+    "caseIdentifier": "3:22-mj-00089-MPB",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.insd.201226/gov.uscourts.insd.201226.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1pxL_1wwKDFsIqfAqeWSHTuGME7tdi_tr",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PaulKovacik",
+    "profileLeads": [],
+    "realName": "KOVACIK, Paul Edward",
+    "_id": "W-vDvQynsk_Q"
+  },
+  {
     "actionsSummary": "Entered Capitol.",
     "alternateHashtags": [
       "Insider340"
@@ -41864,7 +41902,7 @@
     "_id": "0q7sOdSLkh9w"
   },
   {
-    "actionsSummary": "Inside Capitol.",
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider074"
     ],
@@ -43813,7 +43851,10 @@
     "actionsSummary": "Involved in tunnel fight",
     "alternateHashtags": [],
     "appearanceSummary": "Black and gray baseball cap with a coiled snake on the front. Sunglasses. Short brown beard and mustache. Dark blue gaiter with small, light-colored designs on it. Black coat over a green shirt over a black t-shirt. Dark green gloves. Photographed using a radio.",
+    "arrestDate": "2022-06-30T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00144-ZMF",
+    "caseStatus": "Arrested",
     "fbiIdentifier": "249-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -43831,6 +43872,7 @@
     "actionsSummary": "Records actions of ViperPB and follows him. Has communications equipment.",
     "alternateHashtags": [],
     "appearanceSummary": "Middle-aged woman wearing a camo baseball cap that has black sunglasses sitting on the bill. Dark gaiter around her neck. Black and red check hooded jacket. Over that is a black vest with a silver chain connecting the two sides in front. The back of the vest has a large white panel with two images: half of a stars and stripes skull and a black submachine gun. Over the vest is a set of drab green shoulder straps that support some bags around her waist. A green bag hangs from the back left above a brown bag. A gas mask also appears to hang from her right hip. Blue jeans. Black gloves. Photographed carrying a Trumpified  US flag on a metal pole.",
+    "arrestState": "WA",
     "associates": [
       "#ViperPB"
     ],
@@ -43845,6 +43887,10 @@
       {
         "type": "group",
         "name": "ProudBoysProudGirls"
+      },
+      {
+        "type": "equipment",
+        "name": "EarpieceOrRadio"
       }
     ],
     "primaryHashtag": "ViperLadyPB",
