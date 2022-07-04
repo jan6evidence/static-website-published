@@ -4351,7 +4351,8 @@
     "associates": [
       "#HoodedSuckerPunch",
       "#PushyFlagHat",
-      "#KhakiFlagBuff"
+      "#KhakiFlagBuff",
+      "#TrumpFlagCape"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1ZSw8DVyZFagFejaDvLgv1DEFgNn7cVX9",
     "isLawEnforcement": false,
@@ -10111,6 +10112,26 @@
     "_id": "P4-F0bFUooaw"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown shoulder length curly hair (possibly a mullet) and beard wearing a desert camo coat over a white mock turtleneck with a black band around the neck, light blue jeans, black gloves with ridged backs, a watch with a large round face and a black band on his left wrist and a baseball cap that is light grey with a Trump patch in the front and red in the back.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1x3V4zwgnffQL1N_qXVKiswRtkURSfdUB",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CurlyCamo",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "zd_Z4jfRgo0I"
+  },
+  {
     "alternateHashtags": [
       "Insider0440"
     ],
@@ -15642,6 +15663,26 @@
     "_id": "pvrr-pDZ0pdA"
   },
   {
+    "actionsSummary": "Grabs officer in charge of LEO group  as they move across the NW Lawn and pulls him to a halt.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with wavy red hair wearing a red baseball cap with \"Veterans for Trump\" in white on the front over a dark baseball cap, a short sleeve blue tshirt over a long sleeve white tshirt, a flag scarf and sunglasses.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1c1Zhj9ME--nnzoCH6f7xwneq78qOii-d",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GingerGripper",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "KA8gTIZdcu0w"
+  },
+  {
     "actionsSummary": "Carrying a Sig Sauer P320 semiautomatic pistol. Seen in North Scaffolding after some protestors have entered capitol, gets hit by a rubber bullet.",
     "alternateHashtags": [],
     "appearanceSummary": "Denim coat with sherpa collar, tan concealed-carry handgun and an earpiece, bandana has names of 2 towns in Colorado, Buena Vista and Salida. Metal flagpole w blk/wht flag. Hat is Farm Boy Farm Girl brand, sold at Murdoch Ranch Supply in Salida, Co\r\n. Bandana was designed and given away for free by Chaffee County Chamber of Commerce",
@@ -18832,7 +18873,8 @@
     "associates": [
       "#PushyFlagHat",
       "#KhakiFlagBuff",
-      "#BlackXHead"
+      "#BlackXHead",
+      "#TrumpFlagCape"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1_FL_s_iu3_tFhXM2SBakmCdyKnTTJt2g",
     "isLawEnforcement": false,
@@ -24275,7 +24317,8 @@
     "associates": [
       "#HoodedSuckerPunch",
       "#PushyFlagHat",
-      "#BlackXHead"
+      "#BlackXHead",
+      "#TrumpFlagCape"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1LcilXEx8b7IMyjGfpL4GRsNW1c-ZGK0V",
     "isLawEnforcement": false,
@@ -33813,6 +33856,38 @@
     "_id": "m-jLiabhUjbE"
   },
   {
+    "actionsSummary": "Shoves police on the NW Lawn. Knocks over stanchions holding velvet ropes inside the Rotunda.",
+    "alternateHashtags": [
+      "Insider166"
+    ],
+    "appearanceSummary": "White person wearing a desert camo jacket over an olive green hoodie over a grey plaid driving cap, glasses and a red backpack and carrying a US flag on a wood pole.",
+    "associates": [
+      "#PushyCamoCap"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1Gr9G43cuSS_tO-FJlIB8eZM2Tu3U6H9G",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "PushyRedBackpack",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "4kBEKzcOAsRc"
+  },
+  {
     "actionsSummary": "Shoves police on the NW Lawn.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with straight brown heair wearing sunglasses with reddish lenses, a black or charcoal grey hooded North Face coat, a black cloth over his face and chunky rings on every finger of both hands.",
@@ -42609,6 +42684,31 @@
     "primaryHashtag": "TrumpedUpKicks",
     "profileLeads": [],
     "_id": "8jYWa37hsn2I"
+  },
+  {
+    "actionsSummary": "Shoves police on the NW Lawn.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Woman with long blonde hair wearing a Trump bobble hat, a black puffer jacket, blue jeans, a flag buff or facemask, sunglasses, RWB socks with MAGA down the back, tennis shoes with a red and white stripe pattern on the back of the left shoe and a blue and white pattern on the back of the right shoe, a Trump flag as a cape and a black backpack.",
+    "associates": [
+      "#KhakiFlagBuff",
+      "#HoodedSuckerPunch",
+      "#BlackXHead",
+      "#PushyFlagHat"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1o4-u_Wh0aywsdzCLKzE8KY37jd9TP0wk",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "TrumpFlagCape",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "EnljDWL1Ui98"
   },
   {
     "actionsSummary": "Incites crowd via bullhorn. Masks voice. Fight breaks out just after she incites the crowd.",
