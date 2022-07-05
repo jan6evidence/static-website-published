@@ -14661,6 +14661,7 @@
       "thumbnailUrl": "https://archive.org/download/wfsCsoikRkL4uxXTH/wfsCsoikRkL4uxXTH.200px.jpg"
     }
   ],
+  "CurlyCamo": [],
   "CurlyPlaid": [
     {
       "mediaItemId": "C5HmEi26oEyNKt66d",
@@ -21968,6 +21969,13 @@
     {
       "mediaItemId": "fhbCafNNCC58i5fhQ",
       "archiveUrl": "https://archive.org/download/fhbCafNNCC58i5fhQ/fhbCafNNCC58i5fhQ.png"
+    }
+  ],
+  "GingerGripper": [
+    {
+      "mediaItemId": "FK6xGZsNEfTBwA8Mb",
+      "archiveUrl": "https://archive.org/download/FK6xGZsNEfTBwA8Mb/FK6xGZsNEfTBwA8Mb.jpeg",
+      "thumbnailUrl": "https://archive.org/download/FK6xGZsNEfTBwA8Mb/FK6xGZsNEfTBwA8Mb.200px.jpeg"
     }
   ],
   "GingerGun": [
@@ -45730,6 +45738,7 @@
       "thumbnailUrl": "https://archive.org/download/yv3hcv75Wg4gFrRTE/yv3hcv75Wg4gFrRTE.200px.png"
     }
   ],
+  "PushyRedBackpack": [],
   "PushyWeasel": [
     {
       "mediaItemId": "6CbjRZpKcMKRy8hH7",
@@ -55233,13 +55242,7 @@
       "thumbnailUrl": "https://archive.org/download/hMk94FJcRR9KjB2rd/hMk94FJcRR9KjB2rd.200px.png"
     }
   ],
-  "TerryBrown": [
-    {
-      "mediaItemId": "iywua5Q7kLsLm4F55",
-      "archiveUrl": "https://archive.org/download/iywua5Q7kLsLm4F55/iywua5Q7kLsLm4F55.jpeg",
-      "thumbnailUrl": "https://archive.org/download/iywua5Q7kLsLm4F55/iywua5Q7kLsLm4F55.200px.jpeg"
-    }
-  ],
+  "TerryBrown": [],
   "TexasCobra": [
     {
       "mediaItemId": "9jAX7X7ofeY5Coxr9",
@@ -55453,13 +55456,7 @@
       "thumbnailUrl": "https://archive.org/download/zaGg5GA3oywacxobr/zaGg5GA3oywacxobr.200px.jpeg"
     }
   ],
-  "ThaddisJohnson﻿": [
-    {
-      "mediaItemId": "je9ymTiwzmEtyFuKC",
-      "archiveUrl": "https://archive.org/download/je9ymTiwzmEtyFuKC/je9ymTiwzmEtyFuKC.png",
-      "thumbnailUrl": "https://archive.org/download/je9ymTiwzmEtyFuKC/je9ymTiwzmEtyFuKC.200px.png"
-    }
-  ],
+  "ThaddisJohnson": [],
   "ThanosPB": [
     {
       "mediaItemId": "6Xb2TxtM6kiJ8Z7tg",
@@ -57916,6 +57913,7 @@
       "thumbnailUrl": "https://archive.org/download/DrjmdEM9ZEzZ5FyTZ/DrjmdEM9ZEzZ5FyTZ.200px.png"
     }
   ],
+  "TrumpFlagCape": [],
   "TrumpGoneGirl": [
     {
       "mediaItemId": "5TXP8csuqZw9Q6nsP",
