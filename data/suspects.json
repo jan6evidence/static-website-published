@@ -7836,7 +7836,7 @@
       "#JeanLavin"
     ],
     "caseIdentifier": "1:21-mj-00594-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -18910,6 +18910,7 @@
     "filesUrl": "https://drive.google.com/drive/folders/1JUvxPCBCRznj8jYPKCwvog1AJVDiiHub?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -21403,7 +21404,7 @@
     "arrestDate": "2021-09-14T04:00:00.000Z",
     "arrestState": "CT",
     "associates": [
-      "#CarlyKrzywicki"
+      "#CarlaKrzywicki"
     ],
     "caseIdentifier": "1:21-mj-00594-RMM",
     "caseStatus": "Plea Deal",
@@ -33330,7 +33331,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-35",
-    "caseStatus": "Indicted",
+    "caseStatus": "Deceased Before Trial",
     "fbiIdentifier": "133-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
