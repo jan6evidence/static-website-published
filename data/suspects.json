@@ -9664,6 +9664,32 @@
     "_id": "SFo_cm2Nglw8"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2057"
+    ],
+    "appearanceSummary": "White man wearing a black helmet adorned with a black mohawk, a camouflage\nneck/face cover, black hooded sweatshirt, blue gloves, blue jeans, a Trump flag, and carrying a\nred and white megaphone, black backpack and a wooden miniature baseball bat.",
+    "arrestDate": "2022-07-08T04:00:00.000Z",
+    "arrestState": "WV",
+    "associates": [
+      "#GasMaskBlue"
+    ],
+    "caseIdentifier": "1:22-mj-00150-GMH",
+    "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1xJA6N99Fbl4KUaEgLoNVBaMCOtb9oseC",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "CountryCramer",
+    "profileLeads": [],
+    "_id": "yKDsjJJLUjhI"
+  },
+  {
     "actionsSummary": "Stood on the west steps, led crowd in a prayer via a bullhorn. Founder of \"Cowboys for Trump\", attended rally/riot with Matt Struck",
     "alternateHashtags": [],
     "appearanceSummary": "Black suit and dress coat, wearing a black cowboy hat, salt and pepper goatee",
@@ -15325,7 +15351,13 @@
       "Insider2056"
     ],
     "appearanceSummary": "Bald man with a wispy brown beard and mustache. Sometimes wears a gray respirator with yellow and bright pink filter cartridges. A gray hose connects to his backpack over his left shoulder. Stars and stripes gaiter. Black, hooded jacket with a large US flag on the front. Olive drab backpack with a cross-strap over the chest. Bright blue gloves with a white logo on the back of each.",
-    "associates": [],
+    "arrestDate": "2022-07-08T04:00:00.000Z",
+    "arrestState": "WV",
+    "associates": [
+      "#CountryCramer"
+    ],
+    "caseIdentifier": "1:22-mj-00150-GMH",
+    "caseStatus": "Arrested",
     "fbiIdentifier": "499-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1AOjy18ySNGsoC8khKkJmXK8OTgxvJXZi",
     "isLawEnforcement": false,
@@ -20448,7 +20480,12 @@
       "CircleTattoo"
     ],
     "appearanceSummary": "Shaved head fully tattooed with \"In God I Trust\" on back on skull. Tattoo shop that did the work is known.",
+    "arrestDate": "2022-07-08T04:00:00.000Z",
+    "arrestState": "WV",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00151-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1518391/download",
     "compositeURL": "https://drive.google.com/file/d/1i7aH7bM51-zlkDnV7YYKwYKcw2hQJ6ah/view?usp=sharing",
     "fbiIdentifier": "218-AFO",
     "idStatus": "ID sent to FBI",
@@ -20458,12 +20495,17 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "InGodITrustRioter",
     "profileLeads": [
       "@SimonWGhost"
     ],
+    "realName": "GORDON, John Thomas",
     "_id": "99gF_wglIpmY"
   },
   {
@@ -31585,13 +31627,18 @@
     "_id": "zIKnxjGmEmQw"
   },
   {
-    "actionsSummary": "Played a role in Penn. Walkway breach, entered Capitol and photographed in Rotunda.",
+    "actionsSummary": "Participated in the first breach of the Capitol’s perimeter fencing at Penn. Walkway. Entered Capitol and photographed in Rotunda.",
     "alternateHashtags": [
       "PastorKeffiyeh",
       "Insider1744"
     ],
     "appearanceSummary": "Man with longish brown hair. Very short beard and mustache. Brown and cream scarf (possibly in a chequered keffiyeh pattern). Silver ring on left ring finger. Black puffer jacket. Blue jeans. Brown shoes or boots.",
+    "arrestDate": "2022-07-08T04:00:00.000Z",
+    "arrestState": "CO",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00154-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.245117/gov.uscourts.dcd.245117.1.1.pdf",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -31599,10 +31646,15 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "PastorParler",
     "profileLeads": [],
+    "realName": "ETHRIDGE, Tyler Earl",
     "_id": "ISc2GasC8iwc"
   },
   {
