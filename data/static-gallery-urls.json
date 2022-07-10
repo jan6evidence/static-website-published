@@ -21325,7 +21325,13 @@
       "thumbnailUrl": "https://archive.org/download/pdcPzBaxocNzQeyNb/pdcPzBaxocNzQeyNb.200px.jpg"
     }
   ],
-  "GasMaskBluePal": [],
+  "GasMaskBluePal": [
+    {
+      "mediaItemId": "jCo65c4goAbRC7z5B",
+      "archiveUrl": "https://archive.org/download/jCo65c4goAbRC7z5B/jCo65c4goAbRC7z5B.png",
+      "thumbnailUrl": "https://archive.org/download/jCo65c4goAbRC7z5B/jCo65c4goAbRC7z5B.200px.png"
+    }
+  ],
   "GasMaskTwins": [
     {
       "mediaItemId": "4TZCoEJxFH3eqpCWx",
@@ -34086,7 +34092,13 @@
       "thumbnailUrl": "https://archive.org/download/SDaPdTdDuMv7G5CLg/SDaPdTdDuMv7G5CLg.200px.png"
     }
   ],
-  "LilithSaer": [],
+  "LilithSaer": [
+    {
+      "mediaItemId": "R4MrzQDbAChoXLqpm",
+      "archiveUrl": "https://archive.org/download/R4MrzQDbAChoXLqpm/R4MrzQDbAChoXLqpm.png",
+      "thumbnailUrl": "https://archive.org/download/R4MrzQDbAChoXLqpm/R4MrzQDbAChoXLqpm.200px.png"
+    }
+  ],
   "LionManeInsider": [
     {
       "mediaItemId": "78jfw94PRwzwvKENc",
