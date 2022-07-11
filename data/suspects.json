@@ -27036,7 +27036,7 @@
     "caseIdentifier": "1:21-cr-205",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1359596/download",
-    "isLawEnforcement": false,
+    "isLawEnforcement": true,
     "isMpdSuspect": false,
     "otherTags": [
       {
