@@ -14595,6 +14595,26 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-06-15T04:00:00.000Z",
+    "arrestState": "MN",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-134",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "FrankBratjan",
+    "profileLeads": [],
+    "_id": "48A-lkwLYrAg"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "Insider1571"
     ],
@@ -18400,6 +18420,26 @@
       "@PhoenixOnWheels"
     ],
     "_id": "c5DUz3C1Qn_Q"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-06-22T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-143",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "HatchetSpeed",
+    "profileLeads": [],
+    "_id": "CTVWKRcaYibs"
   },
   {
     "actionsSummary": "Helped #StripesGuy and #ThePinMan assault Officer Hodges. Potential organizer. She is one of first to the tunnel and goes face to face with officers.",
@@ -25494,6 +25534,26 @@
     "_id": "9TrVuHl4knf8"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-06-15T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-128",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LeslieGray",
+    "profileLeads": [],
+    "_id": "-2fHelxp8hFs"
+  },
+  {
     "alternateHashtags": [
       "Insider0319"
     ],
@@ -26061,6 +26121,26 @@
     "primaryHashtag": "LuigiStacheCamo",
     "profileLeads": [],
     "_id": "ZX3tYUma0snE"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-06-15T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-128",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LuisHallon",
+    "profileLeads": [],
+    "_id": "sQW7SyCsgt7Q"
   },
   {
     "actionsSummary": "Entered Senate chamber. Seen in photographs standing on the dais near #JacobChansley.",
@@ -38866,6 +38946,26 @@
     "_id": "6RDjA_IWwtOI"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-05-26T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-171",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "StacyBond",
+    "profileLeads": [],
+    "_id": "7zp3lFsEkkGw"
+  },
+  {
     "actionsSummary": "Posted pictures of himself at the Capitol on Facebook. Engages with an MPD officer at the top level exterior, east side of the Capitol. Captured by ITV News inside the Capitol, carrying a Texas state flag.",
     "alternateHashtags": [
       "Insider1545"
@@ -39111,7 +39211,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-cr-156",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/ayres-stephen-michael",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -42360,6 +42460,26 @@
     "_id": "wZ-9z7c84tz4"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "arrestDate": "2022-06-15T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-128",
+    "caseStatus": "Arrested",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TraciIsaacs",
+    "profileLeads": [],
+    "_id": "ai6aLsc1Anlw"
+  },
+  {
     "actionsSummary": "Tracked via her phone as being inside the Capitol. Entered via the East side of the building, via the Upper House Door. Proceeded through Statuary Hall toward the Senate chamber.",
     "alternateHashtags": [
       "TraciSunstrum",
@@ -42598,7 +42718,7 @@
     "_id": "xyfA9Mji4nSQ"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn and then punches an individual cop. Breaks apart metal railing for weapons.",
+    "actionsSummary": "Shoves police on the NW Lawn and then punches an individual cop. Breaks apart metal railing for weapons. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Black leather jacket over a black hoodie with orange sleeves poking out at the wrists, a black helmet with vents and an upside-down triangle in the back over a blue brimmed baseball cap, black pants, a dark blue scarf with red edges and large white stars, grey gloves and a black backpack.",
     "associates": [],
@@ -42606,6 +42726,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
