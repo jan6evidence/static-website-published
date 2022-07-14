@@ -14596,11 +14596,13 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "Balding white man with a brown beard wearing a grey hoodie, a red knit cap and glasses, a bandana-style facemask, dark green jacket, and a backpack.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "MN",
     "associates": [],
     "caseIdentifier": "1:22-mj-134",
     "caseStatus": "Arrested",
+    "filesUrl": "https://drive.google.com/drive/folders/1N3sEKk0WVyc0mX4ND_ci3eD9AFGGWWvZ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -14609,9 +14611,9 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "FrankBratjan",
+    "primaryHashtag": "FrankBratjanJr",
     "profileLeads": [],
-    "_id": "48A-lkwLYrAg"
+    "_id": "m-Vz8BEZ8n08"
   },
   {
     "actionsSummary": "Inside Capitol building.",
@@ -18424,13 +18426,17 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "White man with dark hair and beard wearing a brown coat, red MAGA baseball cap, black face mask and black backpack.",
     "arrestDate": "2022-06-22T04:00:00.000Z",
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:22-mj-143",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1SebpieixHYOo4uG1VzGW9An_NlhH1naO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Navy",
     "otherTags": [
       {
         "type": "behavior",
@@ -18439,6 +18445,7 @@
     ],
     "primaryHashtag": "HatchetSpeed",
     "profileLeads": [],
+    "realName": "SPEED, Hatchet M.",
     "_id": "CTVWKRcaYibs"
   },
   {
@@ -25536,11 +25543,17 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing a dark jacket, a grey knit scarf, a black baseball cap with a skull with a US flag pattern on it and sunglasses.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "FL",
-    "associates": [],
+    "associates": [
+      "#LuisHallon",
+      "#TraciIsaacs"
+    ],
     "caseIdentifier": "1:22-mj-128",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1513216/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1H_zzoYj9FbAX0GHroKlsoVmTq8e0J3VA",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -25551,6 +25564,7 @@
     ],
     "primaryHashtag": "LeslieGray",
     "profileLeads": [],
+    "realName": "GRAY, Leslie Nash",
     "_id": "-2fHelxp8hFs"
   },
   {
@@ -26125,11 +26139,17 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "Male wearing a dark jacket, a dark knit cap and glasses.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "FL",
-    "associates": [],
+    "associates": [
+      "#LeslieGray",
+      "#TraciIsaacs"
+    ],
     "caseIdentifier": "1:22-mj-128",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1513216/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1hRTJtY9sidMoatIukx-ZQSnhil8lpio1",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -26138,9 +26158,10 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "LuisHallon",
+    "primaryHashtag": "LuisHallonOK",
     "profileLeads": [],
-    "_id": "sQW7SyCsgt7Q"
+    "realName": "HALLON, Luis",
+    "_id": "JHDr93lSctA0"
   },
   {
     "actionsSummary": "Entered Senate chamber. Seen in photographs standing on the dais near #JacobChansley.",
@@ -31868,6 +31889,32 @@
     "_id": "qyXqtOu1YtBk"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Older white woman with short blond hair wearing a hooded red coat over a white top and black gloves.",
+    "arrestDate": "2022-05-17T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#StacyBond"
+    ],
+    "caseIdentifier": "1:22-cr-171",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1509896/download",
+    "filesUrl": "https://drive.google.com/drive/folders/15qsikUVSfUmkWSGXlg2UAaKEbgvV9lvW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "PaulaConlon",
+    "profileLeads": [],
+    "realName": "CONLON, Paula Ann",
+    "_id": "qSb-ztIvYorA"
+  },
+  {
     "actionsSummary": "Entered the Capitol building through the\nSenate Fire Door at approximately 2:42 PM.",
     "alternateHashtags": [
       "Insider1366"
@@ -34531,6 +34578,24 @@
     "primaryHashtag": "RaginRiotCajun",
     "profileLeads": [],
     "_id": "3vInV4Ew0tn8"
+  },
+  {
+    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Balding white man with grey hair wearing a black coat with \"Stop the Steal Four More Years\" on the back, grey pants and holding something (a hat?) bright orange in his hand.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1ywS51xCjXaa3cfZSpAAgZMlnXNgX2HAf",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RailingPitcher",
+    "profileLeads": [],
+    "_id": "OD_-lAOkIi6o"
   },
   {
     "actionsSummary": "Gets violent at NE Capitol entrance, then uses railing as ram. Throws punch at officer.",
@@ -38948,11 +39013,16 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "Older white man with greying hair wearing a grey hoodie over a black top, blue jeans and glasses on the top of his head and carrying a Trump flag on a pole.",
     "arrestDate": "2022-05-26T04:00:00.000Z",
     "arrestState": "MD",
-    "associates": [],
+    "associates": [
+      "#PaulaConlon"
+    ],
     "caseIdentifier": "1:22-cr-171",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1509896/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1ED7oz0os091RCkHb_043p6zxvl07ESEP",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -38963,6 +39033,7 @@
     ],
     "primaryHashtag": "StacyBond",
     "profileLeads": [],
+    "realName": "BOND, Stacy",
     "_id": "7zp3lFsEkkGw"
   },
   {
@@ -42462,14 +42533,24 @@
   {
     "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
+    "appearanceSummary": "White woman with dark hair wearing a black jacket over a white top with \"1776\" inside a circle of stars on the front, khaki pants, a black buff, a Trump knit hat and ski goggles.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "FL",
-    "associates": [],
+    "associates": [
+      "#LuisHallon",
+      "#LeslieGray"
+    ],
     "caseIdentifier": "1:22-mj-128",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1513216/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1qtGsiu3Ckc_yNtedFfJPPf_clCgQKo7K",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "group",
+        "name": "OathKeepers"
+      },
       {
         "type": "behavior",
         "name": "EnteredCapitol"
@@ -42477,6 +42558,7 @@
     ],
     "primaryHashtag": "TraciIsaacs",
     "profileLeads": [],
+    "realName": "ISAACS, Traci",
     "_id": "ai6aLsc1Anlw"
   },
   {
