@@ -25776,7 +25776,13 @@
       "thumbnailUrl": "https://archive.org/download/yMCYKoaNby2YRPhHL/yMCYKoaNby2YRPhHL.200px.jpg"
     }
   ],
-  "HatchetSpeed": [],
+  "HatchetSpeed": [
+    {
+      "mediaItemId": "mhEp8GtcbvdDnEhb3",
+      "archiveUrl": "https://archive.org/download/mhEp8GtcbvdDnEhb3/mhEp8GtcbvdDnEhb3.png",
+      "thumbnailUrl": "https://archive.org/download/mhEp8GtcbvdDnEhb3/mhEp8GtcbvdDnEhb3.200px.png"
+    }
+  ],
   "HawaiianMorningNews": [
     {
       "mediaItemId": "XbiLRfZajFZfpijag",
@@ -34072,7 +34078,13 @@
       "thumbnailUrl": "https://archive.org/download/rW5uvC3PWKN29CKBY/rW5uvC3PWKN29CKBY.200px.png"
     }
   ],
-  "LeslieGray": [],
+  "LeslieGray": [
+    {
+      "mediaItemId": "8v8vNzYC6c8u5Dppu",
+      "archiveUrl": "https://archive.org/download/8v8vNzYC6c8u5Dppu/8v8vNzYC6c8u5Dppu.png",
+      "thumbnailUrl": "https://archive.org/download/8v8vNzYC6c8u5Dppu/8v8vNzYC6c8u5Dppu.200px.png"
+    }
+  ],
   "LeticiaFerreira": [
     {
       "mediaItemId": "F2P4ze4TjbrsCtnFC",
@@ -34728,7 +34740,13 @@
       "thumbnailUrl": "https://archive.org/download/meePRAz9PBoSFk2YM/meePRAz9PBoSFk2YM.200px.jpg"
     }
   ],
-  "LuisHallonOK": [],
+  "LuisHallonOK": [
+    {
+      "mediaItemId": "qZ6ug95QNK2iYbgPR",
+      "archiveUrl": "https://archive.org/download/qZ6ug95QNK2iYbgPR/qZ6ug95QNK2iYbgPR.png",
+      "thumbnailUrl": "https://archive.org/download/qZ6ug95QNK2iYbgPR/qZ6ug95QNK2iYbgPR.200px.png"
+    }
+  ],
   "LukeBender": [
     {
       "mediaItemId": "NPyqEXnp5YL2dTvg5",
@@ -42358,7 +42376,13 @@
       "thumbnailUrl": "https://archive.org/download/DTrPJwWCjqZY2784X/DTrPJwWCjqZY2784X.200px.jpg"
     }
   ],
-  "PaulaConlon": [],
+  "PaulaConlon": [
+    {
+      "mediaItemId": "2T5Bfsp3vR33XYh5k",
+      "archiveUrl": "https://archive.org/download/2T5Bfsp3vR33XYh5k/2T5Bfsp3vR33XYh5k.png",
+      "thumbnailUrl": "https://archive.org/download/2T5Bfsp3vR33XYh5k/2T5Bfsp3vR33XYh5k.200px.png"
+    }
+  ],
   "PaulineBauer": [
     {
       "mediaItemId": "4ee9mFtscyrbTAdpc",
@@ -46853,7 +46877,23 @@
       "thumbnailUrl": "https://archive.org/download/o2Xkq9tRgSLMeCmZS/o2Xkq9tRgSLMeCmZS.200px.png"
     }
   ],
-  "RailingPItcher": [],
+  "RailingPItcher": [
+    {
+      "mediaItemId": "CwDHsAv5KZYwrrQ86",
+      "archiveUrl": "https://archive.org/download/CwDHsAv5KZYwrrQ86/CwDHsAv5KZYwrrQ86.png",
+      "thumbnailUrl": "https://archive.org/download/CwDHsAv5KZYwrrQ86/CwDHsAv5KZYwrrQ86.200px.png"
+    },
+    {
+      "mediaItemId": "Jh8xZjXKB6Td67LFT",
+      "archiveUrl": "https://archive.org/download/Jh8xZjXKB6Td67LFT/Jh8xZjXKB6Td67LFT.png",
+      "thumbnailUrl": "https://archive.org/download/Jh8xZjXKB6Td67LFT/Jh8xZjXKB6Td67LFT.200px.png"
+    },
+    {
+      "mediaItemId": "hyfNkYwSW84d5Z52N",
+      "archiveUrl": "https://archive.org/download/hyfNkYwSW84d5Z52N/hyfNkYwSW84d5Z52N.png",
+      "thumbnailUrl": "https://archive.org/download/hyfNkYwSW84d5Z52N/hyfNkYwSW84d5Z52N.200px.png"
+    }
+  ],
   "RainCoatTurnCoat": [
     {
       "mediaItemId": "4HLwajfZPcLCJf398",
@@ -52612,7 +52652,13 @@
       "thumbnailUrl": "https://archive.org/download/w7fTJLtsr2AcK9zar/w7fTJLtsr2AcK9zar.200px.png"
     }
   ],
-  "StacyBond": [],
+  "StacyBond": [
+    {
+      "mediaItemId": "ALT3xqj9Y96TtwwmM",
+      "archiveUrl": "https://archive.org/download/ALT3xqj9Y96TtwwmM/ALT3xqj9Y96TtwwmM.png",
+      "thumbnailUrl": "https://archive.org/download/ALT3xqj9Y96TtwwmM/ALT3xqj9Y96TtwwmM.200px.png"
+    }
+  ],
   "StacyHager": [
     {
       "mediaItemId": "zvTENaSZCmpkte4gS",
@@ -57478,7 +57524,13 @@
       "thumbnailUrl": "https://archive.org/download/tHLC7AuBpsAmnGgKy/tHLC7AuBpsAmnGgKy.200px.jpg"
     }
   ],
-  "TraciIsaacs": [],
+  "TraciIsaacs": [
+    {
+      "mediaItemId": "jyWtbjWEg2DKNcKHS",
+      "archiveUrl": "https://archive.org/download/jyWtbjWEg2DKNcKHS/jyWtbjWEg2DKNcKHS.png",
+      "thumbnailUrl": "https://archive.org/download/jyWtbjWEg2DKNcKHS/jyWtbjWEg2DKNcKHS.200px.png"
+    }
+  ],
   "TraciSunstrum": [
     {
       "mediaItemId": "AHuRmy43BckEmunkJ",
