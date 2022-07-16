@@ -6186,12 +6186,14 @@
     "_id": "tVwn15fDohwI"
   },
   {
-    "actionsSummary": "Fights police over a barricade.",
+    "actionsSummary": "Wrestles police for a barricade at the East Walkway breach.",
     "alternateHashtags": [
       "RedHatSpanishBeard"
     ],
     "appearanceSummary": "White man with brown hair and facial hair wearing a black fleece lined hoodie over a black tshirt and a red \"Trump 2020\" hat with three white stars on a blue band.",
-    "associates": [],
+    "associates": [
+      "@PhoenixOnWheels"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/138HOgHbFhhWktClu6pOf8Qh4CUQrSysi",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34095,7 +34097,9 @@
     "_id": "4kBEKzcOAsRc"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "https://archive.org/details/egTAvXkg9D4qfpmC4"
+    ],
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1rMdAa7NNNEQCSqE-LY9GiJwQPoQAp2-k",
     "isLawEnforcement": false,

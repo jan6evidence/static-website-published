@@ -46023,7 +46023,28 @@
       "thumbnailUrl": "https://archive.org/download/wDmPYDEPDbjEmrnYm/wDmPYDEPDbjEmrnYm.200px.png"
     }
   ],
-  "PushyRedCamo": [],
+  "PushyRedCamo": [
+    {
+      "mediaItemId": "JgHeSqTkteZ65BmMi",
+      "archiveUrl": "https://archive.org/download/JgHeSqTkteZ65BmMi/JgHeSqTkteZ65BmMi.png",
+      "thumbnailUrl": "https://archive.org/download/JgHeSqTkteZ65BmMi/JgHeSqTkteZ65BmMi.200px.png"
+    },
+    {
+      "mediaItemId": "cwen7EdjJvxPjQwbf",
+      "archiveUrl": "https://archive.org/download/cwen7EdjJvxPjQwbf/cwen7EdjJvxPjQwbf.jpeg",
+      "thumbnailUrl": "https://archive.org/download/cwen7EdjJvxPjQwbf/cwen7EdjJvxPjQwbf.200px.jpeg"
+    },
+    {
+      "mediaItemId": "iE6esn8XD2iGwDsqX",
+      "archiveUrl": "https://archive.org/download/iE6esn8XD2iGwDsqX/iE6esn8XD2iGwDsqX.png",
+      "thumbnailUrl": "https://archive.org/download/iE6esn8XD2iGwDsqX/iE6esn8XD2iGwDsqX.200px.png"
+    },
+    {
+      "mediaItemId": "mHqFvMXc6fEK6Aimq",
+      "archiveUrl": "https://archive.org/download/mHqFvMXc6fEK6Aimq/mHqFvMXc6fEK6Aimq.png",
+      "thumbnailUrl": "https://archive.org/download/mHqFvMXc6fEK6Aimq/mHqFvMXc6fEK6Aimq.200px.png"
+    }
+  ],
   "PushyWeasel": [
     {
       "mediaItemId": "6CbjRZpKcMKRy8hH7",
@@ -55082,7 +55103,23 @@
       "thumbnailUrl": "https://archive.org/download/vR65MLzQmSzYrJTMR/vR65MLzQmSzYrJTMR.200px.jpeg"
     }
   ],
-  "TanRailing": [],
+  "TanRailing": [
+    {
+      "mediaItemId": "5MQieGSPMhiqM4j3q",
+      "archiveUrl": "https://archive.org/download/5MQieGSPMhiqM4j3q/5MQieGSPMhiqM4j3q.jpg",
+      "thumbnailUrl": "https://archive.org/download/5MQieGSPMhiqM4j3q/5MQieGSPMhiqM4j3q.200px.jpg"
+    },
+    {
+      "mediaItemId": "BtGznq9HJkwhyuDBK",
+      "archiveUrl": "https://archive.org/download/BtGznq9HJkwhyuDBK/BtGznq9HJkwhyuDBK.png",
+      "thumbnailUrl": "https://archive.org/download/BtGznq9HJkwhyuDBK/BtGznq9HJkwhyuDBK.200px.png"
+    },
+    {
+      "mediaItemId": "LibGM7hhWpstrpQs6",
+      "archiveUrl": "https://archive.org/download/LibGM7hhWpstrpQs6/LibGM7hhWpstrpQs6.jpeg",
+      "thumbnailUrl": "https://archive.org/download/LibGM7hhWpstrpQs6/LibGM7hhWpstrpQs6.200px.jpeg"
+    }
+  ],
   "TanSprayPasser": [
     {
       "mediaItemId": "EpbkniFR3dZFZA6vk",
