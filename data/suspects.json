@@ -25403,7 +25403,9 @@
     "alternateHashtags": [],
     "appearanceSummary": "White male; brown full beard; brown hair medium length (sticks out back of cap); yellow knit cap with Don't Tread on Me and large snake; Carhartt Full Swing Armstrong Jacket brown (well worn) with zipper and brown corduroy-trimmed collar; camera phone holder/selfie stick in jacket pocket; gray and black backpack with red tags; denim jeans; one of the #YellowBeanieGuys Lump on his forehead, ring finger tattoo on left hand, Arctic Zone Titan backpack https://http2.mlstatic.com/D_NQ_NP_750020-MLM31369403804_072019-O.jpg",
     "associates": [
-      "#LemonZest"
+      "#LemonZest",
+      "#ThirdBaseRoach",
+      "#TriangleHelmet"
     ],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -26082,12 +26084,51 @@
     "_id": "jxS9yQy0QtmU"
   },
   {
+    "actionsSummary": "Wrestles police for barricade at the East Walkway breach.",
     "alternateHashtags": [],
-    "appearanceSummary": "Black knit cap (or possibly a balaclava with the front raised). Green keffiyeh. There might also be a red and white scarf or something similar mixed in. Black sweatshirt with a picture of Long Island and \"Loud Majority\" in white on the front. Backpack with Army green straps and a cross-strap. The cross-strap has a Go-Pro-like device attached to it, and above that what looks like a walkie-talkie microphone. Black and white checkered bracelet on his right wrist. Brown cargo pants. Brown (?) footwear. Photographed using a smartphone on what appears to be the east side of the Capitol.",
-    "associates": [],
+    "appearanceSummary": "Large white man with a short brown beard wearing a black coat and a black baseball cap on backwards.",
+    "associates": [
+      "#LoudMajorityScarfy"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1rMdAa7NNNEQCSqE-LY9GiJwQPoQAp2-k",
+    "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "Long Island Loud Majority sweatshirts"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "LoudMajorityKevin",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "U5_aCU2oEryY"
+  },
+  {
+    "actionsSummary": "Yanks barricades away from police at the East Walkway breach.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Black knit cap (or possibly a balaclava with the front raised). Green keffiyeh. There might also be a red and white scarf or something similar mixed in. Black sweatshirt with a picture of Long Island and \"Loud Majority\" in white on the front. Backpack with Army green straps and a cross-strap. The cross-strap has a Go-Pro-like device attached to it, and above that what looks like a walkie-talkie microphone. Black and white checkered bracelet on his right wrist. Brown cargo pants. Brown (?) footwear. Photographed using a smartphone on what appears to be the east side of the Capitol.",
+    "associates": [
+      "#LoudMajorityKevin"
+    ],
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "Long Island Loud Majority sweatshirts"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "LoudMajorityScarfy",
     "profileLeads": [],
     "_id": "ngqdwJMBEo4k"
@@ -34097,14 +34138,29 @@
     "_id": "4kBEKzcOAsRc"
   },
   {
+    "actionsSummary": "Shoves barricades into police on the East Walkway. Inside Capitol.",
     "alternateHashtags": [
-      "https://archive.org/details/egTAvXkg9D4qfpmC4"
+      "Insider1059"
     ],
+    "appearanceSummary": "White man with brown hair and beard wearing a red sweatshirt, black buff, camo pants and a red baseball cap.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1rMdAa7NNNEQCSqE-LY9GiJwQPoQAp2-k",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "Red tops and camo pants"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "PushyRedCamo",
     "profileLeads": [],
     "_id": "ErSmUwvMolRE"
@@ -41679,7 +41735,10 @@
     "actionsSummary": "Recorded knocking over a riot cop who was trying to keep rioters from taking a barrier on the West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Red baseball cap with a cursive \"W\" on the front. Black sunglasses. Brown hair. Short beard. Black hooded jacket, backpack, and gloves. Gray pants.",
-    "associates": [],
+    "associates": [
+      "#LemonyKickIt",
+      "#TriangleHelmet"
+    ],
     "fbiIdentifier": "322-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -42836,12 +42895,15 @@
     "_id": "xyfA9Mji4nSQ"
   },
   {
-    "actionsSummary": "Shoves police on the NW Lawn and then punches an individual cop. Breaks apart metal railing for weapons. Inside Capitol.",
+    "actionsSummary": "Marches in with the Proud Boys. Shoves police on the NW Lawn and then punches an individual cop. Breaks apart metal railing for weapons. Inside Capitol.",
     "alternateHashtags": [
       "Insider2589"
     ],
     "appearanceSummary": "Black leather jacket over a black hoodie with orange sleeves poking out at the wrists, a black helmet with vents and an upside-down triangle in the back over a blue brimmed baseball cap, black pants, a dark blue scarf with red edges and large white stars, grey gloves and a black backpack.",
-    "associates": [],
+    "associates": [
+      "#ThirdBaseRoach",
+      "#LemonyKickIt"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/1iSjlOjivV6stYLoE8lJSTsbn9q5WZQlY",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
