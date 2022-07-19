@@ -5049,7 +5049,12 @@
     "actionsSummary": "Sprays officers with substance at North Door.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue hooded sweatshirt with a white flag on the front. Black ball cap with a Gadsden flag patch on the front. Black backpack with several patches on the back (\"I pull out\", \"just the tip\", \"Black Guns Matter\" and \"I'm your huckleberry\") Yellow and black striped gaiter.",
+    "arrestDate": "2022-07-18T04:00:00.000Z",
+    "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00162-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1520221/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5064,6 +5069,7 @@
     ],
     "primaryHashtag": "BlueSprayNozzle",
     "profileLeads": [],
+    "realName": "MELLORS, William Hendry",
     "_id": "u91AFHcyAo48"
   },
   {
@@ -10946,7 +10952,7 @@
       "#DianaSantosSmith"
     ],
     "caseIdentifier": "1:21-cr-271",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bancroft-dawn",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
