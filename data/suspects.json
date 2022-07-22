@@ -8530,7 +8530,7 @@
       "#TinaLogsdon"
     ],
     "caseIdentifier": "1:22-cr-00023-TFH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "filesUrl": "https://drive.google.com/drive/folders/1JL3Zkk2YF73kao5SasjY5xLWk2HpQa02?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9974,6 +9974,28 @@
     "primaryHashtag": "CrossBeanie",
     "profileLeads": [],
     "_id": "LYFa9sl0kpUU"
+  },
+  {
+    "actionsSummary": "Pulls barricades away from police at the East Walkway breach.",
+    "alternateHashtags": [
+      "CrossMAGA"
+    ],
+    "appearanceSummary": "White man with white hair wearing a black coat with \"CROSS\" in white on the upper left chest over a plaid shirt, a black baseball cap, blue jeans, light brown boots and a big gold watch or bracelet on his left wrist and carrying a red and white bullhorn.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1AD_drM-UKKqheZBceim9gY5rPptbzi42",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CrossBullhorn",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "adhYwxSe4r6o"
   },
   {
     "actionsSummary": "Seen among the early breachers of the West Lawn. May help pull up fences and barricades. Seems to know #FacePaintBlowHard",
@@ -14663,7 +14685,7 @@
       "#BlakeReed"
     ],
     "caseIdentifier": "1:21-cr-204",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bledsoe-matthew",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -26099,7 +26121,7 @@
     "associates": [
       "#LoudMajorityScarfy"
     ],
-    "filesUrl": "https://drive.google.com/drive/folders/1rMdAa7NNNEQCSqE-LY9GiJwQPoQAp2-k",
+    "filesUrl": "https://drive.google.com/drive/folders/1dlLIE1nDTUuuFmSyY7MxRCDaNwgvY0vI",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27079,7 +27101,7 @@
       "#ThomasFassell"
     ],
     "caseIdentifier": "1:21-mj-00593-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29597,6 +29619,26 @@
     "_id": "N9q5W9vhIqug"
   },
   {
+    "actionsSummary": "Wrestles police for a barricade at the East Walkway breach. Yanks on a police shield.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark mustache and a nasal strip wearing a black coat over a red hoodie, a red MAGA baseball cap over a red knit hat, blue jeans, a tan belt and light brown shoes.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1tmJ-BPLWt14hO3cOTQBDTyZoKTpbj4KE",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "NasalStripScuffler",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "u9StmZKHAlSA"
+  },
+  {
     "actionsSummary": "Enters Capitol dressed in tactical gear, threatens a CCP officer by putting up his fists and boxing toward him",
     "alternateHashtags": [
       "Insider1130"
@@ -29817,6 +29859,7 @@
       "#Individual4"
     ],
     "filesUrl": "https://drive.google.com/drive/folders/1XHYOZbcSullWXk-Xpvlzi1XD9FznrEkl",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -33441,6 +33484,38 @@
     "_id": "Bp5C5PKjcgvg"
   },
   {
+    "actionsSummary": "Shoves barricade into police on the East Walkway",
+    "alternateHashtags": [
+      "Insider1058"
+    ],
+    "appearanceSummary": "White man wearing a camo vest over a red top, camo pants, black gloves, a red MAGA baseball cap and sunglasses.",
+    "associates": [
+      "#PushyRedCamo"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1yi5Fsl2UBBaAryyrMaO2pkwh5CwYuGou",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "Red tops and camo pants"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PreyingSnake",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "xB5fH9UCcldU"
+  },
+  {
     "actionsSummary": "Travels with #PriceTagTwin2. Seen on the lower terrace, upper terrace, and in the tunnel.",
     "alternateHashtags": [],
     "appearanceSummary": "Speckled tan helmet with a Wyoming flag patch. Tan backpack with several pockets and American Flag patch. Gray hoodie, blue jeans, sunglasses with price tag still on it.",
@@ -34152,7 +34227,9 @@
       "Insider1059"
     ],
     "appearanceSummary": "White man with brown hair and beard wearing a red sweatshirt, black buff, camo pants and a red baseball cap.",
-    "associates": [],
+    "associates": [
+      "#PreyingSnake"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/1rMdAa7NNNEQCSqE-LY9GiJwQPoQAp2-k",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34576,6 +34653,26 @@
       "@AnonSpinosa"
     ],
     "_id": "osEaVvFPUo40"
+  },
+  {
+    "actionsSummary": "Wrestles police for a barricade at the East Walkway breach. Shoves barricade into police.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with short dark hair and a bad undercut wearing a black fleece over a white top, blue jeans, black shoes, dark gloves and wire rim sunglasses as well as a black baseball cap that says \"United States of America est 1776\" over a black knit cap. (Both hats fall off.)",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1kKmyZvTqinXaExuACePUwMhyqPRIDyuL",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RackFighter",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "v1y2dfrFAhAE"
   },
   {
     "actionsSummary": "Entered the U.S. Capitol through the northwest Senate Wing door.",
@@ -41852,7 +41949,7 @@
       "#MarilynFassell"
     ],
     "caseIdentifier": "1:21-mj-00593-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -42268,7 +42365,7 @@
       "#ChristopherLogsdon"
     ],
     "caseIdentifier": "1:22-cr-00023-TFH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "filesUrl": "https://drive.google.com/drive/folders/1zT7EbCkqbSJ3EbjqVfLW62a6qWO3jF8g?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
