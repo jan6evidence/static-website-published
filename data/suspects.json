@@ -2163,7 +2163,7 @@
     "arrestState": "AZ",
     "associates": [],
     "caseIdentifier": "1:21-mj-14",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1355771/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27234,7 +27234,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-144",
-    "caseStatus": "Arrested",
+    "caseStatus": "Deceased Before Trial",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/aungst-mark-roderick",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29849,7 +29849,7 @@
     "_id": "VdbPKkGQsjL8"
   },
   {
-    "actionsSummary": "Under the NW scaffolding with some others in the OrangeTapeGroup. Seemed to be directing, ordering others including #Individual4. Seen inside Capitol.",
+    "actionsSummary": "Assaults police at the top of the NW Steps. Under the NW scaffolding with some others in the OrangeTapeGroup. Seemed to be directing, ordering others including #Individual4. Seen inside Capitol.",
     "alternateHashtags": [
       "Insider1045"
     ],
@@ -29874,6 +29874,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "NeonGingerNS",
