@@ -26400,6 +26400,7 @@
     "appearanceSummary": "Orange and black gloves. Black coat. Grey helmet. Glasses. Clean shaven.",
     "associates": [],
     "fbiIdentifier": "268-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1uWNrCoouIyhBE9lycrd7cdCoqI4Bi3Lq",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -39326,13 +39327,15 @@
     "_id": "rEAXMjgKonMc"
   },
   {
-    "actionsSummary": "Wrestles with police officer on NW Stairs",
+    "actionsSummary": "Throws cop to the ground in the NW Scaffolding. Inside Capitol.",
     "alternateHashtags": [
       "Insider1195"
     ],
     "appearanceSummary": "Black or dark brown knit cap. Silver goggles with a black strap. Black gaiter with white block letters on it. Black leather jacket. Black gloves. Might have a black hoodie under the jacket. Might be wearing blue jeans with a black belt.",
     "associates": [],
     "fbiIdentifier": "425-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1O8QeQBTjCnYJP3QXhOZMlACdMXkyWMir",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -39622,7 +39625,7 @@
     "alternateHashtags": [
       "StolenPoliceHelmet"
     ],
-    "appearanceSummary": "Leather jacket, skull mask. Note: NOT #HarleyJacketBatonMan or #GasMaskBatman",
+    "appearanceSummary": "White man wearing a leather jacket, a black mask with writing on it \"NEVER....\", a knit hat and silver swim goggles or ski goggles.",
     "associates": [
       "#BullhornLady"
     ],
