@@ -2025,6 +2025,26 @@
     "_id": "HtbMOz8K0sEI"
   },
   {
+    "actionsSummary": "Pulls barricades apart at East Walkway breach.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with white hair wearing an olive green Columbia coat and tan baseball cap.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1YlTymOztZnzZNigJD7WqAm1BSKRCslAv",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BackOnHisBSMAGA",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "7hV8OI4rAvVI"
+  },
+  {
     "actionsSummary": "Early breacher into the Capitol, through NW Courtyard breach. Seen in morning near W monument with EvilWashington and one other man in Colonial costume",
     "alternateHashtags": [
       "Insider1052"
@@ -2427,6 +2447,26 @@
     "primaryHashtag": "BareSpare",
     "profileLeads": [],
     "_id": "C5WAWfHAgu3o"
+  },
+  {
+    "actionsSummary": "Pulls barricades away from police at the East Walkway breach.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a grey beard wearing a red hoodie that says \"Pass the Salt Ministries CoachDaveLive.Com\" with three silhouettes raising a white cross on the back over a baseball cap, blue jeans, black tennis shoes with white soles, black gloves and sunglasses. (Looks very similar to Dave himself but this is not him.)",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1nEgwbv-B37BgiSjLaB1xbZkMExH5du1F",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BarricadeThief",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "TLzLlvYFoiOU"
   },
   {
     "alternateHashtags": [],
@@ -13882,7 +13922,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/17RR71EyQnH5LA4OB2gF4K_EcupMJX-YF",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "FishingPoleBrawler",
     "profileLeads": [
       "@PhoenixOnWheels"
@@ -14088,6 +14133,26 @@
     "profileLeads": [],
     "realName": "DEMPSEY, David Nicholas",
     "_id": "asU9smEbcnC8"
+  },
+  {
+    "actionsSummary": "Pulls barricade away from police at the East Walkway breach.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Man with dark hair and goatee wearing a black baseball cap with a flag brim, a black hoodie with a flag and \"If this flag offends you I'll help you pack\" in white on the back and front and \"2020 Trump\" in RWB text on the upper left arm, black pants, black gloves, black boots and sunglasses and carrying a red and white bullhorn.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/18wI0-rJJQxT3uIkVdJ9nSJbpAknWWeiH",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "FlagHatBullhorn",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "HruQspujMsEc"
   },
   {
     "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol.",
