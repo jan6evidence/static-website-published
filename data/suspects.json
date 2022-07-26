@@ -30983,12 +30983,13 @@
     "_id": "H9TXMA9lopSM"
   },
   {
-    "actionsSummary": "On the frontline at the scaffolding. Uses \"I'm an old fool\" tactics to get the barriers away from police. Also seen playing this game inside the Capitol building.",
+    "actionsSummary": "Pulls barricades away from police in NW Scaffolding. Assault police at Columbus doors. Pushes through police line inside Capitol.",
     "alternateHashtags": [
       "Insider0505"
     ],
-    "appearanceSummary": "Older guy. Thinning, light colored hair. Dark jacket with no hood. No face covering or hat. Clean shaven.",
+    "appearanceSummary": "Older man with thinning grey hair and goatee and stooped posture wearing a dark puffer jacket with a black knit collar and cuffs, blue (denim?) shirt, black t-shirt, khaki pants and a brown belt.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1IyViYt4U5_bsDwlrspBbFbqJzaaaeCfR",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -30998,11 +30999,17 @@
       },
       {
         "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
         "name": "Vandalism"
       }
     ],
     "primaryHashtag": "OldFashNS",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "dvY3LvdjQlAo"
   },
   {
@@ -34842,9 +34849,9 @@
     "_id": "3vInV4Ew0tn8"
   },
   {
-    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza.",
+    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza and a water bottle and another unidentified object at police in the NW Scaffolding.",
     "alternateHashtags": [],
-    "appearanceSummary": "Balding white man with grey hair wearing a black coat with \"Stop the Steal Four More Years\" on the back, grey pants and holding something (a hat?) bright orange in his hand.",
+    "appearanceSummary": "Balding white man with grey hair wearing a flag print cowboy hat, which he loses in the NW Scaffolding, a black coat with \"Stop the Steal Four More Years\" written in a flag print on the back, grey or brown pants, brown gloves and holding something (a hat?) bright orange in his hand.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1ywS51xCjXaa3cfZSpAAgZMlnXNgX2HAf",
     "isLawEnforcement": false,
@@ -34856,7 +34863,9 @@
       }
     ],
     "primaryHashtag": "RailingPitcher",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "OD_-lAOkIi6o"
   },
   {
