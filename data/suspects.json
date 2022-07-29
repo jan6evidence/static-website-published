@@ -4026,13 +4026,13 @@
     "_id": "xOFI-2Bzohmc"
   },
   {
-    "actionsSummary": "Jabs police with a flag pole in the NW Scaffolding. Throws a flag at police on the NW Terrace.",
+    "actionsSummary": "Jabs police with a flag pole in the NW Scaffolding. Strikes police with a flag on the NW Terrace. Throws a teargas canister into a group of police on the NW Steps/NW Terrace.",
     "alternateHashtags": [],
-    "appearanceSummary": "White man with a cleft chin wearing a black coat, black beanie hat, dDistressed white t-shirt with a flag on it and reflective sunglasses.",
+    "appearanceSummary": "White man with a cleft chin wearing a black coat, black beanie hat, distressed white t-shirt with a flag on it and reflective sunglasses and carrying a red baseball cap.",
     "associates": [],
     "fbiIdentifier": "187-AFO",
     "isLawEnforcement": false,
-    "isMpdSuspect": false,
+    "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
