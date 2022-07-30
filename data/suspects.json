@@ -7320,6 +7320,7 @@
     ],
     "appearanceSummary": "Long black overcoat over a blue Trump tshirt. Long red and white candy cane striped scarf. Seen with two masks, a red and white striped one and a red one with white writing \"CNN Fake News\". Knit cap with a navy brim that says \"Make America Great Again\" and flat print top. Blue jeans. Dark tennis shoes with white sole edge. Dark gloves.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1QOFjgzWSB6_jEHOJkGnt-D_E5Oj4_fp8/view?usp=sharing",
     "filesUrl": "https://drive.google.com/drive/folders/1VTsFmldwFKC90RhYekN_Czu1XAWsriT-?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -11448,6 +11449,24 @@
     "_id": "kQjyhtWxchXY"
   },
   {
+    "actionsSummary": "Helps #SteamPunkLunk throw a cop to the ground in the NW Scaffolding.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with white hair and a long white beard wearing a brown coat, a black facemask and a Trump flag as a cape and carrying a black backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1EgHT7020kBFNLitkAhcfRDzuyqL-PyyD",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "DeviousDumbledore",
+    "profileLeads": [],
+    "_id": "dDdmxE2zIjk0"
+  },
+  {
     "actionsSummary": "Tries to wrestle barrier away from police on Upper West Plaza. Carries police barricade away. Cuts open tarp on NW scaffold with a sawzall.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with brown hair, pinkish hooded jacket with grey cuffs and grey and white plaid lining, brown pants and shoes, large watch on left wrist, tan backpack, red MAGA cap with 45 on right side. Radio mounted on backpack strap.",
@@ -14135,6 +14154,32 @@
     "_id": "asU9smEbcnC8"
   },
   {
+    "actionsSummary": "Wrestles police for barricades at NW Scaffolding breach. Hits cop in the head with a metal pole on NW Terrace. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2812"
+    ],
+    "appearanceSummary": "White man with dark hair and facial hair wearing a black baseball cap that says \"Trump Keeping American Great 2020\" on the front and \"45th president\" with a yellow Trump signature on the brim and a camo jacket.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1s8hzGtHUN-wHvkH5__d5IA9YiSzIgRLl",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "FlaggerAJ",
+    "profileLeads": [
+      "@Nabert94366848"
+    ],
+    "_id": "QkYJ72cxokk0"
+  },
+  {
     "actionsSummary": "Pulls barricade away from police at the East Walkway breach.",
     "alternateHashtags": [],
     "appearanceSummary": "Man with dark hair and goatee wearing a black baseball cap with a flag brim, a black hoodie with a flag and \"If this flag offends you I'll help you pack\" in white on the back and front and \"2020 Trump\" in RWB text on the upper left arm, black pants, black gloves, black boots and sunglasses and carrying a red and white bullhorn.",
@@ -16660,6 +16705,28 @@
     "primaryHashtag": "GrayGunPoser",
     "profileLeads": [],
     "_id": "OpM5gYRLUi7Y"
+  },
+  {
+    "actionsSummary": "Pushes an officer from behind on the Upper West Plaza.",
+    "alternateHashtags": [
+      "GrayHornedBackchecker"
+    ],
+    "appearanceSummary": "White man wearing a black jacket, grey knit hat, maroon(ish) gaiter and sunglasses and carrying a backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1i-GXo4XVlWoDuatXy-gGY0jsakHVcANj",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GrayKnitCopPusher",
+    "profileLeads": [
+      "@AlHunt08657198"
+    ],
+    "_id": "EkJtdjNTMn68"
   },
   {
     "actionsSummary": "Shown on video on the West Plaza.",
@@ -27822,17 +27889,17 @@
     "_id": "GKarkVlr4hyw"
   },
   {
-    "actionsSummary": "Pushed an officer.",
+    "actionsSummary": "Pushed an officer. Arrested inside the Capitol Building at approximately 3:00pm on January 6.",
     "alternateHashtags": [
       "Insider1917",
       "RabidChipmunk"
     ],
-    "appearanceSummary": "Arrested inside the Capitol Building at approximately 3:00pm on January \n6. Neither the Statement of Facts nor the Indictment for this case has \nany images of Council.",
+    "appearanceSummary": "Neither the Statement of Facts nor the Indictment for this case has \nany images of Council.",
     "arrestDate": "2021-01-07T05:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-207",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "filesUrl": "https://drive.google.com/drive/folders/1reQbR7atUJXCHDajsWIoHjg2zH6F0r45?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
