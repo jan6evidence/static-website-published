@@ -8526,7 +8526,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-mj-53",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1355526/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34167,6 +34167,29 @@
     "_id": "AqEhoVjyYl0I"
   },
   {
+    "actionsSummary": "Participates in group shove of LEOs on the NW Lawn.",
+    "alternateHashtags": [
+      "IAmTimDavis"
+    ],
+    "appearanceSummary": "White man with curly hair wearing a black tshirt with \"1776\" surrounded by stars on the front and \"We the People\" on the upper left arm over a black long sleeve shirt, blue jeans, a brown leather belt, brown shoes, a dark vertically striped buff and a dark baseball cap and carrying a US flag on a short black pole. Known public figure - Oregon public broadcasting etc. reported on his presence on J6.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1R9D0D15kHEqiJXb6PZxQrNEQNqgvpLuY",
+    "idStatus": "Public Figure",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "Pushy1776",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "9K5il7ALgiCE"
+  },
+  {
     "actionsSummary": "Shoves police on the NW Lawn. Inside Capitol building.",
     "alternateHashtags": [
       "Insider0578"
@@ -36228,7 +36251,7 @@
     "arrestState": "TN",
     "associates": [],
     "caseIdentifier": "1:21-cr-257",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "fbiIdentifier": "173-AFO",
     "idStatus": "Self Doxxed",
     "isLawEnforcement": false,
