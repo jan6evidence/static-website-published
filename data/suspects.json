@@ -22841,7 +22841,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-cr-341",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27011,7 +27011,7 @@
     "_id": "nAJzLxXhsjig"
   },
   {
-    "actionsSummary": "Leads group of NW walkway breachers. Actively pulls down barricades and wrestles with police. Appears to be an on-site manager/leadout. Later moves up onto W steps but not seen playing later role.",
+    "actionsSummary": "Leads group of NW walkway breachers. Actively pulls down barricades and wrestles with police. Appears to be an on-site manager/leadout. Later moves up onto W steps but not seen playing later role. Assaults police at the SW Corner.",
     "alternateHashtags": [
       "MAGAret"
     ],
@@ -27027,6 +27027,10 @@
       {
         "type": "group",
         "name": "NWalkwayBreach"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "behavior",
@@ -34940,28 +34944,6 @@
     "_id": "3vInV4Ew0tn8"
   },
   {
-    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza and a water bottle and another unidentified object at police in the NW Scaffolding.",
-    "alternateHashtags": [
-      "ThomasGallagher"
-    ],
-    "appearanceSummary": "Balding white man with grey hair wearing a flag print cowboy hat, which he loses in the NW Scaffolding, a black coat with \"Stop the Steal Four More Years\" written in a flag print on the back, grey or brown pants, brown gloves and holding something (a hat?) bright orange in his hand.",
-    "associates": [],
-    "filesUrl": "https://drive.google.com/drive/folders/1ywS51xCjXaa3cfZSpAAgZMlnXNgX2HAf",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
-    "primaryHashtag": "RailingPitcher",
-    "profileLeads": [
-      "@PhoenixOnWheels"
-    ],
-    "_id": "OD_-lAOkIi6o"
-  },
-  {
     "actionsSummary": "Gets violent at NE Capitol entrance, then uses railing as ram. Throws punch at officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Older white male. Black baseball cap over a do-rag, possibly in flag colors. Glasses. Blue-white gaiter. Black zip-up jacket over olive shirt. Blue jeans. Grey fanny pack.",
@@ -37646,6 +37628,33 @@
     "primaryHashtag": "SeditiousGranny",
     "profileLeads": [],
     "_id": "N7LJbzN3Us4A"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "WilliamKit",
+      "Insider678"
+    ],
+    "appearanceSummary": "Black man wearing a camo coat over a red shirt, blue jeans, a white durag and a flag print bandana around his neck.",
+    "arrestDate": "2022-08-02T04:00:00.000Z",
+    "arrestState": "Washington D.C.",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00166-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.245768/gov.uscourts.dcd.245768.1.1_1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Nx0g3nURk9Hc2w-uohB5j28OkTO3EvR1",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "SemoreViews",
+    "profileLeads": [],
+    "realName": "KIT, William Semore",
+    "_id": "O0TwnVX6AiZU"
   },
   {
     "alternateHashtags": [
@@ -42179,12 +42188,12 @@
     "_id": "fP6eheDV8oBs"
   },
   {
-    "actionsSummary": "“…making loud noises, and kicking chairs, throwing an unknown liquid substance at officers, and spraying an unknown substance…” At front of the group and “…willfully refused the order to leave.”",
+    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza and a water bottle and another unidentified object at police in the NW Scaffolding.  “…making loud noises, and kicking chairs, throwing an unknown liquid substance at officers, and spraying an unknown substance…” At front of the group and “…willfully refused the order to leave.”",
     "alternateHashtags": [
       "Insider1826",
       "RailingPItcher"
     ],
-    "appearanceSummary": "Brownish gray, patterned knit cap. Early in the day was recorded also wearing a stars and stripes cowboy hat on top of that, as well as eyeglasses hooked into his collar. Dark gaiter around his neck. Black, long-sleeved shirt with a big circular logo on the front that says \"Million Maga March\" in red, white, and blue. It looks like he has another shirt under it. Heavy duty, dark brown or dark green gloves. Gray pants. Dark shoes.",
+    "appearanceSummary": "Balding white man with grey hair. Seen in multiple hats. Wearing brownish gray, patterned knit cap. Early in the day was recorded also wearing a stars and stripes / flag print cowboy hat on top of that, (which he loses in the NW Scaffolding) as well as eyeglasses hooked into his collar. Dark gaiter around his neck. Black, long-sleeved shirt with a big circular logo on the front that says \"Million Maga March\" in red, white, and blue / black coat with \"Stop the Steal Four More Years\" written in a flag print on the back... It looks like he has another shirt under it. Heavy duty, dark brown or dark green gloves, and holding something (a hat?) bright orange in his hand. Gray or Brown pants. Dark shoes.",
     "arrestDate": "2021-01-07T05:00:00.000Z",
     "arrestState": "NH",
     "associates": [],
@@ -42209,7 +42218,9 @@
       }
     ],
     "primaryHashtag": "ThomasGallagher",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "realName": "GALLAGHER, Thomas",
     "_id": "_QZi5c_rIrXw"
   },
