@@ -11394,6 +11394,32 @@
     "_id": "N2HRrplvAsXs"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider344"
+    ],
+    "appearanceSummary": "White man with brown hair and beard wearing a grey hoodie, jeans, and a grey baseball cap.",
+    "arrestDate": "2022-08-05T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00129-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1524371/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1-2NE_efPu0VjNe8oKNSVjET5Ubb1ImHZ",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DerekSulenta",
+    "profileLeads": [],
+    "realName": "SULENTA, Derek",
+    "_id": "i0j8r4WvsvA4"
+  },
+  {
     "actionsSummary": "Live-streamed as the crowd entered the Capitol",
     "alternateHashtags": [
       "Insider0768"
@@ -12144,6 +12170,27 @@
     "primaryHashtag": "DrewlOK",
     "profileLeads": [],
     "_id": "0ZYM2ES9Ym4U"
+  },
+  {
+    "actionsSummary": "Sprayed police at the Tunnel on the Lower West Terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark hair and beard wearing a black jacket, blue jeans, black gloves and a black knit cap with a green dk cycles bmx logo. The logo is from ~1990s to about 2007.  dk cycles is popular in Ohio region and has HQ in Dayton.",
+    "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1nHxPSIAXJkbUrzmWdslA2xKLMdV0bLVz/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1J_hKuzvATtr7lE9NyefJuf2Joosi5nKT",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Sprayer"
+      }
+    ],
+    "primaryHashtag": "DrkSprayer",
+    "profileLeads": [
+      "@JusticCat0106"
+    ],
+    "_id": "cB6tgjV2Mtbo"
   },
   {
     "actionsSummary": "Recorded at the doors to the House Speaker's Lobby where Ashli Babbit was shot.",
@@ -17688,6 +17735,26 @@
     "_id": "t6zb_vvgcjf8"
   },
   {
+    "actionsSummary": "Fought police on the Upper West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Asian man wearing a vintage black leather jacket over a grey hoodie with an eagle standing on a flag embroidered on the back (https://www.etsy.com/listing/882392928/mens-eagle-american-flag-black-leather) and a baseball cap.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1_DZSsuPLEv4kp7VK5_pWgp5OvlWtjpf9",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "GreyEagleBack",
+    "profileLeads": [
+      "@JusticCat0106"
+    ],
+    "_id": "mOwOcg5oYo9w"
+  },
+  {
     "actionsSummary": "Seen under NW scaffolding, then one of the first to go through NW door.  Always travels with #BetaKappaMaga and appears in same Wanted photo. Seen with America First group in the morning. Took police equipment.",
     "alternateHashtags": [
       "Insider1228"
@@ -22132,6 +22199,30 @@
     "profileLeads": [],
     "realName": "VOROUS, Jeremy J.",
     "_id": "DNliaIvzkvPM"
+  },
+  {
+    "actionsSummary": "Brought a gun to the Capitol and dropped it.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Stocky white man with a bushy brown beard wearing a grey coat.with a yellow stripe over a grey tshirt that says \"SAVE THE CHILDREN\", brown pants and a Trump bobble hat.",
+    "arrestDate": "2022-08-05T04:00:00.000Z",
+    "arrestState": "MO",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00169",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1523976/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1nt0TTxd__c4EjvT_nUyT4moikweRXSrQ",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JerodBargar",
+    "profileLeads": [],
+    "realName": "BARGAR, Jerod Thomas",
+    "_id": "s1B9WlOdIm1o"
   },
   {
     "actionsSummary": "Entered the Capitol via hte East side of the building",
@@ -31826,7 +31917,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-cr-126",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Elbert%20Faulkner%20Statement%20of%20Facts.pdf",
     "compositeURL": "https://drive.google.com/file/d/1GRyOMi46Mov0pKImGDoG4qBgZeK19xbQ/view?usp=sharing",
     "isLawEnforcement": false,
@@ -36257,6 +36348,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "White man with full gray beard stars and stripes baseball cap with a gold eagle emblem on front (sometimes worn backwards) Wears a red long sleeved shirt that reads 'Make America Great Again' Carries black and gold backpack",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1KvyDG2PwvoWg0exFbtSmD4Zo-3HX2RMg",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -44496,7 +44588,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1c6XMiRnKOamNNniDiC5nOn3iDM73xYNq",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "VansHatPal",
     "profileLeads": [
       "@PhoenixOnWheels"
