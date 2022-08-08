@@ -16254,7 +16254,13 @@
       "thumbnailUrl": "https://archive.org/download/wA7iz6rS9bSSFoSBM/wA7iz6rS9bSSFoSBM.200px.png"
     }
   ],
-  "DerekSulenta": [],
+  "DerekSulenta": [
+    {
+      "mediaItemId": "B6nLDHzg63EkqEf7c",
+      "archiveUrl": "https://archive.org/download/B6nLDHzg63EkqEf7c/B6nLDHzg63EkqEf7c.png",
+      "thumbnailUrl": "https://archive.org/download/B6nLDHzg63EkqEf7c/B6nLDHzg63EkqEf7c.200px.png"
+    }
+  ],
   "DerrickEvans": [
     {
       "mediaItemId": "ThmRDRd7hG6zn89qt",
@@ -16983,7 +16989,18 @@
       "thumbnailUrl": "https://archive.org/download/vxccSr6DuCjG3ydEf/vxccSr6DuCjG3ydEf.200px.png"
     }
   ],
-  "DrkSprayer": [],
+  "DrkSprayer": [
+    {
+      "mediaItemId": "cSzT3Pn3BKpi7qGr8",
+      "archiveUrl": "https://archive.org/download/cSzT3Pn3BKpi7qGr8/cSzT3Pn3BKpi7qGr8.jpeg",
+      "thumbnailUrl": "https://archive.org/download/cSzT3Pn3BKpi7qGr8/cSzT3Pn3BKpi7qGr8.200px.jpeg"
+    },
+    {
+      "mediaItemId": "wpB48BvKsjiLt2mJ9",
+      "archiveUrl": "https://archive.org/download/wpB48BvKsjiLt2mJ9/wpB48BvKsjiLt2mJ9.png",
+      "thumbnailUrl": "https://archive.org/download/wpB48BvKsjiLt2mJ9/wpB48BvKsjiLt2mJ9.200px.png"
+    }
+  ],
   "DroopyDogg": [
     {
       "mediaItemId": "LMHmXe5AqXYMzXfFL",
@@ -31014,7 +31031,13 @@
       "archiveUrl": "https://archive.org/download/zBnPFNJbTZY6JDArf/zBnPFNJbTZY6JDArf.png"
     }
   ],
-  "JerodBargar": [],
+  "JerodBargar": [
+    {
+      "mediaItemId": "pA6Sc2bok2xA2g3Yq",
+      "archiveUrl": "https://archive.org/download/pA6Sc2bok2xA2g3Yq/pA6Sc2bok2xA2g3Yq.png",
+      "thumbnailUrl": "https://archive.org/download/pA6Sc2bok2xA2g3Yq/pA6Sc2bok2xA2g3Yq.200px.png"
+    }
+  ],
   "JerryRyals": [
     {
       "mediaItemId": "4TbeiBTaktD4K2xDg",
@@ -49326,7 +49349,13 @@
       "thumbnailUrl": "https://archive.org/download/s9ZRT5jp7FmnjTCXQ/s9ZRT5jp7FmnjTCXQ.200px.png"
     }
   ],
-  "RontheRepublic1": [],
+  "RontheRepublic1": [
+    {
+      "mediaItemId": "B2hLfP9aSTZ27XS8j",
+      "archiveUrl": "https://archive.org/download/B2hLfP9aSTZ27XS8j/B2hLfP9aSTZ27XS8j.png",
+      "thumbnailUrl": "https://archive.org/download/B2hLfP9aSTZ27XS8j/B2hLfP9aSTZ27XS8j.200px.png"
+    }
+  ],
   "RottenOlive": [
     {
       "mediaItemId": "LL2chD3ehktbCdQKd",
