@@ -9685,13 +9685,18 @@
     "_id": "cXCU9c9IwqS8"
   },
   {
-    "actionsSummary": "Seen in the scaffolding.",
+    "actionsSummary": "Bashes police in the head with a flagpole at the north door.",
     "alternateHashtags": [],
     "appearanceSummary": "Short dark hair. Slight goatee. Jacket with thin white stripes and large maroon or red squares making a plaid pattern. Beneath that is a neon yellow shirt or vest. Might be wearing a black shirt under that. Gray or khaki pants.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "CountPlaidula",
     "profileLeads": [],
     "_id": "SnLCXshc4qqM"
@@ -38428,12 +38433,18 @@
     "_id": "pFKupL7xYmTA"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [
       "DiscountTywin",
       "Insider0004"
     ],
     "appearanceSummary": "Older man with short, gray hair that has a receded hairline. Clean-shaven. Black hoodie.",
+    "arrestDate": "2022-08-09T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00168-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.245807/gov.uscourts.dcd.245807.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -38444,6 +38455,7 @@
     ],
     "primaryHashtag": "SilverSleazy",
     "profileLeads": [],
+    "realName": "ROBINSON, James \"Jim\"",
     "_id": "xf2eDK7XQpa4"
   },
   {
