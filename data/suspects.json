@@ -9685,18 +9685,13 @@
     "_id": "cXCU9c9IwqS8"
   },
   {
-    "actionsSummary": "Bashes police in the head with a flagpole at the north door.",
+    "actionsSummary": "Seen in the scaffolding.",
     "alternateHashtags": [],
     "appearanceSummary": "Short dark hair. Slight goatee. Jacket with thin white stripes and large maroon or red squares making a plaid pattern. Beneath that is a neon yellow shirt or vest. Might be wearing a black shirt under that. Gray or khaki pants.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Violence"
-      }
-    ],
+    "otherTags": [],
     "primaryHashtag": "CountPlaidula",
     "profileLeads": [],
     "_id": "SnLCXshc4qqM"
@@ -33474,13 +33469,18 @@
     "_id": "AUJdVzmxIvI8"
   },
   {
-    "actionsSummary": "Photographed pushing against a riot cop shield.",
+    "actionsSummary": "Photographed pushing against a riot cop shield. Bashes police in the head with a flagpole at the north doors.",
     "alternateHashtags": [],
     "appearanceSummary": "Baseball cap with a blue front and bill and white sides and back. There is a US flag patch on the front. Yellow sunglasses or goggles with black frames. Medium-length, dark brown hair. Incipient beard and mustache. Stars and stripes gaiter. Red and gray plaid jacket over a gray shirt. May have a darker gray hoodie. Dull green backpack. Blue jeans. Dark shoes. May be seen carrying a red flag with white stars.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "Plaidypus",
     "profileLeads": [],
     "_id": "OoAw-QDjEsuE"
@@ -36300,7 +36300,7 @@
       "#JosiahColt"
     ],
     "caseIdentifier": "1:21-cr-88",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ronald%20Sandlin%20Complaint%20and%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
