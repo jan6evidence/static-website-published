@@ -7156,7 +7156,7 @@
     "_id": "KL4EPIahsq74"
   },
   {
-    "actionsSummary": "Participates in a group shoving assault against police on the NW Lawn.",
+    "actionsSummary": "Participates in a group shoving assault against police on the NW Lawn. Inside Capitol building.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with white hair and beard wearing a black hoodie or hooded coat, a camo hat with a black flag embroidered on the front and two small Michigan badges pinned on the back, a grey and black backpack with white writing on the front strap and a black and white patterned buff.",
     "associates": [],
@@ -7164,6 +7164,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -11843,6 +11847,34 @@
     "profileLeads": [],
     "realName": "BISSEY, Dona Sue",
     "_id": "gnhvG3me4sqw"
+  },
+  {
+    "actionsSummary": "Inside Capitol building and Senate Chambers.",
+    "alternateHashtags": [
+      "Insider1480"
+    ],
+    "appearanceSummary": "White man with a grey beard wearing jeans, a black jacket, a red beanie with the word TRUMP stitched on it, and black sneakers.",
+    "arrestDate": "2022-08-11T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [
+      "#ShawndaleChilcoat"
+    ],
+    "caseIdentifier": "1:22-mj-00179-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.246192/gov.uscourts.dcd.246192.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1SrQon7VNPQLpFuS7epoLucQrzzF_Gw0C",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DonaldChilcoat",
+    "profileLeads": [],
+    "realName": "CHILCOATE, Donald",
+    "_id": "tQT6Nw3yEi14"
   },
   {
     "actionsSummary": "Entered capitol through Southeast door, walked around second floor for a half hours and left",
@@ -25140,6 +25172,32 @@
     "_id": "GQcfOixIgtkE"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2727"
+    ],
+    "appearanceSummary": "White man with brown hair and brown beard wearing a dark baseball cap with white writing and a grey hoodie.",
+    "arrestDate": "2022-08-10T04:00:00.000Z",
+    "arrestState": "UT",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-00270-CJN",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.246138/gov.uscourts.dcd.246138.1.0.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1SP8PA82x0Aid68jJVBZb_fVRlge0atm4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "LandonManwaring",
+    "profileLeads": [],
+    "realName": "MANWARING, Landon",
+    "_id": "vlC1Mnp2cncI"
+  },
+  {
     "actionsSummary": "Inside Capitol including the floor of the Senate.",
     "alternateHashtags": [
       "Insider1803"
@@ -34959,6 +35017,34 @@
     "_id": "v1y2dfrFAhAE"
   },
   {
+    "actionsSummary": "Shoved barricades into cops in the NW Scaffolding. Moved barricades on the Upper West Plaza. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2742"
+    ],
+    "appearanceSummary": "Wearing a black hoodie, black gloves, protective goggles over wire frame eyeglasses with small rectangular lenses and a blue and grey respirator with pink and yellow rectangular filters.",
+    "associates": [
+      "#WhiteTipInsider"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/1t-FxOBP2XvugZmhu9n9FGkiocbfc5rek",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RackRoller",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "keF9eQHKUvzE"
+  },
+  {
     "actionsSummary": "Entered the U.S. Capitol through the northwest Senate Wing door.",
     "alternateHashtags": [
       "Insider1666"
@@ -38116,6 +38202,34 @@
     "_id": "v9F5o0vpQqTg"
   },
   {
+    "actionsSummary": "Inside Capitol building and Senate Chambers.",
+    "alternateHashtags": [
+      "Insider876"
+    ],
+    "appearanceSummary": "White woman wearing jeans, a black jacket with a grey collar, black gloves, a navy blue beanie with white and red stitching, and black sneakers with a white sole",
+    "arrestDate": "2022-08-11T04:00:00.000Z",
+    "arrestState": "OH",
+    "associates": [
+      "#DonaldChilcoat"
+    ],
+    "caseIdentifier": "1:22-mj-00179-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.246192/gov.uscourts.dcd.246192.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/12VpDPHrhQshdZ_j8QJ2eX-KerC_Q7T8i",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "ShawndaleChilcoat",
+    "profileLeads": [],
+    "realName": "CHILCOATE, Shawndale Morgan",
+    "_id": "A1Q8Q_c4gi_o"
+  },
+  {
     "actionsSummary": "Pushes against officer line on West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Black knit cap with the Jersey Devils logo on the front and a red Adidas logo near the left temple. Some footage shows him wearing goggles with gray frames, a gray strap that says \"3M\", and lenses shaped liked inverted triangles. Incipient, red beard and mustache. Stars and stripes gaiter, sometimes worn over his face. Black hoodie with paired horizontal white stripes. In the pictures we have, the hood is over the hat but you can still see the hockey team logo. Black backpack from The North Face. Black (?) pants.",
@@ -39857,7 +39971,7 @@
     "arrestState": "OH",
     "associates": [],
     "caseIdentifier": "1:21-mj-562",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Steven%20Billingsley%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -45500,6 +45614,35 @@
     "primaryHashtag": "WhiteStrikeOut",
     "profileLeads": [],
     "_id": "bgm4Ba4REjCM"
+  },
+  {
+    "actionsSummary": "Yanks barricades away from police in the NW Scaffolding. On the Lower West Terrace. Inside the Capitol.",
+    "alternateHashtags": [
+      "WhiteTip",
+      "Insider2741"
+    ],
+    "appearanceSummary": "Wearing a black hoodie, black gloves with yellow details, blue jeans, brown shoes, protective goggles over wire frame eyeglasses with small rectangular lenses and a blue and grey respirator with pink and yellow rectangular filters. Appears to have a broken finger splinted on left hand.",
+    "associates": [
+      "#RackRoller"
+    ],
+    "filesUrl": "https://drive.google.com/drive/folders/128COjG7aCcY8kONeNDgi3iB90ng2QbPu",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "WhiteTipInsider",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "JmW0cLbkYvU4"
   },
   {
     "actionsSummary": "Presumably attacked officers since has an \"AFO\"",
