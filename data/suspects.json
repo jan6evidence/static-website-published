@@ -12306,7 +12306,7 @@
     "_id": "tM6niQyDgjYo"
   },
   {
-    "actionsSummary": "Shown on video on the West Plaza.",
+    "actionsSummary": "Helped Will Pepe move a barricade. Shown on video on the West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "All black clothing. Gadsden flag gaiter. Wavy hair beard poking out under gaiter. Red MAGA knit hat.",
     "associates": [],
@@ -19661,7 +19661,10 @@
       "Insider1396"
     ],
     "appearanceSummary": "Short, black hair. Olive complexion. Wears reflective aviator sunglasses on top of his head. Black jacket. Tan or light gray scarf around his neck and tucked into the jacket. Gray or khaki pants. Light brown boots.",
+    "arrestDate": "2022-08-17T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00177-ZMF",
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -19808,7 +19811,6 @@
     "alternateHashtags": [],
     "appearanceSummary": "Wearing a black coat with a tan lining and a black baseball cap with the Department of Defense logo and \"Pentagon\" on the front.",
     "associates": [],
-    "filesUrl": "https://drive.google.com/drive/folders/1k_u9HRtqAXQg2_tIgN9aetF96wStuPAL",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -41858,7 +41860,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:22-mj-00030-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.240310/gov.uscourts.dcd.240310.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -42933,7 +42935,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-64",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/allan-tommy-frederick",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
