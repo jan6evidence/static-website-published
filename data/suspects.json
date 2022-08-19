@@ -24170,7 +24170,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:21-cr-50",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1364681/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -35019,7 +35019,7 @@
     "_id": "v1y2dfrFAhAE"
   },
   {
-    "actionsSummary": "Shoved barricades into cops in the NW Scaffolding. Moved barricades on the Upper West Plaza. Inside Capitol.",
+    "actionsSummary": "Shoved barricades into cops and sprays them in the NW Scaffolding. Moved barricades on the Upper West Plaza. Inside Capitol.",
     "alternateHashtags": [
       "Insider2742"
     ],
@@ -35038,6 +35038,10 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
       }
     ],
     "primaryHashtag": "RackRoller",
@@ -35563,11 +35567,11 @@
     "_id": "rdYbDDTsoq80"
   },
   {
-    "actionsSummary": "Always in front: at front of NW Stairs mob, then breaches window w/ Spazzo, negotiates with police, speaks to mob in Senate bldg, attempts breach of Speaker's Lobby door when Babbitt shot. Possible org role.",
+    "actionsSummary": "Dismantles barricades and shoves them into police in the NW Scaffolding. Always in front: at front of NW Stairs mob, then breaches window w/ Spazzo, negotiates with police, speaks to mob in Senate bldg, attempts breach of Speaker's Lobby door when Babbitt shot. Possible org role.",
     "alternateHashtags": [
       "Insider0735"
     ],
-    "appearanceSummary": "Dark-skinned male w/ light framed glasses, red Trump hat, red sweatshirt w red/white/blue collar, blue jeans, black gloves with white inscription, and (sometimes) medical style mask.",
+    "appearanceSummary": "Dark-skinned male w/ light framed glasses, red Trump hat, red sweatshirt w red/white/blue collar, blue jeans, black gloves with white inscription, and (sometimes) blue surgical mask.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -35575,6 +35579,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "behavior",
