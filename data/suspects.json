@@ -13111,7 +13111,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00556-GMH",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -30793,7 +30793,12 @@
       "Insider0298"
     ],
     "appearanceSummary": "Raccoon / coonskin cap. Short, reddish-brown beard and mustache. Reddish-brown hair long enough to tie in a ponytail. Khaki and olive keffiyeh around his neck. Khaki, long-sleeve t-shirt (or maybe a sweatshirt since in one video it looks like there is a big pocket at the belly). Leather vest with wide, fur lapels. A white and a light blue bracelet on his right wrist. May have a tattoo just under his right thumb. Brown and white sash around his waist. Army green cargo pants. Photographed using a smartphone near the base of the NW steps after the large flag had been hung.",
+    "arrestDate": "2022-08-18T04:00:00.000Z",
+    "arrestState": "IN",
     "associates": [],
+    "caseIdentifier": "3:22-mj-00077-MGG",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.innd.111956/gov.uscourts.innd.111956.1.0.pdf",
     "fbiIdentifier": "412-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -30809,6 +30814,7 @@
     ],
     "primaryHashtag": "NotGrizzly",
     "profileLeads": [],
+    "realName": "HORVATH, Ian Ross",
     "_id": "8pqB8g0ewhr0"
   },
   {
