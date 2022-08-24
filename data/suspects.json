@@ -16405,7 +16405,13 @@
     "actionsSummary": "Assumed violent based on AFO.",
     "alternateHashtags": [],
     "appearanceSummary": "Red baseball cap with a circular logo on the front. Longish wavy brown hair. Five o'clock shadow. Dark blue hoodie with a large yellow logo on the left breast (which may be a picture of Trump), a white rectangle on the right breast, and a yellow signature on the left front pocket. Blue Trump flag worn like a cape. Gray gloves with a white logo (?) on the back of the left one. Light blue jeans. Black shoes.",
-    "associates": [],
+    "arrestDate": "2022-08-23T04:00:00.000Z",
+    "arrestState": "IL",
+    "associates": [
+      "#TealScrambler"
+    ],
+    "caseIdentifier": "1:22-mj-00180-RMM",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1528151/download",
     "fbiIdentifier": "386-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16417,6 +16423,7 @@
     ],
     "primaryHashtag": "GooberKnocker",
     "profileLeads": [],
+    "realName": "LEYDEN, Joseph",
     "_id": "69BznU2uQsLw"
   },
   {
@@ -28350,18 +28357,24 @@
     "_id": "UyMYuTKe4oSo"
   },
   {
-    "actionsSummary": "Enters Capitol as #58 through NW Courtyard breach",
+    "actionsSummary": "Shoves barricade into police in the NW Scaffolding. Enters Capitol as #58 through NW Courtyard breach",
     "alternateHashtags": [
       "Insider1134"
     ],
     "appearanceSummary": "Black knit cap. Short dark beard and mustache. Black coat over an orange t-shirt. Dark pants.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/13b8lzD8CP3o8Y-6qnXizHZkuowl3PoOv/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/139_uHM2cl7KVyq8IkU9wClPDvbKs0o-T",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "MeanTangerine",
@@ -41654,18 +41667,25 @@
     "_id": "9Zrg_cIZAkas"
   },
   {
-    "actionsSummary": "Present at the FirstBarricadeBreach. At first barricade breach, #MaroonPB comes back and helps #TealScrambler over the wall, so there appears to be an association.",
+    "actionsSummary": "Shoves barricade into police at the FirstBarricadeBreach. At first barricade breach, #MaroonPB comes back and helps #TealScrambler over the wall, so there appears to be an association.",
     "alternateHashtags": [],
     "appearanceSummary": "Older man. Wearing a teal and black plaid coat, jeans, and a black headwrap on his ears. Clean shaven.",
+    "arrestDate": "2022-08-23T04:00:00.000Z",
+    "arrestState": "IL",
     "associates": [
+      "#GooberKnocker",
       "#MaroonPB"
     ],
-    "fbiIdentifier": "438-AOM",
+    "caseIdentifier": "1:22-mj-00180-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1528151/download",
+    "fbiIdentifier": "438-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
     "primaryHashtag": "TealScrambler",
     "profileLeads": [],
+    "realName": "LEYDEN, Daniel",
     "_id": "VPR8VlKh0v44"
   },
   {
