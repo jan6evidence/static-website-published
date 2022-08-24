@@ -4936,7 +4936,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Morss%20Criminal%20Complaint.pdf",
     "compositeURL": "https://drive.google.com/file/d/1a50G1psN7Sq-cn-huL5egpu9O1ykkzFh/view?usp=sharing",
     "fbiIdentifier": "147-AFO",
@@ -7677,7 +7677,7 @@
       "#TurtleneckTrumper"
     ],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1380461/download",
     "compositeURL": "https://drive.google.com/file/d/1WIR8O0clR8aV9dev3_oIc7gomJ-rWEi0/view?usp=sharing",
     "fbiIdentifier": "137-AFO",
@@ -12884,7 +12884,7 @@
     "arrestState": "VI",
     "associates": [],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download",
     "compositeURL": "https://drive.google.com/file/d/1q8Ot0X664hyrv8O1W7J3292pw0KFvTZ6/view?usp=sharing",
     "fbiIdentifier": "153-AFO",
@@ -39007,10 +39007,16 @@
       "FBI166AFO"
     ],
     "appearanceSummary": "Black hair, tall on top and short on the sides. Black jacket and dark blue pants. Rectangular patch on the chest.",
+    "arrestDate": "2022-08-23T04:00:00.000Z",
+    "arrestState": "AL",
     "associates": [],
+    "caseIdentifier": "2:22-mj-00341-NAD",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528226/download",
     "fbiIdentifier": "166-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -39023,6 +39029,7 @@
     ],
     "primaryHashtag": "SmokeyInsider",
     "profileLeads": [],
+    "realName": "DILLARD, Kaleb",
     "_id": "D2jw7o8XggOM"
   },
   {
@@ -46000,7 +46007,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-316",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/case-multi-defendant/file/1382556/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
