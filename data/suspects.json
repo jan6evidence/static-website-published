@@ -2351,10 +2351,15 @@
     "_id": "W6QygYze0kiw"
   },
   {
-    "actionsSummary": "Designated violent based on AFO",
+    "actionsSummary": "Grabbed a barricade and assaulted a cop.",
     "alternateHashtags": [],
     "appearanceSummary": "Dirty baseball cap with a dark red front and bill and white back. Gray hair underneath? Brown work coat over a red hoodie that has white writing on the front. Blue jeans.",
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "AL",
     "associates": [],
+    "caseIdentifier": "2:22-mj-00347-NAD",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528446/download",
     "fbiIdentifier": "492-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1jnTftURZCpsGR2aArnk-FwCfnK3QP0kC?usp=sharing",
     "isLawEnforcement": false,
@@ -2367,6 +2372,7 @@
     ],
     "primaryHashtag": "BamaRammer",
     "profileLeads": [],
+    "realName": "RUSSELL, Bobby Wayne",
     "_id": "InstRYLrokdc"
   },
   {
@@ -3155,7 +3161,17 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Green beanie. Keffiyeh around neck. Green body armor with III% patch and another green patch. Second circular patch is Boba Fett crest, likely from https://miltacusa.com/collections/pop-culture-patches/products/boba-fett-crest-patch-pvc. Red plaid shirt.",
-    "associates": [],
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "KY",
+    "associates": [
+      "#SmithHelmet3P",
+      "#SquadNoArmor",
+      "#BSquadMonster",
+      "#GadsdenHelmet3P"
+    ],
+    "caseIdentifier": "1:22-mj-00184",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528531/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -3164,12 +3180,17 @@
         "name": "ThreePercenters"
       },
       {
+        "type": "group",
+        "name": "B Squad"
+      },
+      {
         "type": "equipment",
         "name": "HelmetOrArmor"
       }
     ],
     "primaryHashtag": "BigGreen3P",
     "profileLeads": [],
+    "realName": "COLE, Benjamin",
     "_id": "990gHe3DUrKc"
   },
   {
@@ -6233,6 +6254,47 @@
     "primaryHashtag": "BryanIvey",
     "profileLeads": [],
     "_id": "tVwn15fDohwI"
+  },
+  {
+    "actionsSummary": "Assaulted police at the Tunnel. Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a blue shirt with the words “WATERBOARDING INSTRUCTOR,” blue jeans, black gloves, a black belt, and a black neck gaiter or turtleneck shirt (under his blue shirt), large goggles and a green helmet with the word “monster” on the back in white; and a green tactical vest with a chemical irritant spray attached to the front and carrying a long black walking stick.",
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [
+      "#SmithHelmet3P",
+      "#BigGreen3P",
+      "#SquadNoArmor",
+      "#GadsdenHelmet3P"
+    ],
+    "caseIdentifier": "1:22-mj-00184",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528531/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1MTyyJpmeJIeD0sKwcs6k2XgkpAU9UhJm",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ThreePercenters"
+      },
+      {
+        "type": "group",
+        "name": "B Squad"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "BSquadMonster",
+    "profileLeads": [],
+    "realName": "PRELLER, Brian Michael",
+    "_id": "qsk9yHZCkkJQ"
   },
   {
     "actionsSummary": "Wrestles police for a barricade at the East Walkway breach.",
@@ -15281,10 +15343,18 @@
     "actionsSummary": "Fought at tunnel during Phase II, seemingly in coordinated way.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark army green padded jacket. Black lacrosse gloves. Grey helmet with a 3% patch and American flag patch on the front, and a Gadsden flag patch on the right side.",
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [
       "#SmithHelmet3P",
-      "#PatchHelmet3P"
+      "#PatchHelmet3P",
+      "#BigGreen3P",
+      "#SquadNoArmor",
+      "#BSquadMonster"
     ],
+    "caseIdentifier": "1:22-mj-00184",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528531/download",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1WHjmWsReqIs0BTPifIz7AbupiGrjxNo1gGQgA31-IBg/edit?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -15292,6 +15362,10 @@
       {
         "type": "group",
         "name": "ThreePercenters"
+      },
+      {
+        "type": "group",
+        "name": "B Squad"
       },
       {
         "type": "behavior",
@@ -15306,6 +15380,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "COLE, Benjamin",
     "_id": "ool5F7o68mF4"
   },
   {
@@ -17207,7 +17282,7 @@
       "GreenHood",
       "GreenHoodie"
     ],
-    "appearanceSummary": "Two-tone green parka, white football helmet in early part of day",
+    "appearanceSummary": "Two-tone green parka, white football helmet in early part of day. Wears a gasmask at times.",
     "arrestDate": "2022-05-12T04:00:00.000Z",
     "arrestState": "NC",
     "associates": [
@@ -22254,12 +22329,7 @@
     "filesUrl": "https://drive.google.com/drive/folders/1nt0TTxd__c4EjvT_nUyT4moikweRXSrQ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "EnteredCapitol"
-      }
-    ],
+    "otherTags": [],
     "primaryHashtag": "JerodBargar",
     "profileLeads": [],
     "realName": "BARGAR, Jerod Thomas",
@@ -32217,7 +32287,7 @@
   {
     "actionsSummary": "Fought at tunnel during Phase II, seeming in coordinated way.",
     "alternateHashtags": [],
-    "appearanceSummary": "III% patch on the right side of his helmet, a flag patch on the left and a skull patch on top. Olive green hoodie and eye protection and his backpack has tan straps. Black lacrosse gloves",
+    "appearanceSummary": "III% patch on the right side of his helmet, a flag patch on the left and a skull patch on top. Olive green hoodie and eye protection and his backpack has tan straps. Black lacrosse gloves. Name tape, back of helmet says \"SHEEPDOG\". Holds metal rod.",
     "associates": [
       "#SmithHelmet3P",
       "#GadsdenHelmet3P"
@@ -38952,10 +39022,18 @@
     "actionsSummary": "Fights in the tunnel during Phase II, seeming in coordinated way.",
     "alternateHashtags": [],
     "appearanceSummary": "Fully covered. Dark coat, helmet, ballistic goggles, gas mask. Jeans with knee pads and work boots. Seen carrying a folding antenna.",
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [
       "#GadsdenHelmet3P",
-      "#PatchHelmet3P"
+      "#PatchHelmet3P",
+      "#BigGreen3P",
+      "#SquadNoArmor",
+      "#BSquadMonster"
     ],
+    "caseIdentifier": "1:22-mj-00184",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528531/download",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1jK6WI93RnF4gcy3aA7piixPuwNUucZwmrAotJcy4NwY/edit?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -38963,6 +39041,14 @@
       {
         "type": "group",
         "name": "ThreePercenters"
+      },
+      {
+        "type": "group",
+        "name": "B Squad"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "equipment",
@@ -38977,6 +39063,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "BENSCH, Tyler Quintin",
     "_id": "u_mS0W8vonnM"
   },
   {
@@ -39596,6 +39683,43 @@
     "primaryHashtag": "Spykstr",
     "profileLeads": [],
     "_id": "dRVgUAMUssKY"
+  },
+  {
+    "actionsSummary": "Assaulted police at the Tunnel. Inside Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair wearing a black and gray jacket, a grayish and white baseball cap with the letters “USA” in red on the front, a black scarf or neck gaiter and a keffiyeh.",
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [
+      "#SmithHelmet3P",
+      "#BigGreen3P",
+      "#BSquadMonster",
+      "#GadsdenHelmet3P"
+    ],
+    "caseIdentifier": "1:22-mj-00184",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1528531/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1BY6l5UuBMv6hq_knQ8i8V0wY1N62jsFa",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ThreePercenters"
+      },
+      {
+        "type": "group",
+        "name": "B Squad"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "SquadNoArmor",
+    "profileLeads": [],
+    "realName": "CROWLEY, Jonathan Edward",
+    "_id": "aFrEnczPIh_w"
   },
   {
     "alternateHashtags": [],
@@ -45228,6 +45352,25 @@
     "primaryHashtag": "WeekendAtErnies",
     "profileLeads": [],
     "_id": "K356FNp9AtAo"
+  },
+  {
+    "alternateHashtags": [
+      "Insider1155"
+    ],
+    "arrestDate": "2022-08-24T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00186-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.246388/gov.uscourts.dcd.246388.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1A0py0rUMJRUtHLi1hPz-r7snc8rFjNtM",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "WestonSobotka",
+    "profileLeads": [],
+    "realName": "SOBOTKA, Weston",
+    "_id": "BNDNByYJQuMk"
   },
   {
     "actionsSummary": "Seen in crowd at south side of W Plaza. Later seen Left of Tunnel on the Lower West Terrace as people are entering the Capitol via the broken window.",
