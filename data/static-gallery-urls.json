@@ -2377,6 +2377,7 @@
       "thumbnailUrl": "https://archive.org/download/ztjirX3D6QzBNFPTQ/ztjirX3D6QzBNFPTQ.200px.png"
     }
   ],
+  "BSquadMonster": [],
   "BabyBlueHorn": [
     {
       "mediaItemId": "DtnfzyeZGLqWiz4Xw",
@@ -4776,24 +4777,9 @@
       "thumbnailUrl": "https://archive.org/download/PWj6R3NKaSm82WJME/PWj6R3NKaSm82WJME.200px.jpeg"
     },
     {
-      "mediaItemId": "oJ5MEYQMoJ3mipMK4",
-      "archiveUrl": "https://archive.org/download/oJ5MEYQMoJ3mipMK4/oJ5MEYQMoJ3mipMK4.jpeg",
-      "thumbnailUrl": "https://archive.org/download/oJ5MEYQMoJ3mipMK4/oJ5MEYQMoJ3mipMK4.200px.jpeg"
-    },
-    {
       "mediaItemId": "sAcZsbJcoi4Meb3LA",
       "archiveUrl": "https://archive.org/download/sAcZsbJcoi4Meb3LA/sAcZsbJcoi4Meb3LA.jpeg",
       "thumbnailUrl": "https://archive.org/download/sAcZsbJcoi4Meb3LA/sAcZsbJcoi4Meb3LA.200px.jpeg"
-    },
-    {
-      "mediaItemId": "uippCF6RR3esE9ftu",
-      "archiveUrl": "https://archive.org/download/uippCF6RR3esE9ftu/uippCF6RR3esE9ftu.png",
-      "thumbnailUrl": "https://archive.org/download/uippCF6RR3esE9ftu/uippCF6RR3esE9ftu.200px.png"
-    },
-    {
-      "mediaItemId": "w9vgaFqXezptuox8K",
-      "archiveUrl": "https://archive.org/download/w9vgaFqXezptuox8K/w9vgaFqXezptuox8K.jpeg",
-      "thumbnailUrl": "https://archive.org/download/w9vgaFqXezptuox8K/w9vgaFqXezptuox8K.200px.jpeg"
     }
   ],
   "BigGreenScream": [
@@ -53395,6 +53381,7 @@
       "thumbnailUrl": "https://archive.org/download/b5EYowa3cYwwGzDQj/b5EYowa3cYwwGzDQj.200px.jpeg"
     }
   ],
+  "SquadNoArmor": [],
   "SquishyPB": [
     {
       "mediaItemId": "eim4MvB5brcXvauaw",
@@ -61798,6 +61785,7 @@
       "thumbnailUrl": "https://archive.org/download/uEGidKq33zgrmCMSz/uEGidKq33zgrmCMSz.200px.png"
     }
   ],
+  "WestonSobotka": [],
   "WhippingCane": [
     {
       "mediaItemId": "3J5pjjM7GDG68zukw",
