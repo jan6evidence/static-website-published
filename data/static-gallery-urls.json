@@ -2377,7 +2377,13 @@
       "thumbnailUrl": "https://archive.org/download/ztjirX3D6QzBNFPTQ/ztjirX3D6QzBNFPTQ.200px.png"
     }
   ],
-  "BSquadMonster": [],
+  "BSquadMonster": [
+    {
+      "mediaItemId": "eHLgrPJFNDEPp6k5y",
+      "archiveUrl": "https://archive.org/download/eHLgrPJFNDEPp6k5y/eHLgrPJFNDEPp6k5y.png",
+      "thumbnailUrl": "https://archive.org/download/eHLgrPJFNDEPp6k5y/eHLgrPJFNDEPp6k5y.200px.png"
+    }
+  ],
   "BabyBlueHorn": [
     {
       "mediaItemId": "DtnfzyeZGLqWiz4Xw",
@@ -4762,6 +4768,11 @@
       "thumbnailUrl": "https://archive.org/download/7FNT3xdCbygR7Dw2N/7FNT3xdCbygR7Dw2N.200px.png"
     },
     {
+      "mediaItemId": "FKAWDkNxcZhLMYK2X",
+      "archiveUrl": "https://archive.org/download/FKAWDkNxcZhLMYK2X/FKAWDkNxcZhLMYK2X.png",
+      "thumbnailUrl": "https://archive.org/download/FKAWDkNxcZhLMYK2X/FKAWDkNxcZhLMYK2X.200px.png"
+    },
+    {
       "mediaItemId": "GRJ52yyMTYFPtMvBA",
       "archiveUrl": "https://archive.org/download/GRJ52yyMTYFPtMvBA/GRJ52yyMTYFPtMvBA.jpeg",
       "thumbnailUrl": "https://archive.org/download/GRJ52yyMTYFPtMvBA/GRJ52yyMTYFPtMvBA.200px.jpeg"
@@ -4775,6 +4786,11 @@
       "mediaItemId": "PWj6R3NKaSm82WJME",
       "archiveUrl": "https://archive.org/download/PWj6R3NKaSm82WJME/PWj6R3NKaSm82WJME.jpeg",
       "thumbnailUrl": "https://archive.org/download/PWj6R3NKaSm82WJME/PWj6R3NKaSm82WJME.200px.jpeg"
+    },
+    {
+      "mediaItemId": "TgbgQuoMoXsXq7RZe",
+      "archiveUrl": "https://archive.org/download/TgbgQuoMoXsXq7RZe/TgbgQuoMoXsXq7RZe.png",
+      "thumbnailUrl": "https://archive.org/download/TgbgQuoMoXsXq7RZe/TgbgQuoMoXsXq7RZe.200px.png"
     },
     {
       "mediaItemId": "sAcZsbJcoi4Meb3LA",
@@ -21452,6 +21468,21 @@
     }
   ],
   "GadsdenHelmet3P": [
+    {
+      "mediaItemId": "66pPiPFRkCnwxcuNB",
+      "archiveUrl": "https://archive.org/download/66pPiPFRkCnwxcuNB/66pPiPFRkCnwxcuNB.png",
+      "thumbnailUrl": "https://archive.org/download/66pPiPFRkCnwxcuNB/66pPiPFRkCnwxcuNB.200px.png"
+    },
+    {
+      "mediaItemId": "JLu2mG2sjZK2hfxdD",
+      "archiveUrl": "https://archive.org/download/JLu2mG2sjZK2hfxdD/JLu2mG2sjZK2hfxdD.png",
+      "thumbnailUrl": "https://archive.org/download/JLu2mG2sjZK2hfxdD/JLu2mG2sjZK2hfxdD.200px.png"
+    },
+    {
+      "mediaItemId": "dXSuWjcWjB2Bai32w",
+      "archiveUrl": "https://archive.org/download/dXSuWjcWjB2Bai32w/dXSuWjcWjB2Bai32w.png",
+      "thumbnailUrl": "https://archive.org/download/dXSuWjcWjB2Bai32w/dXSuWjcWjB2Bai32w.200px.png"
+    },
     {
       "mediaItemId": "iyHppyJ6gnXKf2qvF",
       "archiveUrl": "https://archive.org/download/iyHppyJ6gnXKf2qvF/iyHppyJ6gnXKf2qvF.png",
@@ -52601,6 +52632,11 @@
       "thumbnailUrl": "https://archive.org/download/cd958wreRr6SYmdkY/cd958wreRr6SYmdkY.200px.jfif"
     },
     {
+      "mediaItemId": "d5EpFjAnspYXMvJ93",
+      "archiveUrl": "https://archive.org/download/d5EpFjAnspYXMvJ93/d5EpFjAnspYXMvJ93.png",
+      "thumbnailUrl": "https://archive.org/download/d5EpFjAnspYXMvJ93/d5EpFjAnspYXMvJ93.200px.png"
+    },
+    {
       "mediaItemId": "x6f63qx48JRtXLTH9",
       "archiveUrl": "https://archive.org/download/x6f63qx48JRtXLTH9/x6f63qx48JRtXLTH9.png",
       "thumbnailUrl": "https://archive.org/download/x6f63qx48JRtXLTH9/x6f63qx48JRtXLTH9.200px.png"
@@ -53381,7 +53417,13 @@
       "thumbnailUrl": "https://archive.org/download/b5EYowa3cYwwGzDQj/b5EYowa3cYwwGzDQj.200px.jpeg"
     }
   ],
-  "SquadNoArmor": [],
+  "SquadNoArmor": [
+    {
+      "mediaItemId": "JHwMRCwvRBQjsGh6m",
+      "archiveUrl": "https://archive.org/download/JHwMRCwvRBQjsGh6m/JHwMRCwvRBQjsGh6m.png",
+      "thumbnailUrl": "https://archive.org/download/JHwMRCwvRBQjsGh6m/JHwMRCwvRBQjsGh6m.200px.png"
+    }
+  ],
   "SquishyPB": [
     {
       "mediaItemId": "eim4MvB5brcXvauaw",
@@ -61785,7 +61827,13 @@
       "thumbnailUrl": "https://archive.org/download/uEGidKq33zgrmCMSz/uEGidKq33zgrmCMSz.200px.png"
     }
   ],
-  "WestonSobotka": [],
+  "WestonSobotka": [
+    {
+      "mediaItemId": "rbzxvjB4ZTSFTyxdN",
+      "archiveUrl": "https://archive.org/download/rbzxvjB4ZTSFTyxdN/rbzxvjB4ZTSFTyxdN.png",
+      "thumbnailUrl": "https://archive.org/download/rbzxvjB4ZTSFTyxdN/rbzxvjB4ZTSFTyxdN.200px.png"
+    }
+  ],
   "WhippingCane": [
     {
       "mediaItemId": "3J5pjjM7GDG68zukw",

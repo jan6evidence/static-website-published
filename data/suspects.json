@@ -5256,6 +5256,7 @@
     ],
     "appearanceSummary": "Black pants. Grey hooded sweatshirt with blue lettering. Black wrist brace on his right hand. Flag gaiter. Black beanie and red MAGA ball cap. Scruffy facial hair. Orange and grey backpack with lots of gear clipped to it.",
     "associates": [],
+    "fbiIdentifier": "535-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -8696,7 +8697,7 @@
     "arrestState": "NY",
     "associates": [],
     "caseIdentifier": "1:21-cr-226",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Patrick%20Moynihan%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16956,12 +16957,16 @@
     "_id": "hHLkulEuYrWw"
   },
   {
-    "actionsSummary": "In in forefront of NW walkway breach, then assaults an AP photojournalist on West Plaza. Seen in Crypt without the green bandana",
+    "actionsSummary": "In in forefront of NW walkway breach, then assaults an AP photojournalist on West Plaza. Helps shove large trump sign into police. Seen in Crypt without the green bandana.",
     "alternateHashtags": [
       "Insider1988"
     ],
     "appearanceSummary": "Short, with a roundish figure. Green bandana on his head. Eyeglasses, possibly the kind worn in a workshop or for sports. Full brown beard. Dark gray hoodie with a yellow patch or sticker that says \"Fuck Antifa\". Brown or khaki pants.",
+    "arrestDate": "2022-08-25T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00195-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.246641/gov.uscourts.dcd.246641.1.1.pdf",
     "fbiIdentifier": "192-AOM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16985,6 +16990,7 @@
     ],
     "primaryHashtag": "GreenBandanaMan",
     "profileLeads": [],
+    "realName": "COPELAND, Jonathan",
     "_id": "0eXXxWsrclPI"
   },
   {
@@ -22664,7 +22670,7 @@
     "arrestState": "MD",
     "associates": [],
     "caseIdentifier": "1:21-cr-93",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/andries-john-d",
     "fbiIdentifier": "491-AFO",
     "isLawEnforcement": false,
