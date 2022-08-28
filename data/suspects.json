@@ -37,6 +37,30 @@
     "_id": "ybdS35rR0u-w"
   },
   {
+    "actionsSummary": "Sprayed police at the North Door. Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1792"
+    ],
+    "appearanceSummary": "White man with brown hair and long brown beard wearing a blue tshirt that says \"1984\" (in red) \"is not an instruction manual\" (in white) over a black hoodie over a white tshirt, black and grey gloves, blue jeans and black shoes and carrying a handwritten sign that says \"China is an Asshole #FuckChina\"",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/14Rmy392-MXC4GIZ2HUDNq0Puwq_8Y6yg",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
+      }
+    ],
+    "primaryHashtag": "1984Blue",
+    "profileLeads": [],
+    "_id": "hpyhR7dLEijk"
+  },
+  {
     "actionsSummary": "Tackled by police officers on the Upper West Terrace durign the period when the crowd has filled in the Western side of the Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark crewcut. Stars and stripes costume over a black, high-collared top. The costume has a red hood, the stars and blue field on the left side, and red and white stripes on the right side, and the MAGA slogan in white letters on blue sideways on the front.",
