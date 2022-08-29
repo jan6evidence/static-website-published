@@ -14100,7 +14100,7 @@
     "_id": "VpmoFKZ-Utzk"
   },
   {
-    "actionsSummary": "Fights police in the NW Scaffolding. May have been arrested on scene.",
+    "actionsSummary": "Fights police in the NW Scaffolding. Pulls on NW Scaffolding tarps. May have been arrested on scene.",
     "alternateHashtags": [],
     "appearanceSummary": "Bald black man wearing a black hoodie with a white stripe around the bottom that says \"GEORGETOWN\" on the front in white over a light grey top, dark pants, black gloves that say \"HyFlex\" on the back and a grey and maroon knit Redskins hat with a maroon bobble and carrying a red and black Redskins single strap backpack-style crossbody bag and a white flag that says \"PROUD AMERICAN CHRISTIAN\" with a fish with a US flag pattern on a fishing pole.",
     "associates": [],
@@ -14111,6 +14111,10 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "FishingPoleBrawler",
@@ -16511,6 +16515,7 @@
       "#TealScrambler"
     ],
     "caseIdentifier": "1:22-mj-00180-RMM",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1528151/download",
     "fbiIdentifier": "386-AFO",
     "isLawEnforcement": false,
