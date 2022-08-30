@@ -79,6 +79,7 @@
       "thumbnailUrl": "https://archive.org/download/yqo49hffSe7njJ3hN/yqo49hffSe7njJ3hN.200px.jpeg"
     }
   ],
+  "1984Blue": [],
   "50ShadesOfMAGA": [
     {
       "mediaItemId": "Aku9xLAaDeF8mAkJM",
@@ -3467,6 +3468,7 @@
       "thumbnailUrl": "https://archive.org/download/rBeDqKBWpqTh88YjZ/rBeDqKBWpqTh88YjZ.200px.png"
     }
   ],
+  "BaseballHelmetBreaker": [],
   "BashfulPB": [
     {
       "mediaItemId": "3esmxXf9MYDuSWSeG",
@@ -20167,6 +20169,7 @@
       "archiveUrl": "https://archive.org/download/sxscSfGC7hLXv4jzj/sxscSfGC7hLXv4jzj.png"
     }
   ],
+  "FlagShadesShover": [],
   "FlaggerAJ": [
     {
       "mediaItemId": "7mRZbXRsMJ6zXSofd",
@@ -34827,6 +34830,18 @@
       "thumbnailUrl": "https://archive.org/download/wNAkGRnWJxyRfjTP2/wNAkGRnWJxyRfjTP2.200px.png"
     }
   ],
+  "LittleRedMAGA": [
+    {
+      "mediaItemId": "Qi728dKSSPXn7tvpi",
+      "archiveUrl": "https://archive.org/download/Qi728dKSSPXn7tvpi/Qi728dKSSPXn7tvpi.jpeg",
+      "thumbnailUrl": "https://archive.org/download/Qi728dKSSPXn7tvpi/Qi728dKSSPXn7tvpi.200px.jpeg"
+    },
+    {
+      "mediaItemId": "nCxhqWFWe3TcdcLWZ",
+      "archiveUrl": "https://archive.org/download/nCxhqWFWe3TcdcLWZ/nCxhqWFWe3TcdcLWZ.jpeg",
+      "thumbnailUrl": "https://archive.org/download/nCxhqWFWe3TcdcLWZ/nCxhqWFWe3TcdcLWZ.200px.jpeg"
+    }
+  ],
   "LittleRedRioter": [
     {
       "mediaItemId": "EYYQ8qoHQDTEWYP6W",
@@ -41977,6 +41992,7 @@
       "thumbnailUrl": "https://archive.org/download/yQmJNTrpgvXAdGwp9/yQmJNTrpgvXAdGwp9.200px.png"
     }
   ],
+  "OrangePlaidPusher": [],
   "OrangePufferLady": [
     {
       "mediaItemId": "Z4raJTNkrhMhBsmZQ",
@@ -45341,6 +45357,7 @@
       "thumbnailUrl": "https://archive.org/download/tPquYZHTsZ8dm7fyv/tPquYZHTsZ8dm7fyv.200px.png"
     }
   ],
+  "PunchyRedHood": [],
   "PurpleCamoKid": [
     {
       "mediaItemId": "2fLeCGGiMvD7DhbvG",
@@ -45806,6 +45823,7 @@
       "thumbnailUrl": "https://archive.org/download/zopwEFW7bpMKYWZ4b/zopwEFW7bpMKYWZ4b.200px.png"
     }
   ],
+  "PushyCamoCap": [],
   "PushyFlag": [
     {
       "mediaItemId": "2ZCZE5Kn2ZJJPcgn6",
@@ -49779,6 +49797,7 @@
       "thumbnailUrl": "https://archive.org/download/tD3Rc3i8dRD2FwEaj/tD3Rc3i8dRD2FwEaj.200px.png"
     }
   ],
+  "SadSeditionBobble": [],
   "SageCopWhacker": [
     {
       "mediaItemId": "7RR8xnY23sAdARtjk",
@@ -60177,6 +60196,7 @@
       "thumbnailUrl": "https://archive.org/download/uoaMTMH3pZYxpPSuf/uoaMTMH3pZYxpPSuf.200px.png"
     }
   ],
+  "TwoHoodsMAGA": [],
   "TwoPackBatter": [
     {
       "mediaItemId": "GTEDQx5xrefxAci9x",
@@ -60444,6 +60464,18 @@
       "mediaItemId": "yZsqXKyyzi6vqR7Qy",
       "archiveUrl": "https://archive.org/download/yZsqXKyyzi6vqR7Qy/yZsqXKyyzi6vqR7Qy.png",
       "thumbnailUrl": "https://archive.org/download/yZsqXKyyzi6vqR7Qy/yZsqXKyyzi6vqR7Qy.200px.png"
+    }
+  ],
+  "USAStripeCap": [
+    {
+      "mediaItemId": "4Worb9CjBeMTMem7u",
+      "archiveUrl": "https://archive.org/download/4Worb9CjBeMTMem7u/4Worb9CjBeMTMem7u.png",
+      "thumbnailUrl": "https://archive.org/download/4Worb9CjBeMTMem7u/4Worb9CjBeMTMem7u.200px.png"
+    },
+    {
+      "mediaItemId": "sgNmpkmAHJ5rLhjpH",
+      "archiveUrl": "https://archive.org/download/sgNmpkmAHJ5rLhjpH/sgNmpkmAHJ5rLhjpH.jpeg",
+      "thumbnailUrl": "https://archive.org/download/sgNmpkmAHJ5rLhjpH/sgNmpkmAHJ5rLhjpH.200px.jpeg"
     }
   ],
   "USFlagCape": [
