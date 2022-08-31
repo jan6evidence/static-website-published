@@ -4916,10 +4916,12 @@
     "_id": "YK1mXbrP8tYM"
   },
   {
-    "actionsSummary": "Attacks officers at NW scaffolding #GreyPuller.",
+    "actionsSummary": "Attacks officers at base of NW scaffolding.",
     "alternateHashtags": [],
-    "appearanceSummary": "Wears beanie with logo associated a punk band, bright yellow gaiter.",
+    "appearanceSummary": "White man wearing a light blue coat with a white lining and red poking out around the cuffs, a black knit cap with a circular patch with a running man logo on the back (logo associated a punk band), a bright yellow buff/gaiter, and black, grey and red gloves.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1LEPwfTa1OpZyPwplYT-JVc2KOoMx1t0a/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1Ic_phbvZ8sQLfxpE4IwFC6u2CXkgWaRc",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5601,6 +5603,29 @@
     "primaryHashtag": "BrainFreezeLady",
     "profileLeads": [],
     "_id": "cCYzWAP8shCc"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider391"
+    ],
+    "appearanceSummary": "White man with brown hair and a short brown beard wearing a black leather jacket over a blue grey plaid button down shirt over a dark grey tshirt, blue jeans, and a red knit hat.",
+    "arrestDate": "2022-08-28T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00183-RMM",
+    "filesUrl": "https://drive.google.com/drive/folders/14ojeTxQ9KWJKC4Re59i5iO24sAF89he-",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BrandonCavanaugh",
+    "profileLeads": [],
+    "_id": "gyCqIxLc4tAQ"
   },
   {
     "actionsSummary": "Photographed putting his feet up on a conference table in Senator Merkley's office",
@@ -11853,10 +11878,14 @@
     "_id": "4S1-GtqVMlTc"
   },
   {
-    "actionsSummary": "Sprays at officers on the front line in the West Plaza.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Black hat with letters \"DK\" in green. Black coat. Short clipped beard and facial hair.",
+    "actionsSummary": "Sprayed police at the Tunnel on the Lower West Terrace / front line in the West Plaza",
+    "alternateHashtags": [
+      "DrkSprayer"
+    ],
+    "appearanceSummary": "White man with dark hair and short clipped beard and facial hair wearing a black jacket / coat, blue jeans, black gloves and a black knit cap with a green dk cycles bmx logo. (\"DK\" in green letters) The logo is from ~1990s to about 2007.  dk cycles is popular in Ohio region and has HQ in Dayton.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1nHxPSIAXJkbUrzmWdslA2xKLMdV0bLVz/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1J_hKuzvATtr7lE9NyefJuf2Joosi5nKT",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -11870,7 +11899,9 @@
       }
     ],
     "primaryHashtag": "DKSprayer",
-    "profileLeads": [],
+    "profileLeads": [
+      "@JusticCat0106"
+    ],
     "_id": "3FLSsvUMkkWI"
   },
   {
@@ -12309,27 +12340,6 @@
     "primaryHashtag": "DrewlOK",
     "profileLeads": [],
     "_id": "0ZYM2ES9Ym4U"
-  },
-  {
-    "actionsSummary": "Sprayed police at the Tunnel on the Lower West Terrace.",
-    "alternateHashtags": [],
-    "appearanceSummary": "White man with dark hair and beard wearing a black jacket, blue jeans, black gloves and a black knit cap with a green dk cycles bmx logo. The logo is from ~1990s to about 2007.  dk cycles is popular in Ohio region and has HQ in Dayton.",
-    "associates": [],
-    "compositeURL": "https://drive.google.com/file/d/1nHxPSIAXJkbUrzmWdslA2xKLMdV0bLVz/view?usp=sharing",
-    "filesUrl": "https://drive.google.com/drive/folders/1J_hKuzvATtr7lE9NyefJuf2Joosi5nKT",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "behavior",
-        "name": "Sprayer"
-      }
-    ],
-    "primaryHashtag": "DrkSprayer",
-    "profileLeads": [
-      "@JusticCat0106"
-    ],
-    "_id": "cB6tgjV2Mtbo"
   },
   {
     "actionsSummary": "Recorded at the doors to the House Speaker's Lobby where Ashli Babbit was shot.",
