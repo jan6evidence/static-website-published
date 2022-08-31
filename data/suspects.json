@@ -14383,7 +14383,9 @@
     "actionsSummary": "Pulls barricade away from police at the East Walkway breach.",
     "alternateHashtags": [],
     "appearanceSummary": "Man with dark hair and goatee wearing a black baseball cap with a flag brim, a black hoodie with a flag and \"If this flag offends you I'll help you pack\" in white on the back and front and \"2020 Trump\" in RWB text on the upper left arm, black pants, black gloves, black boots and sunglasses and carrying a red and white bullhorn.",
-    "associates": [],
+    "associates": [
+      "#JohnWright"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/18wI0-rJJQxT3uIkVdJ9nSJbpAknWWeiH",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -23126,7 +23128,9 @@
     "appearanceSummary": "White \"Trump\" knit cap with stars and stripes overtones. Short, light brown beard and mustache. Red \"Trump Pence 2020\" hoodie, sometimes with the hood up. Blue jeans. Black shoes.",
     "arrestDate": "2021-05-03T04:00:00.000Z",
     "arrestState": "OH",
-    "associates": [],
+    "associates": [
+      "#FlagHatBullhorn"
+    ],
     "caseIdentifier": "1:21-cr-341",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download",
@@ -46045,7 +46049,7 @@
     "_id": "bgm4Ba4REjCM"
   },
   {
-    "actionsSummary": "Yanks barricades away from police in the NW Scaffolding. On the Lower West Terrace. Inside the Capitol.",
+    "actionsSummary": "Throws a small flag on a short thick piece of wood at police in the NW Scaffolding. Yanks barricades away from police in the NW Scaffolding. On the Lower West Terrace. Inside the Capitol.",
     "alternateHashtags": [
       "WhiteTip",
       "Insider2741"
