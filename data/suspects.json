@@ -104,7 +104,10 @@
     "appearanceSummary": "Dark puffy coat. Grey hat with a Trump 2020 logo in a silver metal plate on the front. Dark goatee with silver in the beard.",
     "arrestDate": "2021-03-09T05:00:00.000Z",
     "arrestState": "AK",
-    "associates": [],
+    "associates": [
+      "#CarrieWilliams",
+      "#TyroneMcFadden"
+    ],
     "caseIdentifier": "1:21-cr-248",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20James%20Mileur%20Statement%20of%20Facts.pdf",
@@ -3357,7 +3360,9 @@
     "alternateHashtags": [],
     "appearanceSummary": "Red long-sleeved Trump shirt worn over olive drab hoodie. Black Trump hat. Brown pants. Goatee.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1jUy7hfVrlrRLpkvCmV3C50-RTfxsDf04/view?usp=sharing",
     "fbiIdentifier": "393-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1M04RzeRNCWRkP42p6tQTX7Hg0lHBr1Ig",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5614,6 +5619,8 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:22-mj-00183-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1529226/download",
     "filesUrl": "https://drive.google.com/drive/folders/14ojeTxQ9KWJKC4Re59i5iO24sAF89he-",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -5625,6 +5632,7 @@
     ],
     "primaryHashtag": "BrandonCavanaugh",
     "profileLeads": [],
+    "realName": "CAVANAUGH, Brandon Scott (aka Scott Russo aka Ryder)",
     "_id": "gyCqIxLc4tAQ"
   },
   {
@@ -5934,7 +5942,7 @@
     "_id": "nZzF1zYNwvQ4"
   },
   {
-    "actionsSummary": "Is seen up on the wall of the NW steps confronting LEOs. Later he is seen in the NW steps under the scaffold violently attacking the police.",
+    "actionsSummary": "On the NW steps holding up a crate lid as a shield and confronting LEOs. In the NW Scaffolding violently attacking the police.",
     "alternateHashtags": [],
     "appearanceSummary": "Grey-haired man with glasses. Dressed in all black. Hoodie with the text: \"Bring Enough Gun\" on the back. Wears a Vietnam vets-cap. Sweater sold through Midwest Gun Works. https://www.midwestgunworks.com/page/mgwi/prod/GE5985",
     "associates": [],
@@ -8093,6 +8101,30 @@
     "profileLeads": [],
     "realName": "KICINSKI, Carol",
     "_id": "tekhC6DckuH8"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2062"
+    ],
+    "appearanceSummary": "White woman wearing a black baseball cap, black thick-rimmed glasses, and a black hooded sweatshirt.",
+    "arrestDate": "2022-08-31T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#TyroneMcFadden",
+      "#AaronMileur"
+    ],
+    "caseIdentifier": "1:22-mj-00136-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244334/gov.uscourts.dcd.244334.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/130XOsuFxFXmfHsFLJC1CsAljvBTLel4S",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "CarrieWilliams",
+    "profileLeads": [],
+    "realName": "WILLIAMS, Carrie Ann",
+    "_id": "tIpLk5Axsjjw"
   },
   {
     "actionsSummary": "Inside Capitol building.",
@@ -13554,6 +13586,7 @@
     ],
     "appearanceSummary": "Camo cargo pants and grey sweatshirt. Tan tactical vest with a canister of spray and yellow sunglasses. Black neck gaiter, visible facial hair underneath. Black \"Keep America Great' ball cap. Black gloves. Black fanny pack. Brown work boots.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1N9YqEhBW3PBe1e3U-ANvslJ7ohC_0iSC/view?usp=sharing",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1fl5Td2j5msvfWfYhnefg0xbx5IIZEZT2DtjwBWB5YvU/htmlview#gid=0",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -14878,7 +14911,9 @@
     "alternateHashtags": [],
     "appearanceSummary": "Green zip-up jacket with breast pockets. Grey hoodie. Blue shirt. Hunting-camo hat, often backwards, and sunglasses.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1ywcp-OdPX0exfERZLldkchV4JekZASRp/view?usp=sharing",
     "fbiIdentifier": "392-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1U4kHmaVbFFElkDYJ1c9MjqNA_fOEbF-X",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -19974,21 +20009,6 @@
       "@TrumpsAge"
     ],
     "_id": "7zqtkbomMi1Y"
-  },
-  {
-    "actionsSummary": "Major General Donald L. Rutherford was on the Upper West Plaza and in the grandstands above the Lower West Terrace.",
-    "alternateHashtags": [],
-    "appearanceSummary": "Wearing a black coat with a tan lining and a black baseball cap with the Department of Defense logo and \"Pentagon\" on the front.",
-    "associates": [],
-    "idStatus": "Public Figure",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [],
-    "primaryHashtag": "IAmDonaldRutherford",
-    "profileLeads": [
-      "@CoryCullington"
-    ],
-    "_id": "eCLffzUtUhrU"
   },
   {
     "alternateHashtags": [],
@@ -25876,7 +25896,9 @@
     ],
     "appearanceSummary": "African American man with a roundish face. Black hair and a full, black beard and mustache. Sometimes wears a yellow gaiter with some black writing on it. White or light gray hoodie with a black zipper down the center. The hoodie is worn over a long-sleeve black shirt that may have a white logo on the left cuff. Inside the Capitol Building, he isn't wearing the hoodie and you can see the shirt. Gray backpack with black straps. White pants.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1eeFyl1xB5YfL4qzFmHZZiDocCzwzs55S/view?usp=sharing",
     "fbiIdentifier": "391-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/12ci_zKWvUHrgpz45ZmVsOE5PZPeuOhi-",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -25929,7 +25951,7 @@
     "_id": "aEwsDij0srWg"
   },
   {
-    "actionsSummary": "One of the first up the NW Steps under the scaffolding, helped smash a window and one of the first to breach from the NW Courtyard. Enters the gallery of the Senate chamber. Tampers with the C-Span cameras to prevent them from filming rioters entering the chamber.",
+    "actionsSummary": "One of the first up the NW Steps under the scaffolding. Attempted to pull down NW Scaffolding tarp. Helped smash a window and one of the first to breach from the NW Courtyard. Enters the gallery of the Senate chamber. Tampers with the C-Span cameras to prevent them from filming rioters entering the chamber.",
     "alternateHashtags": [
       "Insider1393"
     ],
@@ -25940,6 +25962,7 @@
     "caseIdentifier": "1:21-cr-216",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/bozell-iv-leo-brent",
+    "filesUrl": "https://drive.google.com/drive/folders/17D-efcuZDDqVzr5uMhAOcepQI5Kf6lHT",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -25954,7 +25977,7 @@
     ],
     "primaryHashtag": "LeoBozell4",
     "profileLeads": [],
-    "realName": "BOZELL IV, Leo Brent",
+    "realName": "BOZELL Leo Brent  IV,",
     "_id": "1WENvtkPkvu4"
   },
   {
@@ -28639,7 +28662,7 @@
     "_id": "7F5ugwswcm8E"
   },
   {
-    "actionsSummary": "Seen on W. Plaza and in group of PBs at base of scaffolding.",
+    "actionsSummary": "Seen on W. Plaza and in group of PBs at base of and inside NW Scaffolding.",
     "alternateHashtags": [
       "FullTanFlackPB"
     ],
@@ -31406,7 +31429,7 @@
     "_id": "H9TXMA9lopSM"
   },
   {
-    "actionsSummary": "Pulls barricades away from police in NW Scaffolding. Assault police at Columbus doors. Pushes through police line inside Capitol.",
+    "actionsSummary": "Pulls barricades away from police in NW Scaffolding. Assaults police at Columbus doors. Pushes through police line inside Capitol.",
     "alternateHashtags": [
       "Insider0505"
     ],
@@ -33102,6 +33125,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Grey hoodie, jeans. Carries 3 weapons, including pepper ball gun and box cutter knife.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1m2HibXIbDpO22K0lhJDmA2wt2Z1CEAij/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -33355,7 +33379,7 @@
     "_id": "e4CE44BjAi7Q"
   },
   {
-    "actionsSummary": "Participates in initial assault near scaffolding.",
+    "actionsSummary": "Participates in initial assault at base of NW Scaffolding.",
     "alternateHashtags": [],
     "appearanceSummary": "White male. Grey rain jacket with flaps bundled against face. Baseball cap under jacket hood.",
     "associates": [],
@@ -42796,7 +42820,7 @@
     "_id": "fP6eheDV8oBs"
   },
   {
-    "actionsSummary": "Threw a broken off piece of cast iron railing at police on the Upper West Plaza and a water bottle and another unidentified object at police in the NW Scaffolding.  “…making loud noises, and kicking chairs, throwing an unknown liquid substance at officers, and spraying an unknown substance…” At front of the group and “…willfully refused the order to leave.”",
+    "actionsSummary": "Shoved a police shield into police on the NW Steps. Threw a broken off piece of cast iron railing at police on the Upper West Plaza and a water bottle and another unidentified object at police in the NW Scaffolding.  “…making loud noises, and kicking chairs, throwing an unknown liquid substance at officers, and spraying an unknown substance…” At front of the group and “…willfully refused the order to leave.”",
     "alternateHashtags": [
       "Insider1826",
       "RailingPItcher"
@@ -44614,6 +44638,30 @@
     "profileLeads": [],
     "realName": "TEW, Tyler John",
     "_id": "bZFgLwpiIpr4"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider1800"
+    ],
+    "appearanceSummary": "Black man with a thin mustache wearing a black and purple Baltimore Ravens hat, a black-and-white striped hood and a black sweatshirt.",
+    "arrestDate": "2022-08-31T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#CarrieWilliams",
+      "#AaronMileur"
+    ],
+    "caseIdentifier": "1:22-mj-00136-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244334/gov.uscourts.dcd.244334.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1NIS17pckaGLQROw1F2kndbrhImOfJHfW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "TyroneMcFadden",
+    "profileLeads": [],
+    "realName": "MCFADDEN, Tyrone Jr.",
+    "_id": "xVy15yZ5kgv0"
   },
   {
     "actionsSummary": "Shown on video on the Lower West Plaza.",
