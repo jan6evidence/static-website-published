@@ -12348,7 +12348,13 @@
       "thumbnailUrl": "https://archive.org/download/pgkvbu7ezNFF85vio/pgkvbu7ezNFF85vio.200px.png"
     }
   ],
-  "CarrieWilliams": [],
+  "CarrieWilliams": [
+    {
+      "mediaItemId": "4spMJ9x5QD6dPsnGt",
+      "archiveUrl": "https://archive.org/download/4spMJ9x5QD6dPsnGt/4spMJ9x5QD6dPsnGt.png",
+      "thumbnailUrl": "https://archive.org/download/4spMJ9x5QD6dPsnGt/4spMJ9x5QD6dPsnGt.200px.png"
+    }
+  ],
   "CarsonLucard": [
     {
       "mediaItemId": "MT4G2hGAxQTM64dC6",
@@ -60914,7 +60920,13 @@
       "thumbnailUrl": "https://archive.org/download/yZQxuJFgTZSEYNWnq/yZQxuJFgTZSEYNWnq.200px.png"
     }
   ],
-  "TyroneMcFadden": [],
+  "TyroneMcFadden": [
+    {
+      "mediaItemId": "a8Dy98esprbmH8pRj",
+      "archiveUrl": "https://archive.org/download/a8Dy98esprbmH8pRj/a8Dy98esprbmH8pRj.png",
+      "thumbnailUrl": "https://archive.org/download/a8Dy98esprbmH8pRj/a8Dy98esprbmH8pRj.200px.png"
+    }
+  ],
   "UFPB": [
     {
       "mediaItemId": "3QzH3P5RBfade3X5z",
