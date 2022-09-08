@@ -5055,6 +5055,17 @@
     "_id": "dHZ6YMzR8hEY"
   },
   {
+    "alternateHashtags": [],
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1ow9IO2xfdDuk4sszGRrRGqUpkab0C_oi",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BluePlaidBuff",
+    "profileLeads": [],
+    "_id": "IFOpW0xDQhzY"
+  },
+  {
     "actionsSummary": "At the FirstBarricadeBreach, is up front pushing on the barricades. When mob enters W. Plaza he is immediately up front on the police line pushing on barriers and confronting police officers. Possible member of breach team.",
     "alternateHashtags": [],
     "appearanceSummary": "Blue and black plaid shirt or coat. The word Donald is on his jacket on the right side of his chest. Jeans. Grey knit hat. Small backpack with brown straps. Bald head.",
@@ -14880,6 +14891,7 @@
     "appearanceSummary": "Black motorcycle helmet with a white, oval-shaped logo on the forehead. When the visor is up he appear to be an older, white man. Short brown coat over a gray hoodie. Beige or khaki-colored gloves. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "433-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/16KQE-NKfP3-2aazh3tphkLZoD7aYySZW?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
@@ -26209,7 +26221,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00621-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21079445/michaeldickinson.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -35844,6 +35856,26 @@
     "_id": "17n2SyM6MvQo"
   },
   {
+    "actionsSummary": "Strikes police with a pole in the NW Scaffolding.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a brown man bun, missing a top front tooth, wearing a red mask over a green sweatband, a black jacket over a green top, red gloves with a black Nike logo on the back, a US flag with \"Don't Tread On Me\" around his shoulders and a black backpack with red details.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/11UG4RXchmspxJ4-HLAUT396KWgF0RsLW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RedMaskGuy",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "ZLaSfKXhktXM"
+  },
+  {
     "actionsSummary": "Recorded spraying cops on the north side of the Lower West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Bright red MAGA knit cap and bright red gaiter leave only the eyes visible. Dark green and black plaid shirt. Black gloves. Dark green backpack. Hanging from his chest is a black and white baseball cap with a US-shaped US flag on the front. Khaki or light gray pants.",
@@ -43238,6 +43270,26 @@
     "primaryHashtag": "TinaLogsdon",
     "profileLeads": [],
     "_id": "zW9WJczWYoUA"
+  },
+  {
+    "actionsSummary": "Shoves a cop then wrestles barricades away from cops in the NW Scaffolding.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair and beard wearing tinted glasses, a tan and black plaid jacket, blue jeans, brown gloves and a tan backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1hALOwTrbprrNYAWJcbJWGfWBN4TZ8-95",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "TintedGlassesGuy",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "Z_6-SCI24p8I"
   },
   {
     "actionsSummary": "Shoves police on NW Lawn and yells in their faces. Wrestles a cop for his baton. Enters Capitol.",
