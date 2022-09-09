@@ -5055,14 +5055,23 @@
     "_id": "dHZ6YMzR8hEY"
   },
   {
+    "actionsSummary": "Pulled on police barricade in NW Scaffolding.",
     "alternateHashtags": [],
+    "appearanceSummary": "White man with brown hair wearing a black coat, a blue and white plaid scarf wrapped tightly around his face with a red MAGA baseball cap stuffed on top of it to hold it in place and grey gloves and carrying a smal Trump 2020 US flag and yellow \"Don't Tread On Me\" flag on small wood dowels.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1ow9IO2xfdDuk4sszGRrRGqUpkab0C_oi",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BluePlaidBuff",
-    "profileLeads": [],
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
     "_id": "IFOpW0xDQhzY"
   },
   {
@@ -14120,7 +14129,7 @@
     "arrestState": "MI",
     "associates": [],
     "caseIdentifier": "1:21-mj-30569-PTM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1452861/download",
     "compositeURL": "https://drive.google.com/file/d/1BMAAzuSjGLCpGTNRWOITEhbsZDsQRVU0/view?usp=sharing",
     "fbiIdentifier": "106-AFO",
@@ -40458,6 +40467,26 @@
     "profileLeads": [],
     "realName": "THURLOW, Steven",
     "_id": "ifwfFzjgwlsU"
+  },
+  {
+    "actionsSummary": "Throws a bottle of red Gatorade at police at the base of the NW Scaffolding.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Wearing a blue hard hat with stickers on it over a black hoodie with the hood up over a baseball cap, a black and white patterned buff and a black, grey and neon green backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1v6c-KcH9Rv3g8I-G-HmN7_qmdoPefxYt",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "StickerHeadBlue",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "SctbIskhUgYk"
   },
   {
     "actionsSummary": "Slams barricade into police on NE Plaza.",
