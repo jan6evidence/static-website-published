@@ -28119,7 +28119,9 @@
   },
   {
     "actionsSummary": "Throws a smoke grenade into police in the Tunnel on the Lower West Terrace.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "TunnelTosser"
+    ],
     "appearanceSummary": "Asian man wearing a black coat, khaki pants, dark tennis shoes with white soles and a red pull tab at the back, black gloves, a Maryland flag gaiter and a black and grey single strap crossbody backpack.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/18zOLuY4fNSkNSR1e-aF-wxA1r4SB27wE",
@@ -30738,7 +30740,7 @@
       "#NicholasDeCarlo"
     ],
     "caseIdentifier": "1:21-mj-504",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353341/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
