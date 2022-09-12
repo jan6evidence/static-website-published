@@ -4056,6 +4056,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "BlackLeatherPB",
@@ -4063,10 +4067,12 @@
     "_id": "XNvZdt8Ugr7Y"
   },
   {
-    "actionsSummary": "On the police lines at the West Plaza. He is escorted by police thru the police line and back into the crowd. Also among the early entrants into the Tunnel.",
+    "actionsSummary": "On the police lines at the West Plaza. Tries to pull a flagpole away from a cop. He is escorted by police thru the police line and back into the crowd. Also among the early entrants into the Tunnel.",
     "alternateHashtags": [],
     "appearanceSummary": "Older man. Black  puffy winter coat with high collar. Black knit hat with a beige stripe.Black gloves. Clean shaven.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1z1aWza1zUt7W_8_nd8iA3vhzkltHL67P/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1Gv4IFjtDIQbQXpSyVV1AluLHE9pKx6l6",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
@@ -17812,7 +17818,7 @@
     "alternateHashtags": [
       "Insider1241"
     ],
-    "appearanceSummary": "Wearing glasses, a long sleeved green sweatshirt that says \"Bourbon Whiskey Flavlar\" in gold on the upper left chest, a RWB knit bobble hat, a black buff, a peachy-pink backpack, dark cuffed jeans and black shoes.",
+    "appearanceSummary": "Wearing glasses, a long sleeved green limited edition sweatshirt from Flaviar that says \"Bourbon Whiskey Flavlar\" in gold on the upper left chest, a RWB knit bobble hat, a black buff, a peachy-pink backpack, dark cuffed jeans and black shoes.",
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/12OL3wbBQzPDD6UzToDfJRthhneb48Yjj/view?usp=sharing",
     "filesUrl": "https://drive.google.com/drive/folders/1DeKxW-qka9shRavkWxVeJvEu0MjpQIUY",
@@ -33975,6 +33981,7 @@
     "arrestDate": "2021-12-14T05:00:00.000Z",
     "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:21-mj-686",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1456571/download",
     "fbiIdentifier": "258-AFO",
@@ -35813,7 +35820,7 @@
   {
     "actionsSummary": "Pulls barrier away from police on the Upper West Plaza.  Cuts up tarp on NW Scaffold with a knife and rips it down.",
     "alternateHashtags": [],
-    "appearanceSummary": "Stocky white man with a red beard wearing a camo baseball cap, black hoodie, black backpack, red and black gloves and sunglasses and carrying a knife.",
+    "appearanceSummary": "Stocky white man with a red beard wearing a camo baseball cap, black hoodie, black OGIO backpack, red and black gloves and sunglasses and carrying a knife.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1ZSkYdmYVW7mjrdE9WCtWrd_Mh87Ldqi-?usp=sharing",
     "isLawEnforcement": false,
@@ -41309,7 +41316,7 @@
     "_id": "ITWy4DnCQi6g"
   },
   {
-    "actionsSummary": "Violent based on AFO designation. Seen inside Capitol.",
+    "actionsSummary": "Violent based on AFO designation. Seen inside Capitol. (Sprayed police on the Upper West Plaza and threw the empty spray can at them. Was not charged for this.)",
     "alternateHashtags": [
       "Insider1699"
     ],
@@ -41317,9 +41324,11 @@
     "arrestDate": "2021-12-14T05:00:00.000Z",
     "arrestState": "TX",
     "associates": [],
+    "caseIdentifier": "1:21-mj-686",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1456571/download",
     "fbiIdentifier": "267-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1xegCDfuT5rW1rqT2lsfMmRSQWfGFSjmK",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
