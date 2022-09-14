@@ -9330,6 +9330,25 @@
     "_id": "GKtA9ucLEuMw"
   },
   {
+    "alternateHashtags": [
+      "IAmMatthewWalter"
+    ],
+    "appearanceSummary": "Baseball cap with a dark blue front and a red bill. There is a white version of the \"Betsy Ross\" flag on the front. Full brown beard and mustache, starting to gray. Orange and black plaid overshirt. Beneath that is a bright orange t-shirt that says \"Noble Beard did nothing wrong\" in black capital letters. Tattoos on the fingers of his right hand appear to be letters. Blue jeans. Tan high top shoes.",
+    "associates": [],
+    "idStatus": "Public Figure",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "group",
+        "name": "ProudBoys"
+      }
+    ],
+    "primaryHashtag": "ClownPB",
+    "profileLeads": [],
+    "_id": "u15Sjuw5ElPo"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "Red T-shirt over a black long-sleeve top. Jeans. Black Trump/Pence face mask. Red knit hat with blue Trump logo. Radio clipped to his pocket. Carries a black bullhorn.",
     "associates": [],
@@ -20434,23 +20453,6 @@
   },
   {
     "alternateHashtags": [],
-    "appearanceSummary": "Baseball cap with a dark blue front and a red bill. There is a white version of the \"Betsy Ross\" flag on the front. Full brown beard and mustache, starting to gray. Orange and black plaid overshirt. Beneath that is a bright orange t-shirt that says \"Noble Beard did nothing wrong\" in black capital letters. Tattoos on the fingers of his right hand appear to be letters. Blue jeans. Tan high top shoes.",
-    "associates": [],
-    "idStatus": "Public Figure",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [
-      {
-        "type": "group",
-        "name": "ProudBoys"
-      }
-    ],
-    "primaryHashtag": "IAmMatthewWalter",
-    "profileLeads": [],
-    "_id": "3dIPKBKN4jcY"
-  },
-  {
-    "alternateHashtags": [],
     "appearanceSummary": "Dark short hair cut in a fade hairstyle that is blond on top. Light blue surgical mask. Black overcoat. Black business suit (?) with a white shirt. Black necktie. Black gloves.",
     "associates": [],
     "idStatus": "Public Figure",
@@ -20471,18 +20473,6 @@
     "primaryHashtag": "IAmMikkiWillis",
     "profileLeads": [],
     "_id": "uCAvh9d5UlGQ"
-  },
-  {
-    "alternateHashtags": [],
-    "appearanceSummary": "Woman with long blonde hair. Gray coat with a hood that has white fur lining. Silver chains hang from the right shoulder. (Picture might be from the 5th.)",
-    "associates": [],
-    "idStatus": "Public Figure",
-    "isLawEnforcement": false,
-    "isMpdSuspect": false,
-    "otherTags": [],
-    "primaryHashtag": "IAmMillieWeaver",
-    "profileLeads": [],
-    "_id": "POY1pVy-AqWE"
   },
   {
     "alternateHashtags": [],
@@ -35648,7 +35638,9 @@
     "alternateHashtags": [],
     "appearanceSummary": "Wearing a revolutionary war era Confederate coat and hat.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1z8a7r7UbY5g9z9r9t6FcwcqwqgOBvmaD/view?usp=sharing",
     "fbiIdentifier": "460-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1C30V3JVLE6iBEG0NCqrrn1Q4a7vFswn7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -37759,7 +37751,7 @@
       "#WalkerTexasFascist"
     ],
     "caseIdentifier": "1:21-cr-35",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1382756/download",
     "compositeURL": "https://drive.google.com/file/d/1l-7To6XdaahoyMqWMeHo_jIS9PM6ZuQt/view?usp=sharing",
     "fbiIdentifier": "130-AFO",
@@ -38563,7 +38555,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1371531/download",
     "compositeURL": "https://drive.google.com/file/d/10YOmEQuKGPqnJLt__c0_8Nb-OUu4uvZV/view?usp=sharing",
     "fbiIdentifier": "64-AFO",
@@ -42686,7 +42678,7 @@
     "arrestState": "CT",
     "associates": [],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357246/download",
     "fbiIdentifier": "62-AFO",
     "isLawEnforcement": false,
@@ -44371,7 +44363,7 @@
       "#CommanderCompanion"
     ],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Arrested",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.documentcloud.org/documents/21041047-mehaffie",
     "compositeURL": "https://drive.google.com/file/d/1CXDcdOfr_Vah2SlTUVwBF4L-W65Mj7bX/view?usp=sharing",
     "fbiIdentifier": "86-AFO",
