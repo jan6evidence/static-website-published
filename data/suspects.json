@@ -2137,6 +2137,26 @@
     "_id": "6FWWaBinQmjg"
   },
   {
+    "actionsSummary": "Pulls a flagpole away from a cop on the Upper West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a brown mullet and a thin mustache wearing gold framed aviator sunglasses, a tan jacket with a grey hood over a denim button down shirt over a red tshirt and a grey or taupe backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/10jZgHeFDFXn_EwrEvo81Dp1iiCeDJxtF",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BadMulletGuy",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "F7zG_vPv0uMU"
+  },
+  {
     "actionsSummary": "Seen carrying bullhorn, one of the first to wait top of stairs at N slide of Lower W. Terrace, then in the tunnel fight. Exiting the tunnel, lands on #RosanneBoyland twice and walks away.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark hair. Mustache and goatee. Red MAGA hat. Mirrored sunglasses. Black Deus Vult shirt with a Virgin Mary design. Grey hooded sweatshirt. Black buff. Choker-style necklace. White jacket over shoulder earlier in day. Carries bullhorn initially but seems to lose it.",
@@ -9491,7 +9511,7 @@
       "#JodiWilson"
     ],
     "caseIdentifier": "1:21-mj-2295",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jodi%20Wilson%20and%20Cole%20Temple%20Affidavit.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -15062,7 +15082,7 @@
     "arrestState": "MN",
     "associates": [],
     "caseIdentifier": "1:22-mj-134",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "filesUrl": "https://drive.google.com/drive/folders/1N3sEKk0WVyc0mX4ND_ci3eD9AFGGWWvZ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33562,7 +33582,7 @@
     "arrestState": "AZ",
     "associates": [],
     "caseIdentifier": "1:21-mj-00666-ZMF",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1453156/download",
     "compositeURL": "https://drive.google.com/file/d/1w4yeIC5DweGE8aBTdewf0mgTVOLP85Li/view?usp=sharing",
     "fbiIdentifier": "94-AFO",
@@ -40480,7 +40500,7 @@
     "arrestState": "MI",
     "associates": [],
     "caseIdentifier": "1:21-mj-494",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/thurlow-steven",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -40880,7 +40900,7 @@
       "#MarkSahady"
     ],
     "caseIdentifier": "1:21-cr-451",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357021/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
