@@ -16835,14 +16835,25 @@
     "_id": "se65fE914oSg"
   },
   {
-    "actionsSummary": "Fought with police officers (on Upper W. Terrace?)",
-    "alternateHashtags": [],
+    "actionsSummary": "Fought with police officers on the Upper West Terrace",
+    "alternateHashtags": [
+      "Insider2787"
+    ],
     "appearanceSummary": "Camo \"Trump 2020\" baseball cap with a yellow signature on the bill. Full, salt-and-pepper beard and mustache. Black handkerchief around his neck. Black, hooded Carhartt coat over a red, gray, and black plaid shirt. Beneath that is a camo t-shirt. Gray and black backpack. Gray cargo pants. Light brown shoes.",
+    "arrestDate": "2022-09-15T04:00:00.000Z",
+    "arrestState": "NJ",
     "associates": [],
+    "caseIdentifier": "1:22−mj−00200",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1535166/download",
     "fbiIdentifier": "338-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -16850,6 +16861,7 @@
     ],
     "primaryHashtag": "GrabbyGrappler",
     "profileLeads": [],
+    "realName": "VASSALLO, Salvatore \"Sal\"",
     "_id": "C0jQkr4NYkIY"
   },
   {
@@ -35913,7 +35925,7 @@
     "_id": "17n2SyM6MvQo"
   },
   {
-    "actionsSummary": "Strikes police with a pole in the NW Scaffolding.",
+    "actionsSummary": "Strikes police with a telesoping baton in the NW Scaffolding. The baton may be stolen from police - he picks it up from in front of a fallen cop.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with a brown man bun, missing a top front tooth, wearing a red mask over a green sweatband, a black jacket over a green top, red gloves with a black Nike logo on the back, a US flag with \"Don't Tread On Me\" around his shoulders and a black backpack with red details.",
     "associates": [],
