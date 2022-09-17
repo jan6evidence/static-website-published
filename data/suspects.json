@@ -33546,6 +33546,32 @@
     "_id": "LvlNxcD9Yg-0"
   },
   {
+    "actionsSummary": "Throws a water bottle at police on the Upper West Plaza. Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider715"
+    ],
+    "appearanceSummary": "White male with sandy brown hair wearing a bright pink hoodie over a taupe knit hat, red gloves, a grey or blue and white camo face mask, sunglasses, taupe pants and black and white shoes.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1hbjr6q-0fUBerJNmnMOo5p-dGADOWnnb",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "PinkMAGAShirt",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "K4fpb_jcUn4Q"
+  },
+  {
     "alternateHashtags": [
       "Insider1086"
     ],
