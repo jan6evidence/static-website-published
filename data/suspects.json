@@ -1654,17 +1654,22 @@
     "_id": "oblJ_7-awqP8"
   },
   {
-    "actionsSummary": "Designated violent based on carrying weapon. Seen on NW walkway removing side barricades, then on W. Plaza immediately after incursion, right up against police and seeming to play a role.",
+    "actionsSummary": "Seen on NW walkway removing side barricades, then on W. Plaza immediately after incursion, right up against police and seeming to play a role. Broke off iron railing on the Lower West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Rawlings batting helmet, grey jacket, yellow gloves, carries axe handle with U.S. flag attached and very large bright aqua bag (possibly tennis racket bag)",
     "associates": [],
     "fbiIdentifier": "516-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1V4U3-r-aFIdrhtOeQcXGCN3HDxTjqiXa",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "AxeHandleBaseballHat",
@@ -41084,7 +41089,7 @@
     "_id": "Zgx7BB1B8jYQ"
   },
   {
-    "actionsSummary": "Marched in with PBs. Inside the Capitol.",
+    "actionsSummary": "Marched in with PBs. First to break iron fencing off on the Lower West Plaza. Inside the Capitol.",
     "alternateHashtags": [
       "Insider1745"
     ],
@@ -41106,6 +41111,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "SuperPlaidPB",
