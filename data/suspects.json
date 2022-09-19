@@ -4127,17 +4127,22 @@
     "_id": "xOFI-2Bzohmc"
   },
   {
-    "actionsSummary": "Jabs police with a flag pole in the NW Scaffolding. Strikes police with a flag on the NW Terrace. Throws a teargas canister into a group of police on the NW Steps/NW Terrace.",
+    "actionsSummary": "Kicks iron railing repeatedly on the Lower West Terrace until it breaks off at the base. Jabs police with a flag pole in the NW Scaffolding. Strikes police with a flag on the NW Terrace. Throws a teargas canister into a group of police on the NW Steps/NW Terrace.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with a cleft chin wearing a black coat, black beanie hat, distressed white t-shirt with a flag on it and reflective sunglasses and carrying a red baseball cap.",
     "associates": [],
     "fbiIdentifier": "187-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1-SQnS7W1ZnAcBfL94KMDUNl86aY5MPcd",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "BlackNTanGuy",
@@ -36454,7 +36459,7 @@
       "Insider0330",
       "CapitolJunkMan"
     ],
-    "appearanceSummary": "Tan pants. Black puffy coat. Black shirt with white lettering. White Sox ball cap. BLue surgical mask.",
+    "appearanceSummary": "Tan pants. Black puffy coat. Black shirt with white lettering. White Sox ball cap. Blue surgical mask.",
     "arrestDate": "2021-02-17T05:00:00.000Z",
     "arrestState": "PA",
     "associates": [],
