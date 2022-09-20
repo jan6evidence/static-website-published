@@ -4046,13 +4046,19 @@
     "_id": "-LZiHdgngmho"
   },
   {
-    "actionsSummary": "Pulls apart black permanent fencing on W. Plaza. Photographed next to FacepaintBlowhard",
+    "actionsSummary": "Pulls down black permanent fencing/iron railing on Lower West Plaza. Photographed pointing with a telescoping baton as if he was casting one of the Unforgivable Curses.",
     "alternateHashtags": [],
-    "appearanceSummary": "White MAGA baseball cap. Dark gray hair. Thick, dark eyebrows that point down near his nose. Eyeglasses with black frames. White N95 earloop mask. Black puffer jacket from North Face. Khaki backpack. Black gloves. Blue jeans. Black boots. Sometimes years a US flag around his neck like a scarf. Photographed pointing with a telescoping baton as if he was casting one of the Unforgivable Curses.",
+    "appearanceSummary": "Asian man with dark gray hair. and thick, dark eyebrows that point down near his nose wearing glasses with black frames, a white MAGA baseball cap, white N95 earloop mask, black puffer jacket from North Face, khaki backpack, black gloves, blue jeans and black boots. Sometimes wears a US flag around his neck like a scarf.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/17mf8PYKPPFUUy8W2hawxhUU7kU6ZrnKQ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
     "primaryHashtag": "BlackHufflePuff",
     "profileLeads": [],
     "_id": "WJRjtDEgkg7Y"
@@ -27227,12 +27233,12 @@
     "_id": "flgiQAUtwqq8"
   },
   {
-    "actionsSummary": "Participated in breach of police barricades on pathway, seen fighting at police lines on West Plaza and fighting in tunnel. He almost always has a gas mask on. Sprays officers from a large chemical sprayer inside the tunnel. At one point holds ladder with #AllGreenGuy and #UglyGunSweater, near #RedPoloRising",
+    "actionsSummary": "Participated in breach of police barricades on pathway, seen fighting at police lines on West Plaza and fighting in tunnel. He almost always has a gas mask on. Breaks off iron railings on the Lower West Plaza. Sprays officers from a large chemical sprayer inside the tunnel. At one point holds ladder with #AllGreenGuy and #UglyGunSweater, near #RedPoloRising",
     "alternateHashtags": [
       "FBI58AFO",
       "PudgyMagaFlagShirt"
     ],
-    "appearanceSummary": "Black helmet with a camera on the front. Bushy brown beard. Blue jacket with a red hood and \"Make America Great Again\" in large white letters vertically on the front, stars on the left sleeve and the back, and stripes on the right. Blue jeans. Usually seen in a gasmask.",
+    "appearanceSummary": "Black helmet with a camera on the front. Bushy brown beard. Blue jacket with a red hood and \"Make America Great Again\" in large white letters vertically on the front, stars on the left sleeve and the back, and red and white stripes on the right. Blue jeans. Usually seen in a gasmask.",
     "arrestDate": "2021-04-07T04:00:00.000Z",
     "arrestState": "NJ",
     "associates": [
@@ -27245,6 +27251,7 @@
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download",
     "compositeURL": "https://drive.google.com/file/d/1qIAj90O7tlzLo0Vnn5WfKQHqLriKm6nL/view?usp=sharing",
     "fbiIdentifier": "58-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1pJWUlIjYtJCvac6gwaP9HDbbLOe8NnzQ",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -27263,6 +27270,10 @@
       {
         "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       },
       {
         "type": "equipment",
@@ -29843,7 +29854,7 @@
   {
     "actionsSummary": "Strikes at window to the right of the tunnel with a club.",
     "alternateHashtags": [
-      "Insider1159"
+      "Insider2232"
     ],
     "appearanceSummary": "Black hooded coat. Camo face covering with eyes cut out. Blonde hair. Female.",
     "associates": [],
