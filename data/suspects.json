@@ -26367,13 +26367,15 @@
     "_id": "VUfoGseMklKU"
   },
   {
-    "actionsSummary": "In Penn. Walkway breach, is up front and violently pulls a barricade away from officers. On W Plaza, climbs media tower and waves III%er flag with a George Washington quote. Later sprays police officers in W. Plaza fight.",
+    "actionsSummary": "In Penn. Walkway breach, is up front and violently pulls a barricade away from officers. Kicks a black iron railing to help break it down on the Lower West Plaza. On W Plaza, climbs media tower and waves III%er flag with a George Washington quote. Later sprays police officers in W. Plaza fight.",
     "alternateHashtags": [
       "GreenFlagNGate"
     ],
     "appearanceSummary": "Black knit cap with a dark red (?) square on the upturned edge. Brown stubble across chin. Pea green coat over a shirt or jacket that has a bright blue collar. Backpack with sickly green straps.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1FMP_USicOsLjp20NQ5q5DPVdb1q-tAmw/view?usp=sharing",
     "fbiIdentifier": "286-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1-x7uRzzivkmbNDbmvKEDNSi-zEgDQGMN",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -26388,6 +26390,10 @@
       {
         "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "LittleManSprayer",
@@ -29821,12 +29827,14 @@
     "_id": "SxQSpFKJ8nwA"
   },
   {
-    "actionsSummary": "Sprays police on W Plaza",
+    "actionsSummary": "Breaks off two black iron railing panels on the Lower West Plaza. Sprays police on W Plaza",
     "alternateHashtags": [
       "GreenPatchStarGaiter"
     ],
     "appearanceSummary": "Plain black baseball cap. Black earpiece. Stars and stripes gaiter with muted, bluish colors. Black long-sleeve shirt. Black tactical vest and backpack (possibly a water pack). The vest has a green US flag patch, and next to it some kind of logo in white. Beneath that are two black bags at the belly. Gloves are black on top and gray on the bottom with reinforced knuckles. Blue jeans and a black belt. Black shoes or boots.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1jxjSf8gllgb71qYN-i9oO_hFntT2tclc/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1zSGYgt90Hz3DdY-YW6c2N4By2d8r6dpC",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -29845,6 +29853,10 @@
       {
         "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "MorningPBSprayer",
