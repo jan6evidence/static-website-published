@@ -3589,7 +3589,7 @@
     "_id": "y6lGeBwsMrBM"
   },
   {
-    "actionsSummary": "Intentionally broke a tray inside the Capitol.",
+    "actionsSummary": "Inside Capitol building. Intentionally broke a tray inside the Capitol. Stole headphones from media equipment destruction scene.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with dark hair wearing a dark long-sleeve jacket with white stripes along the sleeves, dark pants, a red baseball cap, and a dark neck gaiter pulled over half of his face.",
     "arrestDate": "2022-09-20T04:00:00.000Z",
@@ -3606,7 +3606,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/14VrxPJZ5MEviZDz9nFs2o_YxuyZ5N4vq",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BlackAdidasBrat",
     "profileLeads": [],
     "realName": "CHASE, Gabriel",
@@ -6235,6 +6240,7 @@
     "_id": "GRqk6H9LkkWQ"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with medium-long blonde hair wearing a brown hooded jacket with light-colored trim with the hood up, khaki pants, dark shoes, and a blue surgical mask",
     "arrestDate": "2022-09-20T04:00:00.000Z",
@@ -6251,7 +6257,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1iUAvMSFSlRT349wejOvFGFdmJt3ErwD-",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "BrownSweaterBrat",
     "profileLeads": [],
     "realName": "LOVLEY, Paul Ewald",
@@ -27549,8 +27560,9 @@
     "_id": "nAJzLxXhsjig"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
-    "appearanceSummary": "White man wearing a dark hooded jacket with the hood up, a lblue surgical mask and a dark hat with an orange design on the front and “#MAGA” on the back.",
+    "appearanceSummary": "White man wearing a dark hooded jacket with the hood up, a blue surgical mask and a dark hat with an orange design on the front and “#MAGA” on the back.",
     "arrestDate": "2022-09-20T04:00:00.000Z",
     "arrestState": "PA",
     "associates": [
@@ -27565,7 +27577,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1pndTcQY3tFFw0JoPOOlacq9F4EnppXgF",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MAGAPumpkinBrat",
     "profileLeads": [],
     "realName": "CAREY, Thomas",
@@ -46377,6 +46394,7 @@
     "_id": "k--XDN-BAqrg"
   },
   {
+    "actionsSummary": "Inside Capitol building.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with medium-long dark hair, wearing a dark button-up shirt, white puffy winter jacket with a fur-trimmed hood, dark pants, a red baseball cap with white letters, and a dark neck gaiter pulled over half of his face.",
     "arrestDate": "2022-09-20T04:00:00.000Z",
@@ -46393,7 +46411,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1O0Ig0uOe_Z2fW8C5oL3N8hbyZXXWau6M",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "WhitePufferBrat",
     "profileLeads": [],
     "realName": "LIZAK, Jon",
