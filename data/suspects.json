@@ -3589,6 +3589,30 @@
     "_id": "y6lGeBwsMrBM"
   },
   {
+    "actionsSummary": "Intentionally broke a tray inside the Capitol.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark hair wearing a dark long-sleeve jacket with white stripes along the sleeves, dark pants, a red baseball cap, and a dark neck gaiter pulled over half of his face.",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [
+      "#SuitGuy",
+      "#BrownSweaterBrat",
+      "#MAGAPumpkinBrat",
+      "#WhitePufferBrat"
+    ],
+    "caseIdentifier": "1:22-mj-00203",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247163/gov.uscourts.dcd.247163.1.1_3.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/14VrxPJZ5MEviZDz9nFs2o_YxuyZ5N4vq",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BlackAdidasBrat",
+    "profileLeads": [],
+    "realName": "CHASE, Gabriel",
+    "_id": "6U5AhwJZIvdM"
+  },
+  {
     "actionsSummary": "Shoves cop over on the NW Lawn. Inside Capitol.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with light brown facial hair (mustache - beard unknown) wearinga plain black baseball cap with a leather strap at the back over a black balaclava, a black collared coat, black gloves, blue jeans and black tennis shoes with white details.",
@@ -6209,6 +6233,29 @@
     "primaryHashtag": "BrownSuedeInsider",
     "profileLeads": [],
     "_id": "GRqk6H9LkkWQ"
+  },
+  {
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with medium-long blonde hair wearing a brown hooded jacket with light-colored trim with the hood up, khaki pants, dark shoes, and a blue surgical mask",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#SuitGuy",
+      "#MAGAPumpkinBrat",
+      "#BlackAdidasBrat",
+      "#WhitePufferBrat"
+    ],
+    "caseIdentifier": "1:22-mj-00203",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247163/gov.uscourts.dcd.247163.1.1_3.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1iUAvMSFSlRT349wejOvFGFdmJt3ErwD-",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "BrownSweaterBrat",
+    "profileLeads": [],
+    "realName": "LOVLEY, Paul Ewald",
+    "_id": "39BATZkXAir8"
   },
   {
     "actionsSummary": "Assaults police officers through a bike barrier being held up in the air.",
@@ -24630,7 +24677,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-224",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1360506/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27500,6 +27547,29 @@
     "primaryHashtag": "MagaMysteryMan",
     "profileLeads": [],
     "_id": "nAJzLxXhsjig"
+  },
+  {
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a dark hooded jacket with the hood up, a lblue surgical mask and a dark hat with an orange design on the front and “#MAGA” on the back.",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "PA",
+    "associates": [
+      "#SuitGuy",
+      "#BrownSweaterBrat",
+      "#BlackAdidasBrat",
+      "#WhitePufferBrat"
+    ],
+    "caseIdentifier": "1:22-mj-00203",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247163/gov.uscourts.dcd.247163.1.1_3.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1pndTcQY3tFFw0JoPOOlacq9F4EnppXgF",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MAGAPumpkinBrat",
+    "profileLeads": [],
+    "realName": "CAREY, Thomas",
+    "_id": "jbtWovjKUoFE"
   },
   {
     "actionsSummary": "Leads group of NW walkway breachers. Actively pulls down barricades and wrestles with police. Appears to be an on-site manager/leadout. Later moves up onto W steps but not seen playing later role. Assaults police at the SW Corner.",
@@ -40992,9 +41062,18 @@
       "Insider1036"
     ],
     "appearanceSummary": "Dark buzzcut. Dark beard and mustache. Stars and stripes gaiter. Black or dark gray business suit. White shirt. Blue and silver striped tie.",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "VA",
     "associates": [
-      "#SuitGuysFlock"
+      "#SuitGuysFlock",
+      "#BrownSweaterBrat",
+      "#MAGAPumpkinBrat",
+      "#BlackAdidasBrat",
+      "#WhitePufferBrat"
     ],
+    "caseIdentifier": "1:22-mj-00203",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247163/gov.uscourts.dcd.247163.1.1_3.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -41009,6 +41088,7 @@
     ],
     "primaryHashtag": "SuitGuy",
     "profileLeads": [],
+    "realName": "BRODY, Joseph",
     "_id": "bxoFIUAfMlD8"
   },
   {
@@ -46295,6 +46375,29 @@
     "primaryHashtag": "WhitePowerPuff",
     "profileLeads": [],
     "_id": "k--XDN-BAqrg"
+  },
+  {
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with medium-long dark hair, wearing a dark button-up shirt, white puffy winter jacket with a fur-trimmed hood, dark pants, a red baseball cap with white letters, and a dark neck gaiter pulled over half of his face.",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [
+      "#SuitGuy",
+      "#BrownSweaterBrat",
+      "#MAGAPumpkinBrat",
+      "#BlackAdidasBrat"
+    ],
+    "caseIdentifier": "1:22-mj-00203",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247163/gov.uscourts.dcd.247163.1.1_3.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1O0Ig0uOe_Z2fW8C5oL3N8hbyZXXWau6M",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "WhitePufferBrat",
+    "profileLeads": [],
+    "realName": "LIZAK, Jon",
+    "_id": "nCtay2pLokh0"
   },
   {
     "actionsSummary": "Shouts through a bullhorn, \"whose house, our house\", while on lawn. Unclear if really part of organized plan. Self-identifies as from NYC, is w/ Staten Island folks with Nancy Pelosi artwork. Has an argument with #ZipTieNYCGuy and calls him \"Chris\".",
