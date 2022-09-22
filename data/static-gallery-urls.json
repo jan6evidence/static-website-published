@@ -5366,7 +5366,13 @@
       "thumbnailUrl": "https://archive.org/download/xyZvKi5JP7LweZXxr/xyZvKi5JP7LweZXxr.200px.png"
     }
   ],
-  "BlackAdidasBrat": [],
+  "BlackAdidasBrat": [
+    {
+      "mediaItemId": "bD2CLFkPq45K7sHSa",
+      "archiveUrl": "https://archive.org/download/bD2CLFkPq45K7sHSa/bD2CLFkPq45K7sHSa.png",
+      "thumbnailUrl": "https://archive.org/download/bD2CLFkPq45K7sHSa/bD2CLFkPq45K7sHSa.200px.png"
+    }
+  ],
   "BlackBalaclava": [
     {
       "mediaItemId": "3y83MFyzqKx9HEkxG",
@@ -9500,7 +9506,13 @@
       "thumbnailUrl": "https://archive.org/download/uem2se4gCYngSxLvZ/uem2se4gCYngSxLvZ.200px.jpg"
     }
   ],
-  "BrownSweaterBrat": [],
+  "BrownSweaterBrat": [
+    {
+      "mediaItemId": "Fvu2ii4WgQAx5dqB2",
+      "archiveUrl": "https://archive.org/download/Fvu2ii4WgQAx5dqB2/Fvu2ii4WgQAx5dqB2.png",
+      "thumbnailUrl": "https://archive.org/download/Fvu2ii4WgQAx5dqB2/Fvu2ii4WgQAx5dqB2.200px.png"
+    }
+  ],
   "BrownTruckersHitch": [
     {
       "mediaItemId": "uwb267cn9SPc3f9Kv",
@@ -36173,7 +36185,13 @@
       "thumbnailUrl": "https://archive.org/download/M6nreb5NdexqAWFtj/M6nreb5NdexqAWFtj.200px.png"
     }
   ],
-  "MAGAPumpkinBrat": [],
+  "MAGAPumpkinBrat": [
+    {
+      "mediaItemId": "WFBqzq7MFvDYnDqbX",
+      "archiveUrl": "https://archive.org/download/WFBqzq7MFvDYnDqbX/WFBqzq7MFvDYnDqbX.png",
+      "thumbnailUrl": "https://archive.org/download/WFBqzq7MFvDYnDqbX/WFBqzq7MFvDYnDqbX.200px.png"
+    }
+  ],
   "MAGASmirker": [
     {
       "mediaItemId": "EnHhC5a3XGwCPeZRe",
@@ -63687,7 +63705,13 @@
       "thumbnailUrl": "https://archive.org/download/xfr4xcfZSTHRrYF8b/xfr4xcfZSTHRrYF8b.200px.png"
     }
   ],
-  "WhitePufferBrat": [],
+  "WhitePufferBrat": [
+    {
+      "mediaItemId": "f2orQS6czJbkqNEPW",
+      "archiveUrl": "https://archive.org/download/f2orQS6czJbkqNEPW/f2orQS6czJbkqNEPW.png",
+      "thumbnailUrl": "https://archive.org/download/f2orQS6czJbkqNEPW/f2orQS6czJbkqNEPW.200px.png"
+    }
+  ],
   "WhitePufferLady": [
     {
       "mediaItemId": "2NNdZMdbKYTRzxNb8",
