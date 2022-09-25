@@ -698,7 +698,7 @@
     "arrestState": "CA",
     "associates": [],
     "caseIdentifier": "1:21-cr-445",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Alan%20Hernandez%20Criminal%20Complaint.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -2626,14 +2626,21 @@
     "_id": "vWQ0oPOn0qwQ"
   },
   {
-    "actionsSummary": "Breaks off a panel of black iron railing on the Lower West Plaza and carries it away.",
-    "alternateHashtags": [],
+    "actionsSummary": "Breaks off a panel of black iron railing on the Lower West Plaza and carries it away. Inside Capitol.",
+    "alternateHashtags": [
+      "Insider1489",
+      "BadBat"
+    ],
     "appearanceSummary": "Stocky young white man with dark hair wearing a black hoodie, light blue jeans, black shoes, a black and yellow knit BATMAN hat with an oval Batman logo patch and a black backpack with a radio clipped to the left strap and an orange coat tied around it.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1T7SP99gDjZR-rmlDRyJ44m5UUhEG3844",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Vandalism"
@@ -4292,7 +4299,7 @@
     "arrestState": "IA",
     "associates": [],
     "caseIdentifier": "1:21-cr-6",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353376/download",
     "fbiIdentifier": "44-AFO",
     "isLawEnforcement": false,
@@ -4605,7 +4612,7 @@
     "arrestState": "GA",
     "associates": [],
     "caseIdentifier": "1:21-mj-559",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blas%20Santillan%20Criminal%20Complaint.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1jGNvq5CU6uFzWDf6uRGpVAbgR9GKaJdg",
     "isLawEnforcement": false,
@@ -13594,7 +13601,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:21-cr-86",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1353926/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -28099,14 +28106,14 @@
     "_id": "nA6zrSOmsivg"
   },
   {
-    "actionsSummary": "Part of Tunnel assault on the Lower West Terrace. Swung baton at police. Participated in \"heave-ho\" effort. Brought a gun onto Capitol grounds and lost it in the fight.",
+    "actionsSummary": "Part of Tunnel assault on the Lower West Terrace. Swung baton at police. Participated in \"heave-ho\" effort. Brought two guns onto Capitol grounds - lost one in the fight.",
     "alternateHashtags": [],
     "appearanceSummary": "Balding white man with white facial hair wearing a tan coat over a black hoodie, a blue baseball cap and glasses.",
     "arrestDate": "2021-11-19T05:00:00.000Z",
     "arrestState": "IN",
     "associates": [],
     "caseIdentifier": "1:21-mj-00655-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1449771/download",
     "filesUrl": "https://drive.google.com/drive/folders/1jwD9vxC9yy0hQO9-KP39lazZJEgtYsWh?usp=sharing",
     "isLawEnforcement": false,
@@ -28915,6 +28922,25 @@
     "_id": "qymTb6dEsn2U"
   },
   {
+    "actionsSummary": "Climbed through a broken window on the Lower West Terrace into the Capitol Building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with sunglasses on her head wearing a black jacket over a white shirt.",
+    "arrestDate": "2022-09-23T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00207-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247414/gov.uscourts.dcd.247414.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1zHJiSdcB-UP4I_eu6RwbQbdB0W0xr7Jj",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MelanieBelger",
+    "profileLeads": [],
+    "realName": "BELGER, Melanie",
+    "_id": "dFssPdYEcguI"
+  },
+  {
     "actionsSummary": "Pictured in Nancy Pelosi's office",
     "alternateHashtags": [
       "Insider1617"
@@ -29537,6 +29563,25 @@
     "profileLeads": [],
     "realName": "TIMBROOK, Michael",
     "_id": "viMJWWldkvTs"
+  },
+  {
+    "actionsSummary": "Climbed through a broken window on the Lower West Terrace into the Capitol Building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White woman with blonde hair wearing a red, white , and blue Trump beanie with ‘45’ on the bill and a black coat and carrying a gray purse.",
+    "arrestDate": "2022-09-23T04:00:00.000Z",
+    "arrestState": "CA",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00207-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247414/gov.uscourts.dcd.247414.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1uigsZIflXvyRHyfMF-TYVCzsFiLgolb4",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "MichelleEstey",
+    "profileLeads": [],
+    "realName": "ESTEY, Michelle",
+    "_id": "DHgJSaMJ4jgU"
   },
   {
     "actionsSummary": "Climbed up bleachers/scaffolding on West side of Capitol. Entered Capitol through Upper West Terrace doors around 2:45pm. Walked around Rotunda until forced to leave.",
@@ -31651,7 +31696,7 @@
     "arrestState": "KY",
     "associates": [],
     "caseIdentifier": "1:21-cr-427",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.documentcloud.org/documents/20892443-peterson",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -45123,7 +45168,7 @@
     "arrestState": "CO",
     "associates": [],
     "caseIdentifier": "1:21-mj-00186-SKC",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Patrick%20Hamner%20Arrest%20Warrant%20and%20Statement%20of%20Facts.pdf",
     "compositeURL": "https://drive.google.com/file/d/1KkLfqvGZjWQph3MIj_ngn3RpnEtbnEOY/view?usp=sharing",
     "fbiIdentifier": "61-AFO",
