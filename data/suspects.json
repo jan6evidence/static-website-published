@@ -4102,10 +4102,12 @@
     "_id": "-LZiHdgngmho"
   },
   {
-    "actionsSummary": "Pulls down black permanent fencing/iron railing on Lower West Plaza. Photographed pointing with a telescoping baton as if he was casting one of the Unforgivable Curses.",
+    "actionsSummary": "Breaks off at least two panels of black iron railing on the Lower West Plaza. Photographed pointing with a telescoping baton as if he was casting one of the Unforgivable Curses.",
     "alternateHashtags": [],
     "appearanceSummary": "Asian man with dark gray hair. and thick, dark eyebrows that point down near his nose wearing glasses with black frames, a white MAGA baseball cap, white N95 earloop mask, black puffer jacket from North Face, khaki backpack, black gloves, blue jeans and black boots. Sometimes wears a US flag around his neck like a scarf.",
-    "associates": [],
+    "associates": [
+      "#PufferBreaker"
+    ],
     "filesUrl": "https://drive.google.com/drive/folders/17mf8PYKPPFUUy8W2hawxhUU7kU6ZrnKQ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -7445,7 +7447,7 @@
   {
     "actionsSummary": "Participates in a group shoving assault against police on the NW Lawn. Inside Capitol building.",
     "alternateHashtags": [],
-    "appearanceSummary": "White man with white hair and beard wearing a black hoodie or hooded coat, a camo hat with a black flag embroidered on the front and two small Michigan badges pinned on the back, a grey and black backpack with white writing on the front strap and a black and white patterned buff.",
+    "appearanceSummary": "White man with white hair and beard wearing a blac hooded coat with the Eddie Bauer logo on the upper left arm, a camo hat with a black flag embroidered on the front and two small badges pinned on the back brim (one says \"Keep It Fresh\", the other is Michigan), a grey and black backpack with white writing on the front strap and a black and white patterned buff.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1EUU-e7sRdQyG8RjNWkOxDBq6gGAmxCdj",
     "isLawEnforcement": false,
@@ -22794,10 +22796,11 @@
     "_id": "choI9y1rMg9w"
   },
   {
-    "actionsSummary": "Marches with and seen on video claiming to be a Proud Girl. Early breacher of the Capitol grounds. Documented herself walking up the West Lawn via a Parler video. Seen among the Proud Boys on the West Plaza. She says \"love you Connecticut\" on her Parler video.",
+    "actionsSummary": "Marches with and seen on video claiming to be a Proud Girl. Early breacher of the Capitol grounds. Helps break off a panel of black iron railing on the Lower West Plaza. Documented herself walking up the West Lawn via a Parler video. Seen among the Proud Boys on the West Plaza. She says \"love you Connecticut\" on her Parler video.",
     "alternateHashtags": [],
     "appearanceSummary": "Female. Dark curly hair worn on top of her head. Dark, oversized acrylic frame glasses. Grey hooded sweatshirt with white lettering. American flag worn as a cape. Piercing through her lower lip.",
     "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1_SFmQDCqQR7CPGrbYTEkpfuzzjYpZdhI",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22809,6 +22812,10 @@
       {
         "type": "group",
         "name": "ProudBoysProudGirls"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "JesTheRn",
@@ -34673,6 +34680,26 @@
     "_id": "GpWoWdHBQmxs"
   },
   {
+    "actionsSummary": "Helps break off a panel of black iron railing on the Lower West Plaza.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Wearing a dark green puffer jacket, black jeans, brown shoes, a black knit cap with an UnderArmour X logo, brown camo gloves, a navy blue backpack and a blue surgical mask.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1897SD2it9qqoxmGZwUg7eNKnjpn0DfjW",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "PufferBreaker",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "URFr9iehkgAI"
+  },
+  {
     "actionsSummary": "Seen inside Capitol, made the MPD Wanted list",
     "alternateHashtags": [
       "Insider1015"
@@ -46247,7 +46274,9 @@
   },
   {
     "actionsSummary": "Shoves against police barrier on Upper West Plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "CatalinaFencePusher"
+    ],
     "appearanceSummary": "White man with grey facial hair wearing a tan baseball cap from Whitefish Mountain Resort in Whitefish, Montana and a blue jacket with a grey lining from Catalina Island, CA. Blue jeans, white tshirt, black and white patterned gloves. Carrying a flagpole with a US flag and a Florida for Trump flag. Possibly missing a tooth.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1rb_BxPKixuqhLaxCHvMF0PMwpU23nnQr",
