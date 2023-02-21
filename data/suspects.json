@@ -530,7 +530,7 @@
       "#CapitolCousinIt"
     ],
     "caseIdentifier": "1:21-cr-00735-RCL",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Robert%20Elliott%20Indictment.pdf",
     "compositeURL": "https://drive.google.com/file/d/1ovKQitSUMl04aHWfJI40WGcGLfrQ-HHt/view?usp=sharing",
     "isLawEnforcement": false,
@@ -2113,6 +2113,32 @@
     "primaryHashtag": "BadBellhop",
     "profileLeads": [],
     "_id": "DYIFAiVsAtAU"
+  },
+  {
+    "actionsSummary": "Grabbed the arm of a police officer trying to keep insurrectionists out of the Capitol Building. Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider0490"
+    ],
+    "appearanceSummary": "White man with a brown mustache and grey beard wearing a black coat and red baseball cap with sunglasses perched on the brim.",
+    "arrestDate": "2022-10-27T04:00:00.000Z",
+    "arrestState": "TX",
+    "associates": [],
+    "caseIdentifier": "1:22−mj−00228",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1547346/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1Y30iRU6ESoBqys8sENoQRgaviQIHKNSd",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "BadDoorMan",
+    "profileLeads": [],
+    "realName": "ARREDONDO, David",
+    "_id": "gIYpMM0XosMs"
   },
   {
     "actionsSummary": "Photographed with mob fighting Capitol Police.",
@@ -3963,7 +3989,14 @@
       "BadDadRed"
     ],
     "appearanceSummary": "Balding with reddish stubble, red MAGA hoodie over black turtleneck (or black neck gaiter) and fingerless black gloves.",
-    "associates": [],
+    "arrestDate": "2022-10-14T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#CadenGottfried"
+    ],
+    "caseIdentifier": "1:22-mj-00216",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1542236/download",
     "filesUrl": "https://drive.google.com/drive/folders/1IYBNw50UMN4y4LCpPclUeMPorKZM2m4t",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -3978,6 +4011,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "SLAUGHTER, Richard",
     "_id": "Jipy8qfVQlVU"
   },
   {
@@ -4197,6 +4231,7 @@
     "associates": [],
     "fbiIdentifier": "187-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1-SQnS7W1ZnAcBfL94KMDUNl86aY5MPcd",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -4243,6 +4278,26 @@
       "@PhoenixOnWheels"
     ],
     "_id": "FXUxdbotMm4I"
+  },
+  {
+    "actionsSummary": "Shoves barricade into police on the East Walkway",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with greying brown facial hair wearing a black hooded North Face jacket, light blue jeans, dark shoes, black knit Trump Signature hat, glasses and black and orange gloves with blue trim and a grey H on the back",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1CVLXfsrLPBynWq3rnGP6eNKgxK4E5-AO",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "BlackOrangeGloves",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "-G_eLp0XYgKs"
   },
   {
     "actionsSummary": "Seen near tunnel so may have participated in violence.",
@@ -7161,6 +7216,32 @@
     "_id": "woSyxypb4qjo"
   },
   {
+    "actionsSummary": "Assaults police at the Tunnel on the Lower West Terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Tall white man wearing a red shirt, grey/white backpack, and a dark beanie cap.",
+    "arrestDate": "2022-10-14T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#BlackHandedRedHood"
+    ],
+    "caseIdentifier": "1:22-mj-00216",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1542236/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1dcaPBm1768qZttHA7HK5VM3rTyzDZyyb",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "CadenGottfried",
+    "profileLeads": [],
+    "realName": "GOTTFRIED, Caden Paul",
+    "_id": "qWPzTLna4mZg"
+  },
+  {
     "actionsSummary": "Recorded taking pictures inside the Capitol crypt, as well as at the NW courtyard and other places.",
     "alternateHashtags": [
       "Insider1147"
@@ -8339,7 +8420,7 @@
       "#JoshuaMunn"
     ],
     "caseIdentifier": "1:21-mj-158",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -9512,7 +9593,12 @@
     "actionsSummary": "Fights on W. Plaza. Works with #CapitolShrew, #ChromeDomeTealFriend, #GreenBellyBouncer, #FlagPoleBreaker and #InfoSprayer to yank a barrier away from police on Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Khaki baseball cap, and on the front is a black US flag with a single red stripe. Short reddish-brown beard and mustache. Brown coat with white stripes (horizontal) over a camo shirt.",
+    "arrestDate": "2022-10-20T04:00:00.000Z",
+    "arrestState": "UT",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00219-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1545426/download",
     "fbiIdentifier": "374-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -9524,6 +9610,7 @@
     ],
     "primaryHashtag": "CoatWStripeCamo",
     "profileLeads": [],
+    "realName": "ADAMS, Justin Dee",
     "_id": "Z5w25U4ZcmlM"
   },
   {
@@ -10358,7 +10445,12 @@
       "CrossMAGA"
     ],
     "appearanceSummary": "White man with white hair wearing a black coat with \"CROSS\" in white on the upper left chest over a plaid shirt, a black baseball cap, blue jeans, light brown boots and a big gold watch or bracelet on his left wrist and carrying a red and white bullhorn.",
+    "arrestDate": "2022-10-05T04:00:00.000Z",
+    "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00217-MAU",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1540826/download",
     "filesUrl": "https://drive.google.com/drive/folders/1AD_drM-UKKqheZBceim9gY5rPptbzi42",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -10372,6 +10464,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "DUNFEE, William \"Bill\"",
     "_id": "adhYwxSe4r6o"
   },
   {
@@ -11409,7 +11502,7 @@
       "#JoshuaMunn"
     ],
     "caseIdentifier": "1:21-mj-521",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -11451,6 +11544,34 @@
     "profileLeads": [],
     "realName": "EICHER, Jolene",
     "_id": "11_ZN3sxEr4E"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0808"
+    ],
+    "appearanceSummary": "White woman with short, dark hair, wearing an olive or tan colored parka with a high-necked, white, furry collar, a bright green scarf, and sunglasses perched on top of her head.",
+    "arrestDate": "2022-10-27T04:00:00.000Z",
+    "arrestState": "MI",
+    "associates": [
+      "#GarySmith"
+    ],
+    "caseIdentifier": "1:22−mj−00225",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1547571/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1fSoSyxU0-wB-OsV7LqwC01Sq5vSJBGpu",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "DeborahKuecken",
+    "profileLeads": [],
+    "realName": "KUECKEN, Deborah",
+    "_id": "KmivvVdVQnsI"
   },
   {
     "actionsSummary": "Posted photos from inside the Capitol which depict the officer inside the House Chamber aiming his firearm at rioters in the corridor just outside. Among the crowd who is stopped by police outside the House Chamber and who attempt to breach the doors to the House. She also climbs on top of one of the cars on the East side of the Capitol.",
@@ -12404,7 +12525,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:22-mj-00106-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.243232/gov.uscourts.dcd.243232.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1XO6PlJzx5c8y1XLTw04H9XsRuWznF_to",
     "isLawEnforcement": false,
@@ -13042,7 +13163,7 @@
       "#RedStatueStander"
     ],
     "caseIdentifier": "1:21-cr-282",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -13914,7 +14035,7 @@
     "arrestState": "NJ",
     "associates": [],
     "caseIdentifier": "1:21-mj-547",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://drive.google.com/file/d/1kUuFbtqUuLt2JleFKnf4lncbyr_7QmBM/view",
     "fbiIdentifier": "276-AFO",
     "filesUrl": "https://docs.google.com/spreadsheets/d/1Z30oWa0a-OMhGg7ApviHKmHyrONT2N2ZSO7UDepkpfk/edit?usp=sharing",
@@ -14049,7 +14170,9 @@
     "appearanceSummary": "Black hooded sweatshirt, yellow neck gaiter",
     "arrestDate": "2021-01-15T05:00:00.000Z",
     "arrestState": "FL",
-    "associates": [],
+    "associates": [
+      "#HenosWoldemichael"
+    ],
     "caseIdentifier": "1:21-cr-136",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Felipe%20Marquez%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf",
@@ -14754,6 +14877,7 @@
     "appearanceSummary": "Green or tan colored hoodie. Crew cut and beard.\nRed baseball cap, probably with writing on the front. Faint beard and mustache. Light-colored shirt or jacket",
     "associates": [],
     "fbiIdentifier": "400-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -15876,6 +16000,34 @@
     "_id": "KmmxqYtbUiUA"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2780"
+    ],
+    "appearanceSummary": "White man white horseshoe-style mustache and white hair and wore a dark-colored coat over a hooded sweatshirt, and a baseball-style cap with an Old English “D” on it consistent with the Detroit Tigers’ logo.",
+    "arrestDate": "2022-10-27T04:00:00.000Z",
+    "arrestState": "MI",
+    "associates": [
+      "#DeborahKuecken"
+    ],
+    "caseIdentifier": "1:22−mj−00225",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1547571/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1_ZCC5HHoaQjYRIjv2uaO-ULp0EIonnRm",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "GarySmith",
+    "profileLeads": [],
+    "realName": "SMITH, Gary Francis",
+    "_id": "mDN7isqIAkxs"
+  },
+  {
     "actionsSummary": "Traveled to DC by bus. Entered the Capitol via the Senate Wing door, traveled through the Crypt. Exited via a doorway to the Upper West Terrace.",
     "alternateHashtags": [
       "Insider1692"
@@ -15990,7 +16142,7 @@
       "#GasMaskBluePal"
     ],
     "caseIdentifier": "1:22-mj-00150-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "fbiIdentifier": "499-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1AOjy18ySNGsoC8khKkJmXK8OTgxvJXZi",
     "isLawEnforcement": false,
@@ -16023,7 +16175,7 @@
       "#GasMaskBlue"
     ],
     "caseIdentifier": "1:22-mj-00150-GMH",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "filesUrl": "https://drive.google.com/drive/folders/1xJA6N99Fbl4KUaEgLoNVBaMCOtb9oseC",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16452,6 +16604,30 @@
     "primaryHashtag": "GingerLongLashes",
     "profileLeads": [],
     "_id": "UYHM2fljsm7c"
+  },
+  {
+    "actionsSummary": "Shoves police at the East Walkway.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with red hair and facial hair with an earpiece in his left ear wearing a grey and black puffer coat with a triangular leather patch on the upper left arm, blue jeans, black gloves and a red MAGA hat with sunglasses with a March On Congress badge on a lanyard around his neck and carrying a dark crossbody bag and US flag and a red flag on poles.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1j5xWjXM3idH4skfxdBpPW7Z49lNMrCGK",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "equipment",
+        "name": "EarpieceOrRadio"
+      }
+    ],
+    "primaryHashtag": "GingerShover",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "QF8iCuFqgizA"
   },
   {
     "actionsSummary": "Observed inside Capitol",
@@ -16924,10 +17100,10 @@
     "_id": "bK-IgG8MEo2E"
   },
   {
-    "actionsSummary": "Entered Capitol.",
+    "actionsSummary": "Pulled down barricades at the Senate Office Building. Entered Capitol.",
     "alternateHashtags": [
       "Insider1423",
-      "GrayGoose"
+      "GrayGoose #GooseInGray"
     ],
     "appearanceSummary": "Tall man in white Adidas cap, grey gaiter, grey jacket. Carried stolen police shield.",
     "associates": [],
@@ -17420,7 +17596,7 @@
       "#GreenSafetyFirst"
     ],
     "caseIdentifier": "1:21-cr-00334-TJK",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.230704/gov.uscourts.dcd.230704.48.0_3.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -17660,7 +17836,7 @@
     "arrestState": "KY",
     "associates": [],
     "caseIdentifier": "1:21-cr-250",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/brockhoff-nicholas-james",
     "fbiIdentifier": "255-AFO",
     "idStatus": "ID sent to FBI",
@@ -17781,7 +17957,7 @@
       "#GreenSafetyFirst"
     ],
     "caseIdentifier": "1:21-cr-334",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/shalvey-dale-jeremiah",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -17897,7 +18073,7 @@
       "#GreenBikeHelmet"
     ],
     "caseIdentifier": "1:21-cr-00334-TJK",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.230704/gov.uscourts.dcd.230704.48.0_3.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -19037,7 +19213,7 @@
       "#StringyPlaid"
     ],
     "caseIdentifier": "1:21-cr-445",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download",
     "fbiIdentifier": "203-AOM",
     "idStatus": "ID sent to FBI",
@@ -19102,7 +19278,7 @@
       "#BlueCamoBoy"
     ],
     "caseIdentifier": "1:21-mj-00656-GMH",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://s3.documentcloud.org/documents/21116772/harvardsweats.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -19418,6 +19594,38 @@
     "primaryHashtag": "HelMutt",
     "profileLeads": [],
     "_id": "zbm8YQ_2wnQs"
+  },
+  {
+    "actionsSummary": "Inside Capitol. Led group that breached the Senate Wing Doors.",
+    "alternateHashtags": [
+      "Insider0587"
+    ],
+    "appearanceSummary": "Black man with dreads wearing a shearling jacket.",
+    "arrestDate": "2022-10-26T04:00:00.000Z",
+    "arrestState": "VA",
+    "associates": [
+      "#FelipeMarquez"
+    ],
+    "caseIdentifier": "1:22-mj-00206-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1546956/download",
+    "filesUrl": "https://drive.google.com/drive/folders/11pMB7UzK9XSlWwJCFeS3qRNG1O293q8E",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "HenosWoldemichael",
+    "profileLeads": [],
+    "realName": "WOLDEMICHAEL, Henos",
+    "_id": "0Rn4Mcp1slSQ"
   },
   {
     "actionsSummary": "Captured on MSNBC footage in the Capitol building, posted video on YouTube where he claims he was able to \"enter several Chambers.\" Offered to pay for travel expenses to DC and rented a house in DC to share with people.",
@@ -19954,7 +20162,7 @@
       "#KevinSeefried"
     ],
     "caseIdentifier": "1:21-cr-287",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1354306/download",
     "fbiIdentifier": "41-AFO",
     "isLawEnforcement": false,
@@ -20889,9 +21097,9 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
-    "primaryHashtag": "IamTonyMoon",
+    "primaryHashtag": "IAmTonyMoon",
     "profileLeads": [],
-    "_id": "utscRlaI4vag"
+    "_id": "RJxKkk6E0pkU"
   },
   {
     "alternateHashtags": [],
@@ -21368,7 +21576,12 @@
       "Insider1889"
     ],
     "appearanceSummary": "Black jacket and beanie, which may have \"TRUMP\" on brim. Yellow gaiter.",
+    "arrestDate": "2022-09-30T04:00:00.000Z",
+    "arrestState": "PA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00214-MAU",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247762/gov.uscourts.dcd.247762.1.1.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21384,6 +21597,7 @@
     ],
     "primaryHashtag": "JackTheTripper",
     "profileLeads": [],
+    "realName": "SLYE, Mikhail Edward",
     "_id": "7pPE2k4_EtFs"
   },
   {
@@ -21650,7 +21864,7 @@
     "_id": "ODoNWXN3wg8U"
   },
   {
-    "actionsSummary": "Entered Capitol.",
+    "actionsSummary": "Entered Capitol. Shoved on a police shield outside Capitol.",
     "alternateHashtags": [
       "Insider2340"
     ],
@@ -21821,7 +22035,7 @@
       "#JamesRahmIII"
     ],
     "caseIdentifier": "1:21-cr-150",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/rahm-james",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22289,7 +22503,7 @@
     "arrestState": "IN",
     "associates": [],
     "caseIdentifier": "1:22-mj-00062-RMM",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1487226/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -22392,7 +22606,7 @@
       "#HoodedSunnies"
     ],
     "caseIdentifier": "1:22-mj-00055-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241138/gov.uscourts.dcd.241138.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1zTnUKs8wQmMCh4sei_7CLXXDgm31IXbl",
     "isLawEnforcement": false,
@@ -22725,6 +22939,34 @@
     "primaryHashtag": "JerseyBoyPB",
     "profileLeads": [],
     "_id": "Nc1uQpI7wtlQ"
+  },
+  {
+    "actionsSummary": "Inside Capitol building.",
+    "alternateHashtags": [
+      "Insider2936"
+    ],
+    "appearanceSummary": "White man wearing a grey hooded sweatshirt, a bluish-grey gaiter,\na greenish-grey beanie, blue jeans, black gloves and brown shoes",
+    "arrestDate": "2022-10-20T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#SmilesPB"
+    ],
+    "caseIdentifier": "1:22-mj-00222-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248338/gov.uscourts.dcd.248338.1.1_2.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1OWWCeQ60KLk5xLsqN_gTLQmwYqye9szY",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "JesseWatson",
+    "profileLeads": [],
+    "realName": "WATSON, Jesse",
+    "_id": "YB8nn26LIhHA"
   },
   {
     "actionsSummary": "Carries a sign that says \"Mandatory medical procedures have no place in a free society.\" (She is a prominent anti-vaxxer). Enters the Capitol with her husband, Joshua Bustle.",
@@ -23781,6 +24023,37 @@
     "_id": "eMcgRS__IiUA"
   },
   {
+    "actionsSummary": "Wrestles a police shield away from an LEO at the base of the NW Scaffolding, carries it up the scaffolding steps and passes it to #NeonGingerNS who uses it while confronting the police line at the top. Shoves an LEO on the NW Steps. Kicks at (possibly kicks open) the Senate Wing Door.",
+    "alternateHashtags": [
+      "Insider0453"
+    ],
+    "appearanceSummary": "White man with brown facial hair wearing a camouflage jacket over a body armor style vest, a dark blue hat with white writing, blue jeans, dark gloves, brown shoes, and a black backpack. Wears a green respirator in the NW Scaffolding.",
+    "arrestDate": "2022-10-28T04:00:00.000Z",
+    "arrestState": "KY",
+    "associates": [
+      "#MichaelSparks"
+    ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1547816/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1WS9YAuw756hDr0AhTsV_73MdQ31d26MS?usp=share_link",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "JosephHowe",
+    "profileLeads": [],
+    "realName": "HOWE, Joseph",
+    "_id": "PSRbd8HYAjzI"
+  },
+  {
     "actionsSummary": "Enters the Capitol.",
     "alternateHashtags": [
       "Insider0035"
@@ -24018,7 +24291,7 @@
       "#ThomasMunn"
     ],
     "caseIdentifier": "1:21-mj-510",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24571,6 +24844,34 @@
     "_id": "9Jj6eRmKYlgs"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2224"
+    ],
+    "appearanceSummary": "White woman with brown hair wearing a denim coat with shearling lining over a purple v-neck shirt, blue jeans, a black cowboy hat and blue buff.",
+    "arrestDate": "2022-10-28T04:00:00.000Z",
+    "arrestState": "TN",
+    "associates": [
+      "#TravisBartow"
+    ],
+    "caseIdentifier": "1:22-mj-00226-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248519/gov.uscourts.dcd.248519.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1lZ9rwZY4eU5TuagOIi8TLAuCeyPuB4p5?usp=share_link",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "KatelynBartow",
+    "profileLeads": [],
+    "realName": "BARTOW, Katelyn",
+    "_id": "YMQjjfR40l50"
+  },
+  {
     "actionsSummary": "Took a private plane with Jenna Ryan and Jason Hyland. Entered the Capitol building.",
     "alternateHashtags": [
       "Insider1736"
@@ -24610,7 +24911,7 @@
       "#JoshuaMunn"
     ],
     "caseIdentifier": "1:21-mj-521",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -25046,7 +25347,7 @@
       "#HunterSeefried"
     ],
     "caseIdentifier": "1:21-cr-287-2",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1354306/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -25182,6 +25483,7 @@
     ],
     "compositeURL": "https://drive.google.com/file/d/13ibAxmOPN_ti3lhKsGdXgjaBbFMBdIs6/view?usp=sharing",
     "fbiIdentifier": "321-AFO",
+    "filesUrl": "https://drive.google.com/drive/folders/1n3JD_9i-pn6T_WFs0N0fWvQ26yAdjV7O",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -27254,15 +27556,16 @@
     "_id": "WhkG1BmMAhL8"
   },
   {
-    "actionsSummary": "Sprays police officers.",
+    "actionsSummary": "Broke off a black iron railing panel then jumped up and down on it on the Lower West Plaza. Sprays police officers.",
     "alternateHashtags": [],
-    "appearanceSummary": "Hunting-patterned camo balaclava. Dark hair underneath. Hoodie with gray and white coloration like stone. Black inner lining in the hood. Backpack with light brown straps. Dark gray gloves. Black spray bottle with a large white label.",
+    "appearanceSummary": "Black balaclava replace by a hunting-patterned camo balaclava. Dark hair underneath. Hoodie with gray and white coloration like stone. Black inner lining in the hood. Backpack with light brown straps. Dark gray gloves. Black spray bottle with a large white label.",
     "arrestDate": "2022-03-17T04:00:00.000Z",
     "arrestState": "WI",
     "associates": [],
     "caseIdentifier": "1:22-mj-00064-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241283/gov.uscourts.dcd.241283.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1OaM1QPuAjOei8qXmQBHZrj04-HPidT7E",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -27273,12 +27576,42 @@
       {
         "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "MaceyGrey",
     "profileLeads": [],
     "realName": "KASPER, Riley Douglas",
     "_id": "lNptRneRUiPE"
+  },
+  {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider0587"
+    ],
+    "appearanceSummary": "White man with brown facial hair wearing a tan trench coat and a furry brown hood with pointed animal ears.",
+    "arrestDate": "2022-10-27T04:00:00.000Z",
+    "arrestState": "NY",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00229-MAU",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248611/gov.uscourts.dcd.248611.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1R-eTA22v80JACfflXIRTLZEYrwIVV2vP",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "MacsenRutledge",
+    "profileLeads": [],
+    "realName": "RUTLEDGE, Macsen",
+    "_id": "N-BlHlt8UtxY"
   },
   {
     "actionsSummary": "Entered Captiol with her boyfriend, GabrielBurress. In the crowd inside the Rotunda.",
@@ -27357,7 +27690,12 @@
       "Insider1227"
     ],
     "appearanceSummary": "Wavy brown hair behind a receding hairline. Sometimes wears a Trump baseball cap with a red front and bill and a blue back half with white stars. Pinned to the front of the hat is a large button with a picture of Trump. Eyeglasses with black frames. Stars and stripes earloop mask. Brown coat over a red t-shirt. Little orange backpack on black strings. Light blue jeans. Dark shoes. Do you know the button man?",
+    "arrestDate": "2022-09-13T04:00:00.000Z",
+    "arrestState": "CA",
     "associates": [],
+    "caseIdentifier": "1:22-cr-00302-DLF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.courtlistener.com/docket/65343996/united-states-v-ambrose/",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -27368,6 +27706,7 @@
     ],
     "primaryHashtag": "MagaButtonMan",
     "profileLeads": [],
+    "realName": "AMBROSE, Lawrence Louis",
     "_id": "flgiQAUtwqq8"
   },
   {
@@ -27595,6 +27934,8 @@
     ],
     "appearanceSummary": "Woman with long, dark brown hair. Red KAG baseball cap. Black cloth coat over a black hoodie. White necklace. Black bracelet on right wrist. Seen carrying a US flag on a white pole, and red and white bullhorn. Round, brown, leather purse or bag at her right hip. Dark pants.",
     "associates": [],
+    "compositeURL": "https://drive.google.com/file/d/1vgUVlVDPYi-fZz5Pn4eKfDAyhK6TwVQH/view?usp=sharing",
+    "filesUrl": "https://drive.google.com/drive/folders/1hhnBJIQ01Una0STz-MCCeeES2EIpuYr9",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27604,9 +27945,9 @@
         "name": "EnteredCapitol"
       }
     ],
-    "primaryHashtag": "MAGAmessagetaker",
+    "primaryHashtag": "MAGAMessageTaker",
     "profileLeads": [],
-    "_id": "VzqI2ScpsoP0"
+    "_id": "bI_o8Mn40nQM"
   },
   {
     "actionsSummary": "Does a full outfit change inside the Capitol.",
@@ -28118,7 +28459,9 @@
     "appearanceSummary": "Balding white man with white facial hair wearing a tan coat over a black hoodie, a blue baseball cap and glasses.",
     "arrestDate": "2021-11-19T05:00:00.000Z",
     "arrestState": "IN",
-    "associates": [],
+    "associates": [
+      "#RogerBaugh"
+    ],
     "caseIdentifier": "1:21-mj-00655-ZMF",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1449771/download",
@@ -29498,7 +29841,9 @@
     "appearanceSummary": "Black hooded sweatshirt, close shaved hair, glasses.",
     "arrestDate": "2021-01-17T05:00:00.000Z",
     "arrestState": "KY",
-    "associates": [],
+    "associates": [
+      "#JosephHowe"
+    ],
     "caseIdentifier": "1:21-cr-87",
     "caseStatus": "Indicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1357391/download",
@@ -29591,7 +29936,7 @@
     "_id": "DHgJSaMJ4jgU"
   },
   {
-    "actionsSummary": "Climbed up bleachers/scaffolding on West side of Capitol. Entered Capitol through Upper West Terrace doors around 2:45pm. Walked around Rotunda until forced to leave.",
+    "actionsSummary": "Broke off black iron railing on the West Plaza. Climbed up bleachers/scaffolding on West side of Capitol. Entered Capitol through Upper West Terrace doors around 2:45pm. Walked around Rotunda until forced to leave.",
     "alternateHashtags": [
       "Insider0523"
     ],
@@ -29602,12 +29947,17 @@
     "caseIdentifier": "1:21-mj-00591-RMM",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.documentcloud.org/documents/21067310-mick-chan",
+    "filesUrl": "https://drive.google.com/drive/folders/1fj7o2CCBFpudv8dcLYOazUYNBowgVcbJ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
       }
     ],
     "primaryHashtag": "MickChan",
@@ -29616,9 +29966,15 @@
     "_id": "zyAcgNfnwnhY"
   },
   {
+    "actionsSummary": "Attempted to disarm a D.C. Metropolitan Police Department (MPD) Officer by\ngrabbing his baton and attempting to wrestle it from the officer’s hands. Shoved barricade into police.",
     "alternateHashtags": [],
     "appearanceSummary": "Grayish hair. White earbuds. Brown coat with four large pockets on the front. This is worn over an off-white collared shirt, which is over a white shirt. White or light gray pants. Brown footwear.",
+    "arrestDate": "2022-10-20T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00221",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1545826/download",
     "fbiIdentifier": "294-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -29630,6 +29986,7 @@
     ],
     "primaryHashtag": "MidWhiteCrisis",
     "profileLeads": [],
+    "realName": "O'KELLY, John",
     "_id": "5HRkfSyoUl3Q"
   },
   {
@@ -30893,10 +31250,11 @@
     "arrestState": "ME",
     "associates": [],
     "caseIdentifier": "1:21-cr-426",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1404506/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Army",
     "otherTags": [
       {
         "type": "behavior",
@@ -31182,6 +31540,23 @@
     "primaryHashtag": "NinnyThePooh",
     "profileLeads": [],
     "_id": "_Qpa7V7FYk-E"
+  },
+  {
+    "alternateHashtags": [],
+    "arrestDate": "2022-10-06T04:00:00.000Z",
+    "arrestState": "NC",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-00329-TJK",
+    "caseStatus": "Plea Deal",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247985/gov.uscourts.dcd.247985.5.0_7.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1hjLSYTQfhCwWOoXDcZE11WB3WwNBm1yr",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "NobleBeard",
+    "profileLeads": [],
+    "realName": "BERTINO, Jeremy",
+    "_id": "XrLPaiV0IkdU"
   },
   {
     "actionsSummary": "Pushed against officer at front of crowd, used a flag pole to bang on a window. Attended rally with his girlfriend.",
@@ -35507,7 +35882,7 @@
     "alternateHashtags": [
       "MrChangingRoom"
     ],
-    "appearanceSummary": "Black bicycle helmet, goggles, tactical vest which he removes, gasmask at one point. Wearing short sleeve Under Armour T-shirt over a grey long-sleeve shirt and grey pants. Adds red and grey Columbia Glennaker packable jacket with hood removed.",
+    "appearanceSummary": "Black bicycle helmet, goggles, tactical vest which he removes, gasmask at one point. Wearing short sleeve Under Armour T-shirt over a grey long-sleeve shirt and grey pants. Adds red and grey Columbia Glennaker packable jacket with hood removed. Has 82nd Airborne \"AA\" logo on his helmet and backpack.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -36540,6 +36915,26 @@
     "_id": "WaEJlZlSUqKI"
   },
   {
+    "actionsSummary": "Shoves barricade into police on the East Walkway.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with a grey beard wearing a black hooded jacket with double red stripes down the front right side and a red logo on the left chest, a black knit hat with TRUMP on the front, black, grey and red gloves, light blue jeans, dark shoes and sunglasses. Carries a wood cane.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/12RLmyhFPuol8oVixLPsbS59qoPLpK7sN",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "RedStripeShover",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "7T5eXlsTcnfA"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "Black T-shirt with Gadsden snake in red on the front. Worn over a red sweater. Grey knit hat. Flag gaiter. Red MAGA hat.",
     "associates": [],
@@ -36720,6 +37115,30 @@
     "profileLeads": [],
     "realName": "BARNETT, Richard",
     "_id": "kGkkfCh-Itiw"
+  },
+  {
+    "actionsSummary": "Vomited on the floor inside the Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "Man wearing a black jacket and jeans, a camouflage-colored hat with the words “LIONS NOT SHEEP” printed on it in white lettering, a pair of glasses hanging from his jacket front and a black backpack.",
+    "arrestDate": "2022-10-21T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-mj-00224-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248448/gov.uscourts.dcd.248448.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/1Wf0Mt8nj1IiLqVjtdkiUWfk0kHQIFFAc",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "RichardEscalera",
+    "profileLeads": [],
+    "realName": "ESCALERA, Richard",
+    "_id": "5D-2X66jwgz4"
   },
   {
     "actionsSummary": "Enters the Capitol via the East door. Seen in the crowd inside the Rotunda. Turned in by his ex girlfriend whom he called a \"moron\" for not believing in election fraud.",
@@ -37106,6 +37525,27 @@
     "primaryHashtag": "RodgersPB",
     "profileLeads": [],
     "_id": "R5PMuZCrYj2g"
+  },
+  {
+    "actionsSummary": "Tried to push through officers in the Tunnel on the Lower West Terrace.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a black coat and a grey knit hat with a white stripe.",
+    "arrestDate": "2022-09-20T04:00:00.000Z",
+    "arrestState": "KY",
+    "associates": [
+      "#MarkMazza"
+    ],
+    "caseIdentifier": "1:22-cr-00313-JEB",
+    "caseStatus": "Plea Deal",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.247480/gov.uscourts.dcd.247480.8.0.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/148b_AzOcU2cyFJI6qXysTKJ4JkmEI8pM",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [],
+    "primaryHashtag": "RogerBaugh",
+    "profileLeads": [],
+    "realName": "BAUGH, Roger Kent",
+    "_id": "UBXZ2kQt4nfg"
   },
   {
     "actionsSummary": "Engages in a shoving match with USCP officers who are trying to close a set of interior doors in the Capitol; attempts to rip a helmet off of an officer.",
@@ -37593,7 +38033,7 @@
     "arrestState": "VA",
     "associates": [],
     "caseIdentifier": "1:21-cr-376",
-    "caseStatus": "Indicted",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1393766/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39001,7 +39441,7 @@
       "#JerseyBoyPB"
     ],
     "caseIdentifier": "1:21-cr-166",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1402491/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39152,6 +39592,26 @@
     "primaryHashtag": "ShortGrayHoodie",
     "profileLeads": [],
     "_id": "7kBcK6aO0vEo"
+  },
+  {
+    "actionsSummary": "Shoves barricade into police on the East Walkway.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with short grey hair wearing a black button down coat over a blue collared zip top with an orange zipper pull, red buff with Shotover Jet (a New Zealand company) logo printed all over it, red MAGA baseball cap, blue jeans, sunglasses and a rectangular grey backpack.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1KeTWzMR5dMjwrR72ePe1kU-O_CMyspK6",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
+    "primaryHashtag": "ShotoverShover",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "FJiVd0Hi0rxU"
   },
   {
     "actionsSummary": "Assault on media",
@@ -39664,7 +40124,14 @@
     "actionsSummary": "Photographed going over the barricades and at the Capitol façade.",
     "alternateHashtags": [],
     "appearanceSummary": "Grey hoodie and coat. Coat hood has black lining. Red Trump/45 hat with pom pom. Short facial hair.",
-    "associates": [],
+    "arrestDate": "2022-10-20T04:00:00.000Z",
+    "arrestState": "WA",
+    "associates": [
+      "#JesseWatson"
+    ],
+    "caseIdentifier": "1:22-mj-00222-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248338/gov.uscourts.dcd.248338.1.1_2.pdf",
     "fbiIdentifier": "437-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39676,6 +40143,7 @@
     ],
     "primaryHashtag": "SmilesPB",
     "profileLeads": [],
+    "realName": "WESTON, Tucker",
     "_id": "g0s6nNGuUnAY"
   },
   {
@@ -42292,6 +42760,34 @@
     "_id": "kFFP65W9MseI"
   },
   {
+    "actionsSummary": "Cuts tarp off of the NW Scaffolding. Steals a flag from inside the Capitol building.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man with dark facial hair wearing a black coat over a blue long sleeve top, black knit hat and a brown buff.",
+    "arrestDate": "2022-09-02T04:00:00.000Z",
+    "arrestState": "FL",
+    "associates": [],
+    "caseIdentifier": "1:22-cr-00295-CKK",
+    "caseStatus": "Plea Deal",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1536726/download",
+    "filesUrl": "https://drive.google.com/drive/folders/1UAUtkziu9rgyaMG3YMkbgUrnWHrhmOty",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "TarpCutter",
+    "profileLeads": [],
+    "realName": "ASHCRAFT, Neil",
+    "_id": "TqdL69y3Ekew"
+  },
+  {
     "actionsSummary": "Seen on video inside the Capitol.",
     "alternateHashtags": [
       "YellowGlovesOrangeArmbandPB",
@@ -43358,7 +43854,7 @@
       "#JoshuaMunn"
     ],
     "caseIdentifier": "1:21-mj-521",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -44194,6 +44690,34 @@
     "_id": "hiC3pi-xYm84"
   },
   {
+    "actionsSummary": "Inside Capitol.",
+    "alternateHashtags": [
+      "Insider2229"
+    ],
+    "appearanceSummary": "White man with brown hair wearing an olive green coat, blue jeans and a blue buff.",
+    "arrestDate": "2022-10-28T04:00:00.000Z",
+    "arrestState": "TN",
+    "associates": [
+      "#KatelynBartow"
+    ],
+    "caseIdentifier": "1:22-mj-00226-RMM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248519/gov.uscourts.dcd.248519.1.1.pdf",
+    "filesUrl": "https://drive.google.com/drive/folders/14lbXNwo2AQ8vxGdVFm6DchAyNTHU6i2E?usp=share_link",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
+    "primaryHashtag": "TravisBartow",
+    "profileLeads": [],
+    "realName": "BARTOW, Travis",
+    "_id": "HIbBfZzDUkKU"
+  },
+  {
     "alternateHashtags": [],
     "appearanceSummary": "Black baseball cap. Bushy brown beard. Black jacket and backpack.",
     "associates": [],
@@ -44577,6 +45101,26 @@
     "primaryHashtag": "TrumpsBarber",
     "profileLeads": [],
     "_id": "mWqE-1oCYrJ8"
+  },
+  {
+    "actionsSummary": "Breaks apart iron railing for weapons.",
+    "alternateHashtags": [],
+    "appearanceSummary": "White man wearing a taupe hooded coat, grey pants, a black knit hat, black gloves, giant Trump scarf and sunglasses.",
+    "associates": [],
+    "filesUrl": "https://drive.google.com/drive/folders/1io11gKX0XUw0HzRdJW-6J4lwi4vVlO-5",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Vandalism"
+      }
+    ],
+    "primaryHashtag": "TrumpScarfBreaker",
+    "profileLeads": [
+      "@PhoenixOnWheels"
+    ],
+    "_id": "MOD8SJ_RcqvA"
   },
   {
     "actionsSummary": "Designated violent based on AFO. Present in the crowd on the Lower West Terrace during the most violent portion of the Tunnel fight.",
