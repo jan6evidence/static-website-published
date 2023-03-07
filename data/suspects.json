@@ -1516,6 +1516,7 @@
     "associates": [
       "#AngryArmyBuddy"
     ],
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -2306,11 +2307,17 @@
     "_id": "_7N-XGQ0Ihgc"
   },
   {
+    "actionsSummary": "Enters through Senate Wing door and makes phone call. Chants \"traitor.\"",
     "alternateHashtags": [
       "Insider0013"
     ],
     "appearanceSummary": "Man with curly, shoulder-length, graying hair that has a receded hairline. Eyeglasses or sports googles hanging from a black neckstrap. Gray sweatshirt that says \"Bryant University.\" Blue jeans. Gray footwear.",
+    "arrestDate": "2022-12-07T05:00:00.000Z",
+    "arrestState": "RI",
     "associates": [],
+    "caseIdentifier": "1:22-mj-265",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1559636/download&sa=D&source=editors&ust=1678162741844979&usg=AOvVaw2dp74LK7fC0Bl5uzLOwMyt",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -2321,6 +2328,7 @@
     ],
     "primaryHashtag": "BaldBryantBolton",
     "profileLeads": [],
+    "realName": "COTTON, William",
     "_id": "LbRB_Itgkgtk"
   },
   {
@@ -2479,7 +2487,12 @@
     "fbiIdentifier": "416-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BananaBrat",
     "profileLeads": [],
     "_id": "JonJLqs1cl1s"
@@ -2526,6 +2539,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "BareSpare",
@@ -2924,6 +2941,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Large man. Black long sleeve shirt and fingerless gloves. Camo backpack and baseball hat. Bearded. Black sunglasses.",
     "associates": [],
+    "fbiIdentifier": "526-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -3326,7 +3344,12 @@
     "fbiIdentifier": "500-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BigGreenScream",
     "profileLeads": [],
     "_id": "GoG75oTaooiQ"
@@ -3395,7 +3418,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1Je4NVYlS3SYd4YPZO3F1-HarXHiOlfti",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BigOrangeBrawler",
     "profileLeads": [],
     "_id": "dmsuenBJUjt8"
@@ -3404,7 +3432,11 @@
     "actionsSummary": "Fights with cops and steals baton.",
     "alternateHashtags": [],
     "appearanceSummary": "Plaid jacket over white shirt. Black face mask.",
+    "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:22-mj-220",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1560461/download&sa=D&source=editors&ust=1678162741845825&usg=AOvVaw1X5M9QpABHmSFbWU-Wqyy1",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -3415,6 +3447,7 @@
     ],
     "primaryHashtag": "BigPlaidTussler",
     "profileLeads": [],
+    "realName": "LOCKWOOD, Michael Scott",
     "_id": "sbsTUvhKkks4"
   },
   {
@@ -3529,7 +3562,9 @@
   },
   {
     "actionsSummary": "Known public figure (CEO of Bikers for Trump). Entered Capitol grounds, no other criminal activity observed.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "IAmBernadetteLukePittman"
+    ],
     "appearanceSummary": "Long blonde wavy hair. Buff on her hair, black with skulls.",
     "associates": [],
     "idStatus": "Public Figure",
@@ -3700,6 +3735,7 @@
     "appearanceSummary": "Black tactical helmet with 3% and Punisher logos, black \"Fuck Antifa\" long-sleeved T-shirt, L sleeve has Gadsden flag R. Blue Live Matter & 2nd blue patch. Yellow Fuck Antifa stickers on helmet and sleeves. Olive green backpack, khaki pants. Goggles w/ yellow rims and grey/black gaiter cover face. Greying hair. Blue flag is 5.11 Tactical brand Virginia flag.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1py5bQ67bIY-KWJCwPNkpuXPRraHFRDKT",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -4228,7 +4264,9 @@
     "actionsSummary": "Kicks iron railing repeatedly on the Lower West Terrace until it breaks off at the base. Jabs police with a flag pole in the NW Scaffolding. Strikes police with a flag on the NW Terrace. Throws a teargas canister into a group of police on the NW Steps/NW Terrace.",
     "alternateHashtags": [],
     "appearanceSummary": "White man with a cleft chin wearing a black coat, black beanie hat, distressed white t-shirt with a flag on it and reflective sunglasses and carrying a red baseball cap.",
+    "arrestDate": "2023-01-19T05:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
     "fbiIdentifier": "187-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1-SQnS7W1ZnAcBfL94KMDUNl86aY5MPcd",
     "idStatus": "ID sent to FBI",
@@ -4381,6 +4419,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Femal. Dressed in all black (black hooded sweatshirt, face gaiter, sunglasses, gloves).",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -4827,7 +4866,12 @@
     "fbiIdentifier": "422-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BlowfishAFO",
     "profileLeads": [],
     "_id": "3HT11WEyInEU"
@@ -4943,6 +4987,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Blue surgical gloves. Blue coat. White hoodie over a blue knit hat. Salt & pepper goatee. Blue knit winter hat. Acrylic glasses.",
     "associates": [],
+    "fbiIdentifier": "531-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5330,7 +5375,12 @@
     "fbiIdentifier": "461-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BlueShadyFox",
     "profileLeads": [],
     "_id": "gnrDOI2HUiCE"
@@ -5367,6 +5417,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Grey Carhartt hat. Black puffer coat. Maroon colored hood from a sweatshirt or jacket underneath. Dark sunglasses. Scruffy dark beard with salt & pepper.",
     "associates": [],
+    "caseStatus": "Deceased Before Trial",
     "fbiIdentifier": "250-AFO",
     "filesUrl": "https://docs.google.com/spreadsheets/d/19aJAcoKXFcUAo5BHp6K1pyaNMtmTX-qnxPLRskTf-zQ/edit?usp=sharing",
     "isLawEnforcement": false,
@@ -5455,7 +5506,9 @@
   },
   {
     "actionsSummary": "Fights police at the barricades.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "BlueDoRag"
+    ],
     "appearanceSummary": "Black man wearing a brown shearling jacket, black gloves and blue durag (do-rag).",
     "associates": [],
     "compositeURL": "https://docs.google.com/presentation/d/1M8E6SZ2GxEvV66Q1bNa0Xv4jiaFVxwAS/edit#slide=id.p1",
@@ -5483,6 +5536,7 @@
     "appearanceSummary": "Black pants. Grey hooded sweatshirt with blue lettering. Black wrist brace on his right hand. Flag gaiter. Black beanie and red MAGA ball cap. Scruffy facial hair. Orange and grey backpack with lots of gear clipped to it.",
     "associates": [],
     "fbiIdentifier": "535-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -5733,10 +5787,12 @@
     "actionsSummary": "Part of the assault on the West plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Gray knit cap, with a small black and white tag along the bottom edge over his right eye. Five o'clock shadow. Black and white plaid scarf around his neck. Black and dark red plaid flannel overshirt. Black (?) backpack with black straps. Long black dress coat over a purple hoodie. Backpack with gray straps. Two (?) yellow (?) wrist-bands around his right wrist. White pants.",
+    "arrestDate": "2021-09-13T04:00:00.000Z",
     "arrestState": "PA",
     "associates": [
       "#MarshallNeefe"
     ],
+    "caseIdentifier": "1:21-cr-567",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1dTgH7wWhBT7pw8r-FLntIglQRXjtt0A-?usp=sharing",
@@ -6246,9 +6302,15 @@
     "alternateHashtags": [],
     "appearanceSummary": "Brown jacket. Camo (hunter style) gaiter with nose exposed. Orange-brown sunglasses. White baseball cap.",
     "associates": [],
+    "fbiIdentifier": "410-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "BrownCanvasBeaker",
     "profileLeads": [],
     "_id": "OV5-n2uK8kXo"
@@ -8071,7 +8133,12 @@
     "fbiIdentifier": "442-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "CapitolWorm",
     "profileLeads": [],
     "_id": "rZV6legHQo5I"
@@ -8217,7 +8284,7 @@
     "_id": "ZMyw6Kx5Ygsw"
   },
   {
-    "actionsSummary": "Sprayed police on W. Plaza with wasp spray",
+    "actionsSummary": "Sprayed police on W. Plaza with wasp spray; recorded smashing window",
     "alternateHashtags": [],
     "appearanceSummary": "Black knit cap with \"Carhartt\" written on it in a large letters. Sunglasses with blue reflective lenses. Gray camo gaiter. Black hooded coat with a US Army star patch on the right sleeve. Under the coat is a gray shirt. When the coat zipper is down far enough you can see that he is wearing dog tags. Black and white gloves. Black backpack.",
     "associates": [],
@@ -8647,9 +8714,15 @@
     "appearanceSummary": "Clean-shaven, brown-haired white man. Goggles. Sunglasses. Respirator with pink filters. Black hoodie with red button, which has yellow lettering. Red flannel jacket. Tan backpack. Blue jeans.",
     "associates": [],
     "fbiIdentifier": "463-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "CheckeredChucker",
     "profileLeads": [],
     "_id": "GlECpsFcEgn0"
@@ -11548,7 +11621,8 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "Insider0808"
+      "Insider0808",
+      "Insider2780"
     ],
     "appearanceSummary": "White woman with short, dark hair, wearing an olive or tan colored parka with a high-necked, white, furry collar, a bright green scarf, and sunglasses perched on top of her head.",
     "arrestDate": "2022-10-27T04:00:00.000Z",
@@ -11662,6 +11736,7 @@
     "associates": [
       "#Scarhead"
     ],
+    "fbiIdentifier": "520-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -12124,13 +12199,19 @@
   },
   {
     "actionsSummary": "Smashes media equipment in #MediaSmash",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider343"
+    ],
     "appearanceSummary": "Black hooded sweatshirt, Dirty Hands Clean Money written on the back.",
     "associates": [],
     "fbiIdentifier": "210-AOM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -12151,7 +12232,12 @@
     "fbiIdentifier": "421-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "DirtyShoesRedHat",
     "profileLeads": [],
     "_id": "xqO3_hQ2goPo"
@@ -12714,6 +12800,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "Violence"
+      },
+      {
+        "type": "behavior",
         "name": "Sprayer"
       }
     ],
@@ -12905,6 +12995,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "EarnhardtPB",
@@ -14328,13 +14422,24 @@
   },
   {
     "actionsSummary": "Fights with police on on W. Plaza, at one point is injured and bloody.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2434"
+    ],
     "appearanceSummary": "Camo Trump baseball cap with red and white stripes on the right side of the bill. Gray hair and a gray or white mustache. Black gaiter (?) around his neck. Wears a black jacket with jagged red and yellow stripes that look like flames on the sleeves and the back. The right sleeve has a checkered flag and some letter. There are also words on the back and the left elbow. Under the jacket is a black shirt with narrow horizontal stripes. Black gloves. Dark gray pants and shoes. In some pictures has a head wound bleeding down the left side of his face. And in some pictures he appears to be wearing a black tactical vest. Jacket is a vintage Ski Doo snowmobile racing jacket, and says Ski Doo Racing on the back.",
     "associates": [],
     "fbiIdentifier": "396-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "FieryQuakerOats",
     "profileLeads": [],
     "_id": "EmS6E9eEQl_s"
@@ -15055,7 +15160,7 @@
   {
     "actionsSummary": "Seen next to #PippiLongScarf on the ledge by the tunnel archway. Likely is at least violent if not an organizer, but evidence has not yet been found.",
     "alternateHashtags": [],
-    "appearanceSummary": "Grey hooded sweatshirt with a flag and the word Majority on the front. Long blonde, beach-bum style hair. Green camo neck gaiter. Grey and red ball cap with thin blue line patch. Gloves.",
+    "appearanceSummary": "Grey hooded sweatshirt with a flag and the words 'The Silent Majority' on the front. Long blonde, beach-bum style hair. Green camo neck gaiter. Grey and red ball cap with thin blue line patch. Gloves.",
     "associates": [
       "#BlueCamoBoy"
     ],
@@ -15195,7 +15300,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/16KQE-NKfP3-2aazh3tphkLZoD7aYySZW?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "FoggyCycler",
     "profileLeads": [],
     "_id": "X8lQqOacEk3Q"
@@ -15585,6 +15695,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Stars and stripes baseball hat with \"Trump\" written on the bottom of the flipped-up bill. Black sunglasses. Brown goatee and mustache. Stars and stripes shirt and pants, with the stars along the top of the body and the shoulders.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -16002,7 +16113,8 @@
   {
     "actionsSummary": "Inside Capitol.",
     "alternateHashtags": [
-      "Insider2780"
+      "Insider2780",
+      "Insider0818"
     ],
     "appearanceSummary": "White man white horseshoe-style mustache and white hair and wore a dark-colored coat over a hooded sweatshirt, and a baseball-style cap with an Old English “D” on it consistent with the Detroit Tigers’ logo.",
     "arrestDate": "2022-10-27T04:00:00.000Z",
@@ -16657,6 +16769,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Dark gray Trump baseball cap with a mini US flag on the right side of the bill. Small swimming goggles with black frames. Short, red beard and mustache. Black hoodie that says \"Fck Antifa\" imitating the Run DMC logo. Beneath the hoodie is a black t-shirt with a large white image of a person looking up at a bird. Black, fingerless gloves with reinforced knuckles. Blue jeans, may have a book in the right front pocket.",
     "associates": [],
+    "fbiIdentifier": "#517 - AFO-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -17127,7 +17240,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "GoProGadsden47",
     "profileLeads": [],
     "_id": "v6jRf2jpAvtg"
@@ -18097,7 +18215,10 @@
     "_id": "XVM8gd10MsPw"
   },
   {
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1135",
+      "AquaSandMan"
+    ],
     "appearanceSummary": "Red baseball cap. Light brown hair? Five o'clock shadow. Large, bluish green scarf around his neck. Big light brown coat with a dark brown collar.",
     "associates": [],
     "isLawEnforcement": false,
@@ -18375,12 +18496,21 @@
     "actionsSummary": "Sprays police at the North door.",
     "alternateHashtags": [],
     "appearanceSummary": "White male with red Make America Great Again beanie, glasses, disposable mask, and grey hoodie.",
+    "arrestDate": "2022-11-30T05:00:00.000Z",
+    "arrestState": "OH",
     "associates": [],
+    "caseIdentifier": "1:22-mj-251",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/press-release/file/1554951/download&sa=D&source=editors&ust=1678162741836627&usg=AOvVaw12q-_iBlUeHNVIoFL2jxDq",
     "fbiIdentifier": "486-AFO",
     "filesUrl": "https://drive.google.com/file/d/1ZUevvVtFIhY4fyv3vLZi1Ym6G4NC1CRI/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -18392,6 +18522,7 @@
     ],
     "primaryHashtag": "GreyDoorSprayer",
     "profileLeads": [],
+    "realName": "SWOOPE, Ryan",
     "_id": "t6zb_vvgcjf8"
   },
   {
@@ -19361,11 +19492,13 @@
       "washingtonhat"
     ],
     "appearanceSummary": "Black shirt/sweatshirt, 4 white bears, Mama + 3 cubs, hat says \"Washington\", ripped jeans.",
+    "arrestDate": "2023-01-17T05:00:00.000Z",
     "associates": [
       "#Chumpian",
       "#BlondePony",
       "#RedFlannelChump"
     ],
+    "caseStatus": "Arrested",
     "compositeURL": "https://drive.google.com/file/d/1ehgYKorQ5DfPt3hPf7TEKfQ4da0-UlcZ/view?usp=sharing",
     "fbiIdentifier": "60-AFO",
     "idStatus": "ID sent to FBI",
@@ -19598,7 +19731,8 @@
   {
     "actionsSummary": "Inside Capitol. Led group that breached the Senate Wing Doors.",
     "alternateHashtags": [
-      "Insider0587"
+      "Insider0587",
+      "Insider2392"
     ],
     "appearanceSummary": "Black man with dreads wearing a shearling jacket.",
     "arrestDate": "2022-10-26T04:00:00.000Z",
@@ -21204,7 +21338,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "IgorTheGrey",
     "profileLeads": [],
     "_id": "n5BQkZ2nMvao"
@@ -21379,7 +21518,14 @@
     "actionsSummary": "Helps #CapitolShrew, #CoatWStripeCamo, #ChromeDomeTealFriend, #FlagPoleBreaker and #GreenBellyBouncer pull a barricade away from police on the Upper West Plaza. Sprays substance at police. Sits on the railing on the Lower W Terrace, in the section where the Trump banner hangs.",
     "alternateHashtags": [],
     "appearanceSummary": "Black coat and blue jeans. White gloves with red palms. Black and grey InfoWars hat. Blue reflective sunglasses.",
-    "associates": [],
+    "arrestDate": "2022-11-14T05:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#NelsonPostThrower"
+    ],
+    "caseIdentifier": "1:22-mj-239",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1552276/download&sa=D&source=editors&ust=1678162741828608&usg=AOvVaw3pd4RZiaDoZ5mHdwJn7uzd",
     "fbiIdentifier": "277-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21395,6 +21541,7 @@
     ],
     "primaryHashtag": "InfoSprayer",
     "profileLeads": [],
+    "realName": "WYATT, Douglas",
     "_id": "zZb4CYG5olg0"
   },
   {
@@ -21924,13 +22071,18 @@
     "_id": "PQ9lcinoEshw"
   },
   {
-    "actionsSummary": "Violent based on AOM designation.",
+    "actionsSummary": "Violent based on AOM designation. Carries Confederate flag outside East Rotunda door, where he sprays police officers with a chemical irritant. Enters and pulls in other rioters, then walks to Gallery Stairs.",
     "alternateHashtags": [
       "FBI177AOM",
       "Insider1016"
     ],
-    "appearanceSummary": "Young man with light brown hair, buzzed very short on the sides and back. Black leather jacket.",
+    "appearanceSummary": "Young man with light brown hair, buzzed very short on the sides and back. Black leather jacket. Sometimes wears a black \"I [heart] Trump\" beanie.",
+    "arrestDate": "2022-12-08T05:00:00.000Z",
+    "arrestState": "FL, KY?",
     "associates": [],
+    "caseIdentifier": "1:22-cr-404",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1559716/download&sa=D&source=editors&ust=1678162741843815&usg=AOvVaw2usVhC3MNOLWIF_Kl7zGXK",
     "fbiIdentifier": "518-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -21942,10 +22094,15 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
       }
     ],
     "primaryHashtag": "JamesDeanWannabe",
     "profileLeads": [],
+    "realName": "EASTERDAY, Israel James",
     "_id": "7wJZ81EG0m5A"
   },
   {
@@ -24033,6 +24190,7 @@
     "associates": [
       "#MichaelSparks"
     ],
+    "caseIdentifier": "1:22-mj-231",
     "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1547816/download",
     "filesUrl": "https://drive.google.com/drive/folders/1WS9YAuw756hDr0AhTsV_73MdQ31d26MS?usp=share_link",
@@ -24042,6 +24200,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       },
       {
         "type": "equipment",
@@ -24639,6 +24801,10 @@
       {
         "type": "group",
         "name": "ProudBoysPennsylvania"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "equipment",
@@ -25454,7 +25620,16 @@
     "fbiIdentifier": "434-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "KhakiLackey",
     "profileLeads": [],
     "_id": "f37dJSA3gt1Q"
@@ -25469,7 +25644,12 @@
     "fbiIdentifier": "409-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "KidHornet",
     "profileLeads": [],
     "_id": "EZVEC5YqomLQ"
@@ -25947,7 +26127,12 @@
     "fbiIdentifier": "506-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "LankyTenor",
     "profileLeads": [],
     "_id": "WW0YKJLikgEE"
@@ -25972,6 +26157,10 @@
       {
         "type": "group",
         "name": "ProudBoysPennsylvania"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "LanyardPB",
@@ -26884,13 +27073,20 @@
   },
   {
     "alternateHashtags": [
-      "BadMomInsider"
+      "BadMomInsider",
+      "Insider54"
     ],
     "appearanceSummary": "Woman in a white knit cap with a black horizontal stripe. Shoulder-length brown hair. Sometimes seen wearing eyeglasses that have black frames. Red Trump earloop mask, often worn around her chin. Red knit scarf with large white stars, sometimes worn over her head. Pink dress coat with dark brown buttons. Black gloves.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "LittleRedRioter",
     "profileLeads": [],
     "_id": "cjON9Ec4kp8A"
@@ -27045,7 +27241,12 @@
     "actionsSummary": "Recorded on a police body camera as he was reaching for a police gas mask.",
     "alternateHashtags": [],
     "appearanceSummary": "Black baseball cap with a black US flag patch on the front. Medium-length white hair and a white, full beard and mustache. Dark green scarf (possibly in a chequered keffiyeh pattern). Black jacket. Black fingerless gloves with straps on the backs. Khaki cargo pants and black shoes. Photographed carrying an upside-down US flag on a long pole.",
+    "arrestDate": "2022-11-28T05:00:00.000Z",
+    "arrestState": "IN",
     "associates": [],
+    "caseIdentifier": "1:22-mj-234",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1554311/download&sa=D&source=editors&ust=1678162741838895&usg=AOvVaw3IWzKUDaptAXeL1shu8X3B",
     "fbiIdentifier": "299-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27057,6 +27258,7 @@
     ],
     "primaryHashtag": "LongPoleMan",
     "profileLeads": [],
+    "realName": "HUTTLE, Dale",
     "_id": "nGlOhpgtwlW4"
   },
   {
@@ -28683,10 +28885,12 @@
       "Insider0653"
     ],
     "appearanceSummary": "Black knit cap, possibly with white writing on the front. Black crewcut hairstyle under that. Black to brown full beard and mustache. Black and white plaid scarf around his neck. Black and dark red plaid flannel overshirt. Black (?) backpack with black straps.",
+    "arrestDate": "2021-09-13T04:00:00.000Z",
     "arrestState": "PA",
     "associates": [
       "#BradSmith"
     ],
+    "caseIdentifier": "1:21-cr-567",
     "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20and%20Charles%20Bradford%20Smith%20Indictment.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/18UsXz8mFCdEIb8S_ykhpxlwb7z1SS7pp?usp=sharing",
@@ -28710,6 +28914,7 @@
     ],
     "appearanceSummary": "Asian man wearing a black coat, khaki pants, dark tennis shoes with white soles and a red pull tab at the back, black gloves, a Maryland flag gaiter and a black and grey single strap crossbody backpack.",
     "associates": [],
+    "fbiIdentifier": "533-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/18zOLuY4fNSkNSR1e-aF-wxA1r4SB27wE",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29222,13 +29427,19 @@
   },
   {
     "actionsSummary": "Smashes media equipment in #MediaSmash.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1224"
+    ],
     "appearanceSummary": "Black sweatshirt, black beanie, khaki backpack.",
     "associates": [],
     "fbiIdentifier": "209-AOM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -29427,8 +29638,14 @@
       "Insider1098"
     ],
     "appearanceSummary": "Silvery hair. Clean shaven. Green coat with gold/beige logo and writing, \"NJ State Police Task Force\" on chest, also \"Class of 17\", likely a K9 unit. \"MFIC\" on L. sleeve. Grey plaid shirt. Brown work boots.",
+    "arrestDate": "2023-02-22T05:00:00.000Z",
+    "arrestState": "NJ",
     "associates": [],
-    "isLawEnforcement": false,
+    "caseIdentifier": "1:23-mj-0042",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.252406/gov.uscourts.dcd.252406.1.1.pdf",
+    "idStatus": "ID sent to FBI",
+    "isLawEnforcement": true,
     "isMpdSuspect": false,
     "otherTags": [
       {
@@ -29442,6 +29659,7 @@
     ],
     "primaryHashtag": "MFInvadesCapitol",
     "profileLeads": [],
+    "realName": "DANIEILE, Michael",
     "_id": "btyKQdNWsqRg"
   },
   {
@@ -30286,7 +30504,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "MoleyRoller",
     "profileLeads": [],
     "_id": "Rpd4Nr-wAprw"
@@ -30521,7 +30744,12 @@
     "actionsSummary": "Violent based on AFO designation.",
     "alternateHashtags": [],
     "appearanceSummary": "Middle-aged man. Red Trump hat with a stars and stripes bill. Blue and white gaiter with a bald eagle image on it. Gray hooded jacket.",
+    "arrestDate": "2022-11-03T04:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:22-mj-237",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1549501/download&sa=D&source=editors&ust=1678162741831078&usg=AOvVaw2s7lp_FR12-vPmP525DSxQ",
     "fbiIdentifier": "260-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -30533,6 +30761,7 @@
     ],
     "primaryHashtag": "MrBeanAFO",
     "profileLeads": [],
+    "realName": "CHOLOD, Raymund",
     "_id": "YGvK-o--4j84"
   },
   {
@@ -30637,7 +30866,12 @@
     "fbiIdentifier": "435-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "MrNoBurns",
     "profileLeads": [],
     "_id": "NYZYEn4WAmcU"
@@ -30920,6 +31154,10 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
@@ -30994,7 +31232,14 @@
     "actionsSummary": "Throws 4x4 wood post at police officers, striking one in the head. Could easily have killed someone- looks like attempted murder. Also sprayed police on West Plaza. Enters NW scaffolding and goes up the NW stairs.",
     "alternateHashtags": [],
     "appearanceSummary": "Red Georgio Tsoukalos (\"Ancient Aliens guy\") sweatshirt.",
-    "associates": [],
+    "arrestDate": "2022-11-14T05:00:00.000Z",
+    "arrestState": "MD",
+    "associates": [
+      "#InfoSprayer"
+    ],
+    "caseIdentifier": "1:22-mj-239",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1552276/download&sa=D&source=editors&ust=1678162741829652&usg=AOvVaw10wjFmdFItbGL2sq9ON6Qz",
     "compositeURL": "https://drive.google.com/file/d/1ncru_Qgu09fd6_NdKLjFhIyg4vBWeDx-/view?usp=sharing",
     "fbiIdentifier": "180-AFO",
     "isLawEnforcement": false,
@@ -31011,6 +31256,7 @@
     ],
     "primaryHashtag": "NelsonPostThrower",
     "profileLeads": [],
+    "realName": "THERRES, Jacob Michael",
     "_id": "sFjRD9MesplM"
   },
   {
@@ -31200,6 +31446,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "NescoBassMan",
@@ -31520,6 +31770,10 @@
       {
         "type": "group",
         "name": "ProudBoysPennsylvania"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       }
     ],
     "primaryHashtag": "NinjaRaphPB",
@@ -31536,7 +31790,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "NinnyThePooh",
     "profileLeads": [],
     "_id": "_Qpa7V7FYk-E"
@@ -31638,7 +31897,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "NoRagretsHead",
     "profileLeads": [],
     "_id": "b9n8Aa2Esjuk"
@@ -32436,6 +32700,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Portwest PV60-Peak View Ratchet Hard Hat Vented (Orange) w/ Harley-Davidson logo on center back. Dealer Leather black/metal motorcycle gloves https://extremebikerwear.com/product/mens-leather-racing-gloves-metal-knuckle-protector/. Brown duck-cloth jacket over grey hoodie.",
     "associates": [],
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.241615/gov.uscourts.dcd.241615.1.1_1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1scvw9mWHFxXZKczhdRHAXLmBbMUqcCFT/view?usp=sharing",
     "fbiIdentifier": "96-AFO",
     "isLawEnforcement": false,
@@ -32452,13 +32717,19 @@
     ],
     "primaryHashtag": "OrangeGlowHead",
     "profileLeads": [],
+    "realName": "VILLARREAL, Adam",
     "_id": "mDv4tlHZsnL8"
   },
   {
     "actionsSummary": "Observed near or in tunnel fight with spiked stick.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark brown hair. Red goggles with a black strap that says \"Goggle\" something. Light brown hooded coat over a black hoodie. Long brown backpack with a black & white Jolly Roger patch on the back. Black gloves with dark red features. Dark pants. Might have a mustache.",
+    "arrestDate": "2022-12-16T05:00:00.000Z",
+    "arrestState": "MD",
     "associates": [],
+    "caseIdentifier": "1:22-cr-412",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1559876/download&sa=D&source=editors&ust=1678162741846497&usg=AOvVaw1DsZI8O8O0ZjghmboEyh1I",
     "fbiIdentifier": "132-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -32472,6 +32743,7 @@
     "profileLeads": [
       "@MalagaBridget"
     ],
+    "realName": "MILLER, Scott",
     "_id": "muuuIi2CoqS0"
   },
   {
@@ -32593,7 +32865,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "OrangePufferLady",
     "profileLeads": [],
     "_id": "6ecJr6Rt8qZ0"
@@ -33744,7 +34021,9 @@
       "HairlineGuy"
     ],
     "appearanceSummary": "Short black hair. Light gray hooded jacket with a black lining, over a black shirt. Dark pants. Black gloves. Blue jeans. Grayish footwear. Sometimes wears a backpack with black straps.",
+    "arrestDate": "2023-01-10T05:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
     "compositeURL": "https://drive.google.com/file/d/103ss9IQkFBozsUBi8Uw8Ea2L5Ucs7nZx/view?usp=sharing",
     "fbiIdentifier": "85-AFO",
     "idStatus": "ID sent to FBI",
@@ -34205,6 +34484,7 @@
     ],
     "appearanceSummary": "Male: Dressed in all black, camo knit hat, gold chain, gold teeth, goatee, pimp tattoo on the right side of his neck.\nFemale: Bob style haircut dyed pink, black coat, camo neck gaiter.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -34311,7 +34591,7 @@
     "_id": "0co8jt5r4h0A"
   },
   {
-    "actionsSummary": "Tunnel attacker. Throws pole at & sprays PippiLongScarf.",
+    "actionsSummary": "Tunnel attacker. Throws pole at & sprays PippiLongScarf. Spits at Law Enforcement during melee",
     "alternateHashtags": [],
     "appearanceSummary": "White male with salt and pepper buzzcut. Brown coat, safety goggles, and disposal face mask.",
     "associates": [],
@@ -34358,7 +34638,12 @@
     "fbiIdentifier": "415-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "Plaid45",
     "profileLeads": [],
     "_id": "OqUX1CsYMoSg"
@@ -35202,7 +35487,12 @@
     "fbiIdentifier": "432-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "PunchingBandit",
     "profileLeads": [],
     "_id": "5SJHtJhLckPs"
@@ -35260,6 +35550,7 @@
     ],
     "appearanceSummary": "Short brown hair. Black Triumph motorcycle jacket over a maroon t-shirt. The jacket has a Purple Heart medal on the left breast, above two other patches. On the right breast is an oval-shaped yellow patch, which is above a POW-MIA patch and a cross next to that. There is a red and yellow circular patch on the outside of the right shoulder. Black gloves. Purple or dark brown backpack. Camo pants. Light brown boots.",
     "associates": [],
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -36212,7 +36503,12 @@
     "actionsSummary": "Gets violent at NE Capitol entrance, then uses railing as ram. Throws punch at officer.",
     "alternateHashtags": [],
     "appearanceSummary": "Older white male. Black baseball cap over a do-rag, possibly in flag colors. Glasses. Blue-white gaiter. Black zip-up jacket over olive shirt. Blue jeans. Grey fanny pack.",
+    "arrestDate": "2022-12-01T05:00:00.000Z",
+    "arrestState": "FL",
     "associates": [],
+    "caseIdentifier": "1:21-cr-35",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.249715/gov.uscourts.dcd.249715.1.1.pdf&sa=D&source=editors&ust=1678162741835987&usg=AOvVaw1y13U9i1J2OMuIz3JJRtr5",
     "fbiIdentifier": "471-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -36224,6 +36520,7 @@
     ],
     "primaryHashtag": "RailMixer",
     "profileLeads": [],
+    "realName": "McNAMARA, James",
     "_id": "rnLX1o_eMoiw"
   },
   {
@@ -36647,12 +36944,19 @@
   },
   {
     "actionsSummary": "Violent with officers inside Capitol.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "MotoMic"
+    ],
     "appearanceSummary": "Black helmet that conceals identity, red tape with blue stripe on back of helmet, reflective sunglasses, brown leather jacket, black backpack, holding an American flag on a white pole.",
     "associates": [],
+    "fbiIdentifier": "524-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -36701,6 +37005,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -37216,7 +37524,12 @@
     "fbiIdentifier": "419-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "RiotingGolfer",
     "profileLeads": [
       "@TrumpsAge"
@@ -37668,6 +37981,8 @@
     ],
     "appearanceSummary": "Trump flag worn like cape. Grey flat-brimmed baseball cap. Black short-sleeved shirt. Grey jacket. Black backpack.",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.251226/gov.uscourts.dcd.251226.1.1.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -37678,6 +37993,7 @@
     ],
     "primaryHashtag": "RotundaRoundFace",
     "profileLeads": [],
+    "realName": "MARTINEZ, Victor",
     "_id": "bCgk0Fz8IqNg"
   },
   {
@@ -38077,7 +38393,12 @@
     "fbiIdentifier": "426-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "SadBlackJacket",
     "profileLeads": [],
     "_id": "SmO_IQG5AgE0"
@@ -38978,6 +39299,7 @@
     ],
     "appearanceSummary": "White male with medium-length brown hair and full beard. Wears a panda suit.",
     "associates": [],
+    "caseStatus": "Arrested",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39395,7 +39717,12 @@
     "fbiIdentifier": "443-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "ShawlBrawl",
     "profileLeads": [],
     "_id": "v9F5o0vpQqTg"
@@ -39943,7 +40270,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "SkullGreedo",
     "profileLeads": [],
     "_id": "eQBTcgmdAg64"
@@ -40139,6 +40471,14 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "SmilesPB",
@@ -40609,6 +40949,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black knit cap. Short goatee. Red mask under chin. Wears a US flag as a cape. Black coat. Orange, black, and blue satchel. Blue jeans. White sneakers.",
     "associates": [],
+    "fbiIdentifier": "530-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [],
@@ -40875,7 +41216,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "StacheBandit",
     "profileLeads": [],
     "_id": "DHEEb8RxcqOQ"
@@ -41350,7 +41696,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1pmfGYJLC2mahcdoAN8OVoWPY_ihCywFJ?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "StihlGreenGuy",
     "profileLeads": [],
     "_id": "3AGoki7fonRg"
@@ -42380,7 +42731,7 @@
     "_id": "wL6jY3HSslDI"
   },
   {
-    "actionsSummary": "Seen under NW Scaffolding",
+    "actionsSummary": "Seen under NW Scaffolding, Climbed atop Federal vehicle.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown hoodie from Champion. Baseball cap with a white bill. Black pants.",
     "associates": [],
@@ -43025,7 +43376,12 @@
     "fbiIdentifier": "438-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "TealScrambler",
     "profileLeads": [],
     "realName": "LEYDEN, Daniel",
@@ -43591,6 +43947,7 @@
       "Insider1267"
     ],
     "appearanceSummary": "Badly fitted blue suit. Black button down shirt underneath. Red MAGA hat. Glasses. Dark beard. Wears a face gaiter with a skull face on the NW Courtyard and inside the Capitol.",
+    "arrestDate": "2021-03-21T04:00:00.000Z",
     "associates": [],
     "caseIdentifier": "1:21-mj-328",
     "caseStatus": "Plea Deal",
@@ -43658,6 +44015,7 @@
       "#LemonyKickIt",
       "#TriangleHelmet"
     ],
+    "caseStatus": "Arrested",
     "fbiIdentifier": "322-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -44502,7 +44860,8 @@
   {
     "actionsSummary": "Stands on top of Tower and reads a speech (projected thru bullhorn): \"My fellow Americans..\"  (dry, ineffective). Not seen giving commands.",
     "alternateHashtags": [
-      "Towerman"
+      "Towerman",
+      "Insider1399"
     ],
     "appearanceSummary": "Khaki pants and coat, baseball hat with \"Warrior Knight King Crusader\" patch. Bullhorn with microphone attachment.",
     "associates": [],
@@ -44781,6 +45140,7 @@
     ],
     "appearanceSummary": "Woman with long dark hair. Eyeglasses with dark frames. Black coat over a white top or hoodie. Bracelet on right wrist. Gray and black backpack. Blue and white leggings. Seen using a smartphone near the NW Scaffolding.",
     "associates": [],
+    "caseStatus": "Arrested",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -44923,6 +45283,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Brown leather tricorn hat. Black full beard and mustache. Light blue gaiter around neck. Black jacket.",
     "associates": [],
+    "caseStatus": "Arrested",
     "compositeURL": "https://drive.google.com/file/d/15fqCYfNq17AX_WAE0QzrHUAPGrVYA9fa/view?usp=sharing",
     "fbiIdentifier": "221-AFO",
     "isLawEnforcement": false,
@@ -45213,7 +45574,12 @@
       "Insider0923"
     ],
     "appearanceSummary": "Woman with shoulder-length blonde hair. Red Trump knit cap with a circular \"45\" patch on the front and pom-pom on top. Red scarf around her neck. Red (fleece?) jacket with a black zipper. Gray backpack with a cross-strap. Black gloves?",
+    "arrestDate": "2022-12-20T05:00:00.000Z",
+    "arrestState": "MA",
     "associates": [],
+    "caseIdentifier": "1:22-mj-278",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1559746/download&sa=D&source=editors&ust=1678162741847372&usg=AOvVaw0s2-ZzRds1BX-M_6NBmlT8",
     "fbiIdentifier": "405-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -45221,10 +45587,15 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "TrumpyValentine",
     "profileLeads": [],
+    "realName": "STARER, Jacquelyn",
     "_id": "Ayz3_7OOctK4"
   },
   {
@@ -45250,6 +45621,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Black Trump baseball cap with a signature across the bill. Thinning dark hair with a receded hairline. Wears eyeglasses. Black coat over a green sweater. There may be a black hoodie under that since it looks like there's a hood around his neck. Backpack with black straps.",
     "associates": [],
+    "caseStatus": "Arrested",
     "fbiIdentifier": "121-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -45292,6 +45664,10 @@
       {
         "type": "group",
         "name": "TunnelTeam"
+      },
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
       },
       {
         "type": "behavior",
@@ -45396,7 +45772,9 @@
   },
   {
     "actionsSummary": "Seen at tunnel and likely fought",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider989"
+    ],
     "appearanceSummary": "Medium-length dark hair. Black coat. Khaki pants. Black and white Nike sneakers.",
     "associates": [],
     "isLawEnforcement": false,
@@ -45824,6 +46202,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Red MAGA hat. Short gray beard and mustache. Brown hoodie. Dark pants.",
     "associates": [],
+    "fbiIdentifier": "427-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -45844,7 +46223,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "UncleCheaterReaders",
     "profileLeads": [],
     "_id": "4z4433XE4r8Q"
@@ -46008,6 +46392,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      },
       {
         "type": "behavior",
         "name": "Sprayer"
@@ -46460,6 +46848,10 @@
       },
       {
         "type": "group",
+        "name": "Panhandle Patriots Riding Club"
+      },
+      {
+        "type": "group",
         "name": "ProudBoysProudGirls"
       },
       {
@@ -46474,6 +46866,7 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Older man. Green shirt underneath a tan tactical vest. Gadsden flag on the front of the vest. Camo pouch. Leather coat. Elbow plates worn on arms. Tan and black gloves. Black knit hat. Flag gaiter. Blonde mustache.",
+    "arrestState": "ID",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -46481,6 +46874,10 @@
       {
         "type": "group",
         "name": "ProudBoys"
+      },
+      {
+        "type": "group",
+        "name": "Panhandle Patriots Riding Club"
       },
       {
         "type": "group",
@@ -46846,7 +47243,12 @@
     "fbiIdentifier": "498-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "WhiteGlovesPoker",
     "profileLeads": [],
     "_id": "9fStnEDvcuf0"
@@ -47001,6 +47403,7 @@
     "alternateHashtags": [],
     "appearanceSummary": "Blue knit cap with red and white horizontal stripes and \"Trump\" in large white letters. Stubbly chin and jaw. Red jacket with a black hood and inner lining. In some pictures he has the jacket draped over his arm. White hoodie with \"Trump 2021\" on the front. There may be a black t-shirt underneath the hoodie and peaking out from the neck. Blue jeans. Black or dark gray sneakers with white soles. Some pictures show him carrying a white bullhorn with red accents.",
     "associates": [],
+    "caseStatus": "Arrested",
     "fbiIdentifier": "447-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -47796,6 +48199,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "WoolyPusher",
@@ -48130,7 +48537,8 @@
     "actionsSummary": "Shoves against police barriers on Upper West Plaza and gets sprayed by police. Inside Capitol building.",
     "alternateHashtags": [
       "Insider0576",
-      "YolkHead"
+      "YolkHead",
+      "LemonGlacier"
     ],
     "appearanceSummary": "White man with reddish brown facial hair. Tattoo on left wrist. Yellow knit cap, safety goggles with black elastic strap, black buff, black top over yellow top, black fingerless gloves, black wristwatch on left wrist. Small tan pack on back. Waist chain for keys.",
     "associates": [
