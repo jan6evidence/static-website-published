@@ -2897,6 +2897,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:23-cr-0037",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1567201/download&sa=D&source=editors&ust=1679981373277708&usg=AOvVaw17UyJI-T-UYyE5ibIuDlKK",
     "fbiIdentifier": "436-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -2916,6 +2917,7 @@
     ],
     "primaryHashtag": "BeardedPlaidGoggles",
     "profileLeads": [],
+    "realName": "SARGENT, Dutin",
     "_id": "k7DtSH6DctZs"
   },
   {
@@ -3361,6 +3363,10 @@
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
       {
         "type": "behavior",
         "name": "Violence"
@@ -4143,7 +4149,7 @@
     "_id": "_Er_JgzxgtRE"
   },
   {
-    "actionsSummary": "Knocked down police barricade on the Upper West Plaza, entered the Capitol (the first at the NW breach) and took a fire extinguisher from its cabinet.  May be more important.",
+    "actionsSummary": "Knocked down police barricade on the Upper West Plaza, entered the Capitol (the first at the NW breach) and took a fire extinguisher from its cabinet and released its contents within the building.  May be more important.",
     "alternateHashtags": [
       "Insider1079"
     ],
@@ -8446,7 +8452,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/130XOsuFxFXmfHsFLJC1CsAljvBTLel4S",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "CarrieWilliams",
     "profileLeads": [],
     "realName": "WILLIAMS, Carrie Ann",
@@ -10511,10 +10522,11 @@
       "RiotsInASuit"
     ],
     "appearanceSummary": "Wearing a suit coat and a collared shirt. Buzz cut hair. Five o'clock shadow.",
-    "arrestDate": "2023-03-13T04:00:00.000Z",
+    "arrestDate": "2023-03-09T05:00:00.000Z",
     "arrestState": "FL",
     "associates": [],
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.252880/gov.uscourts.dcd.252880.1.1.pdf&sa=D&source=editors&ust=1679981373279010&usg=AOvVaw00JHyljlMMY_d3kQSFNvJ2",
     "compositeURL": "https://drive.google.com/file/d/1f5On18ji-Hiblbg6m5OU1cCr7gOl-oND/view?usp=sharing",
     "fbiIdentifier": "185-AFO",
     "idStatus": "ID sent to FBI",
@@ -10528,6 +10540,7 @@
     ],
     "primaryHashtag": "CrispWhiteRiot",
     "profileLeads": [],
+    "realName": "COOK, Richard",
     "_id": "vj48iU0kcgLo"
   },
   {
@@ -11496,7 +11509,9 @@
   },
   {
     "actionsSummary": "Fought Officer Jeffrey Smith for his baton. Struck Officer Jeffrey Smith with #AstroNot's cane. Officer Jeffrey Smith later committed suicide.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0168"
+    ],
     "appearanceSummary": "Older white man with grey hair wearing a wearing a red, white, and black motorcycle style jacket with the brand name Teknic written on the shoulders.",
     "arrestDate": "2022-06-09T04:00:00.000Z",
     "arrestState": "MD",
@@ -14656,6 +14671,7 @@
     "associates": [],
     "caseIdentifier": "1:23-mj-00019",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1567506/download&sa=D&source=editors&ust=1679981373277345&usg=AOvVaw0cI6uuyz-N4OtTq0zWnJK1",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -14666,6 +14682,7 @@
     ],
     "primaryHashtag": "FlackWhacker",
     "profileLeads": [],
+    "realName": "NICHOLS JR., William Arthur",
     "_id": "n60rbTiJEpXo"
   },
   {
@@ -15292,6 +15309,7 @@
     "associates": [],
     "caseIdentifier": "1:23-mj-21",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1567436/download&sa=D&source=editors&ust=1679981373279782&usg=AOvVaw0N1oKpNwrx4_T3oYlvhhLm",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -15303,6 +15321,7 @@
     ],
     "primaryHashtag": "FluffyMcGreen",
     "profileLeads": [],
+    "realName": "HARRIS, Austin Brendlen",
     "_id": "3rRkI_emUs88"
   },
   {
@@ -15486,7 +15505,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0285"
+    ],
     "appearanceSummary": "Balding white man with a brown beard wearing a grey hoodie, a red knit cap and glasses, a bandana-style facemask, dark green jacket, and a backpack.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "MN",
@@ -19797,7 +19818,6 @@
   {
     "actionsSummary": "Inside Capitol. Led group that breached the Senate Wing Doors.",
     "alternateHashtags": [
-      "Insider0587",
       "Insider2392"
     ],
     "appearanceSummary": "Black man with dreads wearing a shearling jacket.",
@@ -19971,6 +19991,10 @@
       {
         "type": "behavior",
         "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
+        "name": "Violence"
       }
     ],
     "primaryHashtag": "HighTightSlouch",
@@ -20975,15 +20999,21 @@
   {
     "alternateHashtags": [],
     "appearanceSummary": "Woman with blonde hair almost to her shoulders. Black sunglasses. Black jacket with some white sections. Gray and white scarf or gaiter around her neck? Photographed with a respirator hanging in front of her. The yoke is gray and the filter cartridges are pink and rectangular.",
+    "arrestDate": "2022-08-31T04:00:00.000Z",
+    "arrestState": "TX",
     "associates": [
       "#IAmStewartRhodes"
     ],
+    "caseIdentifier": "1:22-cr-00290-APM",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1530526/download",
     "idStatus": "Public Figure",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [],
     "primaryHashtag": "IAmKellyeCrumpSoRelle",
     "profileLeads": [],
+    "realName": "SORELLE, Kelly",
     "_id": "AzzzEinb8tGM"
   },
   {
@@ -21488,7 +21518,12 @@
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": true,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "ImperialMagaMarch",
     "profileLeads": [],
     "_id": "YisTcG84MnEM"
@@ -22764,7 +22799,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1p9l6kAhaxGByfBIVqaqNfdxl_M4WvWQw?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "JeffreySchaefer",
     "profileLeads": [],
     "realName": "SCHAEFER, Jeffrey",
@@ -23585,7 +23625,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1sadhZw31Sn7383HQoPEaVh0lp71H1W1A",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "JohnGould",
     "profileLeads": [],
     "realName": "GOULD, John David Ross",
@@ -25378,7 +25423,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1rmACnumClm2eT2ttAnrG5dkGLKUkjpsh?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "KennethMassie",
     "profileLeads": [],
     "realName": "MASSIE, Kenneth Duncan",
@@ -25817,7 +25867,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1FLkBvCmBuEKCB5xZkL6G-wxJ1E3-d02X",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "KimberlyDiFrancesco",
     "profileLeads": [],
     "realName": "DIFRANCESCO, Kimberly",
@@ -26872,7 +26927,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2359"
+    ],
     "appearanceSummary": "White woman with dark hair wearing a dark jacket, a grey knit scarf, a black baseball cap with a skull with a US flag pattern on it and sunglasses.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "FL",
@@ -27575,7 +27632,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider0265"
+    ],
     "appearanceSummary": "Male wearing a dark jacket, a dark knit cap and glasses.",
     "arrestDate": "2022-06-15T04:00:00.000Z",
     "arrestState": "FL",
@@ -29599,7 +29658,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1zHJiSdcB-UP4I_eu6RwbQbdB0W0xr7Jj",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MelanieBelger",
     "profileLeads": [],
     "realName": "BELGER, Melanie",
@@ -29995,7 +30059,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2714"
+    ],
     "appearanceSummary": "White man wearing a black Pittsburgh Steelers baseball cap, and American flag scarf and a black PA hoodie under a dark vest.",
     "arrestDate": "2022-05-20T04:00:00.000Z",
     "arrestState": "PA",
@@ -30251,7 +30317,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1uigsZIflXvyRHyfMF-TYVCzsFiLgolb4",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "MichelleEstey",
     "profileLeads": [],
     "realName": "ESTEY, Michelle",
@@ -33209,6 +33280,8 @@
     "arrestDate": "2022-12-15T05:00:00.000Z",
     "associates": [],
     "caseIdentifier": "1:22-mj-0275",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.250253/gov.uscourts.dcd.250253.1.1.pdf&sa=D&source=editors&ust=1679981373278117&usg=AOvVaw0BJjD8nvlgNMPbCyDzJzm9",
     "compositeURL": "https://drive.google.com/file/d/1DnEJc4fl32WolPBvT1u2z1vSfRv8Px3r/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33223,6 +33296,7 @@
       "@K2TheSky",
       "@MasaSpalatin"
     ],
+    "realName": "KRILL, Peter",
     "_id": "K3bhg2RjcsN8"
   },
   {
@@ -33482,8 +33556,12 @@
       "WilliamGlynnKeen"
     ],
     "appearanceSummary": "Short brown hair behind a very receded hairline. Dark brown handlebar mustache and a U-shaped beard that is starting to gray. Black gaiter around his neck. Black nylon jacket with little epaulettes. Dark blue plastic shirt. Recorded using a smartphone just outside the Capitol Building.",
+    "arrestDate": "2023-01-12T05:00:00.000Z",
+    "arrestState": "KY",
     "associates": [],
+    "caseIdentifier": "1:22-mj-00280",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.250356/gov.uscourts.dcd.250356.1.1.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -33495,6 +33573,7 @@
     ],
     "primaryHashtag": "ParrotMediaGuy",
     "profileLeads": [],
+    "realName": "KEEN, William Glynn",
     "_id": "ZyRJzb-9QsNI"
   },
   {
@@ -35079,7 +35158,12 @@
     "compositeURL": "https://drive.google.com/file/d/1yagL7HXNlDteJLQPgWzzYIf5YdpKStHq/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "PoliceAssaulter",
     "profileLeads": [],
     "_id": "YfcYMW4fsrEo"
@@ -35682,6 +35766,7 @@
     "associates": [],
     "caseIdentifier": "1:22-mj-0261",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.249829/gov.uscourts.dcd.249829.1.1.pdf&sa=D&source=editors&ust=1679981373278491&usg=AOvVaw3j7syKFTDdp2KQj_JwDtoQ",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -35692,6 +35777,7 @@
     ],
     "primaryHashtag": "PurpleHeartBreaker",
     "profileLeads": [],
+    "realName": "FARNSORTH, Isaiah",
     "_id": "Mz_n-VDNwqZI"
   },
   {
@@ -40246,7 +40332,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/133uFBopOZjGyrY98vvunH5ZqLmrKX8JM?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "Violence"
+      }
+    ],
     "primaryHashtag": "SilverScarfFace",
     "profileLeads": [],
     "_id": "pFKupL7xYmTA"
@@ -41199,6 +41290,7 @@
     "arrestDate": "2023-03-06T05:00:00.000Z",
     "associates": [],
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.250352/gov.uscourts.dcd.250352.1.1.pdf&sa=D&source=editors&ust=1679981373279482&usg=AOvVaw3amTbm33JMrQX4TrvU6Db-",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -41214,6 +41306,7 @@
     ],
     "primaryHashtag": "SpiderNazi",
     "profileLeads": [],
+    "realName": "DILLARD, Brandon",
     "_id": "mtHIXmF20vZs"
   },
   {
@@ -41418,7 +41511,9 @@
   },
   {
     "actionsSummary": "Inside Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2708"
+    ],
     "appearanceSummary": "Older white man with greying hair wearing a grey hoodie over a black top, blue jeans and glasses on the top of his head and carrying a Trump flag on a pole.",
     "arrestDate": "2022-05-26T04:00:00.000Z",
     "arrestState": "MD",
@@ -43279,7 +43374,9 @@
   },
   {
     "actionsSummary": "Cuts tarp off of the NW Scaffolding. Steals a flag from inside the Capitol building.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2987"
+    ],
     "appearanceSummary": "White man with dark facial hair wearing a black coat over a blue long sleeve top, black knit hat and a brown buff.",
     "arrestDate": "2022-09-02T04:00:00.000Z",
     "arrestState": "FL",
@@ -43643,6 +43740,7 @@
     ],
     "compositeURL": "https://drive.google.com/file/d/1ymkBFokqFguafVKOUnq1wBHLaZAkjwDY/view?usp=sharing",
     "fbiIdentifier": "68-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -45315,6 +45413,7 @@
     "associates": [],
     "caseIdentifier": "1:23-mj-24",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://seditiontracker.com/suspects/christina-legros.html&sa=D&source=editors&ust=1679981373277054&usg=AOvVaw1oOyLti2Tq51YrrizK7PBv",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -45326,6 +45425,7 @@
     ],
     "primaryHashtag": "TreasonIsAHoot",
     "profileLeads": [],
+    "realName": "LEGROS, Christina",
     "_id": "6jQlo9MVwvOs"
   },
   {
@@ -45560,7 +45660,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1Z68_QBx5kaS2UCsTj3yCVKNxug0kxshq",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TrudyCastle",
     "profileLeads": [],
     "realName": "CASTLE, Trudy",
@@ -46289,7 +46394,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1NIS17pckaGLQROw1F2kndbrhImOfJHfW",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "TyroneMcFadden",
     "profileLeads": [],
     "realName": "MCFADDEN, Tyrone Jr.",
@@ -47314,7 +47424,12 @@
     "filesUrl": "https://drive.google.com/drive/folders/1A0py0rUMJRUtHLi1hPz-r7snc8rFjNtM",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
-    "otherTags": [],
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      }
+    ],
     "primaryHashtag": "WestonSobotka",
     "profileLeads": [],
     "realName": "SOBOTKA, Weston",
