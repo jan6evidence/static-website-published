@@ -2546,6 +2546,7 @@
     ],
     "appearanceSummary": "Dull green knit cap. Black earloop facemask, sometimes slipping beneath his nose. Blue hoodie over what might be a light gray shirt. These tops ride up when he confronts police. Blue jeans. Seen carrying a red and blue Trump flag on a pole. Black (?) footwear.",
     "associates": [],
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -6208,10 +6209,13 @@
   },
   {
     "actionsSummary": "On the NW steps holding up a crate lid as a shield and confronting LEOs. In the NW Scaffolding violently attacking the police.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "StepStormer"
+    ],
     "appearanceSummary": "Grey-haired man with glasses. Dressed in all black. Hoodie with the text: \"Bring Enough Gun\" on the back. Wears a Vietnam vets-cap. Sweater sold through Midwest Gun Works. https://www.midwestgunworks.com/page/mgwi/prod/GE5985",
     "associates": [],
     "fbiIdentifier": "418-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -7897,9 +7901,12 @@
       "Insider1037"
     ],
     "appearanceSummary": "Blue Trump hat with red lettering, oversize black coat. Dark hair in a bun under the hat.",
+    "arrestDate": "2023-04-27T04:00:00.000Z",
     "associates": [
       "#CapitolCapLadyCompanion"
     ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://s3.documentcloud.org/documents/23791125/pastucci-and-mangia-sof.pdf&sa=D&source=editors&ust=1683019338208598&usg=AOvVaw0dKLVhXo6cWzTD5GgiqooX",
     "compositeURL": "https://drive.google.com/file/d/1BAoNNF8YDhxs_4_D5dHmwPdKn6mOTmeE/view?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
@@ -7911,6 +7918,7 @@
     ],
     "primaryHashtag": "CapitolCapLady",
     "profileLeads": [],
+    "realName": "MANGIA, Jeanette",
     "_id": "HaNxZwau0qlA"
   },
   {
@@ -7918,9 +7926,12 @@
       "Insider1038"
     ],
     "appearanceSummary": "Camo \"Veterans for Trump\" baseball cap. Man with close-set eyes, a short brown mustache, and an incipient, white goatee. Bright blue (hooded?) jacket that says \"Yamaha Racing\" across the front in white letters, with the Yamaha logo next to the Y. This is over a black t-shirt. Black gloves. Light blue jeans with dirt on the thighs. Gray sneakers with black laces.",
+    "arrestDate": "2023-04-27T04:00:00.000Z",
     "associates": [
       "#CapitolCapLady"
     ],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://s3.documentcloud.org/documents/23791125/pastucci-and-mangia-sof.pdf&sa=D&source=editors&ust=1683019338209031&usg=AOvVaw1kKKyMgC2w0oGoKyfjHtWK",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -7931,6 +7942,7 @@
     ],
     "primaryHashtag": "CapitolCapLadyCompanion",
     "profileLeads": [],
+    "realName": "PASTUCCI, Joseph",
     "_id": "FTalXLvLcpFk"
   },
   {
@@ -11465,7 +11477,7 @@
     "arrestState": "WA",
     "associates": [],
     "caseIdentifier": "1:21-mj-00646",
-    "caseStatus": "Arrested",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237174/gov.uscourts.dcd.237174.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1sLiZPpJSM8c0qtjN5NBva8xpmNKfCNMW?usp=sharing",
     "isLawEnforcement": false,
@@ -11739,7 +11751,7 @@
       "#SalvadorSandoval"
     ],
     "caseIdentifier": "1:21-cr-195",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Deborah%20Sandoval%20and%20Salvador%20Sandoval%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -27671,7 +27683,7 @@
       "#LandonMitchell"
     ],
     "caseIdentifier": "1:21-mj-542",
-    "caseStatus": "Arrested",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -29939,7 +29951,7 @@
       "#LarryStackhouse"
     ],
     "caseIdentifier": "1:21-mj-00665-ZMF",
-    "caseStatus": "Arrested",
+    "caseStatus": "Plea Deal",
     "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.237824/gov.uscourts.dcd.237824.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1Na0ZyIey-k--KRlRNUSxFUcK9-vzgmkR?usp=sharing",
     "isLawEnforcement": false,
