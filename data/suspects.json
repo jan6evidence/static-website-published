@@ -1523,6 +1523,7 @@
       "#AngryArmyBuddy"
     ],
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://s3.documentcloud.org/documents/23460314/bryan-shawn-smith.pdf",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -1533,6 +1534,7 @@
     ],
     "primaryHashtag": "ArmySmith",
     "profileLeads": [],
+    "realName": "SMITH, Bryan Shawn",
     "_id": "hl-waN7LcvzA"
   },
   {
@@ -4297,6 +4299,7 @@
     "associates": [],
     "caseIdentifier": "1:23-mj-12",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.251094/gov.uscourts.dcd.251094.1.1.pdf",
     "fbiIdentifier": "187-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1-SQnS7W1ZnAcBfL94KMDUNl86aY5MPcd",
     "idStatus": "ID sent to FBI",
@@ -4314,6 +4317,7 @@
     ],
     "primaryHashtag": "BlackNTanGuy",
     "profileLeads": [],
+    "realName": "AZARI, Farbod",
     "_id": "lG7W8XXMMrw4"
   },
   {
@@ -6322,7 +6326,11 @@
     "actionsSummary": "Violent based on AFO designation. In the crowd on the W Terrace Stairs.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown coat and beanie. Clean Shaven.",
+    "arrestDate": "2023-03-30T04:00:00.000Z",
+    "arrestState": "CO",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1577346/download",
     "fbiIdentifier": "233-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -6334,6 +6342,7 @@
     ],
     "primaryHashtag": "BrownBeanieJAG",
     "profileLeads": [],
+    "realName": "GRACE, Jonathan David",
     "_id": "BpSHv5CaEsJA"
   },
   {
@@ -12378,6 +12387,7 @@
     "associates": [],
     "compositeURL": "https://drive.google.com/file/d/1nHxPSIAXJkbUrzmWdslA2xKLMdV0bLVz/view?usp=sharing",
     "filesUrl": "https://drive.google.com/drive/folders/1J_hKuzvATtr7lE9NyefJuf2Joosi5nKT",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
     "otherTags": [
@@ -12391,9 +12401,7 @@
       }
     ],
     "primaryHashtag": "DKSprayer",
-    "profileLeads": [
-      "@JusticCat0106"
-    ],
+    "profileLeads": [],
     "_id": "3FLSsvUMkkWI"
   },
   {
@@ -15058,7 +15066,10 @@
       "TinyEarsTinyWhiskers"
     ],
     "appearanceSummary": "Green or tan colored hoodie. Crew cut and beard.\nRed baseball cap, probably with writing on the front. Faint beard and mustache. Light-colored shirt or jacket",
+    "arrestDate": "2023-05-16T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.255158/gov.uscourts.dcd.255158.1.1.pdf",
     "fbiIdentifier": "400-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -15071,6 +15082,7 @@
     ],
     "primaryHashtag": "FlagPoleBreaker",
     "profileLeads": [],
+    "realName": "MEACHAM, Odin",
     "_id": "3dWuW_oEonTw"
   },
   {
@@ -15120,9 +15132,14 @@
   },
   {
     "actionsSummary": "Throws flashbang at police, rumor that he was looking for gasoline (unconfirmed). Near tunnel melee.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider1629"
+    ],
     "appearanceSummary": "Camo jacket with hood, bald head.",
+    "arrestDate": "2023-05-02T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Indicted",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.254676/gov.uscourts.dcd.254676.1.1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1ZB77Td6ASJSaSQof4-wcQY_sfUYhD5KD/view?usp=sharing",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -15130,11 +15147,16 @@
     "otherTags": [
       {
         "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "behavior",
         "name": "Violence"
       }
     ],
     "primaryHashtag": "FlashbangMan",
     "profileLeads": [],
+    "realName": "BALL, Daniel",
     "_id": "rBormkzIMgsg"
   },
   {
@@ -19598,6 +19620,7 @@
     ],
     "caseIdentifier": "1:23-cr-35",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1567231/download",
     "compositeURL": "https://drive.google.com/file/d/1ehgYKorQ5DfPt3hPf7TEKfQ4da0-UlcZ/view?usp=sharing",
     "fbiIdentifier": "60-AFO",
     "idStatus": "ID sent to FBI",
@@ -19613,6 +19636,7 @@
     "profileLeads": [
       "@ouiouishosanna"
     ],
+    "realName": "TRYON-CASTRO, Casey Jane",
     "_id": "cCxLJl60omSM"
   },
   {
@@ -23479,7 +23503,7 @@
     "arrestState": "FL",
     "associates": [],
     "caseIdentifier": "1:21-cr-175",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/defendants/biggs-joseph-randall",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -24997,6 +25021,7 @@
     ],
     "caseIdentifier": "1:23-mj-25",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1567221/download",
     "filesUrl": "https://drive.google.com/drive/folders/1bi1YQ7htA3awcLNdrcMy1TLl8Su9GF44",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -25015,6 +25040,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
+    "realName": "BALHORN, Ronald",
     "_id": "jSJ8yb-Uoiig"
   },
   {
@@ -26282,6 +26308,7 @@
     "appearanceSummary": "Red, white, and blue \"USA\" knit cap with a red pom-pom on top. Short brown beard and mustache. Black and gray jacket with write writing near the right cuff. Under that is a white shirt. Backpack with gray straps and a bright yellow cross-strap. Might also have a water pack with a blue straw. Black gloves with the Under Armour logo on the back. Photographed carrying a small black speaker with large white plus and minus signs on its side.",
     "associates": [],
     "fbiIdentifier": "506-AFO",
+    "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -34235,6 +34262,7 @@
     "associates": [],
     "caseIdentifier": "1:23-cr-35",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.250841/gov.uscourts.dcd.250841.1.1_1.pdf",
     "compositeURL": "https://drive.google.com/file/d/103ss9IQkFBozsUBi8Uw8Ea2L5Ucs7nZx/view?usp=sharing",
     "fbiIdentifier": "85-AFO",
     "idStatus": "ID sent to FBI",
@@ -34252,6 +34280,7 @@
     ],
     "primaryHashtag": "PeeweeGrayMan",
     "profileLeads": [],
+    "realName": "WEEKS, Troy",
     "_id": "eQj-NRUHkj9s"
   },
   {
@@ -34628,7 +34657,9 @@
       "Insider0729"
     ],
     "appearanceSummary": "Petite woman. White coat (Guess), orange skirt, black tights, colorblock heels. Pink beret. Shoulder length dark hair, bright pink eye makeup. Carries D&G messenger bag.",
+    "arrestDate": "2023-05-08T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
     "compositeURL": "https://imgur.com/zJRq9X7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34823,10 +34854,14 @@
   {
     "actionsSummary": "Designated violent based on AFO",
     "alternateHashtags": [
-      "BlurredBlue"
+      "BlurredBlue",
+      "Insider2303"
     ],
     "appearanceSummary": "Pictures are blurry. Black knit cap. Clean-shaven, middle-aged man? Dark, hooded jacket or windbreaker.",
+    "arrestDate": "2023-05-02T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.254154/gov.uscourts.dcd.254154.1.1.pdf",
     "fbiIdentifier": "490-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/14g18G90Bfl274K6b9tAngGfxk8A1sx6D?usp=sharing",
     "isLawEnforcement": false,
@@ -34839,6 +34874,7 @@
     ],
     "primaryHashtag": "PlagueMouth",
     "profileLeads": [],
+    "realName": "WISE, Jared",
     "_id": "fTFS3WOdckuM"
   },
   {
@@ -34895,7 +34931,7 @@
       "#GreenPlaidLady"
     ],
     "caseIdentifier": "1:21-cr-178",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1364696/download",
     "compositeURL": "https://drive.google.com/file/d/14_zpMB3veL--WW3l7wqyGpayfIdnvxLl/view?usp=sharing",
     "fbiIdentifier": "120-AFO",
@@ -37383,7 +37419,6 @@
     "_id": "5Q9dtshNomo8"
   },
   {
-    "actionsSummary": "Participated in tunnel fight, possibly receives papers from #BlackSherpaPaperPlan before heading in.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark baseball cap. Crew cut with dark hair on top. Stars and stripes gaiter. Red sweatshirt with white writing on the front. No tentacles observed.",
     "associates": [],
@@ -38287,7 +38322,7 @@
     "arrestState": "WA",
     "associates": [],
     "caseIdentifier": "1:21-cr-175",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1364196/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39345,7 +39380,7 @@
   },
   {
     "alternateHashtags": [],
-    "appearanceSummary": "Dark windbreaker style coat. Black tactical vest with a 3% patch and a flag patch on the front. Grey helmet with a flag on the front. Tan colored backpack. Black fingerless gloves.",
+    "appearanceSummary": "Dark windbreaker style coat. Black tactical vest with a 3% patch, flag patch, US Air Force and blood type patches on the front. Grey helmet with a flag on the front. Tan colored backpack. Black fingerless gloves.",
     "associates": [],
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39933,7 +39968,10 @@
       "Insider0136"
     ],
     "appearanceSummary": "Brown hair, mustache and strange little soul patch beard. Light brown jacket over dark brown hoodie. Blue jeans. Rectangular glasses.",
+    "arrestDate": "2023-04-07T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.253933/gov.uscourts.dcd.253933.1.1.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/1XQuW12RYXbEGaB74PlmDvbkpFVdFh7U1",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -39949,6 +39987,7 @@
     ],
     "primaryHashtag": "ShaggyStache",
     "profileLeads": [],
+    "realName": "KEEN, Quinn",
     "_id": "b03BB3H50mzs"
   },
   {
@@ -41349,7 +41388,11 @@
     "actionsSummary": "Sprays police officers",
     "alternateHashtags": [],
     "appearanceSummary": "Long blonde/light brown ponytail, mustache and beard Grey cap with ear flaps, black \"We the People\" buff and red and white striped buff, dark grey coat, light grey pants, black and grey/tan Bear Grylls backpack.",
+    "arrestDate": "2023-03-28T04:00:00.000Z",
+    "arrestState": "SC",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1576731/download",
     "fbiIdentifier": "363-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -41357,10 +41400,15 @@
       {
         "type": "behavior",
         "name": "Violence"
+      },
+      {
+        "type": "behavior",
+        "name": "Sprayer"
       }
     ],
     "primaryHashtag": "SprayingMantis",
     "profileLeads": [],
+    "realName": "CASSELMAN, Thomas Andrew",
     "_id": "hqjV6D9MonXk"
   },
   {
@@ -41663,7 +41711,11 @@
       "Insider1195"
     ],
     "appearanceSummary": "Black or dark brown knit cap. Silver goggles with a black strap. Black gaiter with white block letters on it. Black leather jacket. Black gloves. Might have a black hoodie under the jacket. Might be wearing blue jeans with a black belt.",
+    "arrestDate": "2023-04-12T04:00:00.000Z",
+    "arrestState": "NM",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.253970/gov.uscourts.dcd.253970.1.1.pdf",
     "fbiIdentifier": "425-AFO",
     "filesUrl": "https://drive.google.com/drive/folders/1O8QeQBTjCnYJP3QXhOZMlACdMXkyWMir",
     "idStatus": "ID sent to FBI",
@@ -41681,6 +41733,7 @@
     ],
     "primaryHashtag": "SteamPunkLunk",
     "profileLeads": [],
+    "realName": "EARLES, Rockne Gerard",
     "_id": "kYKmvvwrouik"
   },
   {
@@ -41938,7 +41991,9 @@
   },
   {
     "actionsSummary": "Slams barricade into police on NE Plaza.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2017"
+    ],
     "appearanceSummary": "White man with sandy beard wearing a black helmet with stickers, goggles with blue details, black coat and beige buff.",
     "associates": [],
     "filesUrl": "https://drive.google.com/drive/folders/1IOGe1lsXqJ9CGTxcyJBWySC5NDB3uOVK",
@@ -47739,6 +47794,7 @@
     "associates": [],
     "caseIdentifier": "23-mj-00009",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.250978/gov.uscourts.dcd.250978.1.1_1.pdf",
     "fbiIdentifier": "447-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -47750,6 +47806,7 @@
     ],
     "primaryHashtag": "WhiteHorn",
     "profileLeads": [],
+    "realName": "BARD, Kyler",
     "_id": "v1TgSt0BklW4"
   },
   {
