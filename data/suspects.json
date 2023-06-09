@@ -3813,7 +3813,12 @@
     "actionsSummary": "Seen on West Plaza. Observed spraying Black Flag Wasp and Hornet spray at Police.",
     "alternateHashtags": [],
     "appearanceSummary": "Dark gray Giro MIPS bicycle helmet, black face buff, black coat, black backpack, blue jeans, red/black gloves, no facial hair, down-tipped nose",
+    "arrestDate": "2023-06-07T04:00:00.000Z",
+    "arrestState": "NY",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00118-MAU",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.256180/gov.uscourts.dcd.256180.1.1.pdf",
     "fbiIdentifier": "199-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -3826,10 +3831,15 @@
       {
         "type": "behavior",
         "name": "Sprayer"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
       }
     ],
     "primaryHashtag": "BlackBonoHelmet",
     "profileLeads": [],
+    "realName": "MOLONEY, Peter",
     "_id": "YrAiAveHgq68"
   },
   {
@@ -17364,7 +17374,12 @@
     "actionsSummary": "In the tunnel fight.",
     "alternateHashtags": [],
     "appearanceSummary": "Brown hair. Brown coat with leather collar. Camo neck gaiter. Suspected to be a public figure, an actor, but not confirmed.",
+    "arrestDate": "2023-06-07T04:00:00.000Z",
+    "arrestState": "CA",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00115-MAU",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.256063/gov.uscourts.dcd.256063.1.1_2.pdf",
     "fbiIdentifier": "247-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -17379,6 +17394,7 @@
     "profileLeads": [
       "@chris_sigurdson"
     ],
+    "realName": "JOHNSON, Jay James",
     "_id": "se65fE914oSg"
   },
   {
@@ -34659,7 +34675,9 @@
     "appearanceSummary": "Petite woman. White coat (Guess), orange skirt, black tights, colorblock heels. Pink beret. Shoulder length dark hair, bright pink eye makeup. Carries D&G messenger bag.",
     "arrestDate": "2023-05-08T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00115-MAU",
     "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.documentcloud.org/documents/23808484-signed-updated-vargas-geller-sof-redacted",
     "compositeURL": "https://imgur.com/zJRq9X7",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -34671,6 +34689,7 @@
     ],
     "primaryHashtag": "PinkBeret",
     "profileLeads": [],
+    "realName": "GELLER, Jennifer Inzunza Vargas",
     "_id": "LvlNxcD9Yg-0"
   },
   {
