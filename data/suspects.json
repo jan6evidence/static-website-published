@@ -16455,7 +16455,11 @@
       "GasMaskTwinsSkull"
     ],
     "appearanceSummary": "Near identical camo + gas masks, seen together,  \"Armor of God\" patch from Bastion Gear of Suwanne, GA.",
+    "arrestDate": "2023-06-09T04:00:00.000Z",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00005-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.250894/gov.uscourts.dcd.250894.6.0.pdf",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -16469,9 +16473,42 @@
         "name": "HelmetOrArmor"
       }
     ],
-    "primaryHashtag": "GasMaskTwins",
+    "primaryHashtag": "GasMaskTwinBlack",
     "profileLeads": [],
-    "_id": "6VgBgWboMjIU"
+    "realName": "BRAY, Ethan",
+    "_id": "5TRjin1DgrAc"
+  },
+  {
+    "actionsSummary": "Travel together. Play a role in breach of NW Scaffolds, enter Capitol, seen outside of Pelosi's office.  Also seen carrying a riot shield. (Potential 3rd member of crew appears in some photos)",
+    "alternateHashtags": [
+      "Insider1203",
+      "GasMaskTwinsBlack",
+      "Insider1204",
+      "GasMaskTwinsSkull"
+    ],
+    "appearanceSummary": "Near identical camo + gas masks, seen together,  \"Armor of God\" patch from Bastion Gear of Suwanne, GA.",
+    "arrestDate": "2023-06-09T04:00:00.000Z",
+    "associates": [],
+    "caseIdentifier": "1:23-mj-00005-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.250893/gov.uscourts.dcd.250893.5.0.pdf",
+    "idStatus": "ID sent to FBI",
+    "isLawEnforcement": false,
+    "isMpdSuspect": false,
+    "otherTags": [
+      {
+        "type": "behavior",
+        "name": "EnteredCapitol"
+      },
+      {
+        "type": "equipment",
+        "name": "HelmetOrArmor"
+      }
+    ],
+    "primaryHashtag": "GasMaskTwinSkull",
+    "profileLeads": [],
+    "realName": "BRAY, Toney Sheldon",
+    "_id": "8UgE7Km78oyo"
   },
   {
     "actionsSummary": "Throws a chair at police at the end of the day near the west scaffolding stairs.",
