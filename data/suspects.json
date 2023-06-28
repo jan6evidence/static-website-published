@@ -20114,7 +20114,12 @@
       "FBI112AFO"
     ],
     "appearanceSummary": "White T-shirt with \"Mass murderers agree gun control works\" and \"infowars.com\". Black beanie w/ white writing. Long red hair and short red beard, lime green backpack.",
+    "arrestDate": "2023-06-26T04:00:00.000Z",
+    "arrestState": "NC",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00142-GMH",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.256836/gov.uscourts.dcd.256836.1.1.pdf",
     "compositeURL": "https://drive.google.com/file/d/1JUHfq9CQ_T7PAZn5RzTy4WxbkPk08XB6/view?usp=sharing",
     "fbiIdentifier": "112-AFO",
     "idStatus": "ID sent to FBI",
@@ -20128,6 +20133,7 @@
     ],
     "primaryHashtag": "HitlerStalinMaoTshirt",
     "profileLeads": [],
+    "realName": "BAER, Nathan",
     "_id": "u2Tp6P7NoszM"
   },
   {
