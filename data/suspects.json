@@ -2910,6 +2910,7 @@
     "arrestState": "PA",
     "associates": [],
     "caseIdentifier": "1:23-cr-0037",
+    "caseStatus": "Arrested",
     "chargingDocUrl": "https://www.google.com/url?q=https://www.justice.gov/usao-dc/case-multi-defendant/file/1567201/download&sa=D&source=editors&ust=1679981373277708&usg=AOvVaw17UyJI-T-UYyE5ibIuDlKK",
     "fbiIdentifier": "436-AFO",
     "isLawEnforcement": false,
@@ -6933,7 +6934,10 @@
     "actionsSummary": "Violent based on AFO designation",
     "alternateHashtags": [],
     "appearanceSummary": "Bearded white guy. Black windbreaker style coat. Tactical vest underneath. Red ball cap worn backwards. Crazy big goggles mostly worn on top of his head.",
+    "arrestDate": "2023-07-10T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.257080/gov.uscourts.dcd.257080.1.1.pdf",
     "fbiIdentifier": "235-AFO",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -6949,6 +6953,7 @@
     ],
     "primaryHashtag": "BugGoggles",
     "profileLeads": [],
+    "realName": "STOVER, William",
     "_id": "dIbRIo1Ywtig"
   },
   {
@@ -16145,7 +16150,7 @@
     "profileLeads": [
       "@PhoenixOnWheels"
     ],
-    "realName": "COLE, Benjamin",
+    "realName": "ROCKHOLT, Jonathan Alan",
     "_id": "ool5F7o68mF4"
   },
   {
@@ -16273,7 +16278,7 @@
     "arrestState": "TX",
     "associates": [],
     "caseIdentifier": "1:21-cr-119",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/page/file/1359541/download",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
@@ -20643,7 +20648,7 @@
       "#RusselTaylor"
     ],
     "caseIdentifier": "1:21-cr-392",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/opa/press-release/file/1403191/download",
     "isLawEnforcement": true,
     "isMpdSuspect": false,
@@ -21726,7 +21731,9 @@
     "actionsSummary": "Must have been violent since made the MPD Wanted list. Strikes or attempts to strike police witha. pole on the Upper West Plaza.",
     "alternateHashtags": [],
     "appearanceSummary": "Camo hat with S&S over black knit hat. White sweatshirt (something yellow at neck). Camo backpack. Tan gloves. Blue jeans. Steel toe boots.",
+    "arrestDate": "2023-07-07T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
     "isLawEnforcement": false,
     "isMpdSuspect": true,
     "otherTags": [
@@ -28300,7 +28307,7 @@
       "#RedPoloRising"
     ],
     "caseIdentifier": "1:21-cr-40",
-    "caseStatus": "Indicted",
+    "caseStatus": "Convicted",
     "chargingDocUrl": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download",
     "compositeURL": "https://drive.google.com/file/d/1qIAj90O7tlzLo0Vnn5WfKQHqLriKm6nL/view?usp=sharing",
     "fbiIdentifier": "58-AFO",
@@ -48093,7 +48100,9 @@
     "actionsSummary": "Smashes at the window at the Right of the Tunnel with a baton. Also observed using a chemical spray on officers as well as engaging in physical assault.",
     "alternateHashtags": [],
     "appearanceSummary": "Wide dark hood. Brown mustache and goatee. Brown hair shaved at the sides of the head. Khaki tactical vest. Black gloves with a white line along the back.",
+    "arrestDate": "2023-07-12T04:00:00.000Z",
     "associates": [],
+    "caseStatus": "Arrested",
     "filesUrl": "https://drive.google.com/drive/folders/1hAnOItKoYKDDCCIaIUx6c-Mhv3NEMeSO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
