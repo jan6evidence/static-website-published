@@ -2114,7 +2114,9 @@
   },
   {
     "actionsSummary": "Leaves Capitol at NE plaza carrying police bag, large duffel bag & Plano Medium Mobile Military Storage Trunk/Footlocker (or similar), large US flag. Seen entering Capitol door. Carries slingshot & apparent grenades (seen at Ellipse.) Has a knife/blade on a long handle at Washington Monument.",
-    "alternateHashtags": [],
+    "alternateHashtags": [
+      "Insider2287"
+    ],
     "appearanceSummary": "Flag worn as cape, black tactical vest, carries probable grenades and a slingshot, gas mask, goggles, armored gloves, elbow and knee pads. At Capitol also carries a Police bag, large US flag on wooden pole, large duffel bag and suitcase.",
     "associates": [],
     "isLawEnforcement": false,
@@ -3895,7 +3897,12 @@
     "actionsSummary": "In the crowd on the Lower West Terrace. Surfs the crowd, and attacks police repeated w/stick & fists.",
     "alternateHashtags": [],
     "appearanceSummary": "Short beard. Wearing a black Carhartt hoodie, red shirt underneath, blue jeans, belt, hat w/unknown design.",
+    "arrestDate": "2023-07-17T04:00:00.000Z",
+    "arrestState": "CT",
     "associates": [],
+    "caseIdentifier": "1:23-mj-00162-ZMF",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.google.com/url?q=https://storage.courtlistener.com/recap/gov.uscourts.dcd.257419/gov.uscourts.dcd.257419.1.1.pdf&sa=D&source=editors&ust=1689692475558224&usg=AOvVaw3r1Vdnx4_6tWaFASIYOkvQ",
     "fbiIdentifier": "265-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -3910,6 +3917,7 @@
     "profileLeads": [
       "@MalagaBridget"
     ],
+    "realName": "MARKEY, Richard",
     "_id": "tpEonm61Ms2U"
   },
   {
@@ -17469,10 +17477,16 @@
       "GrayGoose #GooseInGray"
     ],
     "appearanceSummary": "Tall man in white Adidas cap, grey gaiter, grey jacket. Carried stolen police shield.",
+    "arrestDate": "2023-07-14T04:00:00.000Z",
+    "arrestState": "SC",
     "associates": [],
+    "caseIdentifier": "3:23-mj-00026-RSB",
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://storage.courtlistener.com/recap/gov.uscourts.vawd.128981/gov.uscourts.vawd.128981.1.0.pdf",
     "filesUrl": "https://drive.google.com/drive/folders/10kQIWXFxkOmYxGLFBNBdLMpE0gbyZ_23?usp=sharing",
     "isLawEnforcement": false,
     "isMpdSuspect": false,
+    "militaryBranchAffiliation": "Marines",
     "otherTags": [
       {
         "type": "behavior",
@@ -17481,6 +17495,7 @@
     ],
     "primaryHashtag": "GooseInGrey",
     "profileLeads": [],
+    "realName": "DYKES, Tyler",
     "_id": "LAqyxwg7AkMM"
   },
   {
