@@ -5628,7 +5628,11 @@
       "Insider1994"
     ],
     "appearanceSummary": "Black pants. Grey hooded sweatshirt with blue lettering. Black wrist brace on his right hand. Flag gaiter. Black beanie and red MAGA ball cap. Scruffy facial hair. Orange and grey backpack with lots of gear clipped to it.",
+    "arrestDate": "2023-07-19T04:00:00.000Z",
+    "arrestState": "MO",
     "associates": [],
+    "caseStatus": "Arrested",
+    "chargingDocUrl": "https://www.justice.gov/usao-dc/press-release/file/1590871/download",
     "fbiIdentifier": "535-AFO",
     "idStatus": "ID sent to FBI",
     "isLawEnforcement": false,
@@ -5645,6 +5649,7 @@
     ],
     "primaryHashtag": "BoogalooBoyScout",
     "profileLeads": [],
+    "realName": "ROE, Christopher",
     "_id": "XTm7JWxuUuo8"
   },
   {
